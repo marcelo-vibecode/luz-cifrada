@@ -139,7 +139,7 @@ export default function HinariosPage() {
               {filteredHinarios.length === 0 && !isLoading && (
                 <div className="col-span-full text-center py-12">
                   <p className="text-dark-muted">
-                    Nenhum hinário encontrado com "{searchQuery}"
+                    Nenhum hinário encontrado com &quot;{searchQuery}&quot;
                   </p>
                 </div>
               )}

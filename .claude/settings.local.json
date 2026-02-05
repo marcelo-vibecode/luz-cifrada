@@ -28,7 +28,10 @@
       "Bash(cat << 'EOF'\n# Install Netlify CLI\nnpm install -g netlify-cli\n\n# Login to Netlify\nnetlify login\n\n# Deploy from your project folder\ncd \"c:\\\\Users\\\\inter\\\\OneDrive\\\\Área de Trabalho\\\\luzcifrada\"\nnetlify deploy --prod\nEOF)",
       "Bash(git config:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
     ]
   }
 }

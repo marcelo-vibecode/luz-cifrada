@@ -68,7 +68,7 @@ async function getHinosWithCifras(hinarioId: string): Promise<HinoWithCifra[]> {
   }
 
   // Fetch all cifras for these hinos
-  const hinoIds = hinos.map((h) => h.id);
+  const hinoIds = hinos.map((h: any) => h.id);
   const { data: cifras, error: cifrasError } = await supabase
     .from("cifras")
     .select("id, hino_id, tom_original, conteudo_cifrado")

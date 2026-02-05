@@ -17,7 +17,7 @@ export async function getHinarios(): Promise<Hinario[]> {
   }
 
   // Filter out any hinários with missing slugs or names
-  return (data || []).filter((h) => h.slug && h.nome);
+  return (data || []).filter((h: any) => h.slug && h.nome);
 }
 
 /**
@@ -36,7 +36,7 @@ export async function getAutores(): Promise<string[]> {
 
   // Get unique authors
   const uniqueAutores = Array.from(
-    new Set((data || []).map((h) => h.autor).filter(Boolean))
+    new Set((data || []).map((h: any) => h.autor).filter(Boolean))
   );
 
   return uniqueAutores;

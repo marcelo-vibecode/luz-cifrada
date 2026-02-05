@@ -176,7 +176,7 @@ export function getNextKey(currentKey: string, direction: 1 | -1): string {
 export function detectChords(text: string): string[] {
   const matches = text.match(CHORD_REGEX);
   if (!matches) return [];
-  return [...new Set(matches)];
+  return Array.from(new Set(matches));
 }
 
 /**

@@ -1,6 +1,8 @@
 # Projeto: Luz Cifrada
 Plataforma de cifras e tablaturas para a doutrina do Santo Daime.
 
+**Status:** ✅ Deployed on Vercel
+
 ## Visão Geral
 O objetivo é criar um portal estilo "Cifra Club" focado exclusivamente no hinário do Santo Daime. O conteúdo é considerado patrimônio espiritual e será oferecido de forma aberta e gratuita.
 

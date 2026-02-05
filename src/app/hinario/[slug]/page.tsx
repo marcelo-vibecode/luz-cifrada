@@ -90,7 +90,7 @@ async function getHinosWithCifras(hinarioId: string): Promise<HinoWithCifra[]> {
     cifrasMap.set(cifra.hino_id, existing);
   });
 
-  return hinos.map((hino) => ({
+  return hinos.map((hino: any) => ({
     ...hino,
     cifras: cifrasMap.get(hino.id) || [],
   }));

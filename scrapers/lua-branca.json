@@ -1,0 +1,285 @@
+{
+  "hinario": {
+    "nome": "Lua Branca",
+    "slug": "lua-branca",
+    "autor": "Rita Gregório de Melo",
+    "totalHinos": 25
+  },
+  "hinos": [
+    {
+      "id": "1592",
+      "numero": 1,
+      "titulo": "Estou Firme",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Estou firme, estou firme \nEstou firme com meu Jesus \nEstou firme, estou firme \nNão devo esmorecer \n\nEstás firme, segue em frente \nNão deve esmorecer \nQue Deus é poderoso \nNos mostra e vamos ver \n\nEu peço, eu peço \nEu peço a Virgem Mãe \nEu peço, eu peço \nPara Vós não me desprezar \n\nEu peço e rogo \nPara eu poder alcançar \nA pureza divina \nPara eu poder acreditar",
+      "conteudoCifrado": "<cifra class=\"cifra\">          C                 Am7</cifra><p>         Em               G       C</p><cifra class=\"cifra\">         Am7             Em</cifra><p>       Am        G     C</p><cifra class=\"cifra\"> </cifra><p>          C                        Am7</p><cifra class=\"cifra\">       Em        G     C</cifra><p>       Am7            Em</p><cifra class=\"cifra\">       Am          G         C</cifra><p> </p><cifra class=\"cifra\">      C          Am7</cifra><p>    Em         G           C</p><cifra class=\"cifra\">     Am7       Em</cifra><p>        Am                G       C</p><cifra class=\"cifra\"> </cifra><p>      C       Am7</p><cifra class=\"cifra\">             Em     G       C</cifra><p>   Am7       Em</p><cifra class=\"cifra\">                Am     G     C</cifra>"
+    },
+    {
+      "id": "1593",
+      "numero": 2,
+      "titulo": "Eu vou trabalhar",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu vou trabalhar \nCom fé de alcançar \nO poder divino \nQue o Mestre me dá \n\nO meu Mestre dá \nConforme merecer \nÉ preciso trabalhar \nPara poder obter \n\nMeu Mestre a Vós eu peço \nSe caso eu merecer \nMeu Mestre me ensine \nPara eu poder aprender \n\nMeu Mestre dá a todos \nMas não sabem aproveitar \nSe esquecem do poder \nAinda querem se livrar \n\nEu agradeço a meu Mestre \nPelo que eu Vos pedi \nIluminai meu pensamento \nE Vós me faça bem feliz",
+      "conteudoCifrado": "<cifra class=\"cifra\"> C         G      C</cifra><p>       Am7           Em</p><cifra class=\"cifra\">Am7         Em</cifra><p>     Dm       G         C</p><cifra class=\"cifra\"> </cifra><p>C           G        C</p><cifra class=\"cifra\">     Am7            Em</cifra><p>      Am7           Em</p><cifra class=\"cifra\">       Dm     G   C</cifra><p> </p><cifra class=\"cifra\">           C           G        C</cifra><p>    Am7              Em</p><cifra class=\"cifra\">        Am7             Em</cifra><p>            Dm     G        C</p><cifra class=\"cifra\"> </cifra><p>          C        G     C</p><cifra class=\"cifra\">             Am7                Em</cifra><p>        Am7               Em</p><cifra class=\"cifra\">          Dm        G     C</cifra><p> </p><cifra class=\"cifra\">        C         G            C</cifra><p>       Am7               Em</p><cifra class=\"cifra\">       Am7                  Em</cifra><p>              Dm     G       C</p>"
+    },
+    {
+      "id": "1594",
+      "numero": 3,
+      "titulo": "Meu Mestre me cure",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu Mestre me cure \nMeu Mestre me olhe \nMeu Mestre me ensine \nMe dê a Santa Glória \n\nEu peço a meu Mestre \nCom fé de alcançar \nMeu Mestre me leve \nAo reino celestial \n\nFilha te corrijas \nPara ser perdoada \nE venha que Eu te levo \nAo reino celestial \n\nMeu Mestre na frente \nEu vou acompanhar \nCom fé em meu Mestre \nEu tenho que alcançar",
+      "conteudoCifrado": "<cifra class=\"cifra\">           C    G       C</cifra><p>         Am           G</p><cifra class=\"cifra\">         Am               G</cifra><p>     Dm      G       C</p><cifra class=\"cifra\"> </cifra><p>      C    G            C</p><cifra class=\"cifra\">       Am              G</cifra><p>        Am             G</p><cifra class=\"cifra\">     Dm        G    C</cifra><p> </p><cifra class=\"cifra\">C      G        C</cifra><p>   Am              G</p><cifra class=\"cifra\">   Am                     G</cifra><p>     Dm         G   C</p><cifra class=\"cifra\"> </cifra><p>          C    G        C</p><cifra class=\"cifra\">     Am               G</cifra><p>       Am                G</p><cifra class=\"cifra\">     Dm           G       C</cifra>"
+    },
+    {
+      "id": "1595",
+      "numero": 4,
+      "titulo": "A meu Pai eu peço força",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "A meu Pai eu peço força \nPara eu ter essa calma \nPara eu seguir com Vós \nReceber a santa paz \n\nMeu Mestre me ajude \nNão me deixe esmorecer \nVós envie os meus irmãos \nPara todos eu receber \n\nPara todos eu receber \nCom amor no coração \nDando viva ao Pai Eterno \nE a Virgem da Conceição \n\nMeu Mestre me perdoe \nLivrai-me da ilusão \nMeu Mestre me dê luz \nTirai-me da escuridão \n\nTendo fé e tendo amor \nFirmeza no coração \nE ama os seus irmãos \nQue tu recebes o perdão",
+      "conteudoCifrado": "<cifra class=\"cifra\">            D        A       D</cifra><p>       Bm7            F#m</p><cifra class=\"cifra\">        Bm                      A</cifra><p>       Em      A       D</p><cifra class=\"cifra\"> </cifra><p>           D       A     D</p><cifra class=\"cifra\">            Bm7               F#m</cifra><p>        Bm                      A</p><cifra class=\"cifra\">        Em          A     D</cifra><p> </p><cifra class=\"cifra\">         D            A     D</cifra><p>         Bm7            F#m</p><cifra class=\"cifra\">        Bm                      A</cifra><p>      Em              A       D</p><cifra class=\"cifra\"> </cifra><p>           D        A        D</p><cifra class=\"cifra\">         Bm7        F#m</cifra><p>        Bm                      A</p><cifra class=\"cifra\">        Em          A     D</cifra><p> </p><cifra class=\"cifra\">          D        A       D</cifra><p>        Bm7          F#m</p><cifra class=\"cifra\">        Bm                      A</cifra><p>           Em        A        D</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1596",
+      "numero": 5,
+      "titulo": "Peço uma ajuda a meu Mestre",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Peço uma ajuda a meu Mestre \nPara eu me levantar \nEu me acho esmorecida \nSem eu poder me firmar \n\nMeu Mestre me ajude \nNão me deixe esmorecer \nFirmai meu pensamento \nPara eu poder vencer \n\nCom a ajuda do meu Mestre \nEu tenho fé de vencer \nPara Ele nas alturas \nMe dar o que merecer \n\nEu peço ao Pai Divino \nE a Virgem da Conceição \nMe dê firmeza e amor \nE limpai meu coração \n\nSegue teus passos em frente \nSem a nada tu temer \nTrabalhas com firmeza \nPara poder receber.",
+      "conteudoCifrado": "<cifra class=\"cifra\">              C         G            C</cifra><p>       Am7            Dm</p><cifra class=\"cifra\">           G</cifra><p>             Dm     G        C</p><cifra class=\"cifra\"> </cifra><p>           C        G     C</p><cifra class=\"cifra\">             Am7             Dm</cifra><p>      G</p><cifra class=\"cifra\">       Dm     G        C</cifra><p> </p><cifra class=\"cifra\">             C      G             C</cifra><p>        Am7              Dm</p><cifra class=\"cifra\">         G</cifra><p>          Dm        G     C</p><cifra class=\"cifra\"> </cifra><p>     C            G      C</p><cifra class=\"cifra\">          Am7                Dm</cifra><p>           G</p><cifra class=\"cifra\">       Dm          G     C</cifra><p> </p><cifra class=\"cifra\">     C             G                C</cifra><p>           Am7         Dm</p><cifra class=\"cifra\">     G</cifra><p>        Dm     G      C</p>"
+    },
+    {
+      "id": "1597",
+      "numero": 6,
+      "titulo": "Há tempo estou nesta casa",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Há tempo estou nesta casa \nDormindo sem acordar \nOuvindo a voz do meu Pai \nSem eu poder me firmar \n\nMeu Pai a Vós eu peço \nTenha de mim compaixão \nEu quero seguir com Vós \nCom meu Senhor São João \n\nTendo fé em minha Mãe \nQue Ela vai me ajudar \nEla me dá o conforto \nPara me purificar \n\nEu rogo a Deus no céu \nPara mim e os meus irmãos \nPara Ele nos dar firmeza \nNa noite de São João \n\nFirmai o meu pensamento \nLimpai o meu coração \nPara eu poder seguir \nCom o meu Juramidam",
+      "conteudoCifrado": "<cifra class=\"cifra\">       C           G              C</cifra><p>        G                    Em</p><cifra class=\"cifra\">     G                          C</cifra><p>   C            G              C</p><cifra class=\"cifra\"> </cifra><p>         C  G             C</p><cifra class=\"cifra\"> G                               Em</cifra><p>     G                          C</p><cifra class=\"cifra\">   C                 G             C</cifra><p> </p><cifra class=\"cifra\">     C        G               C</cifra><p>        G                  Em</p><cifra class=\"cifra\">     G                          C</cifra><p>C            G       C</p><cifra class=\"cifra\"> </cifra><p>      C    G                C</p><cifra class=\"cifra\">          G                        Em</cifra><p>     G                          C</p><cifra class=\"cifra\"> C           G           C</cifra><p> </p><cifra class=\"cifra\">      C        G              C</cifra><p>      G                    Em</p><cifra class=\"cifra\">     G                          C</cifra><p>  C               G          C</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1598",
+      "numero": 7,
+      "titulo": "Meu Mestre a Vós eu peço",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu Mestre a Vós eu peço \nEu também quero seguir \nMeu Mestre não me despreze \nPara eu ser mais feliz \n\nSegue os teus passos em frente \nSem a nada temer \nA quem Deus promete não falta \nConforme o seu merecer \n\nMeu Mestre eu Lhe pedi \nSei que Vós tem pra dar \nEu peço é para seguir \nQue eu não quero ficar \n\nCom a Vossa proteção \nE da Virgem da Conceição \nEu tenho fé de chegar \nAos pés de Juramidam \n\nVamos todos meus irmãos \nCuidar de se humilhar \nCom amor no coração \nPara Deus nos perdoar",
+      "conteudoCifrado": "<cifra class=\"cifra\">   C              G             C</cifra><p>        F                        G</p><cifra class=\"cifra\">           F                          C</cifra><p> G                           C</p><cifra class=\"cifra\"> </cifra><p> C             G                        C</p><cifra class=\"cifra\">  F                   G</cifra><p>      F                                     C</p><cifra class=\"cifra\">  G                              C</cifra><p> </p><cifra class=\"cifra\">   C               G            C</cifra><p>  F                              G</p><cifra class=\"cifra\">      F                     C</cifra><p>  G                           C</p><cifra class=\"cifra\"> </cifra><p>   C            G           C</p><cifra class=\"cifra\">         F                        G</cifra><p>      F                      C</p><cifra class=\"cifra\">  G                         C</cifra><p> </p><cifra class=\"cifra\">  C            G                 C</cifra><p>       F                     G</p><cifra class=\"cifra\">        F                    C</cifra><p> G                           C</p>"
+    },
+    {
+      "id": "1599",
+      "numero": 8,
+      "titulo": "Duas flores",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Eu recebi duas flores \nPara eu amar no meu coração \nQuem me entregou estas flores \nFoi meu Mestre Juramidam \n\nZele bem essas flores \nDe todo seu coração \nPara depois receber \nDa Virgem da Conceição \n\nEu recebi estas flores \nCom grande satisfação \nO que Deus faz é bem feito \nNão se desmancha com a mão \n\nEu peço aos meus irmãos \nQue prestem bem atenção \nEu vim aqui neste mundo \nCumprir a minha missão \n\nSe todos compreendessem \nE prestassem bem atenção \nNão se tornava difícil \nO caminho da salvação \n\nEu agradeço a meu Mestre \nPor tudo que eu recebi \nEu peço que Vós me dê luz \nPara eu poder seguir",
+      "conteudoCifrado": "<cifra class=\"cifra\"> C         E          Am</cifra><p>                 F          Em          Dm</p><cifra class=\"cifra\">    F                  Em            Am</cifra><p>                C        E        Am</p><cifra class=\"cifra\"> </cifra><p> C       E             Am</p><cifra class=\"cifra\">                 F          Em          Dm</cifra><p>F          Em         Am</p><cifra class=\"cifra\">      C          E            Am</cifra><p> </p><cifra class=\"cifra\">C         E           Am</cifra><p>                 F          Em          Dm</p><cifra class=\"cifra\">     F            Em            Am</cifra><p>        C               E              Am</p><cifra class=\"cifra\"> </cifra><p>C            E                Am</p><cifra class=\"cifra\">                 F          Em          Dm</cifra><p>      F       Em           Am</p><cifra class=\"cifra\">         C        E          Am</cifra><p> </p><cifra class=\"cifra\">      C         E           Am</cifra><p>                 F          Em          Dm</p><cifra class=\"cifra\">        F      Em      Am</cifra><p>         C       E          Am</p><cifra class=\"cifra\"> </cifra><p>C          E                  Am</p><cifra class=\"cifra\">                 F          Em          Dm</cifra><p>       F           Em            Am</p><cifra class=\"cifra\"> C           E         Am</cifra><p></p>"
+    },
+    {
+      "id": "1600",
+      "numero": 9,
+      "titulo": "Peço firmeza a meu Pai",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Peço firmeza a meu Pai \nSei que Vós tem pra me dar \nSuspendei meu pensamento \nE não me deixe derribar \n\nMinha Mãe, minha Mãezinha \nVós tenha dó de mim \nMe dê firmeza e amor \nE me guiai neste caminho \n\nTu segues nesta estrada \nDa Virgem da Conceição \nFirma o teu pensamento \nE vem na minha direção \n\nSeguindo nesta verdade \nDa Virgem da Conceição \nTem tudo que precisar \nÉ só prestar atenção \n\nEstou aqui para ensinar \nMas ninguém quer aprender \nQuando for no fim da contas \nTodos vão se arrepender",
+      "conteudoCifrado": "<cifra class=\"cifra\"> C     Am7      G         C</cifra><p>            Am7                   Em</p><cifra class=\"cifra\">          Am7                  Em</cifra><p>               Dm     G      C</p><cifra class=\"cifra\"> </cifra><p>           Am7       G         C</p><cifra class=\"cifra\">      Am7              Em</cifra><p>          Am7            Em</p><cifra class=\"cifra\">            Dm     G       C</cifra><p> </p><cifra class=\"cifra\">        Am7       G       C</cifra><p>          Am7                Em</p><cifra class=\"cifra\">        Am7              Em</cifra><p>               Dm      G     C</p><cifra class=\"cifra\"> </cifra><p>         Am7     G        C</p><cifra class=\"cifra\">          Am7                Em</cifra><p>         Am7              Em</p><cifra class=\"cifra\">        Dm      G      C</cifra><p> </p><cifra class=\"cifra\">          Am7         G    C</cifra><p>             Am7                  Em</p><cifra class=\"cifra\">            Am7                Em</cifra><p>          Dm         G       C</p>"
+    },
+    {
+      "id": "1601",
+      "numero": 10,
+      "titulo": "Oh! Minha Senhora Mãe",
+      "autor": "Mad. Rita",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Oh! Minha Senhora Mãe \nSegura bem minha mão \nEu também sou do rebanho \nDo meu Senhor São João \n\nOh! Virgem da Conceição \nDai-me a Vossa proteção \nPara sempre eu me firmar \nNo meu Senhor São João \n\nSe firmando em São João \nCom amor no coração \nEstás com Deus ao teu lado \nE a Virgem da Conceição \n\nTe firma neste três seres \nTrabalhas com atenção \nPara quando chegar o dia \nEstas com a espada na mão",
+      "conteudoCifrado": "<cifra class=\"cifra\">       C         G            C      (C7)      </cifra><p>      F                         G</p><cifra class=\"cifra\">       F                         C</cifra><p>      Em         G            C     (C7)</p><cifra class=\"cifra\"> </cifra><p>       C          G              C      (C7)      </p><cifra class=\"cifra\">             F                    G</cifra><p>          F                         C</p><cifra class=\"cifra\">      Em         G            C     (C7)</cifra><p> </p><cifra class=\"cifra\">      C             G            C      (C7)      </cifra><p>         F                   G</p><cifra class=\"cifra\">     F                               C</cifra><p>      Em        G             C     (C7)</p><cifra class=\"cifra\"> </cifra><p>      C        G             C      (C7)</p><cifra class=\"cifra\">      F                      G</cifra><p>            F                      C</p><cifra class=\"cifra\">          Em         G            C     (C7)</cifra>"
+    },
+    {
+      "id": "1602",
+      "numero": 11,
+      "titulo": "Eu peço força a meu Pai",
+      "autor": "Mad. Rita",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu peço força a meu Pai \nPara eu poder vencer \nE de todas tentações \nVós queira me defender \n\nMeus irmãos estou aqui \nVamos todos se humilhar \nPara receber a força \nQue Deus tem para nos dar \n\nNós todos se humilhando \nCom amor no coração \nDe Deus e da Virgem Mãe \nNós tem o santo perdão \n\nVamos todos se alegrar \nDo que vai acontecer \nO Mestre bem avisou \nQue a peia ia descer \n\nMeus irmãos tenham cuidado \nNão queiram esmorecer \nQuem tem confiança em Deus \nNão é preciso correr \n\nExamine a consciência \nPegue a sua direção \nQue Deus só dá o perdão \nA quem pede de coração",
+      "conteudoCifrado": "<cifra class=\"cifra\">      C       G                C</cifra><p>Am7                     Em</p><cifra class=\"cifra\">  Am7                  Em</cifra><p>        Dm     G            C</p><cifra class=\"cifra\"> </cifra><p>          C         G          C</p><cifra class=\"cifra\">   Am7                       Em</cifra><p>Am7                  Em</p><cifra class=\"cifra\">        Dm           G            C</cifra><p> </p><cifra class=\"cifra\">        C      G             C</cifra><p>       Am7               Em</p><cifra class=\"cifra\">      Am7                     Em</cifra><p>       Dm      G            C</p><cifra class=\"cifra\"> </cifra><p>     C        G              C</p><cifra class=\"cifra\">     Am7               Em</cifra><p>     Am7               Em</p><cifra class=\"cifra\">          Dm  G       C</cifra><p> </p><cifra class=\"cifra\">          C          G               C</cifra><p>        Am7                Em</p><cifra class=\"cifra\">          Am7                       Em</cifra><p>     Dm     G         C</p><cifra class=\"cifra\"> </cifra><p>   C        G               C</p><cifra class=\"cifra\">        Am7           Em</cifra><p>        Am7                 Em</p><cifra class=\"cifra\">             Dm    G         C</cifra>"
+    },
+    {
+      "id": "1603",
+      "numero": 12,
+      "titulo": "A disciplina é geral",
+      "autor": "Mad. Rita",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Eu peço força a meu Pai \nPara eu não esmorecer \nMe dê firmeza e amor \nPara esta batalha vencer \n\nMeu Mestre me declare \nQue é para eu entender \nPara eu seguir nesse caminho \nSem a nada eu temer \n\nTodos devem se firmar \nNa sempre Virgem Maria \nEla é quem nos dá luz \nE nos ensina todo dia \n\nEla ensina todo dia \nAqueles que procurar \nOs que forem desobedientes \nEla vai disciplinar \n\nA disciplina é geral \nQue é para todos acordar \nQue dentro desse poder \nÉ preciso respeitar \n\nO Mestre nos mostra o caminho \nDá luz para nós enxergar \nQuem não liga importância \nNão tem a quem se queixar",
+      "conteudoCifrado": "<cifra class=\"cifra\">     C          Em             Am</cifra><p>             Am              E</p><cifra class=\"cifra\">          Am              E</cifra><p>                C              Am</p><cifra class=\"cifra\"> </cifra><p>           C                Am</p><cifra class=\"cifra\">          Am                 E</cifra><p>                Am                  E</p><cifra class=\"cifra\">            C             Am</cifra><p> </p><cifra class=\"cifra\">           C                Am</cifra><p>            Am                  E</p><cifra class=\"cifra\">    Am                     E</cifra><p>              C            Am</p><cifra class=\"cifra\"> </cifra><p>         C             Am</p><cifra class=\"cifra\">        Am                 E</cifra><p>            Am                   E</p><cifra class=\"cifra\">      C             Am</cifra><p> </p><cifra class=\"cifra\">            C          Am</cifra><p>                  Am            E</p><cifra class=\"cifra\">        Am                   E</cifra><p>         C             Am</p><cifra class=\"cifra\"> </cifra><p>                 C                     Am</p><cifra class=\"cifra\">           Am                  E</cifra><p>                Am              E</p><cifra class=\"cifra\">            C                   Am</cifra><p></p>"
+    },
+    {
+      "id": "1604",
+      "numero": 13,
+      "titulo": "É pedindo e rogando",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "É pedindo e rogando \nQue podemos alcançar \nEu pedi a Virgem Mãe \nPara ela vir nos curar \n\nMeu Mestre a Vós eu peço \nTenha de nós compaixão \nNos dê paz, nos dê amor \nAqui dentro da sessão \n\nNos dê a nossa saúde \nFirmeza para nós cantar \nMeu Mestre nos segure \nNão nos deixe tombar \n\nDaqui estou olhando \nPrestando bem atenção \nEu ensino é ter amor \nMas só querem a ilusão",
+      "conteudoCifrado": "<cifra class=\"cifra\">        C      G      C</cifra><p>            F                 C</p><cifra class=\"cifra\">         F                   C</cifra><p>       Dm        G       C</p><cifra class=\"cifra\"> </cifra><p>           C           G         C</p><cifra class=\"cifra\">           F                     C</cifra><p>              F                 C</p><cifra class=\"cifra\">         Dm      G       C</cifra><p> </p><cifra class=\"cifra\">        C          G     C</cifra><p>     F                           C</p><cifra class=\"cifra\">           F                  C</cifra><p>       Dm       G       C</p><cifra class=\"cifra\"> </cifra><p>     C       G        C</p><cifra class=\"cifra\">         F                     C</cifra><p>         F                 C</p><cifra class=\"cifra\">            Dm          G   C</cifra>"
+    },
+    {
+      "id": "1605",
+      "numero": 14,
+      "titulo": "Estou aqui",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Estou aqui, estou aqui \nEu vim me apresentar \nReceber a minha espada \nPara eu poder triunfar \n\nVou seguindo, vou seguindo \nDentro desta luz de amor \nEstou alegre e satisfeita \nNo jardim com o beija-flor \n\nO beija-flor voou \nComo quem queria pousar \nAvisando que as flores \nÉ preciso aguar \n\nOh! Minha Virgem Mãe \nVós sois minha protetora \nMandai chuva divina \nPara o jardim do beija-flor \n\nEu digo aos meus irmãos \nVamos prestar mais atenção \nExamine direitinho \nE dê valor à nossa Mãe \n\nEu estava dormindo \nSem poder me acordar \nAgradeço a minha Mãe \nEla veio me despertar",
+      "conteudoCifrado": "<cifra class=\"cifra\">             C       G      C</cifra><p>           Am7            G</p><cifra class=\"cifra\">         C        G          C</cifra><p>             Dm      G    C</p><cifra class=\"cifra\"> </cifra><p>             C         G         C</p><cifra class=\"cifra\">            Am7               G</cifra><p>            C         G         C</p><cifra class=\"cifra\">          Dm             G      C</cifra><p> </p><cifra class=\"cifra\">     C      G      C</cifra><p>           Am7                   G</p><cifra class=\"cifra\">       C       G         C</cifra><p>   Dm      G    C</p><cifra class=\"cifra\"> </cifra><p>        C       G           C</p><cifra class=\"cifra\">             Am7             G</cifra><p>        C        G     C</p><cifra class=\"cifra\">               Dm        G      C</cifra><p> </p><cifra class=\"cifra\">      C             G          C</cifra><p>                Am7                 G</p><cifra class=\"cifra\">       C     G     C</cifra><p>           Dm    G        C</p><cifra class=\"cifra\"> </cifra><p>     C     G         C</p><cifra class=\"cifra\">           Am7            G</cifra><p>         C        G         C</p><cifra class=\"cifra\">      Dm         G       C</cifra>"
+    },
+    {
+      "id": "1613",
+      "numero": 15,
+      "titulo": "A Lua tem uma força",
+      "autor": "Mad. Rita",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "A Lua tem uma força \nE nela eu vou me firmar \nPerante a minha Mãe \nEu vou me apresentar \n\nEu vou me apresentar \nCom prazer e alegria \nDando viva ao Pai Eterno \nE a sempre Virgem Maria \n\nMeus irmãos estou dizendo \nE prestem bem atenção \nQue o poder da Virgem Mãe \nNós temos em nossas mãos \n\nEu peço aos meus irmãos \nE continuo pedindo \nQue respeite o nosso Mestre \nQue é o beija-flor divino \n\nEu peço a Deus nas alturas \nPara Vós me iluminar \nGuiai-me neste caminho \nPara nesta casa eu chegar",
+      "conteudoCifrado": "<cifra class=\"cifra\">     D</cifra><p>   Bm                        A</p><cifra class=\"cifra\">     D                      A</cifra><p>     Em        A         D</p><cifra class=\"cifra\"> </cifra><p>      D</p><cifra class=\"cifra\">        Bm               A</cifra><p>       D                      A</p><cifra class=\"cifra\">      Em         A             D</cifra><p> </p><cifra class=\"cifra\">          D</cifra><p>   Bm                        A</p><cifra class=\"cifra\">           D                          A</cifra><p>      Em        A                 D</p><cifra class=\"cifra\"> </cifra><p>      D</p><cifra class=\"cifra\">   Bm               A</cifra><p>         D                          A</p><cifra class=\"cifra\">      Em        A           D</cifra><p> </p><cifra class=\"cifra\">      D</cifra><p>   Bm                     A</p><cifra class=\"cifra\">     D                       A</cifra><p>    Em          A               D</p>"
+    },
+    {
+      "id": "1606",
+      "numero": 16,
+      "titulo": "Três seres",
+      "autor": "Mad. Rita",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Três seres me acompanham \nPai, Filho, Espírito Santo \nOh! Virgem Senhora Mãe \nCobri-me com Vosso manto \n\nMeu Pai aqui estou pedindo \nPorque não estou entendendo \nEu peço que Vós me ensine \nQue é para eu ficar sabendo \n\nTe firma neste poder \nDe todo seu coração \nQue é para tu receber \nDa Virgem da Conceição \n\nMeu Senhor São João Batista \nO chefe desta missão \nA Vós eu peço paz \nE unir o nossos corações \n\nA Virgem Santa Maria \nEla chora todo dia \nEm ver tantos inocentes \nDentro desta rebeldia \n\nMinha Mãe eu me entrego \nVós tome conta de mim \nA tempo eu Lhe procuro \nPara seguir no Seu caminho",
+      "conteudoCifrado": "<cifra class=\"cifra\">         C</cifra><p>       Am7                Em</p><cifra class=\"cifra\">       Am7                     F</cifra><p>     G                             C</p><cifra class=\"cifra\"> </cifra><p>         C</p><cifra class=\"cifra\">     Am7                          Em</cifra><p>     Am7                         F</p><cifra class=\"cifra\">           G                       C</cifra><p> </p><cifra class=\"cifra\">      C</cifra><p>     Am7               Em</p><cifra class=\"cifra\">         Am7               F</cifra><p>       G                         C</p><cifra class=\"cifra\"> </cifra><p>         C</p><cifra class=\"cifra\">    Am7                Em</cifra><p>   Am7               F</p><cifra class=\"cifra\">     G                       C</cifra><p> </p><cifra class=\"cifra\">      C</cifra><p>  Am7               Em</p><cifra class=\"cifra\">     Am7                 F</cifra><p>       G                     C</p><cifra class=\"cifra\"> </cifra><p>             C</p><cifra class=\"cifra\">      Am7                  Em</cifra><p>   Am7                     F</p><cifra class=\"cifra\">             G                     C</cifra>"
+    },
+    {
+      "id": "1607",
+      "numero": 17,
+      "titulo": "Lua Branca",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Salve, salve Lua Branca \nDentro desta primozia \nA Vós eu peço saúde \nPara mim e minha família \n\nTodo dia eu peço e rogo \nPorque de tudo eu preciso \nPeço a Deus uma firmeza \nNa sempre Virgem Maria \n\nDai-me força e dai-me amor \nMeu Divino Redentor \nAbrandai os corações \nDeste povo pecador \n\nJesus Cristo veio ao mundo \nCumprir sua missão \nAgora chegou o tempo \nDo meu Senhor São João \n\nAgora estou recordando \nO sofrimento de Jesus \nE da Virgem Soberana \nEm ver seu filho na cruz \n\nOh! Virgem Mãe Divina \nEu quero um conforto Seu \nPara eu sofrer com paciência \nAssim como vós sofreu \n\nQuero tudo agradecer \nCom amor no coração \nPara Vós me apresentar \nO Senhor Rei Salomão",
+      "conteudoCifrado": "<cifra class=\"cifra\">            C               G</cifra><p>                               C</p><cifra class=\"cifra\">         Dm           Am</cifra><p>          G                     C</p><cifra class=\"cifra\"> </cifra><p>          C                   G</p><cifra class=\"cifra\">                                   C</cifra><p>            Dm              Am</p><cifra class=\"cifra\">             G                   C</cifra><p> </p><cifra class=\"cifra\">              C                       G</cifra><p>                             C</p><cifra class=\"cifra\">         Dm            Am</cifra><p>           G             C</p><cifra class=\"cifra\"> </cifra><p>            C                     G</p><cifra class=\"cifra\">                          C</cifra><p>       Dm              Am</p><cifra class=\"cifra\">               G                 C</cifra><p> </p><cifra class=\"cifra\">           C                 G</cifra><p>                              C</p><cifra class=\"cifra\">        Dm             Am</cifra><p>             G                 C</p><cifra class=\"cifra\"> </cifra><p>        C                   G</p><cifra class=\"cifra\">                                     C</cifra><p>                Dm                Am</p><cifra class=\"cifra\">            G                 C</cifra><p> </p><cifra class=\"cifra\">           C                 G</cifra><p>                             C</p><cifra class=\"cifra\">        Dm                   Am</cifra><p>          G                 C</p>"
+    },
+    {
+      "id": "1614",
+      "numero": 18,
+      "titulo": "Vamos todos com amor",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meus irmãos \nVamos todos com amor \nPara nós apresentar \nO que o nosso Mestre entregou \n\nMeus irmãos \nVamos seguir com alegria \nPara nós apresentar \nA sempre Virgem Maria \n\nEstou aqui \nE aqui eu vou citar \nQuem não quiser obedecer \nÉ melhor se retirar \n\nEstou dizendo \nO que minha mãe me ensina \nQuem não prestar atenção \nVai ficar na disciplina",
+      "conteudoCifrado": "<cifra class=\"cifra\">              C</cifra><p>           Am              Em</p><cifra class=\"cifra\">        Am             Em</cifra><p>                         G                C</p><cifra class=\"cifra\"> </cifra><p>              C</p><cifra class=\"cifra\">               Am              Em</cifra><p>        Am             Em</p><cifra class=\"cifra\">           G                   C</cifra><p> </p><cifra class=\"cifra\">            C</cifra><p>    Am              Em</p><cifra class=\"cifra\">                     Am           Em</cifra><p>         G              C</p><cifra class=\"cifra\"> </cifra><p>              C</p><cifra class=\"cifra\">           Am                     Em</cifra><p>                  Am             Em</p><cifra class=\"cifra\">        G                 C</cifra>"
+    },
+    {
+      "id": "1608",
+      "numero": 19,
+      "titulo": "Eu peço força a meu Pai",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu peço força a meu Pai \nPara Ele me ajudar \nQue o povo estão rebeldes \nE não querem se humilhar \n\nPisa firme e segue em frente \nSe compõe em seu lugar \nAonde tu estás estou \nAonde estou tu estás \n\nSe humilhem meus irmãos \nE prestem bem atenção \nVejas quem está mandando \nÉ meu Senhor São João \n\nOh! Meu Senhor São João \nSegurai a minha mão \nEu me curvo em vossos pés \nA Vós eu peço o meu perdão \n\nA Vós eu peço o meu perdão \nPor palavra e pensamento \nPeço a Vós que me perdoe \nMeu Santíssimo Sacramento \n\nMeus irmãos estou aqui \nE prestem bem atenção \nQue o poder da Virgem Mãe \nJá está em nossas mãos \n\nSe acordem meus irmãos \nCuidem de se alertar \nQue o poder da Virgem Mãe \nÉ nós que vamos afirmar",
+      "conteudoCifrado": "<cifra class=\"cifra\">         D          A           D</cifra><p>        Bm            A</p><cifra class=\"cifra\">          Bm                 A</cifra><p>          Em             A      D</p><cifra class=\"cifra\"> </cifra><p>         D          A               D</p><cifra class=\"cifra\">           Bm                  A</cifra><p>          Bm              A</p><cifra class=\"cifra\">           Em     A      D</cifra><p> </p><cifra class=\"cifra\">          D            A          D</cifra><p>          Bm                  A</p><cifra class=\"cifra\">           Bm                   A</cifra><p>           Em         A     D</p><cifra class=\"cifra\"> </cifra><p>                D         A      D</p><cifra class=\"cifra\">        Bm               A</cifra><p>           Bm                      A</p><cifra class=\"cifra\">               Em         A         D</cifra><p> </p><cifra class=\"cifra\">                D          A          D</cifra><p>         Bm                     A</p><cifra class=\"cifra\">           Bm                     A</cifra><p>             Em          A        D</p><cifra class=\"cifra\"> </cifra><p>              D          A     D</p><cifra class=\"cifra\">          Bm                 A</cifra><p>             Bm                     A</p><cifra class=\"cifra\">       Em        A          D</cifra><p> </p><cifra class=\"cifra\">         D          A           D</cifra><p>            Bm            A</p><cifra class=\"cifra\">            Bm                      A</cifra><p>                 Em     A     D</p>"
+    },
+    {
+      "id": "1609",
+      "numero": 20,
+      "titulo": "Lá vem o Sol",
+      "autor": "Mad. Rita",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Lá vem o sol nos curar \nVamos todos se firmar \nNo sol, na lua e nas estrelas \nE na Rainha do Mar \n\nCheguei, já estou aqui \nNinguém queira duvidar \nO que meu Pai me ordena \nEu tenho que afirmar \n\nMeu Pai Vós nos abençoe \nNos dando o Vosso conforto \nQue eu estando com Vós \nJamais me considero morto",
+      "conteudoCifrado": "<cifra class=\"cifra\">       C       G            C</cifra><p>      F                      G</p><cifra class=\"cifra\">       F                           C</cifra><p>   G                    C</p><cifra class=\"cifra\"> </cifra><p>       C          G         C</p><cifra class=\"cifra\">      F                      G</cifra><p>      F                          C</p><cifra class=\"cifra\">      G                   C</cifra><p> </p><cifra class=\"cifra\">         C          G           C</cifra><p>      F                      G</p><cifra class=\"cifra\">        F                         C</cifra><p>      G                            C</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1615",
+      "numero": 21,
+      "titulo": "Frei Damião",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Meus irmãos só vou lembrar \nMas que tudo já foi dito \nPara ninguém se esquecer \nDas palavras que foi dita \n\nSe arrependam, se arrependam \nSe arrependam pecadores \nQue ainda não é o fim \nÉ o começo das dores \n\nMeus irmãos estou aqui \nEu estou prestando atenção \nVendo tudo acontecer \nO que disse o Frei Damião \n\nAs palavras que foi dita \nEu agora vou dizer \nMeus irmãos prestem atenção \nPara nunca se esquecer \n\nJesus Cristo e São João \nEles foram assassinados \nMeus irmãos chegou o tempo \nDas lembranças do passado \n\nMeus irmãos não esmoreçam \nNão encarem sofrimento \nMais sofreu Jesus na cruz \nO meu Santíssimo Sacramento \n\nA meu Pai peço firmeza \nE amor no meu coração \nPara eu vencer esta batalha \nJunto com meu São João",
+      "conteudoCifrado": "<cifra class=\"cifra\">              D</cifra><p>              Bm              A</p><cifra class=\"cifra\">          D         Bm          A</cifra><p>         Em         A         D</p><cifra class=\"cifra\"> </cifra><p>             D</p><cifra class=\"cifra\">           Bm                 A</cifra><p>         D          Bm    A</p><cifra class=\"cifra\">      Em     A         D</cifra><p> </p><cifra class=\"cifra\">              D</cifra><p>                Bm                  A</p><cifra class=\"cifra\">            D      Bm     A</cifra><p>                Em         A     D</p><cifra class=\"cifra\"> </cifra><p>         D</p><cifra class=\"cifra\">       Bm            A</cifra><p>               D              Bm       A</p><cifra class=\"cifra\">         Em     A            D</cifra><p> </p><cifra class=\"cifra\">             D</cifra><p>       Bm                 A</p><cifra class=\"cifra\">               D         Bm       A</cifra><p>             Em      A       D</p><cifra class=\"cifra\"> </cifra><p>              D</p><cifra class=\"cifra\">          Bm                 A</cifra><p>              D      Bm        A</p><cifra class=\"cifra\">                Em          A        D</cifra><p> </p><cifra class=\"cifra\">            D</cifra><p>           Bm                A</p><cifra class=\"cifra\">                   D      Bm    A</cifra><p>          Em            A     D</p>"
+    },
+    {
+      "id": "1610",
+      "numero": 22,
+      "titulo": "Eu e meu Pai é um só",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Meus irmãos estou aqui \nE não posso declarar \nQue o povo estão rebeldes \nE não querem acreditar \n\nEu pedi firmeza à lua \nEu pedi coragem ao sol \nPara eu dizer com firmeza \nEu e meu pai é um só \n\nEu pedi a força ao vento \nForça para dominar \nEu pedi licença à Terra \nPara nela habitar \n\nPara nela habitar \nÉ com paz e harmonia \nMeus irmãos prestem atenção \nOs ensinos da Virgem Maria \n\nEu não sou daqui \nEu sou da Soberania \nPara nela habitar \nÉ com paz e harmonia \n\nMeus irmãos prestem atenção \nNo que o Mestre está dizendo \nPor causa da desobediência \nÉ que todos estão sofrendo \n\nMeus irmãos estou dizendo \nAcredita quem quiser \nOs que forem desobedientes \nEstão entregue a Marachimbé",
+      "conteudoCifrado": "<cifra class=\"cifra\">              A         E      A</cifra><p>          F#m             E</p><cifra class=\"cifra\">          F#m                  A</cifra><p>          Bm          E     A</p><cifra class=\"cifra\"> </cifra><p>        A       E         A</p><cifra class=\"cifra\">        F#m                   E</cifra><p>             F#m                A</p><cifra class=\"cifra\">        Bm        E       A</cifra><p> </p><cifra class=\"cifra\">         A      E           A</cifra><p>          F#m           E</p><cifra class=\"cifra\">        F#m                A</cifra><p>        Bm   E    A</p><cifra class=\"cifra\"> </cifra><p>         A     E    A</p><cifra class=\"cifra\">          F#m               E</cifra><p>             F#m                         A</p><cifra class=\"cifra\">                 Bm       E        A</cifra><p> </p><cifra class=\"cifra\"> A         E       A</cifra><p>           F#m           E</p><cifra class=\"cifra\">        F#m         A</cifra><p>          Bm      E       A</p><cifra class=\"cifra\"> </cifra><p>              A                  E      A</p><cifra class=\"cifra\">                F#m                  E</cifra><p>               F#m               A</p><cifra class=\"cifra\">          Bm        E         A</cifra><p> </p><cifra class=\"cifra\">              A         E       A</cifra><p>       F#m                  E</p><cifra class=\"cifra\">           F#m                    A</cifra><p>             Bm                E        A</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1611",
+      "numero": 23,
+      "titulo": "Divina Estrela",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Divina Estrela já chegou \nLá no céu Deus coroou \nDivina Estrela traz a paz \nE ensina a ter amor \n\nDivina Estrela está na terra \nNo mundo da ilusão \nDivina Estrela veio colher \nO povo de Juramidam \n\nDivina Estrela está na Terra \nNa floresta e no mar \nDivina Estrela está em todos \nEla veio subjulgar \n\nEu pedi a Divina Estrela \nPara Ela me ensinar \nGuardai-me e defendei-me \nLivrai-me de todo mal \n\nDivina Estrela está na Terra \nCom prazer e alegria \nEla veio nos trazer paz \nPara todos se unir \n\nTodos prestem atenção \nVeja a mudança do tempo \nQue todos estão cientes \nDevemos ficar atentos",
+      "conteudoCifrado": "<cifra class=\"cifra\">               C     G         C</cifra><p>           F                Em</p><cifra class=\"cifra\">                F                C</cifra><p>      Dm      G      C</p><cifra class=\"cifra\"> </cifra><p>                C        G       C</p><cifra class=\"cifra\">         F               Em</cifra><p>                F                C</p><cifra class=\"cifra\">           Dm    G      C</cifra><p> </p><cifra class=\"cifra\">               C         G        C</cifra><p>           F             Em</p><cifra class=\"cifra\">                F                    C</cifra><p>      Dm     G    C</p><cifra class=\"cifra\"> </cifra><p>         C       G          C</p><cifra class=\"cifra\">        F                Em</cifra><p>          F                     C</p><cifra class=\"cifra\">          Dm      G      C</cifra><p> </p><cifra class=\"cifra\">               C         G        C</cifra><p>              F           Em</p><cifra class=\"cifra\">       F                      C</cifra><p>        Dm     G    C</p><cifra class=\"cifra\"> </cifra><p>     C                G       C</p><cifra class=\"cifra\">             F                Em</cifra><p>         F                   C</p><cifra class=\"cifra\">        Dm      G      C</cifra>"
+    },
+    {
+      "id": "1616",
+      "numero": 24,
+      "titulo": "Minha história",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vou contar minha história \nDesde quando começou \nSanto Daime é minha vida \nMeu caminho, meu professor \nEu agora vou dizer \nO que Ele me ensinou \n\nQuem seguir neste caminho \nAnde bem devagarinho \nPrestando bem atenção \nPara não errar o caminho \n\nDevagar também se chega \nLá no ponto destinado \nQue somos filhos de Deus \nNenhum é desamparado \n\nEste caminho é divino \nÉ por onde chega lá \nÉ preciso ter amor \nÉ preciso se humilhar \n\nÉ com calma e paciência \nQue se adquire o amor \nExpulsando a ignorância \nQue é uma devoradora \n\nMeus irmãos prestem atenção \nVamos ser atencioso \nVamos firmar nossa história \nPara não sermos mentiroso \n\nTenho medo de dizer \nPorque sou pequenininha \nEu vim dar o meu recado \nVou seguindo meu caminho \n\nEu confio em meu Pai \nEle tem todo poder \nPeço força à minha Mãe \nNão me deixe esmorecer",
+      "conteudoCifrado": "<cifra class=\"cifra\">C           G                   C</cifra><p>              G                C</p><cifra class=\"cifra\">          Am                  Dm</cifra><p>             G                         C</p><cifra class=\"cifra\">      Am            Dm</cifra><p>          G                 C</p><cifra class=\"cifra\"> </cifra><p>               G                  C</p><cifra class=\"cifra\">           G              C</cifra><p>            Am              Dm</p><cifra class=\"cifra\">              G              C</cifra><p> </p><cifra class=\"cifra\">        G                       C</cifra><p>            G              C</p><cifra class=\"cifra\">           Am                Dm</cifra><p>              G               C</p><cifra class=\"cifra\"> </cifra><p>        G                 C</p><cifra class=\"cifra\">          G                C</cifra><p>       Am           Dm</p><cifra class=\"cifra\">        G                  C</cifra><p> </p><cifra class=\"cifra\">           G                 C</cifra><p>             G               C</p><cifra class=\"cifra\">         Am              Dm</cifra><p>              G             C</p><cifra class=\"cifra\"> </cifra><p>              G                          C</p><cifra class=\"cifra\">            G            C</cifra><p>               Am               Dm</p><cifra class=\"cifra\">                G                  C</cifra><p> </p><cifra class=\"cifra\">           G               C</cifra><p>             G                C</p><cifra class=\"cifra\">           Am              Dm</cifra><p>             G                    C</p><cifra class=\"cifra\"> </cifra><p>           G                 C</p><cifra class=\"cifra\">        G                C</cifra><p>         Am                 Dm</p><cifra class=\"cifra\">               G                 C</cifra>"
+    },
+    {
+      "id": "1612",
+      "numero": 25,
+      "titulo": "Eu vivo na Floresta",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Cm",
+      "letraPura": "Eu vivo na floresta \nAprendendo a me curar \nEu convido os meus irmãos \nVamos todos se cuidar \n\nEstou dentro da batalha \nSofrendo mas sou feliz \nNela estou aprendendo \nO que eu ainda não sabia \n\nEu não vou enganar \nEu vim e vou dizer \nQuem quiser passar nas provas \nÉ começar do ABC \n\nExaminar a consciência \nÉ a primeira lição \nTer firmeza e ter amor \nE amar os seus irmãos \n\nIsto eu digo é porque sei \nPois estou examinando \nÉ o tempo do apuro \nDo meu Senhor São João \n\nJá foi dito e lembrado \nTodos prestem atenção \nO começo da história \nVem do rio de Jordão",
+      "conteudoCifrado": "<cifra class=\"cifra\">      C</cifra><p>           G                   C</p><cifra class=\"cifra\">        Am7                     Dm</cifra><p>            G                 C</p><cifra class=\"cifra\"> </cifra><p>            C</p><cifra class=\"cifra\">           G                  C</cifra><p>       Am7             Dm</p><cifra class=\"cifra\">                 G               C</cifra><p> </p><cifra class=\"cifra\">      C</cifra><p>      G               C</p><cifra class=\"cifra\">              Am7                  Dm</cifra><p>            G            C</p><cifra class=\"cifra\"> </cifra><p>          C</p><cifra class=\"cifra\">       G              C</cifra><p>        Am7             Dm</p><cifra class=\"cifra\">       G                    C</cifra><p> </p><cifra class=\"cifra\">            C</cifra><p>            G              C</p><cifra class=\"cifra\">      Am7          Dm</cifra><p>               G                 C</p><cifra class=\"cifra\"> </cifra><p>           C</p><cifra class=\"cifra\">            G                  C</cifra><p>       Am7           Dm</p><cifra class=\"cifra\">             G             C</cifra>"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 255 255 255;
+    --foreground: 10 10 15;
+  }
+
+  .dark {
+    --background: 10 10 15;
+    --foreground: 228 228 231;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-dark-bg text-dark-text antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer components {
+  /* Cifra/Chord styling */
+  .cifra-line {
+    @apply font-mono text-amarelo-solar whitespace-pre leading-relaxed;
+  }
+
+  .letra-line {
+    @apply font-mono text-dark-text whitespace-pre leading-relaxed;
+  }
+
+  /* Chord highlight */
+  .chord {
+    @apply text-amarelo-solar font-semibold cursor-pointer transition-colors hover:text-amarelo-300;
+  }
+
+  /* Card styles */
+  .card {
+    @apply bg-dark-card border border-dark-border rounded-xl p-4 transition-all duration-200;
+  }
+
+  .card:hover {
+    @apply border-azul-astral/50;
+  }
+
+  /* Button variants */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg font-medium transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-primary {
+    @apply btn bg-azul-astral text-white hover:bg-azul-600 px-4 py-2;
+  }
+
+  .btn-secondary {
+    @apply btn bg-dark-card border border-dark-border text-dark-text hover:border-azul-astral px-4 py-2;
+  }
+
+  .btn-ghost {
+    @apply btn text-dark-muted hover:text-dark-text hover:bg-dark-card px-3 py-2;
+  }
+
+  .btn-icon {
+    @apply btn w-10 h-10 p-0 hover:bg-dark-card rounded-full;
+  }
+
+  /* Badge styles */
+  .badge {
+    @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium;
+  }
+
+  .badge-marcha {
+    @apply badge bg-verde-floresta/20 text-verde-300;
+  }
+
+  .badge-valsa {
+    @apply badge bg-azul-astral/20 text-azul-300;
+  }
+
+  .badge-mazurca {
+    @apply badge bg-amarelo-solar/20 text-amarelo-300;
+  }
+
+  /* Tooltip */
+  .tooltip {
+    @apply absolute z-50 px-3 py-2 text-sm bg-dark-card border border-dark-border rounded-lg shadow-xl;
+  }
+
+  /* Auto-scroll indicator */
+  .scroll-indicator {
+    @apply fixed bottom-20 right-4 bg-azul-astral text-white px-4 py-2 rounded-full shadow-lg;
+  }
+
+  /* Search highlight in results */
+  .search-highlight {
+    @apply bg-amarelo-solar/20 text-amarelo-300 font-semibold px-0.5 rounded;
+  }
+
+  /* Search result card hover */
+  .search-result-card {
+    @apply card hover:border-azul-astral/50 hover:shadow-lg transition-all cursor-pointer;
+  }
+
+  /* Filter dropdown styling */
+  .filter-select {
+    @apply bg-dark-card border border-dark-border rounded-lg px-3 py-2 text-sm text-dark-text
+           focus:outline-none focus:border-azul-astral transition-colors;
+  }
+}
+
+@layer utilities {
+  /* Monospace alignment for chord sheets */
+  .mono-grid {
+    font-family: "JetBrains Mono", "Roboto Mono", monospace;
+    font-variant-ligatures: none;
+    white-space: pre;
+    tab-size: 4;
+  }
+
+  /* Hide scrollbar but allow scrolling */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Gradient text */
+  .text-gradient {
+    @apply bg-gradient-to-r from-azul-astral via-verde-floresta to-amarelo-solar bg-clip-text text-transparent;
+  }
+}
+
+/* Custom scrollbar for main content */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-dark-bg;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-dark-border rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-dark-muted;
+}
+
+/* JetBrains Mono font import */
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("https://fonts.gstatic.com/s/jetbrainsmono/v18/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPVmUsaaDhw.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("https://fonts.gstatic.com/s/jetbrainsmono/v18/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjOFqUsaaDhw.woff2")
+    format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

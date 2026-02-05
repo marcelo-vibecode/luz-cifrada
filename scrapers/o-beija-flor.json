@@ -1,0 +1,263 @@
+{
+  "hinario": {
+    "nome": "O Beija-Flor",
+    "slug": "o-beija-flor",
+    "autor": "Josefina Echeverria",
+    "totalHinos": 23
+  },
+  "hinos": [
+    {
+      "id": "3776",
+      "numero": 1,
+      "titulo": "Rogativo",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu Senhor Juramidam\nEu vou chamar aquí\nMe ajude e me acuda\nPara cuidar destas criaturas\n\nMeu Senhor Juramidam\nAquí vou lhe pedir\nMe oriente aquí na terra\nPara fazer sempre o bem\n",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3777",
+      "numero": 2,
+      "titulo": "O Mistério da Criação",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Canta, canta passarinho\nCanta, canta tua canção\nEnsinai para teus irmãos\nSer simples de coração\n\nÉ ter amor no coração\nÉ viver com alegria\nÉ sofrer com paciência\nComo a Virgem Maria\n\nÉ na terra como no céu\nQue nos vamos aprender\nA ser filhos de Deus\nPara sua luz receber\n\nÉ o menino Jesús\nQue está em cada criatura\nNos mostrando a pureza\nE o caminho da doçura\n\nVamos todos se calar\nE observar com atenção\nPara todos enxergar\nO mistério da criação",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3778",
+      "numero": 3,
+      "titulo": "Linha de Juramidam",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Um anjo que veio a terra\nVeio para avisar\nQue aquí ninguém se esconde\nÉ para todos se apresentar\n\nNa verdade do meu pai\nTodos vão se aperfeiçoar\nFoi minha Santa Mãe\nQue me mandou para eu\ntrabalhar\n\nTrabalhar com meus irmãos\nNesta linha de Juramidam\nTomar o Santo Daime\nE a doutrina respeitar\n\nEu vivo neste mundo\nCumprindo minha missão\nSem perder o tempo precioso\nSaindo logo da ilusão",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3779",
+      "numero": 4,
+      "titulo": "Diversão",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu tenho uma ovelinha\nQue se chama Hermelinda\nPorque ela é linda, linda\nPorque ela é linda, linda\n\nOvelinha Hermelinda\nOnde andavas tão bonita\nEu estava na floresta\nPastando mata fresca\n\nEu não estava lá sozinha\nEstava com outras irmãs\nE o menino João Batista\nVeio pára nos cuidar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3780",
+      "numero": 5,
+      "titulo": "Momento de Apuro",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Segura bem meu irmão\nQue o tempo ha de passar\nSegurem bem meus irmãos\nQue as dores ainda vão continuar\n\nÉ o momento do apuro\nExige muita atenção\nPara não deixar passagem\nAo espirito perturbador\n\nSe firma bem no seu centro\nImplore a Deus força e coragem\nPeça à Virgem e seus guias\nMuita luz e muita alegria\n\nEsta passagem é com todos\nQue queiram aproveitar\nPara endireitar os passos\nPara adiante se transformar\n\nMeu irmão não olhe para o lado\nQue todos estão a clamar\nCada um esta sendo cobrado\nQue Deus a todos vai chamar\n\nNa panela estará logo fervendo\nNossa transmutação\nVamos engrossar o caldo\nCom amor, com fé e perdão\n\nFaça votos de silêncio\nNão alimente atuação\nFirme bem o aparelho\nTrabalhe com a união\n\nPeça paciência e firmeza\nMuita calma e concentração\nDiscernimento para Aonde\nestá sua salvação\n\nNada morre totalmente\nTudo vai se transformar\nÉ a lei da natureza\nFaz parte do ciclo vital\n",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3781",
+      "numero": 6,
+      "titulo": "Nossa Rosa Jesús",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Nos temos uma rosa\n Bem aqui no coração\n Que brilha e reluz\n Com a nossa luz de amor\n\n Eu quero essa luz\n Um dia alcançar\n Nela permanecer\n E não sair do meu lugar\n\nNos temos uma rosa ...\n\n Cuida dessa luz\n Não a deixes apagar\n Que ela é nossa guia\n Aqui na vida terrenal\n\nNos temos uma rosa ...\n\n Eu peço a São João\n E peço a São Miguel\n Me ajudai no sofrimento\n Não me deixe esmorecer\n\nNos temos uma rosa ...\n\n Viva São José\n E viva a Virgem Mâe\n Viva meu Jesús\n Que renasceu neste natal",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3782",
+      "numero": 7,
+      "titulo": "Eu vim na cachoeira",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Mamãe Oxum eu vim te visitar\nEstou aqui eu quero me curar\nLimpai do meu coração\nTanta mágoa junto a tanta dor\n\nNo brilho de tuas aguas brancas\nPai Oxalá que vem me amostrar\nA força d’agua que tudo penetra\nUm dia a pedra vai quebrar\n\nPai Oxalá eu venho te implorar\nMamãe Oxum vos queira me agraciar\nMe dá o segredo do amor aos meus irmãos\nMe dá a chave do meu coração\n\nPeço a vós um dia me alegrar\nCom a visão de tudo clarear\nEssas lembranças que querem Me levar\nPara um tempo que já não existe mais\n\nMamâe Oxum eu vim para limpar\nPai Oxalá eu vim para escutar\nNas vozes que falam tuas aguas\nO silêncio de todo bem estar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3783",
+      "numero": 8,
+      "titulo": "Fonte de Vida",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "O vento leva\nLeva pra longe\nLeva poeiras\nDo nosso ar\n\nAr que respiras\nDas folhas verdes\nDa natureza\nQue Deus nos dá\n\nA natureza\nÉ uma fonte\nFonte de vida\nDa criação\n\nE nela brota\nToda semente\nQue cai na terra\nCom muito amor",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3784",
+      "numero": 9,
+      "titulo": "Eu vou seguindo",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu vou seguindo\nCom meu Padrinho me acompanhando\nNessa estrada que ele mostrou\nAonde está todo primor\n\nEu quero ser\nFilha do meu Pai e minha Mãe\nPara deles receber\nO seu perdão e sua benção\n\nMinha Mãe me ajude\nTodo dia eu me lembrar\nAqueles ensinos fortes\nQue teu filho veio deixar\n\nVou trabalhar\nPara eu poder me adiantar\nAndar sempre para frente\nE não dar passos para traz",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3785",
+      "numero": 10,
+      "titulo": "Segure o meu Pensamento",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu Rei, meu Rei, meu Rei\nEstou aqui, vim me apresentar\nEu peço que não me despreze\nE lhe canto esta prece para me alegrar\n\nOh! Deus, oh! Deus,meu Deus\nNa terra e no espiritual\nSegure o meu pensamento\nPara sempre contente poder lhe enxergar\n\nNo sol, na lua e nas estrelas\nNa floresta, na agua e no ar\nEu vejo tanta beleza\nNesta natureza que me faz vibrar\n\nAqui neste lugar\nNa floresta no Céu do Mapiá\nEu vim dar o meu recado\nPlantar uma semente pra um dia eu voltar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3786",
+      "numero": 11,
+      "titulo": "Filho Querido",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Filho querido\n De Mamãe do céu\n Meu Pai te ensina\n No caminho teu\n\n Firmeza no andar\n Paz no coração\n Meu Pai abençõa\n Quem lhe concordar\n\n Vamos se alertar\n E se preparar\n A hora é chegada\n Vamos guerrear\n\n É com muito amor\n Mais com seriedade\n Que nos apresenta\n Nossa verdade\n\n Estamos na batalha\n Juntos na missão\n Do meu Jesus Cristo\n E Juramidam\n\n A batalha é divina\n É pra purificar\n O nosso ser\n Vai se transformar\n\n Vem Santa Maria\n Vem nos amostrar\n Como se trabalha\n No espiritual\n\n Aonde tu estiveres\n Procura cantar\n Louvores a Deus\n E a nossa Mãe",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3787",
+      "numero": 12,
+      "titulo": "Reinado do Sol",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Pai, Pai, Pai,\nNos dá vossa proteção\nPai, Pai, Pai,\nNos dá a vossa benção\n\nPara seguir nesta missão\nDe Jesus Cristo salvado\nJurar com o coração\nE sempre zelar este valor\n\nMinha Mãe, minha Mãe, minha Mãe,\nVos que sois de puro amor\nEncaminhai os vossos filhos\nAqui dentro desta sessão\n\nPatriarca São José\nE todos seres Divinos\nAbrandai nossos corações\nPara seguir neste caminho\n\nCom a vossa orientação\nA cada irmão vou receber\nFirmando assim perante a vós\nO nosso reinado do sol\n\nAgradeço todo momento\nA confiança que vós me deu\nVou me doar com meus irmãos\nPara juntos alcançar o céu",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3788",
+      "numero": 13,
+      "titulo": "O Beija-Flor",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Andando vou\nBem feliz pela floresta\nVejo a passarada em festa\nOuço o ronco do Beija-Flor\n\nO Beija-Flor voou voou\nE no meu coração poussou\nQue alegria, que primor\nVer o rosto do amor\n\nEu sinto assim\nComo tudo é tão perfeito\nOnde meu Pai põe sua mão\nÉ pra seus filhos andar direito\n\nSe encontrando na verdade\nNossa luz é que mais brilha\nNosso ser se enobrece\nNo amor da Mãe Divina\n\nO amor de Deus\nEle ensina todo dia\nNa beleza do seu vôo\nNa singeleza e na alegria\n\nVamos louvar nosso Senhor\nPai de toda natureza\nE a nossa Mãe Soberana\nQue se espelha na beleza",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3789",
+      "numero": 14,
+      "titulo": "O Tempo",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Tempo, meditemos no tempo\n\nEstou no tempo, e no tempo eu sou\nVivo o tempo e cada dia eu vou\nVem o tempo pra mostrar aonde estou\nVem o tempo confirmar quem eu sou\n\nTempo, meditemos no tempo\n\nÉ o tempo de brilhar nosso ser\nO Eu Divino, esse eu que eu sou\nSou a morada do meu Eu Superior\nAonde o eu vai realizar sua missão\n\nTempo, meditemos no tempo\n\nViver o tempo é a vontade de Deus\nNesse corpo e nessa vida que nos deu\nNós só temos que cumprir a missão\nÉ o tempo de sair da ilusão\n\nTempo, lá se vai o tempo\n\nO tempo passa pra nos dar o perdão\nCom o tempo entendemos a lição\nQue o tempo outra chance nos deu\nMas o hoje amanhã ja venceu\n\nTempo, lá se vai o tempo\n\nSe no tempo viajando eu vou\nAo encontro do que o Mestre\nMe mostrou\nCom certeza um dia eu sou\nTudo aquilo que o tempo me guardou\n\nTempo, lá se vai o tempo\n\nTempo, vamos aproveitar o tempo\nO tempo, sempre chega no tempo\nTempo, vamos meditar o tempo",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3790",
+      "numero": 15,
+      "titulo": "Um Conselho",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Todos filhos aqui reunidos\n Em meu nome e consagração\n Trabalhando por se e por todos\n Santo Daime ilumina o perdão\n\n É meditando e se examinando\n Sob a luz do Eu Superior\n Com esforço e muita vontade\n Que saimos do eu inferior\n\n Precisamos pedir o perdão\n Desses males que afligem a alma\n Libertando nosso coração\n O amor vai sair da prisão\n\n É trocando os defeitos Em virtudes\n Um a um sem sofrer muita dor\n Na certeza de estar melhorando\n Se firmando no que ja mudou\n\n Quem quizer receber um conselho\n Busque nos hinos uma  orientação\n Eles vem para nós do astral\n Da escola da transformação\n\n Vamos todos ja se corrigindo\n Escutando o bom professor\n Ele ensina aos seus filhos na terra\n A beleza e prazer da união",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3791",
+      "numero": 16,
+      "titulo": "Nova Jerusalem",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Aqui vou lhes dizer\nQue a coisa vai mudar\nUm dia meu Jesús\nFalou que ia voltar\n\nSua volta é diferente\nSem corpo e sem a cruz\nEle vem só no espirito\nMostrar pra nós a Luz\n\nNos viemos de bem longe\nSe lembre quem ja viu\nÉ a nova Jerusalem\nQue novamente reuniu\n\nÉ ficar bem acordado\nE não cair no mesmo erro\nEm outros tempos os judeos\nNegarão o Nazareno\n\nEu digo aos meus irmãos\nQue os tempos estão findando\nDe se cumprir sua promessa\nDe passar a outro plano\n\nÉ a ultima chamada\nPara quem seguiu Jesús\nDessa raça encarnada\nVamos ver quem esta na Luz",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3792",
+      "numero": 17,
+      "titulo": "Jardim de Belas Flores",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "É mais uma flor, mais uma rosa\nQue brotou no teu jardim\nNossa Senhora recebe suas filhas\nQue estão chegando aqui\n\nTu que sois pura beleza\nE toda pureza me ensine a ser assim\nQue é para estar no teu jardim do amor\nRadiante, com cheiro de jasmim\n\nEu posso ser o brilho de sol\nE brilho da lua brilhando em teu jardim\nMais as cores do arco iris em mim\nTeus Sete Raios refletir\n\nTenho o poder, tenho a beleza\nEu tenho a firmeza de ser do teu jardim\nToda tristeza e todo mal que vem\nCom vós eu tenho que vencer\n\nNossa Senhora vós sois a jardineira\nQue agua estas terras aonde eu nasci\nSinto teu manto e sinto teu perfume em mim\nQuando me aproximo a Ti\n\nNeste jardim de belas flores\nMesmo sentindo as dores, eu vivo tão feliz\nEu agradeço todas minhas irmãs aqui\nPor tudo quanto eu recebi\n",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3793",
+      "numero": 18,
+      "titulo": "Mensagens do Mar",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Numa praia deserta\n Eu vim pra chamar\n Na beira do mar\n Mamãe Iemanjá\n\n Ela vem com as ondas\n Nas ondas do mar\n Trazendo os peixinhos\n E as sereias a cantar\n\n Os peixinhos que vem\n Com Mamãe Iemanjá\nBrincavam, pulavam\n Pra fora do mar\n\n As sereias dançavam\n Com seu balançar\n Alegres sorriam na espuma\n Do mar\n\n Te apronta, te firma\n Neste balançar\n Tudo que vêm\n É pra purificar\n\n Ela veio e me disse\n Isto vai passar\n Te firma no sol, na lua\n E no mar\n\nSem medo, coragem\nvamos avançar\nDeus está mandando\nNão vai duvidar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3794",
+      "numero": 19,
+      "titulo": "Amor Consagrado",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Amor consagrado\n Meninas do amor\n Perfumes de flores\n As mais belas flores\n\n Passarinhos que cantam\n Desde seu coração\n Ternura dos anjos\n Brilham em seu resplendor\n\n Presentes do Céu\n Mamãe quem gerou\n Divino Sagrado\n Papai confirmou\n\n Aqui eu termino\n Com meu Beija-flor\n Agradecendo a lua\n A terra e ao sol",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3795",
+      "numero": 20,
+      "titulo": "Menina De Luz",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "A mais linda flor\nChegou para amar\nChegou pra alegrar\nChegou pra mostrar\n\nNo seu grande amor\nVeio para unir\nVeio pra curar\nVeio transformar\n\nMenina de luz\nQue Deus Pai criou\nNo céu e na terra\nSeu anjo enviou\n\nVamos se alegrar\nE agradecer\nEstá flor tão bela\nQue veio nascer\n\nHoje é seu dia\nVamos celebrar\nCom palmas e flores\nMamãe é Papai",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3796",
+      "numero": 21,
+      "titulo": "Forças Da Natureza",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Viva São João Batista\nConfirmado no Jordão\nViva padrinho Sebastião\nAqui na terra e no astral\n\nFoi levantando sua bandeira\nJunto sempre a trabalhar\nEnsinando para o povo\nUm caminho para se salvar\n\nNossa Soberana Mãe\nEla é mãe de todos nós\nEla mostra o caminho\nO caminho do coração\n\nÉ como sol, é com a lua\nÉ com a terra e com o mar\nÉ com as forças da natureza\nQue podemos se curar\n\nQuando estiver de olho aberto\nE a mente a despertar\nVai enxergando estas forças\nE com elas se transformar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3797",
+      "numero": 22,
+      "titulo": "Estrela Pequenina",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Sou uma estrela bem pequenina\nTrago a mensagem do meu amor\n\nBebo do néctar de paz e harmonia\nEle me nutre pra ser quem eu sou\n\nNo meu caminho vou aprendendo\nCom meu Pai Divino e minha Mãe de amor\n\nFruto sagrado desta união\nUnião com Cristo em oração\n\nEu vou vivendo e sempre cantando\nA alegria no meu coração\n\nNeste reinado da natureza\nSou uma estrela e uma princesa\n\nVivo na terra e vivo no céu\nBrilho de noite nos braços de Deus",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3798",
+      "numero": 23,
+      "titulo": "Sto Daime",
+      "autor": "Josefina Echeverria",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vem chegando uma mensagem\nVem do Mestre ensinador\nVem trazendo alegria\nDeste lindo Beija Flor\n\nSanto Daime nosso Mestre\nVem mostrando o caminho\nPara abrir o coração\nE respeitarmos com carinho\n\nSanto Daime é a bebida\nQue nos fala do amor\nEla mostra o coração\nQue todos temos no interior\n\nQuem caminha este caminho\nE procura ser melhor\nSanto daime lhe dá força\nEntendimento e valor\n\nVamos juntos consagrar\nEsta bebida com primor\nVamos juntos trabalhar\nAgradecer este professor\n\nAgradeço a irmandade\nQue nos dá esta bebida\nAgradeço ao Santo Daime\nGrande guia em minha vida\n\nViva o Mestre Santo Daime\nE viva a união de todos nós\nViva os cantos e viva os rezos\nViva o vôo do Beija Flor",
+      "conteudoCifrado": ""
+    }
+  ]
+}

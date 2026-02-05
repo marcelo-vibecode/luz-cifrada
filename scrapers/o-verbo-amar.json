@@ -1,0 +1,241 @@
+{
+  "hinario": {
+    "nome": "O Verbo Amar",
+    "slug": "o-verbo-amar",
+    "autor": "Roberval Raulino",
+    "totalHinos": 21
+  },
+  "hinos": [
+    {
+      "id": "3021",
+      "numero": 1,
+      "titulo": " Dou Viva a Todos os Santos",
+      "autor": "Padrinho Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Dou viva a todos os santos\nDando viva a nossa festa\nLouvado seja Deus\nEm tudo que se manifesta\n\nLouvando a este dia\nLouvo o dia dos finados\nQue só existe um dia\nO dia determinado\n\nO dia determinado\nPelo nosso senhor Deus\nQue a luz da nossa vida\nVolta ao domínio seu\n\nSou filho da verdade\nE expando esta luz\nO que agora eu digo a todos\nQuem me clareia é Jesus\n\nPeço força a todos os seres\nA meu pai peço conforto\nPara cada um de nós\nMediante o seu esforço\n\nA estrada está aberta\nPara quem dá atenção\nMas para quem está zombando\nSó existe escuridão\n\nDou valor a esta luz\nDeste brilho onipotente\nMe seguro nesta força\nDeste rei onisciente\nCobri-me com vosso manto\nSenhor Deus onipresente",
+      "conteudoCifrado": "<cifra class=\"cifra\">    Am          E           Am</cifra><p>               G          Am</p><cifra class=\"cifra\">  C       E       Am</cifra><p>    G (E)                       E (Am)</p><cifra class=\"cifra\"> </cifra><p>    Am          E           Am</p><cifra class=\"cifra\">               G          Am</cifra><p>  C       E       Am</p><cifra class=\"cifra\">    G (E)                       E (Am)</cifra><p> </p><cifra class=\"cifra\">    Am          E           Am</cifra><p>               G          Am</p><cifra class=\"cifra\">  C       E       Am</cifra><p>    G (E)                       E (Am)</p><cifra class=\"cifra\"> </cifra><p>    Am          E           Am</p><cifra class=\"cifra\">               G          Am</cifra><p>  C       E       Am</p><cifra class=\"cifra\">    G (E)                       E (Am)</cifra><p> </p><cifra class=\"cifra\">    Am          E           Am</cifra><p>               G          Am</p><cifra class=\"cifra\">  C       E       Am</cifra><p>    G (E)                       E (Am)</p><cifra class=\"cifra\"> </cifra><p>    Am          E           Am</p><cifra class=\"cifra\">               G          Am</cifra><p>  C       E       Am</p><cifra class=\"cifra\">    G (E)                       E (Am)</cifra><p> </p><cifra class=\"cifra\">    Am          E           Am</cifra><p>               G          Am</p><cifra class=\"cifra\">  C       E       Am</cifra><p>    G (E)                       E (Am)</p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3022",
+      "numero": 2,
+      "titulo": " Meu Mestre a Vós Eu Peço",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Meu mestre a vós eu peço\nNão me deixe derribar\nMe dê a santa luz\nPara eu poder caminhar\n\nPisa firme e segue em frente\nTu não deve esmorecer\nMeu divino pai eterno\nQuem te deu este poder\n\nMinha sempre Virgem Maria\nFoi quem veio me ensinar\nE me deu este hino\nPara mim aqui cantar\n\nPara mim aqui cantar\nCom todos meus irmãos\nAqueles que procurar\nE bem prestar atenção\n\nAgora vou terminar\nCom amor e alegria\nDou viva ao pai eterno\nE a sempre Virgem Maria",
+      "conteudoCifrado": "<cifra class=\"cifra\">      Dm         A7       Dm</cifra><p>         Gm</p><cifra class=\"cifra\">                        F</cifra><p>           A            Dm</p><cifra class=\"cifra\"> </cifra><p>      Dm         A7       Dm</p><cifra class=\"cifra\">         Gm</cifra><p>                        F</p><cifra class=\"cifra\">           A            Dm</cifra><p> </p><cifra class=\"cifra\">      Dm         A7       Dm</cifra><p>         Gm</p><cifra class=\"cifra\">                        F</cifra><p>           A            Dm</p><cifra class=\"cifra\"> </cifra><p>      Dm         A7       Dm</p><cifra class=\"cifra\">         Gm</cifra><p>                        F</p><cifra class=\"cifra\">           A            Dm</cifra><p> </p><cifra class=\"cifra\">      Dm         A7       Dm</cifra><p>         Gm</p><cifra class=\"cifra\">                        F</cifra><p>           A            Dm</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3023",
+      "numero": 3,
+      "titulo": " Vamos, Vamos",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vamos, vamos meus irmãos\nVamos todos se humilhar\nPerante a nossa mãe\nPara ela nos ensinar\n\nMinha mãe estou aqui\nA vós eu peço perdão\nPerdoai as minhas culpas\nE de todos meus irmãos\n\nPisa firme e segue em frente\nCom amor no coração\nDando viva ao pai eterno\nE a Virgem da Conceição",
+      "conteudoCifrado": "<cifra class=\"cifra\">      C         G             C</cifra><p>                               Dm</p><cifra class=\"cifra\">     F               G</cifra><p>                         C</p><cifra class=\"cifra\"> </cifra><p>      C         G             C</p><cifra class=\"cifra\">                         Dm</cifra><p>     F               G</p><cifra class=\"cifra\">                         C</cifra><p> </p><cifra class=\"cifra\">      C         G             C</cifra><p>                           Dm</p><cifra class=\"cifra\">     F               G</cifra><p>                         C</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3024",
+      "numero": 4,
+      "titulo": " Vou Seguindo",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vou seguindo, vou seguindo\nJunto com os meus irmãos\nPedindo ao pai eterno\nQue nos dê a salvação\n\nVou seguindo, vou seguindo\nJunto com a Virgem Maria\nEla é quem nos dá luz\nE nos ensina todo dia",
+      "conteudoCifrado": "<cifra class=\"cifra\">         C                     Dm</cifra><p>          G                   C</p><cifra class=\"cifra\">       C                Dm</cifra><p>         G             C</p><cifra class=\"cifra\"> </cifra><p>         C                     Dm</p><cifra class=\"cifra\">          G                   C</cifra><p>       C                Dm</p><cifra class=\"cifra\">         G             C</cifra><p></p>"
+    },
+    {
+      "id": "3025",
+      "numero": 5,
+      "titulo": " Minha Mãe",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Minha mãe a vós eu peço\nDentro do meu coração\nPara vós vir me guiar\nNeste mundo de ilusão\n\nA sempre Virgem Maria\nÉ a nossa defensora\nSois rainha do império\nÉ nossa mãe criadora\n\nMeu senhor São João Batista\nÉ o dono do poder\nPeço força ao pai eterno\nCom ele eu hei de vencer\n\nMeu divino pai eterno\nLivrai-me da ilusão\nEu quero seguir com vós\nE com meu senhor São João\n\nVamos todos meus irmãos\nCom firmeza e com amor\nEncontrar com a nossa mãe\nNo jardim do beija-flor\n\nO mestre está pedindo\nFirmeza no pensamento\nSe acordem meus irmãos\nDevemos ficar atentos",
+      "conteudoCifrado": "<cifra class=\"cifra\">          G</cifra><p>                       Em</p><cifra class=\"cifra\">     C       Dm     Em</cifra><p>      C      Dm     Em</p><cifra class=\"cifra\"> </cifra><p>          G</p><cifra class=\"cifra\">                       Em</cifra><p>     C       Dm     Em</p><cifra class=\"cifra\">      C      Dm     Em</cifra><p> </p><cifra class=\"cifra\">          G</cifra><p>                       Em</p><cifra class=\"cifra\">     C       Dm     Em</cifra><p>      C      Dm     Em</p><cifra class=\"cifra\"> </cifra><p>          G</p><cifra class=\"cifra\">                       Em</cifra><p>     C       Dm     Em</p><cifra class=\"cifra\">      C      Dm     Em</cifra><p> </p><cifra class=\"cifra\">          G</cifra><p>                       Em</p><cifra class=\"cifra\">     C       Dm     Em</cifra><p>      C      Dm     Em</p><cifra class=\"cifra\"> </cifra><p>          G</p><cifra class=\"cifra\">                       Em</cifra><p>     C       Dm     Em</p><cifra class=\"cifra\">      C      Dm     Em</cifra><p></p>"
+    },
+    {
+      "id": "3026",
+      "numero": 6,
+      "titulo": " O Verbo Amar",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Aqui está\nO verbo amar\nMeu pai me deu\nPara eu cantar\n\nOh! Virgem mãe\nVós sois rainha\nVós sois formosa\nE sois mãe minha\n\nCom fé eu vou\nCantando amor\nDentro do jardim\nDo beija-flor\n\nMeu pai mandou\nAqui estou\nCom fé em vós\nOh! Cristo Redentor",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3027",
+      "numero": 7,
+      "titulo": " Meu Mestre",
+      "autor": "Roberval Raulino",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Meu mestre a vós eu peço\nDentro do meu coração\nPara vós me consolar\nNeste mundo de ilusão\n\nSegue os teus passos em frente\nVem na minha direção\nJunto com o pai eterno\nE a Virgem da Conceição\n\nRecebe com alegria\nE zele bem esta flor\nDentro do teu coração\nQue a virgem mãe mandou",
+      "conteudoCifrado": "<cifra class=\"cifra\">   Am         A7         F</cifra><p>            G             E</p><cifra class=\"cifra\">       Am      F       Bº</cifra><p>       E              Am</p><cifra class=\"cifra\"> </cifra><p>   Am         A7         F</p><cifra class=\"cifra\">            G             E</cifra><p>       Am      F       Bº</p><cifra class=\"cifra\">       E              Am</cifra><p> </p><cifra class=\"cifra\">   Am         A7         F</cifra><p>            G             E</p><cifra class=\"cifra\">       Am      F       Bº</cifra><p>       E              Am</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3028",
+      "numero": 8,
+      "titulo": " União",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vamos todos meus irmãos\nAcompanhar meu bom Jesus\nPara nós poder brilhar\nDentro desta grande luz\n\nMeu divino pai eterno\nLimpai o meu coração\nPara eu poder seguir\nDentro desta união",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3029",
+      "numero": 9,
+      "titulo": " Ajuda",
+      "autor": "Roberval Raulino",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu pedi uma ajuda a meu mestre\nPara mim e os meus irmãos\nPeço a vós que nos dê a luz\nOh! Meu bom Jesus do meu coração\n\nEu pedi firmeza a mamãe\nPara eu poder viajar\nConcentrado nesta floresta\nA linha é esta, vamos se firmar\n\nVou seguindo, eu vou seguindo\nComo vós quer me ordenar\nPeço a vós com toda nobreza\nNos dê a firmeza para nós chegar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3030",
+      "numero": 10,
+      "titulo": " Voz de Deus",
+      "autor": "Roberval Raulino",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vamos meus irmãos\nTodos se unir\nPara nós vencer\nO que vem aí\n\nO que vem aí\nTem luz e clarão\nPara quem quer ver\nE prestar atenção\n\nEu peço a meu mestre\nNos dê a benção\nOh! Meu pai divino\nOh! Pai do perdão\n\nEu estou seguindo\nDentro desta luz\nProcurando ouvir\nA voz de Jesus\n\nA voz de Jesus\nEu devo encontrar\nDentro da floresta\nQue mamãe nos dá",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3031",
+      "numero": 11,
+      "titulo": " Vou Seguindo os Meus Passos",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vou seguindo\nVou seguindo os meu passos\nPeço sempre para vós me doutrinar\nÉ preciso toda calma com firmeza\nPara sempre esta doutrina consagrar\n\nMeus irmãos vamos prestar atenção\nPercebendo a doutrina de Noé\nPara sempre\nPara sempre eu quero estar\nConfortado com Jesus de Nazaré\n\nVou seguindo\nCom o meu mestre na frente\nLevantando nova bandeira na mão\nPeço força aqui dentro desta luz\nPara sempre eu zelar esta união",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3032",
+      "numero": 12,
+      "titulo": " Domínio",
+      "autor": "Roberval Raulino",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Tangem os sinos anunciando\nÉ natal, vamos festejar\nTodos juntos com a minha mãe\nAo bom filho a todos louvar\n\nTangem os sinos anunciando\nQue sou filho deste poder\nFui entregue a este domínio\nQue faz ver e faz compreender\n\nEstou aqui, eu sou caminheiro\nCaminheiro da eterna luz\nEu convido todos meus irmãos\nPara seguir com o meu Jesus\n\nEstou aqui e eu vim de longe\nEstou aqui na casa do amor\nEstou aqui é para seguir\nCom meu pai e com vosso amor\n\nEu convido todos caminheiros\nQue caminham rumo a luz\nÉ de Deus esta fonte bendita\nE muito além está meu Jesus\n\nÉ de Jesus esse caminho eterno\nE vós sois o nosso caminho\nEu convido vamos com amor\nPara nunca estar sozinho\n\nSenhora mãe santíssima\nOh! Senhora da Conceição\nAgradeço minha mãe com carinho\nAqui louvando com os meus irmãos",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3033",
+      "numero": 13,
+      "titulo": " Tão Brilhante",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu chamo é para seguir\nEu convido é para cantar\nEu convido todos meus irmãos\nPara todos se apresentar\n\nSe apresentem com perfeição\nNa presença do meu São João\nMinha mãe ela é tão brilhante\nEla vem com a luz na mão\n\nPasso a passo eu vou seguindo\nOuço a voz do meu pai me chamar\nDai-me força aqui nesta missão\nDai-me luz para eu viajar\n\nConfia, confia, confia\nNa esperança de alcançar\nEsta é a pureza divina\nEla brilha e faz brilhar\n\nVamos, vamos todos meus irmãos\nSe firmar no meu São João\nE em minha Santa Maria\nE formar uma bela união\n\nBrilha, brilha e faz brilhar\nBrilha a terra e brilha o mar\nBrilha Deus em todo o infinito\nBrilha todos que nele afirmar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3034",
+      "numero": 14,
+      "titulo": " Vejo a Lua",
+      "autor": "Roberval Raulino",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vejo a lua com toda clareza\nRefletindo com todo amor\nE para todos que querem a luz\nTem Jesus o príncipe das flores\n\nVou seguindo com toda clareza\nE nobreza no meu coração\nFirme em Deus eu tenho virtude\nE represento a bela nação\n\nNeste mundo tem paz e tem guerra\nSofrimento e alegria\nPeço força para prosseguir\nNo caminho da Virgem Maria\n\nMeus irmãos a estrada é reta\nE vamos todos prestar atenção\nPercebendo a pureza do mestre\nTriunfante da escuridão\n\nEu já disse, vou esclarecendo\nPara todos provar o que diz\nQue agora chegou o apuro\nE vamos todos cantar mais feliz",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3035",
+      "numero": 15,
+      "titulo": " Vida Nova",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu procurei o meu pai\nDentro do meu coração\nPara vós nos perdoar\nE nos tirar da solidão\n\nEu procurei minha mãe\nE para seguir com vigor\nEu devo amar com firmeza\nE não vacilar o amor\n\nEste amor que Deus tem\nÉ o amor para quem quer\nDescobrindo a vida nova\nDo meu senhor São José\n\nVou seguindo os meus passos\nObedecendo este ABC\nPorque de Deus eu sou filho\nE apresento o seu saber",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3036",
+      "numero": 16,
+      "titulo": " Meus Irmãos",
+      "autor": "Roberval Raulino",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vamos meus irmãos\nVamos se humilhar\nQue este poder\nVai nos segurar\n\nVai nos segurar\nPara nós aprender\nA ser filho eterno\nE obedecer\n\nNós obedecendo\nA este comando\nO mestre tem gosto\nVai nos segurando",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3041",
+      "numero": 17,
+      "titulo": " Senhora de Piedade",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meus irmãos vamos seguindo\nAqui dentro da doutrina\nAprendendo todo dia\nO que o mestre ensina\n\nO que o meu mestre ensina\nVamos todos consagrar\nPara não se arrepender\nE perante a todos chorar\n\nMinha mãe, minha rainha\nSenhora de piedade\nClareai a minha mente\nPara eu seguir na verdade",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3037",
+      "numero": 18,
+      "titulo": " Sou a Direção",
+      "autor": "Roberval Raulino",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Me firmo na Lua\nCom toda atenção\nEla me responde\nEu sou a direção\n\nSou a direção\nPara quem perceber\nE andar direito\nAqui neste poder\n\nO tempo chegou\nVamos todos cantar\nQue a nossa mãe\nÉ quem tem para nos dar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3038",
+      "numero": 19,
+      "titulo": " Doutrina do meu Pai",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu me firmo na doutrina do meu pai\nE recebo da justiça de São João\nReconheço que sou um filho de Deus\nE que estou procurando ser irmão\n\nOh!Meu pai,vós que comanda no céu\nNos ensine para seguir como é\nPois eu quero ser um filho de Maria\nDirigido por Jesus de Nazaré\n\nTambém peço consciência a minha mãe\nPara sempre no meu canto eu estar\nEstudando e bem prestando atenção\nTudo,tudo que aqui na Terra eu passar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3039",
+      "numero": 20,
+      "titulo": " Instrução",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu mestre a vós eu peço\nDentro do meu coração\nPara eu seguir neste caminho\nE receber as instruções\n\nMinha mãe, minha protetora\nMe doutrinai nesta verdade\nPara eu poder enxergar\nE receber a santa luz",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3040",
+      "numero": 21,
+      "titulo": " A Doutrina de São João",
+      "autor": "Roberval Raulino",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu vou seguindo, eu vou seguindo\nCom amor no coração\nAprendendo na doutrina\nDo meu senhor São João\n\nOh! Meu senhor São João\nQue é o chefe da sessão\nNos dê paz e alegria\nAqui dentro do salão\n\nEste salão é muito fino\nE nele eu quero trabalhar\nAgradecendo a todos seres\nE ao Céu do Mapiá\n\nEu recebi esta prenda\nDo meu mestre ensinador\nE da nossa mãe divina\nA mãe do nosso senhor",
+      "conteudoCifrado": ""
+    }
+  ]
+}

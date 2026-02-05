@@ -1,0 +1,98 @@
+{
+  "hinario": {
+    "nome": "Lá em cima no Astral",
+    "slug": "la-em-cima-no-astral",
+    "autor": "Guilherme Grangeiro",
+    "totalHinos": 8
+  },
+  "hinos": [
+    {
+      "id": "4009",
+      "numero": 1,
+      "titulo": "Meu Mestre",
+      "autor": "Guilherme Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu Mestre, meu mestre\nEu peço uma firmeza\nPara mim seguir contente\nAqui nesta beleza\n\nA união faz a força\nAqui nesta sessão\nObedecendo ao nosso Mestre\nE se unir aos seus irmãos\n\nO mundo vai balançar\nE tem muito que balançar\nQuem não estiver firme\nNão pode enxergar\n\nEu volto a te dizer\nPara tu escutar\nPara ti e os teus irmãos\nAqueles que procurar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "4010",
+      "numero": 2,
+      "titulo": "Lá em cima no Astral",
+      "autor": "Guilherme Grangeiro",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Lá em cima no astral\nAonde existe todo amor\nPorque Deus no céu e na terra\nÉ o nosso Pai Criador\n\nÉ quem nos dá toda firmeza\nPara nós com todo amor\nA nossa Mãe Soberana\nÉ a nossa Mãe Santa",
+      "conteudoCifrado": "<cifra class=\"cifra\">Am               E      Am</cifra><p>  A7                          Dm</p><cifra class=\"cifra\">        Dm                           Am</cifra><p>             E              Am</p><cifra class=\"cifra\"> </cifra><p>     Am                 E        Am</p><cifra class=\"cifra\">A7                          Dm</cifra><p>Dm                      Am</p><cifra class=\"cifra\">E                     Am</cifra>"
+    },
+    {
+      "id": "4011",
+      "numero": 3,
+      "titulo": "Um lugar da sempre Virgem Maria",
+      "autor": "Guilherme Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Cheguei num lugar\nDa sempre Virgem Maria\nEra um lugar\nNão tinha noite e nem dia\n\nEssa é a doutrina\nDa sempre Virgem Maria\nVamos meus irmãos\nTrabalhar com alegria",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "4012",
+      "numero": 4,
+      "titulo": "Eu tomo Daime",
+      "autor": "Guilherme Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu tomo Daime\nSou da luz, sou da verdade\nQuem quiser seguir comigo\nNão me traga falsidade\n\nPara seguir\nNesta linha da verdade\nPara nós ser bem feliz\nÉ com o coração sem maldade",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "4013",
+      "numero": 5,
+      "titulo": "Esta Verdade",
+      "autor": "Guilherme Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Esta verdade \nQue o nosso Pai nos deixou\nEsta verdade\nÉ pra nós todos ter amor\n\nEsta verdade\nEle deixou em nossas mãos\nPara nós seguir\nE prestar mais atenção",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "4014",
+      "numero": 6,
+      "titulo": "Filho de Deus",
+      "autor": "Guilherme Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu sou filho de Deus\nDa Rainha da Floresta\nImplorando ao Pai Eterno\nPela nossa grande festa",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "4015",
+      "numero": 7,
+      "titulo": "Vamos Trabalhar",
+      "autor": "Guilherme Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vamos trabalhar\nVamos trabalhar\nPara o nosso Mestre\nPoder nos ajudar\n\nVamos se unir\nVamos se humilhar\nPara nessa vida\nViver no bem estar\n\nVamos ter amor\nVamos ter amor\nVamos ter amor\nAo nosso Pai Criador",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "4016",
+      "numero": 8,
+      "titulo": "Noite de São João",
+      "autor": "Adália Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "A minha mãe está comigo.\nAonde eu estiver\nJunto com Jesus Cristo\nE o patriarca São José\n\nViva a Deus lá nas alturas\nE viva os seus seres divinos\nViva ao nosso Mestre\nÉ quem nos dá estes ensinos\n\nÉ quem nos dá estes ensinos\nNos dá o santo perdão\nViva a todos os seres\nViva a noite de São João",
+      "conteudoCifrado": "<cifra class=\"cifra\">               Am      E      Am</cifra><p>  E                 Am</p><cifra class=\"cifra\"> C                    Dm</cifra><p>            E7              Am</p><cifra class=\"cifra\"> </cifra><p>            Am      E      Am</p><cifra class=\"cifra\">               E                 Am</cifra><p> C                    Dm</p><cifra class=\"cifra\">                   E7              Am</cifra><p> </p><cifra class=\"cifra\">                  Am     E      Am</cifra><p>            E                 Am</p><cifra class=\"cifra\"> C                     Dm</cifra><p>            E7                Am</p>"
+    }
+  ]
+}

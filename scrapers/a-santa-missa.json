@@ -1,0 +1,120 @@
+{
+  "hinario": {
+    "nome": "A Santa Missa",
+    "slug": "a-santa-missa",
+    "autor": "Raimundo Irineu Serra",
+    "totalHinos": 10
+  },
+  "hinos": [
+    {
+      "id": "1189",
+      "numero": 1,
+      "titulo": " Senhor Amado",
+      "autor": "Germano Guilherme",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Para os tempos que estavas no mundo\nMandaram te chamar\nNa casa da Mãe Santíssima\nPara ti, para ti te apresentar\n\nSenhora Mãe Santíssima\nEu vim me apresentar\nAtender Vosso chamado\nQue Vós me, que Vós me mandou chamar\n\nTe apresenta ao Vosso Pai\nFoi quem mandou te chamar\nTeu tempo completou\nQue é para ti, que é para ti te apresentar\n\nOh meu Senhor amado\nEu vim me apresentar\nAtender Vosso chamado\nQue Vós me, que Vós me mandou chamar\n\nConfessa os teus crimes\nDo mundo de ilusão\nQue é para ver se eu posso\nPara ver se eu posso,\npara ver se eu posso dar o perdão\n\nOs tempos que estive no mundo\nDe Vós, Senhor, nada me faltou\nSó eu tanto ofendi\nTanto ofendi, tanto ofendi a Vós Senhor\n\nOs tempos que eu estive no mundo\nCom a proteção de Vós, Senhor\nSó eu tanto ofendi\nTanto ofendi, tanto ofendi a Vós Senhor\n\nOh meu Senhor amado\nSoberanitíssimo Senhor\nSó eu tanto ofendi\nTanto ofendi, tanto ofendi a Vós Senhor\nSó eu tanto ofendi\nTanto ofendi e me perdoai, Senhor",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1190",
+      "numero": 2,
+      "titulo": " Dois de Novembro",
+      "autor": "Mestre Irineu",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "A tua alma entrega a Deus\nE o teu corpo à terra fria\nJesus te acompanhe\nJunto com a Virgem Maria\n\nTu pedes aos teus amigos\nPelo nome de Jesus\nQue te rezem umas preces\nLá no pé da Santa Cruz\n\nTantos anos que vivestes\nAgora vai se retirar\nVai atender ao nosso Pai\nFoi quem mandou te chamar\n\nAqui achou, aqui deixou\nLevas contigo o amor\nAs portas do céu se abrem\nPara quem for merecedor",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1191",
+      "numero": 3,
+      "titulo": " Rogativo dos Mortos",
+      "autor": "Mestre Irineu",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "São doze horas da noite\nMeu irmão se mudou\nO sono da eternidade\nDeus do céu quem te chamou\n\nUma hora da madrugada\nMeu irmão se mudou\nO sono da eternidade\nDeus do céu quem te chamou\n\nDuas Horas da madrugada....\n\nSão três horas da madrugada...\n\nQuatro horas da madrugada...\n\nCinco horas da manhã...\n\nSão seis horas da manhã...\n\nSão sete horas do dia...\n\nSão oito horas do dia...\n\nSão nove horas do dia\nMeu irmão se mudou\nO sono da eternidade\nDeus do céu quem te chamou\n\nTantos anos que vivestes\nNo mundo da ilusão\nEu rogo a Deus do céu\nQue te dê o Santo perdão\n\nA divina estrela vem\nPara ir te alumiar\nEu rogo a Deus do céu\nQue te bote em bom lugar\n\nA Virgem Senhora vem\nPara ir te acompanhar\nEu rogo à Virgem Mãe\nQue te bote em bom lugar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1192",
+      "numero": 4,
+      "titulo": " Mãe Celestial",
+      "autor": "Mestre Irineu",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu peço e rogo\nOh Mãe Celestial\nQue tudo enquanto eu tenho\nÉ Vós é quem me dá\nOh Mãe Celestial\n\nEu peço e rogo\nOh Pai Celestial\nQue tudo enquanto eu tenho\nÉ Vós é quem me dá\nOh Pai Celestial\n\nEu peço e rogo\nOh Mãe Celestial\nQue te dê a salvação\nE te bote em bom lugar\nOh Mãe Celestial",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1193",
+      "numero": 5,
+      "titulo": " Equiôr Papai Me Chama",
+      "autor": "Mestre Irineu",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Equior Papai me chama\nEquior perante a Si\nEquior Papai me diz\nEquior eu sou feliz\n\nEquior Mamãe me chama\nEquior Mamãe me dá\nEquior Mamãe me ensina\nAmar a quem eu devo amar\n\nEu vivo neste mundo\nCom prazer e alegria\nViva Deus no céu\nE a Sempre Virgem Maria\n\nJesus Cristo é o nosso Pai\nDe grande consolação\nAjudai-me neste mundo\nE no outro a salvação",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1194",
+      "numero": 6,
+      "titulo": " Todo mundo quer ser filho",
+      "autor": "Mestre Irineu",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Todo mundo quer ser filho\nDe Deus da criação\nPor quê que tu te esquece\nDe rezar para o teu irmão\n\nMeu irmão que se mudou\nSaiu com alegria\nEu rogo a Deus por ele\nE a Sempre Virgem Maria\n\nJesus Cristo Redentor\nEu peço o meu perdão\nQue eu nunca mais hei de esquecer\nDe rezar para o meu irmão\n\nMeu irmão que já saiu\nDo mundo do pecado\nEu rogo a Deus do céu\nQue ele seja perdoado",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1195",
+      "numero": 7,
+      "titulo": " Senhora Mãe Santíssima",
+      "autor": "Germano Guilherme",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Senhora Mãe Santíssima\nO Vosso Filho Ela mandou\nEstá na frente da estrada\nPara quem lhe acompanhar\n\nPara quem lhe acompanhar\nCom fé e alegria\nPara a santíssima casa Dela\nEla espera todo dia\n\nEla espera todo dia\nO Divino Pai chamar\nPara a santíssima casa Dela\nTodos filhos lá chegar\n\nTodos filhos lá chegar\nE Ela a todos receber\nPara dar a Santa Glória\nÀqueles que merecer",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1196",
+      "numero": 8,
+      "titulo": " Oh meu Pai Eterno",
+      "autor": "João Pereira",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Oh meu Pai Eterno\nÉ Soberano Senhor\nÉ Rei no céu e na terra\nUm Pai Criador\n\nOh Virgem Mãe\nÉ Soberana Senhora\nRainha no céu e na terra\nOh Mãe Criadora\n\nOh meu Pai Eterno\nÉ Soberano Senhor\nMe perdoai os meus pecados\nOh Pai Criador\n\nOh Virgem Mãe\nÉ Soberana Senhora\nMe perdoai as minhas culpas\nOh Mãe Poderosa\n\nOh meu Pai Eterno do céu\nJesus Cristo Salvador\nNasceu de Maria Virgem\nSofreu por Vosso amor",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1197",
+      "numero": 9,
+      "titulo": " Despedida",
+      "autor": "Joaquim Português",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Me despeço meus irmãos\nPorque vou me apresentar\nVou alegre e satisfeito\nPara meu Pai me consolar\n\nEu vou com muita alegria\nPorque Mamãe me chamou\nE quem me deu esta verdade\nFoi o nosso Pai Criador\n\nEu não posso vos levar\nPorque não tenho poder\nPara seguir a verdade\nÉ preciso compreender\n\nPara não seguir a verdade\nNão é preciso rezar\nE todos nós temos a certeza\nDeste mundo se ausentar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1198",
+      "numero": 10,
+      "titulo": " Pisei na terra fria",
+      "autor": "Mestre Irineu",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Pisei na terra fria\nNela eu senti calor\nEla é quem me dá o pão\nA minha Mãe que nos criou\n\nA minha Mãe que nos criou\nE me dá todos ensinos\nA matéria eu entrego a Ela\nE o meu espírito ao Divino\n\nDo sangue das minhas veias\nEu fiz minha assinatura\nO meu espírito eu entrego a Deus\nE o meu corpo à sepultura\n\nMeu corpo na sepultura\nDesprezado no relento\nAlguém fala em meu nome\nAlguma vez em pensamento",
+      "conteudoCifrado": ""
+    }
+  ]
+}

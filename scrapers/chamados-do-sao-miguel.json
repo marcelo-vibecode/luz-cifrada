@@ -1,0 +1,285 @@
+{
+  "hinario": {
+    "nome": "Chamados de São Miguel",
+    "slug": "chamados-do-sao-miguel",
+    "autor": "Autor Desconhecido",
+    "totalHinos": 25
+  },
+  "hinos": [
+    {
+      "id": "3227",
+      "numero": 1,
+      "titulo": "Com o Poder do Céu",
+      "autor": "Padrinho Alfredo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Com o poder do Céu\nDa Terra e também do Mar\nOrdeno a São Miguel\nA força Deus é quem dá\n\nA força Deus é quem dá\nPara quem tem conhecimento\nReconhecendo os primores\nE não tirar do pensamento\n\nSó Deus, só Deus, só Deus\nÉ quem pode nos segurar\nPara nós vencer a batalha\nPara adiante se alcançar\n\nPara adiante se alcançar\nO que custa grande sofrimento\nQue é amar com firmeza\nA Deus Pai do firmamento\n\nO Deus do firmamento\nÉ o Sol e a Lua\nNo firmamento está o carreiro\nE o Cruzeiro, caminhada sua\n\nA constelação chegou\nBem juntinho da Virgem Maria\nNo Cruzeiro está o rosário\nDos pedidos em agonia\n\nA força quem tem é o Rei\nJesus Cristo, o Mestre de sempre\nTudo no coração de Maria\nNa Terra e em todo firmamento\n",
+      "conteudoCifrado": "<cifra class=\"cifra\"> Am                    E</cifra><p>      Am       A7                 Dm</p><cifra class=\"cifra\">    Dm                Am</cifra><p>    Bm7(5b)  E7         Am</p><cifra class=\"cifra\"> </cifra><p>    Am         A7           Dm</p><cifra class=\"cifra\">       Am                            E7</cifra><p>     G      F                 Bm7(5b)</p><cifra class=\"cifra\">   E7                             Am</cifra><p> </p><cifra class=\"cifra\"> Am                    E</cifra><p>      Am       A7                 Dm</p><cifra class=\"cifra\">    Dm                Am</cifra><p>    Bm7(5b)  E7         Am</p><cifra class=\"cifra\"> </cifra><p>    Am         A7           Dm</p><cifra class=\"cifra\">       Am                            E7</cifra><p>     G      F                 Bm7(5b)</p><cifra class=\"cifra\">   E7                             Am</cifra><p> </p><cifra class=\"cifra\"> Am                    E</cifra><p>      Am       A7                 Dm</p><cifra class=\"cifra\">    Dm                Am</cifra><p>    Bm7(5b)  E7         Am</p><cifra class=\"cifra\"> </cifra><p>    Am         A7           Dm</p><cifra class=\"cifra\">       Am                            E7</cifra><p>     G      F                 Bm7(5b)</p><cifra class=\"cifra\">   E7                             Am</cifra><p> </p><cifra class=\"cifra\"> Am                    E</cifra><p>      Am       A7                 Dm</p><cifra class=\"cifra\">    Dm                Am</cifra><p>    Bm7(5b)  E7         Am</p><cifra class=\"cifra\"> </cifra>"
+    },
+    {
+      "id": "3228",
+      "numero": 2,
+      "titulo": "A Chave da Justiça",
+      "autor": "Alex Polari",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eia, vem aqui no meio\nVem aqui com o relho\nEia eu vou chegar\nViva São Miguel que veio\nVeio abrir a banca\nLá dos Orixás\n\nEia, São Miguel que veio\nCom balança e espada\nVeio pra avisar\nQue Jesus Cristo é o dono\nAqui desse terreiro\nE é para se entregar\n\nEia, São Miguel que veio\nBalançando a tropa\nVeio dominar\nPeia pra quem é rebelde\nO fiscal que veio\nFoi para apurar\n\nSalve Oh meu Mestre Império\nQue nesse Cruzeiro\nBem firmado está\nDeu para São João na terra\nA chave da justiça\nNo Santo Daime está\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">C                           F</cifra><p>                            G</p><cifra class=\"cifra\">                      C</cifra><p>C                               F</p><cifra class=\"cifra\">                    G</cifra><p>                 C</p><cifra class=\"cifra\"> </cifra><p>C                           F</p><cifra class=\"cifra\">                            G</cifra><p>                      C</p><cifra class=\"cifra\">C                               F</cifra><p>                    G</p><cifra class=\"cifra\">                 C</cifra><p> </p><cifra class=\"cifra\">C                           F</cifra><p>                            G</p><cifra class=\"cifra\">                      C</cifra><p>C                               F</p><cifra class=\"cifra\">                    G</cifra><p>                 C</p><cifra class=\"cifra\"> </cifra><p>C                           F</p><cifra class=\"cifra\">                            G</cifra><p>                      C</p><cifra class=\"cifra\">C                               F</cifra><p>                    G</p><cifra class=\"cifra\">                 C</cifra><p> </p>"
+    },
+    {
+      "id": "3229",
+      "numero": 3,
+      "titulo": "Mensageiro do Anjo Azul",
+      "autor": "Madrinha Maria Alice",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Sou Mensageiro do Anjo Azul\nFoi São Miguel quem me mandou\n\nEu venho aqui para domar\nA cabeça do dragão\n\nAqui na terra\nVenho fazer a ligação\n\nMamãe Iemanjá\nOgum da Beira Mar",
+      "conteudoCifrado": "<cifra class=\"cifra\">                 C                      G</cifra><p>                   G                          C</p><cifra class=\"cifra\"> </cifra><p>                  G               Em</p><cifra class=\"cifra\">        G                 C</cifra><p> </p><cifra class=\"cifra\">               C                  </cifra><p>            G                C</p><cifra class=\"cifra\"> </cifra><p>     G             Em</p><cifra class=\"cifra\">     G                   C</cifra>"
+    },
+    {
+      "id": "3230",
+      "numero": 4,
+      "titulo": "São Miguel",
+      "autor": "Lúcio Mortimer",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu pedi para esta Luz me clarear\nEu pedi que eu tivesse este amor\nEu pedi para ter força de ajudar\nAos espíritos neste mundo sofredor\n\nRecebi de meu Jesus esta missão\nFazer esforço de ajudar o precisado\nRogando à Deus com fé e convicção\nPara o pedido poder ser escutado\n\nVou seguindo firme e forte a jornada\nEstou firmado com este meu sagrado vinho\nRogando sempre defender destas ciladas\nQue o inimigo apresenta no caminho\n\nCom São Miguel, meu Arcanjo Protetor\nEu tenho força de passar em toda prova\nVou confiando, pois estou com meu Senhor\nQue ao vencedor prometeu a vida nova",
+      "conteudoCifrado": "<cifra class=\"cifra\">          D                                 Em</cifra><p>         G                                    A</p><cifra class=\"cifra\">         A                                    D</cifra><p>         A7                                       D</p><cifra class=\"cifra\"> </cifra><p>        D               B7                  Em</p><cifra class=\"cifra\">              G                                A</cifra><p>    A                                          D</p><cifra class=\"cifra\">               A7                            D</cifra><p> </p><cifra class=\"cifra\">          D                                      Em</cifra><p>         G                                                  A</p><cifra class=\"cifra\">         A                                               D</cifra><p>         A7                                       D</p><cifra class=\"cifra\"> </cifra><p>               D                       B7            Em</p><cifra class=\"cifra\">              G                                       A</cifra><p>               A                                          D</p><cifra class=\"cifra\">                      A7                            D</cifra>"
+    },
+    {
+      "id": "3231",
+      "numero": 5,
+      "titulo": "Força do Céu",
+      "autor": "Dalvina Corrente",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Pedi força do céu\nDa floresta e do mar\nPedi aos meus Arcanjos\nPara vir me ajudar\nPedi a São Miguel\nPara me abençoar\nLimpar a minha estrada\nPara eu poder caminhar\n\nPedi a Santa Estrela\nPara me iluminar\nPedi meu Papai Velho\nSão José de Arribamar\nPedi a Virgem Mãe\nPara me purificar\nEu pedi um conforto\nA minha Mãe Iemanjá",
+      "conteudoCifrado": "<cifra class=\"cifra\">C</cifra><p>                          C7</p><cifra class=\"cifra\">    F </cifra><p>         Am            F</p><cifra class=\"cifra\">    G</cifra><p>        C</p><cifra class=\"cifra\">        C</cifra><p>              G                 C</p><cifra class=\"cifra\"> </cifra><p>C</p><cifra class=\"cifra\">                     C7</cifra><p>    F </p><cifra class=\"cifra\">         Am                  F</cifra><p>    G</p><cifra class=\"cifra\">        C</cifra><p>        C</p><cifra class=\"cifra\">              G                C</cifra>"
+    },
+    {
+      "id": "3232",
+      "numero": 6,
+      "titulo": "São Miguel",
+      "autor": "Padrinho Manoel Corrente",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Sou comando de Maria\nProtetor de São José\nO meu nome é São Miguel\nArcanjo de Nazaré\n\nAndo, ando no espaço\nJunto com meu São João\nEstou dentro desta guerra\nCom o Padrinho Sebastião\n\nPise firme, pise firme\nNo caminho de Jesus\nVou junto com você\nVou zelando esta Luz",
+      "conteudoCifrado": "<cifra class=\"cifra\">              D                 A</cifra><p>          D</p><cifra class=\"cifra\">             G                      D</cifra><p>     A                  D</p><cifra class=\"cifra\"> </cifra><p>              D              A</p><cifra class=\"cifra\">          D</cifra><p>             G                      D</p><cifra class=\"cifra\">                A                    D</cifra><p> </p><cifra class=\"cifra\">        D                 A</cifra><p>          D</p><cifra class=\"cifra\">        G                 D</cifra><p>           A               D</p>"
+    },
+    {
+      "id": "3233",
+      "numero": 7,
+      "titulo": "Mensageiro da Luz",
+      "autor": "Albertina Corrente",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu sou um mensageiro\nMensageiro da Luz\n\nEu sigo o meu caminho\nMeu caminho é de Jesus\n\nToquei minha corneta\nPara relembrar\n\nPara seguir neste Caminho\nTodos tem que se firmar\n\nEu sou um beija-flor\nSou do reino do amor\n\nAqui vim afirmar\nO que meu Pai mandou",
+      "conteudoCifrado": "<cifra class=\"cifra\">        C                    G</cifra><p>             G           C </p><cifra class=\"cifra\"> </cifra><p>        C                    G</p><cifra class=\"cifra\">             G                   C </cifra><p> </p><cifra class=\"cifra\">        C                    G</cifra><p>   G           C </p><cifra class=\"cifra\"> </cifra><p>        C                    G</p><cifra class=\"cifra\">             G                C </cifra><p> </p><cifra class=\"cifra\">        C                    G</cifra><p>             G           C </p><cifra class=\"cifra\"> </cifra><p>   C                G</p><cifra class=\"cifra\">             G                C </cifra>"
+    },
+    {
+      "id": "3234",
+      "numero": 8,
+      "titulo": "Meu Beija-Flor o Sol Raiou",
+      "autor": "Alessandra",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Meu beija-flor o sol raiou\nOuvi os pássaros cantar\n\nAnunciando o Salvador\nQue à Terra irá voltar\n\nNo firmamento um clarão\nResplandeceu em todo Céu\n\nTocou e tornou a tocar\nA corneta de São Miguel\n\nSanta Maria anunciou\nNa tribo tocou o clarim\n\nJá vem descendo das Estrelas\nMeu guerreiro Beija-mim\n\nTu Beija-mim flor de amor\nGuerreiro do Pai Criador\n\nDai-nos Saúde e União\nVem curar nesta sessão\n\nMensageiro do fim dos tempos\nRei Beija-mim senhor do Bem\n\nVem declarar o nascimento\nDa Nova Jerusalém\n\nSigo na batalha do amor\nCom esperança de chegar\n\nAgradecendo ao Sol e a Lua\nE a Rainha do Mar",
+      "conteudoCifrado": "<cifra class=\"cifra\">              Dm                A</cifra><p>                Gm             A7</p><cifra class=\"cifra\"> </cifra><p>          Gm                A</p><cifra class=\"cifra\">       Em7(5b)  A7  Dm</cifra><p> </p><cifra class=\"cifra\">              Dm                A</cifra><p>                Gm                A7</p><cifra class=\"cifra\"> </cifra><p>          Gm                A</p><cifra class=\"cifra\">       Em7(5b)  A7      Dm</cifra><p> </p><cifra class=\"cifra\">              Dm                A</cifra><p>                Gm             A7</p><cifra class=\"cifra\"> </cifra><p>          Gm                A</p><cifra class=\"cifra\">       Em7(5b)  A7  Dm</cifra><p> </p><cifra class=\"cifra\">              Dm                A</cifra><p>                Gm             A7</p><cifra class=\"cifra\"> </cifra><p>          Gm                A</p><cifra class=\"cifra\">       Em7(5b)  A7  Dm</cifra><p> </p><cifra class=\"cifra\">              Dm                A</cifra><p>                Gm             A7</p><cifra class=\"cifra\"> </cifra><p>          Gm                A</p><cifra class=\"cifra\">       Em7(5b)  A7  Dm</cifra><p> </p><cifra class=\"cifra\">              Dm                A</cifra><p>                Gm             A7</p><cifra class=\"cifra\"> </cifra><p>          Gm                A</p><cifra class=\"cifra\">       Em7(5b)  A7  Dm</cifra>"
+    },
+    {
+      "id": "3235",
+      "numero": 9,
+      "titulo": "Santo Daime Beija-Mim",
+      "autor": "Marina Ruberti",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Com amor eu recebi\nCom amor eu vou te dar\n\nSanto Daime Beija-mim\nCom amor vou te curar\n\nCom amor eu recebi\nCom a verdade eu vou te dar\n\nSanto Daime Beija-mim\nUm segredo para desvendar\n\nCom amor eu recebi\nCom amor eu vou te dar\n\nSanto Daime para seguir\nEste amor para zelar",
+      "conteudoCifrado": "<cifra class=\"cifra\">           Dm             F</cifra><p>            A                  Dm</p><cifra class=\"cifra\"> </cifra><p>             Gm              F </p><cifra class=\"cifra\">           A7                Dm  </cifra><p> </p><cifra class=\"cifra\">           Dm             F</cifra><p>            A                  Dm</p><cifra class=\"cifra\"> </cifra><p>             Gm              F </p><cifra class=\"cifra\">           A7                Dm  </cifra><p> </p><cifra class=\"cifra\">           Dm             F</cifra><p>            A                  Dm</p><cifra class=\"cifra\"> </cifra><p>             Gm              F </p><cifra class=\"cifra\">           A7                Dm  </cifra>"
+    },
+    {
+      "id": "3236",
+      "numero": 10,
+      "titulo": "Eu Peço ao Meu São Miguel",
+      "autor": "Padrinho Valdete",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu peço a meu São Miguel\nPara Vós com a Sua espada\n\nAjudai a dominar este povo\nPara seguir numa boa estrada\n\nPara seguir nesta boa estrada\nDo Mestre que nos ensina\n\nÉ cumprir todos mandamentos\nContidos aqui nesta Doutrina\n\nEnxotando os malfazejos\nAqui na Linha do Tucum\n\nMeus irmãos, vamos prestar atenção\nPara que nós não sejamos um\n\nIsto não é um julgamento\nMas é um aviso seríssimo\n\nPara quem quer seguir a Doutrina\nE prestar bem conta do serviço\n\nÉ prestar bem conta do serviço\nAo nosso Mestre ensinador\n\nPara ver se estamos seguindo\nOu se somos só uns zombadores\n\nMeu irmão, se está zombando\nTrate de se arrepender\n\nE peça seu perdão a Deus\nPara ver se poder merecer\n \nÉ se arrepender de coração\nNão é só com comparação\n\nPorque o nosso Mestre sabe\nSe pode te dar o perdão\n\nSe se arrepender de coração\nDá para todo mundo ver\n\nNo seu seguir a Doutrina\nE nas ações que cometer\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">         C                          G  </cifra><p>          F          G             C </p><cifra class=\"cifra\"> </cifra><p>      Am                          C</p><cifra class=\"cifra\">           Am                       C</cifra><p> </p><cifra class=\"cifra\">         C                          G  </cifra><p>          F          G             C </p><cifra class=\"cifra\"> </cifra><p>      Am                          C</p><cifra class=\"cifra\">           Am                       C</cifra><p> </p><cifra class=\"cifra\">         C                          G  </cifra><p>          F          G             C </p><cifra class=\"cifra\"> </cifra><p>      Am                          C</p><cifra class=\"cifra\">           Am                       C</cifra><p> </p><cifra class=\"cifra\">         C                          G  </cifra><p>          F          G             C </p><cifra class=\"cifra\"> </cifra><p>      Am                          C</p><cifra class=\"cifra\">           Am                       C</cifra><p> </p><cifra class=\"cifra\">         C                          G  </cifra><p>          F          G             C </p><cifra class=\"cifra\"> </cifra><p>      Am                          C</p><cifra class=\"cifra\">           Am                       C</cifra><p> </p><cifra class=\"cifra\">         C                          G  </cifra><p>          F          G             C </p><cifra class=\"cifra\"> </cifra><p>      Am                          C</p><cifra class=\"cifra\">           Am                       C</cifra><p></p><cifra class=\"cifra\">            C                       G</cifra><p>      F           G            C</p><cifra class=\"cifra\"> </cifra><p>           Am                       C</p><cifra class=\"cifra\">         Am                       C</cifra><p> </p><cifra class=\"cifra\">            C                       G</cifra><p>      F           G            C</p><cifra class=\"cifra\"> </cifra><p>           Am                       C</p><cifra class=\"cifra\">         Am                         C  </cifra><p> </p>"
+    },
+    {
+      "id": "3237",
+      "numero": 11,
+      "titulo": "As Seguranças do Céu",
+      "autor": "Padrinho Valdete",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F",
+      "letraPura": "Papapapaparuê\nPapapapaparuá\n\nVou chamar neste terreiro\nOgum da Mata Ogum do Mar\n\nTambém vou chamar aqui\nAs seguranças do Céu\n\nSão Miguel, São Gabriel\nJunto com São Rafael\n\nPara vir nos ajudar\nAs seguranças do quartel\n\nPara só poder entrar\nAs falanges que vem do Céu\n\nE não poder penetrar\nAs falanges de Lúcifer\n\nPara isto é preciso\nSermos soldados fiéis\n\nPara poder merecer\nAs seguranças do Céu",
+      "conteudoCifrado": "<cifra class=\"cifra\">             F</cifra><p>           F</p><cifra class=\"cifra\"> </cifra><p>                  F</p><cifra class=\"cifra\">                   F </cifra><p> </p><cifra class=\"cifra\">                  C </cifra><p>                             F</p><cifra class=\"cifra\"> </cifra><p>            C</p><cifra class=\"cifra\">                             F</cifra><p> </p><cifra class=\"cifra\">     C</cifra><p>                               F</p><cifra class=\"cifra\"> </cifra><p>        C</p><cifra class=\"cifra\">                                    F</cifra><p> </p><cifra class=\"cifra\">            C</cifra><p>                              F</p><cifra class=\"cifra\"> </cifra><p>          F</p><cifra class=\"cifra\">                            F</cifra><p> </p><cifra class=\"cifra\">         C</cifra><p>                             F</p>"
+    },
+    {
+      "id": "3238",
+      "numero": 12,
+      "titulo": "Falanges do Céu",
+      "autor": "Padrinho Valdete",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Viva o Senhor São Miguel\nViva as falanges do Céu\nE os arcanjos Querubins\n\nViva a Mãe do Salvador\nE viva Nosso Senhor\nE os arcanjos Serafins\n\nQue como Deus não tem igual\nNos livra de todo mal\nE de tudo enquanto é ruim",
+      "conteudoCifrado": "<cifra class=\"cifra\">                C                G</cifra><p>                C               G  </p><cifra class=\"cifra\">               C               G</cifra><p> </p><cifra class=\"cifra\">                C                G</cifra><p>                C               G  </p><cifra class=\"cifra\">               C               G</cifra><p> </p><cifra class=\"cifra\">                C                G</cifra><p>                C               G  </p><cifra class=\"cifra\">               C               G</cifra>"
+    },
+    {
+      "id": "3239",
+      "numero": 13,
+      "titulo": "Sete Cruzes de São Miguel",
+      "autor": "Isabel Barsé",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "As sete cruzes de São Miguel\nEstão aqui para te libertar\n\nSão sete cruzes, são sete cruzes\nSão sete cruzes para te libertar\n\nTodos os seres que me acompanham\nVós queiram me respeitar\n\nEu sou o chefe desta casa\nEstou aqui para comandar\n\nEsta é a casa de Deus\nEsta é a casa de Deus\n\nSou Luz, sou Luz\nEstou aqui para te libertar",
+      "conteudoCifrado": "<cifra class=\"cifra\">                 Dm               A7  </cifra><p>             A7                   Dm</p><cifra class=\"cifra\"> </cifra><p>                 Dm               A7  </p><cifra class=\"cifra\">             A7                   Dm</cifra><p> </p><cifra class=\"cifra\">                 Dm               A7  </cifra><p>             A7                   Dm</p><cifra class=\"cifra\"> </cifra><p>                 Dm               A7  </p><cifra class=\"cifra\">             A7                   Dm</cifra><p> </p><cifra class=\"cifra\">                 Dm               A7  </cifra><p>             A7                   Dm</p><cifra class=\"cifra\"> </cifra><p>                 Dm               A7  </p><cifra class=\"cifra\">             A7                   Dm</cifra>"
+    },
+    {
+      "id": "3240",
+      "numero": 14,
+      "titulo": "Clareia",
+      "autor": "Padrinho Paulo Roberto",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F#m",
+      "letraPura": "Clareia, clareia, clareia\nEstou vendo tudo clarear\n\nLua cheia, lua cheia\nIlumina, nas alturas onde está\n\nPerfila, te apruma, te firma\nEm honra ao gloriosíssimo São Miguel\n\nPara servir ao valoroso guardião\nPríncipe dos exércitos do céu\n\nCom sua espada de fogo\nCom seu escudo de luz\n\nOnde está escrito quem como Deus ninguém\nSeja na terra, lá no céu ou no além",
+      "conteudoCifrado": "<cifra class=\"cifra\">            F#m            D</cifra><p>               A               D     </p><cifra class=\"cifra\"> </cifra><p>          G               D </p><cifra class=\"cifra\">       A                               D</cifra><p> </p><cifra class=\"cifra\">       F#m       D               A</cifra><p>               A               D     </p><cifra class=\"cifra\"> </cifra><p>          G                              D </p><cifra class=\"cifra\">       A                               D</cifra><p> </p><cifra class=\"cifra\">                F#m            D</cifra><p>   A                          D     </p><cifra class=\"cifra\"> </cifra><p>                      G                                     D </p><cifra class=\"cifra\">             A                               D</cifra>"
+    },
+    {
+      "id": "3241",
+      "numero": 15,
+      "titulo": "A São Miguel",
+      "autor": "Francisco Cavalcante de Lima",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Em",
+      "letraPura": "Eu peço oh meu São Miguel\nQue domine o mal que aqui existir\n\nAqui nós buscamos o bem\nE a fazer o bem e sem olhar a quem\n\nO centro do Mestre é livre\nNa linha direita nós vamos seguir\n\nConsagrando este aposento \nZelando a luz, que é o nosso alimento\n\nConservando a Santa Luz\nEla é quem nos conduz vamos caminhar\n\nTodos seres que devem respeito\nToda natureza conspira efeito\n\nCurrupipipiraguá o Mestre\nChamou vamos trabalhar\n\nAgradecemos a força Divina\nJunto a São Miguel é quem nos domina",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Em           G             Am </cifra><p>           F#         B           Am       B</p><cifra class=\"cifra\"> </cifra><p> Am             (B7)         Em</p><cifra class=\"cifra\">      C          F#             B7          Em </cifra><p> </p><cifra class=\"cifra\">    Em       G                Am </cifra><p>      F#        B           Am           B</p><cifra class=\"cifra\"> </cifra><p>          Am       (B7)      Em</p><cifra class=\"cifra\">     C         F#               B7          Em </cifra><p> </p><cifra class=\"cifra\">           Em     G           Am </cifra><p>           F#                 B      Am           B</p><cifra class=\"cifra\"> </cifra><p>          Am          (B7)         Em</p><cifra class=\"cifra\">      C       F#           B7     Em </cifra><p> </p><cifra class=\"cifra\">        Em  G    Am       F#</cifra><p>        B       Am            B</p><cifra class=\"cifra\"> </cifra><p>          Am         (B7)     Em</p><cifra class=\"cifra\">         C             F#        B7            Em </cifra>"
+    },
+    {
+      "id": "3242",
+      "numero": 16,
+      "titulo": "Da Terra ao Astral",
+      "autor": "Madrinha Baixinha",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Da Terra ao astral\nOs inimigos atacar\nNa espada de São Miguel\nTodos vão se transformar\n\nAs estrelas do Céu\nBrilham pra quem tem amor\nNas matas do meu Pai\nCorre água e nasce flor\n\nAs curas estão abertas\nAos bons de coração\nQuem recebe merece\nAgradece, nunca esquece",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Dm              A</cifra><p>      Dm             A</p><cifra class=\"cifra\">                                  Gm</cifra><p>            A7                 Dm</p><cifra class=\"cifra\"> </cifra><p>     Dm              A</p><cifra class=\"cifra\">      Dm             A</cifra><p>                                Gm</p><cifra class=\"cifra\">            A7                 Dm</cifra><p> </p><cifra class=\"cifra\">     Dm              A</cifra><p>      Dm             A</p><cifra class=\"cifra\">                              Gm</cifra><p>            A7                 Dm</p>"
+    },
+    {
+      "id": "3243",
+      "numero": 17,
+      "titulo": "A Estrela Azul",
+      "autor": "Madrinha Baixinha",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Vem levantando do fundo do mar\nA Estrela Azul em seu trono divinal\n\nLá vem, lá vem para nos curar\nA Estrela Azul em seu trono divinal\n\nEla vem curar quem acreditar\nA Estrela Azul em seu trono divinal",
+      "conteudoCifrado": "<cifra class=\"cifra\">                   A                           E</cifra><p>                Bm                 E          A</p><cifra class=\"cifra\"> </cifra><p>                   A                           E</p><cifra class=\"cifra\">                Bm                 E          A</cifra><p> </p><cifra class=\"cifra\">                Bm                A</cifra><p>                Bm                 E          A</p>"
+    },
+    {
+      "id": "3244",
+      "numero": 18,
+      "titulo": "O Anjo de Deus",
+      "autor": "Padrinho Alfredo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "O anjo de Deus nos protege\nCom seu santo manto azul\n\nDe leste a oeste, de norte a sul\nViva a Estrela do azul\n\nQue faz brilhar as Estrelas do Céu\nDo arcanjo Rafael\n\nEste globo gira perfeito\nCom diversas mostragens de cor\n\nÉ Deus em tudo, é o fruto, é a flor\nVida do meu Criador\n\nQue faz brotar com todo vigor\nVida do Rei do amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">       Am      C               Am </cifra><p>        Bm7(5b)    E7        Am</p><cifra class=\"cifra\"> </cifra><p>       Dm               F              E</p><cifra class=\"cifra\">  Bm7(5b)    E7        Am</cifra><p> </p><cifra class=\"cifra\">       Dm               F              E</cifra><p>Bm7(5b)    E7   Am</p><cifra class=\"cifra\"> </cifra><p>       Am               C             Am</p><cifra class=\"cifra\">        Bm7(5b)    E7        Am</cifra><p> </p><cifra class=\"cifra\">       Dm               F              E</cifra><p>        Bm7(5b)    E7        Am</p><cifra class=\"cifra\"> </cifra><p>       Dm               F              E</p><cifra class=\"cifra\">        Bm7(5b)    E7        Am</cifra>"
+    },
+    {
+      "id": "3245",
+      "numero": 19,
+      "titulo": "Santas Milícias",
+      "autor": "Alex Polari",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Falange de São Miguel\nFalange de Rafael\nFalange de Gabriel\nTodos se juntando\nBem detrás do Sol\n\nÉ a hora da batalha\nAqui na terra e no céu\nSalve as Santas Milícias\nAdonai e Emanuel",
+      "conteudoCifrado": "<cifra class=\"cifra\">      G</cifra><p>                     G</p><cifra class=\"cifra\">                     Am</cifra><p>                    C</p><cifra class=\"cifra\">D                    G</cifra><p> </p><cifra class=\"cifra\">         G</cifra><p>    G                    Am</p><cifra class=\"cifra\">                             C</cifra><p>      D                G</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3246",
+      "numero": 20,
+      "titulo": "São Rafael",
+      "autor": "Isabel Barsé",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "São Rafael chegou do Céu\nÉ Arcanjo do Senhor\n\nVinde a mim, vinde a mim\nCom Vosso sagrado Amor\n\nSão Rafael é curador\nDe pureza Divinal\n\nMe ensinai aqui na Terra\nPara sempre eu ter amor\n\nSão Rafael é meu amor\nQuero sempre com Vós estar\n\nEstou aqui, aqui estou\nCom ordem do Criador\n\nSão Rafael celestial\nÉ o verde que reluz\n\nIluminai, iluminai\nPara sempre eterna luz",
+      "conteudoCifrado": "<cifra class=\"cifra\">A                 E                  A</cifra><p> F#m                 E</p><cifra class=\"cifra\"> </cifra><p>    F#m                     Bm</p><cifra class=\"cifra\">     E                             A</cifra><p> </p><cifra class=\"cifra\">A                 E                  A</cifra><p> F#m                 E</p><cifra class=\"cifra\"> </cifra><p>    F#m                     Bm</p><cifra class=\"cifra\">     E                             A</cifra><p> </p><cifra class=\"cifra\">A                 E                  A</cifra><p> F#m                 E</p><cifra class=\"cifra\"> </cifra><p>    F#m                     Bm</p><cifra class=\"cifra\">     E                             A</cifra><p> </p><cifra class=\"cifra\">A                 E                  A</cifra><p> F#m                 E</p><cifra class=\"cifra\"> </cifra><p>    F#m                     Bm</p><cifra class=\"cifra\">     E                             A</cifra><p></p>"
+    },
+    {
+      "id": "3247",
+      "numero": 21,
+      "titulo": "Sou Guia de Muitos Anjinhos",
+      "autor": "Julia Freire de Medeiros",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Sou da falange de São Rafael\nEstou na Terra, estou também no céu\n\nEu sou um anjo do nosso Senhor\nFoi Jesus Cristo que me coroou\n\nEu sou divina como a luz do dia\nEu vim aqui trazer a alegria\n\nA minha Mãe que me abençoou\nMe deu força e me deu amor\n\nEu sou do reino da Beira do Mar\nEu sou Oxum Eu sou Iemanjá\n\nEu lavo, lavo para clarear\nDespacho tudo pro fundo do mar\n\nA minha Mãe misericordiosa\nMe deu este Arcanjo para me guiar\n\nQue eu sou guia de muitos anjinhos\nTodos pequeninos vão me acompanhar\n\nEu agradeço pelo que passei\nE pelo que ainda tenho que passar\n\nA todas as estrelas que estão no céu\nQue estão na terra que estão no mar\n\nAo meu Sol Dourado e a minha Mãe Divina\nPor este cristal e esta prata fina\n\nA terra crua que me recebeu\nAo meu Mestre Império\nMeu São João e meu São Irineu",
+      "conteudoCifrado": "<cifra class=\"cifra\">      Am                             E   Am</cifra><p>     E                                       Am</p><cifra class=\"cifra\"> </cifra><p>     Dm                               C</p><cifra class=\"cifra\">      E                                 Am</cifra><p> </p><cifra class=\"cifra\">      Am                             E   Am</cifra><p>     E                                       Am</p><cifra class=\"cifra\"> </cifra><p>     Dm                               C</p><cifra class=\"cifra\">      E                                 Am</cifra><p> </p><cifra class=\"cifra\">      Am                             E   Am</cifra><p>     E                                       Am</p><cifra class=\"cifra\"> </cifra><p>     Dm                               C</p><cifra class=\"cifra\">      E                                 Am</cifra><p> </p><cifra class=\"cifra\">      Am                             E   Am</cifra><p>     E                                       Am</p><cifra class=\"cifra\"> </cifra><p>     Dm                               C</p><cifra class=\"cifra\">      E                                 Am</cifra><p> </p><cifra class=\"cifra\">      Am                             E   Am</cifra><p>     E                                       Am</p><cifra class=\"cifra\"> </cifra><p>     Dm                               C</p><cifra class=\"cifra\">      E                                 Am</cifra><p> </p><cifra class=\"cifra\">      Am                             E   Am</cifra><p>     E                                       Am</p><cifra class=\"cifra\"> </cifra><p>     Dm                               C</p><cifra class=\"cifra\">      E                                 Am</cifra><p></p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3248",
+      "numero": 22,
+      "titulo": "Os Anjos do Céu",
+      "autor": "Verônica Maeus",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Os anjos do céu\nEu aqui estou chamando\n\nMiguel, Gabriel\nOs seres deste comando\n\nA Santa Maria\nQue Deus entregou\n\nA São João Batista\nQuem asseverou\n\nEu peço clemência\nDe mim tenha pena\n\nSão João, São José\nE minha Santa Madalena\n\nOs anjos do céu\nEu aqui estou chamando\n\nMiguel, Gabriel\nPara irem me ajudando",
+      "conteudoCifrado": "<cifra class=\"cifra\">     A</cifra><p>   E                           A</p><cifra class=\"cifra\"> </cifra><p>      D              A</p><cifra class=\"cifra\">       E                         A</cifra><p> </p><cifra class=\"cifra\">     A</cifra><p>   E                           A</p><cifra class=\"cifra\"> </cifra><p>      D              A</p><cifra class=\"cifra\">       E                         A</cifra><p> </p><cifra class=\"cifra\">     A</cifra><p>   E                           A</p><cifra class=\"cifra\"> </cifra><p>      D              A</p><cifra class=\"cifra\">       E                         A</cifra><p> </p><cifra class=\"cifra\">     A</cifra><p>   E                           A</p><cifra class=\"cifra\"> </cifra><p>      D              A</p><cifra class=\"cifra\">       E                         A</cifra><p></p>"
+    },
+    {
+      "id": "3249",
+      "numero": 23,
+      "titulo": "Vi São Gabriel",
+      "autor": "Madrinha Maria Alice",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Eu vi São Gabriel descer do céu\nE cenas do passado relembrar\n\nMe disse foi meu Pai que me mandou\nEu vim pra coroar a tua dor\n\nEu sou arauto do Santo Amor\nFui eu que anunciei o Salvador\n\nFalei com o patriarca São José\nChamei e afirmei a sua fé\n\nLá no Monte Calvário vigiei\nE a mão da Mãe Santíssima segurei\n\nEu desço no momento crucial\nSinalizando a rota divinal\n\nEu sou um dedo do Pai Criador\nEu guio neste mundo sofredor\n\nEu brilho na estrela oriental\nAponto no sentido vertical\n\nEternamente eu quero agradecer\nMeu Pai Vós não me deixas te esquecer\n\nAqui venho saudar São Gabriel\nE a todos anjos e arcanjos lá do Céu",
+      "conteudoCifrado": "<cifra class=\"cifra\">G                                      D</cifra><p>                                          G</p><cifra class=\"cifra\"> </cifra><p>C                                              G</p><cifra class=\"cifra\">D                                G</cifra><p> </p><cifra class=\"cifra\">G                                      D</cifra><p>                                          G</p><cifra class=\"cifra\"> </cifra><p>C                                          G</p><cifra class=\"cifra\">D                                G</cifra><p> </p><cifra class=\"cifra\">G                                      D</cifra><p>                                          G</p><cifra class=\"cifra\"> </cifra><p>C                                              G</p><cifra class=\"cifra\">D                                G</cifra><p> </p><cifra class=\"cifra\">G                                      D</cifra><p>                                          G</p><cifra class=\"cifra\"> </cifra><p>C                                      G</p><cifra class=\"cifra\">D                                G</cifra><p> </p><cifra class=\"cifra\">G                                      D</cifra><p>                                          G</p><cifra class=\"cifra\"> </cifra><p>C                                            G</p><cifra class=\"cifra\">D                                      G</cifra>"
+    },
+    {
+      "id": "3250",
+      "numero": 24,
+      "titulo": "Anunciação",
+      "autor": "Isabela",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "B",
+      "letraPura": "Minha mãezinha do céu\nQuando viste Gabriel\nSe entregou de coração\nE confiou na Anunciação\n\nPatriarca São José\nTambém teve a miração\nRecebeu sua missão\nE amou com devoção\n\nA Estrela de Belém\nEntre nós veio brilhar\nÉ o filho de Maria\nQue veio para nos salvar\n\nEsta mensagem feliz\nAlegra meu coração\nConsagra a doutrina\nE confirma a união\n\nVou seguindo neste caminho\nSaindo da ilusão\nDou louvor ao Pai Eterno\nE à Virgem da Conceição",
+      "conteudoCifrado": "<cifra class=\"cifra\">B                           F#</cifra><p>F#                      C#m</p><cifra class=\"cifra\">                          F#</cifra><p>                          B</p><cifra class=\"cifra\"> </cifra><p>B                           F#</p><cifra class=\"cifra\">F#                      C#m</cifra><p>                          F#</p><cifra class=\"cifra\">                          B</cifra><p> </p><cifra class=\"cifra\">B                           F#</cifra><p>F#                      C#m</p><cifra class=\"cifra\">                          F#</cifra><p>                          B</p><cifra class=\"cifra\"> </cifra><p>B                           F#</p><cifra class=\"cifra\">F#                      C#m</cifra><p>                          F#</p><cifra class=\"cifra\">                          B</cifra><p> </p><cifra class=\"cifra\">B                           F#</cifra><p>F#                      C#m</p><cifra class=\"cifra\">                          F#</cifra><p>                          B</p>"
+    },
+    {
+      "id": "3251",
+      "numero": 25,
+      "titulo": "Os Anjos",
+      "autor": "Francisco Cavalcante de Lima",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Os anjos que estão presentes\nAjude-nos a conduzir\nMostrai um clarão para mim\nMostrai um clarão para nós\nMostrai esta santa firmeza\nCom ela chegarmos a Vós\n\nSois anjo pois pode ajudar\nAjude-nos a prosseguir\nMostrai-nos um lindo sinal\nMostrai-nos como se compõe\nMostrando a revelação\nCom ela chegarmos à Mãe\n\nOs anjos que aqui estão\nAjude-nos a nos unir\nMostrando-me o meu irmão\nMostrando-me a santa luz\nMostrai-nos a caridade\nCom ela chegarmos a Jesus\n\nOs anjos de Deus nos ajude\nAjude-nos a corrigir\nMostrando seu santo amor\nMostrando-me a santa paz\nMostrando seu brilho de luz\nCom ele chegarmos ao Pai",
+      "conteudoCifrado": "<cifra class=\"cifra\">Am                               Dm</cifra><p>E                       Am</p><cifra class=\"cifra\">G                                 C</cifra><p>Dm                           Am</p><cifra class=\"cifra\">Dm                          Am</cifra><p>E                             Am</p><cifra class=\"cifra\"> </cifra><p>Am                               Dm</p><cifra class=\"cifra\">E                       Am</cifra><p>G                                 C</p><cifra class=\"cifra\">Dm                           Am</cifra><p>Dm                          Am</p><cifra class=\"cifra\">E                             Am</cifra><p> </p><cifra class=\"cifra\">Am                               Dm</cifra><p>E                       Am</p><cifra class=\"cifra\">G                                 C</cifra><p>Dm                           Am</p><cifra class=\"cifra\">Dm                          Am</cifra><p>E                             Am</p><cifra class=\"cifra\"> </cifra><p>Am                               Dm</p><cifra class=\"cifra\">E                       Am</cifra><p>G                                 C</p><cifra class=\"cifra\">Dm                           Am</cifra><p>Dm                          Am</p><cifra class=\"cifra\">E                             Am</cifra>"
+    }
+  ]
+}

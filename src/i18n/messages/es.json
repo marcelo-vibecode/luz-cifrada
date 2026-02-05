@@ -1,0 +1,91 @@
+{
+  "common": {
+    "appName": "Luz Cifrada",
+    "search": "Buscar",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "back": "Volver",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "comingSoon": "Próximamente"
+  },
+  "nav": {
+    "home": "Inicio",
+    "hinarios": "Himnarios",
+    "favorites": "Favoritos",
+    "pro": "PRO",
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión"
+  },
+  "home": {
+    "title": "Luz Cifrada",
+    "subtitle": "Acordes y tablaturas para la doctrina del Santo Daime",
+    "description": "Patrimonio espiritual ofrecido de forma abierta y gratuita.",
+    "exploreButton": "Explorar Himnarios",
+    "learnMore": "Más información",
+    "featuredTitle": "Himnarios Destacados",
+    "features": {
+      "title": "Características",
+      "transposition": {
+        "title": "Transposición de Tono",
+        "description": "Ajusta la tonalidad de los acordes a tu voz o instrumento con un clic."
+      },
+      "autoScroll": {
+        "title": "Desplazamiento automático",
+        "description": "Desplazamiento automático de la página para tocar con manos libres."
+      },
+      "mobileFirst": {
+        "title": "Mobile-first",
+        "description": "Diseño optimizado para uso en smartphones durante los trabajos."
+      }
+    }
+  },
+  "hinarios": {
+    "title": "Himnarios",
+    "subtitle": "Explora los himnarios sagrados del Santo Daime",
+    "searchPlaceholder": "Buscar himnario...",
+    "hinosCount": "{count} himnos",
+    "moreComingSoon": "Más himnarios serán añadidos pronto"
+  },
+  "hino": {
+    "key": "Tono",
+    "transpose": "Transponer",
+    "lowerKey": "Bajar tono",
+    "raiseKey": "Subir tono",
+    "resetKey": "Resetear tono",
+    "rhythm": {
+      "marcha": "Marcha",
+      "valsa": "Vals",
+      "mazurca": "Mazurca"
+    },
+    "position": {
+      "standing": "DE PIE",
+      "sitting": "SENTADO"
+    }
+  },
+  "autoScroll": {
+    "play": "Iniciar desplazamiento",
+    "pause": "Pausar desplazamiento",
+    "speed": "Velocidad",
+    "slow": "Lento",
+    "medium": "Medio",
+    "fast": "Rápido",
+    "hint": "Espacio para play/pausa"
+  },
+  "chord": {
+    "diagramUnavailable": "Diagrama no disponible"
+  },
+  "pro": {
+    "badge": "PRO",
+    "upgrade": "Actualizar",
+    "editChord": "Editar acorde",
+    "addTablature": "Añadir tablatura"
+  },
+  "footer": {
+    "description": "Patrimonio espiritual del Santo Daime",
+    "legalNote": "Contenido musical considerado de dominio espiritual y cultural"
+  }
+}

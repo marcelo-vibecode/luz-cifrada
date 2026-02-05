@@ -1,0 +1,91 @@
+{
+  "common": {
+    "appName": "Luz Cifrada",
+    "search": "Buscar",
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "back": "Voltar",
+    "close": "Fechar",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "comingSoon": "Em breve"
+  },
+  "nav": {
+    "home": "Início",
+    "hinarios": "Hinários",
+    "favorites": "Favoritos",
+    "pro": "PRO",
+    "login": "Entrar",
+    "logout": "Sair"
+  },
+  "home": {
+    "title": "Luz Cifrada",
+    "subtitle": "Cifras e tablaturas para a doutrina do Santo Daime",
+    "description": "Patrimônio espiritual oferecido de forma aberta e gratuita.",
+    "exploreButton": "Explorar Hinários",
+    "learnMore": "Saiba Mais",
+    "featuredTitle": "Hinários em Destaque",
+    "features": {
+      "title": "Recursos",
+      "transposition": {
+        "title": "Transposição de Tom",
+        "description": "Ajuste a tonalidade das cifras para sua voz ou instrumento com um clique."
+      },
+      "autoScroll": {
+        "title": "Auto-scroll",
+        "description": "Rolagem automática da página para tocar sem precisar das mãos."
+      },
+      "mobileFirst": {
+        "title": "Mobile-first",
+        "description": "Design otimizado para uso em smartphones durante os trabalhos."
+      }
+    }
+  },
+  "hinarios": {
+    "title": "Hinários",
+    "subtitle": "Explore os hinários sagrados do Santo Daime",
+    "searchPlaceholder": "Buscar hinário...",
+    "hinosCount": "{count} hinos",
+    "moreComingSoon": "Mais hinários serão adicionados em breve"
+  },
+  "hino": {
+    "key": "Tom",
+    "transpose": "Transpor",
+    "lowerKey": "Diminuir tom",
+    "raiseKey": "Aumentar tom",
+    "resetKey": "Resetar tom",
+    "rhythm": {
+      "marcha": "Marcha",
+      "valsa": "Valsa",
+      "mazurca": "Mazurca"
+    },
+    "position": {
+      "standing": "DE PÉ",
+      "sitting": "SENTADO"
+    }
+  },
+  "autoScroll": {
+    "play": "Iniciar rolagem",
+    "pause": "Pausar rolagem",
+    "speed": "Velocidade",
+    "slow": "Lento",
+    "medium": "Médio",
+    "fast": "Rápido",
+    "hint": "Espaço para play/pause"
+  },
+  "chord": {
+    "diagramUnavailable": "Diagrama não disponível"
+  },
+  "pro": {
+    "badge": "PRO",
+    "upgrade": "Fazer upgrade",
+    "editChord": "Editar cifra",
+    "addTablature": "Adicionar tablatura"
+  },
+  "footer": {
+    "description": "Patrimônio espiritual do Santo Daime",
+    "legalNote": "Conteúdo musical considerado de domínio espiritual e cultural"
+  }
+}

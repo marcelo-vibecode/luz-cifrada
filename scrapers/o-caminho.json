@@ -1,0 +1,164 @@
+{
+  "hinario": {
+    "nome": "O Caminho",
+    "slug": "o-caminho",
+    "autor": "Víctor Amaral",
+    "totalHinos": 14
+  },
+  "hinos": [
+    {
+      "id": "4135",
+      "numero": 1,
+      "titulo": "Luz do Santo Daime",
+      "autor": "Víctor Amaral",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Esta é a luz do Santo Daime\nA Santa luz o Santo Poder\nEsta é a luz do Santo Daime\nA consagração que faz renascer\n\nÉ quem nos guia quem nos ensina\nE nos dá força para viver\nQuem nos ajuda na santa luta\nPela paz do Divino Ser\n\nE vai mostrando nossos defeitos\nE nós devemos é corrigir\nNão ser perfeito mas ser direito\nVamos mudar para subir\n\nNesta batalha com nossa espada\nE o comando do Redentor\nVamos seguindo iluminando\nMultiplicando o nosso amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">             Bm      F#      Bm</cifra><p>              A                Bm</p><cifra class=\"cifra\">             Bm      F#      Bm</cifra><p>               A                    Bm</p><cifra class=\"cifra\"> </cifra><p>                    A                     Bm</p><cifra class=\"cifra\">               G              F#m</cifra><p>                  A                    Bm</p><cifra class=\"cifra\">         G                  Bm</cifra><p> </p><cifra class=\"cifra\">                Bm      F#      Bm</cifra><p>              A                Bm</p><cifra class=\"cifra\">             Bm               F#      Bm</cifra><p>               A             Bm</p><cifra class=\"cifra\"> </cifra><p>                 A                     Bm</p><cifra class=\"cifra\">             G              F#m</cifra><p>                  A               Bm</p><cifra class=\"cifra\">             G                  Bm</cifra>"
+    },
+    {
+      "id": "4136",
+      "numero": 2,
+      "titulo": "O Caminho",
+      "autor": "Víctor Amaral",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Em",
+      "letraPura": "Irei voar eu vou\nVoando chegarei\nCom firmeza no amor\nE lealdade a meu Rei\n\nVejo o sol se pôr\nSinto o balanço do mar\nNa terra brota a flor\nPerfume pra respirar\n\nCantando e subindo\nRumo a soberania\nNa paz evoluindo\nVivendo em harmonia\n\nLá eu quero chegar\nE para sempre quero estar\nAo meu pai encostado\nE para o Mestre trabalhar\n\nConfio no caminho\nNão esqueço seu valor\nConfio em quem me guia\nJesus Cristo Redentor\n\nSei que está comigo\nE tenho eterna gratidão\nSeguiremos unidos\nCom amor no coração\n\nTudo que se passou\nÉ para um dia lá chegar\nBem aqui onde estou\nAgradecer amar e amar\n\nAmar ao Pai eterno\nAmar a todos os irmãos\nVivenciar o Elo\nCelebrar a união",
+      "conteudoCifrado": "<cifra class=\"cifra\">                   Em</cifra><p>                    B7</p><cifra class=\"cifra\">                           Em   C</cifra><p>                            Em</p><cifra class=\"cifra\"> </cifra><p>                    Am</p><cifra class=\"cifra\">                              Em</cifra><p>               Am              B7</p><cifra class=\"cifra\">                         Em      ( F)</cifra><p> </p><cifra class=\"cifra\">                        Em</cifra><p>                       B7</p><cifra class=\"cifra\">                    Em   C</cifra><p>                            Em</p><cifra class=\"cifra\"> </cifra><p>                     Am</p><cifra class=\"cifra\">                                  Em</cifra><p>                      Am            B7</p><cifra class=\"cifra\">                              Em        ( F)</cifra><p> </p><cifra class=\"cifra\">                    Em</cifra><p>                            B7</p><cifra class=\"cifra\">                                 Em    C</cifra><p>                            Em</p><cifra class=\"cifra\"> </cifra><p>                       Am</p><cifra class=\"cifra\">                              Em</cifra><p>             Am               B7</p><cifra class=\"cifra\">                         Em      ( F)</cifra><p> </p><cifra class=\"cifra\">                      Em</cifra><p>                               B7</p><cifra class=\"cifra\">                           Em   C</cifra><p>                              Em</p><cifra class=\"cifra\"> </cifra><p>                      Am</p><cifra class=\"cifra\">                              Em</cifra><p>         Am               B7</p><cifra class=\"cifra\">                   Em      ( F)</cifra>"
+    },
+    {
+      "id": "4137",
+      "numero": 3,
+      "titulo": "Estou Aqui",
+      "autor": "Víctor Amaral",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Oh Pai Divino eu vim aqui\nPedir a vós me perdoar\nPerdoe a mim e meus irmãos\nNa retidão vamos andar\nPara alcançar a salvação\nTer paz e amor em nosso olhar\n\nOh Mãe Divina eu vim aqui\nPedir a vós nos confortar\nQuero sentir a emoção\nVós me console se eu chorar\nMergulho nesta escuridão\nPara minha luz eu encontrar\n\nOh Jesus Cristo Redentor\nQue veio a terra ensinar\nQue é por vosso Santo amor\nQue um dia iremos chegar\nLhe agradeço e dou louvor\nOh santa estrela a nos guiar\n\nMestre Irineu ensinador\nA Luz do Daime nos mostrou\nE seguirei nesta verdade\nConsagrando o esplendor\nSempre cantando nesta linha\nSendo um bom trabalhador ",
+      "conteudoCifrado": "<cifra class=\"cifra\">              Am        E     Am</cifra><p>            Dm             Am</p><cifra class=\"cifra\">                Dm                 C</cifra><p>            E                 Am</p><cifra class=\"cifra\">              Dm            C</cifra><p>            Bm7(b5)     E         Am</p><cifra class=\"cifra\"> </cifra><p>              Am        E     Am</p><cifra class=\"cifra\">            Dm             Am</cifra><p>              Dm           C</p><cifra class=\"cifra\">                 E                 Am</cifra><p>                 Dm             C</p><cifra class=\"cifra\">             Bm7(b5)     E     Am</cifra><p> </p><cifra class=\"cifra\">                 F              C</cifra><p>                  Bb       Am</p><cifra class=\"cifra\">                 Dm               C</cifra><p>                    E           Am</p><cifra class=\"cifra\">               Dm            C</cifra><p>             Bm7(b5)    E      Am</p><cifra class=\"cifra\"> </cifra><p>                  F       G     C</p><cifra class=\"cifra\">                 Bb          Am</cifra><p>         Dm                C</p><cifra class=\"cifra\">              E               Am</cifra><p>                  Dm               C</p><cifra class=\"cifra\">             Bm7(b5)     E     Am</cifra>"
+    },
+    {
+      "id": "4138",
+      "numero": 4,
+      "titulo": "União",
+      "autor": "Victor Amaral Sousa",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bb",
+      "letraPura": "Existem coisas\nNesta irmandade\nQue só conhece\nQuem tem lealdade\n\nPapai do Céu nos manda cantar\nE ser alegre e festejar\nPapai do Céu nos manda cantar\nE ser alegre e festejar\n\nEstando junto\nA Este Poder\nAndando direito\nNós podemos ter\n\nEntão confiem e esperem pra ver\nEntão confiem e esperem pra ver\nEntão confiem e esperem pra ver\nE mais um feitio vai acontecer\n\nO Mestre ensina\nTudo o que precisa\nNos mostra o caminho\nPara a Salvação\n\nNós damos viva ao Mestre Irineu!\nNós damos viva ao Mestre Irineu!\nNós damos viva ao Mestre Irineu!\nE valor aos ensinos que Ele nos deu\n\nNosso Padrinho\nSebastião\nQuer ver todos juntos\nEm oração\n\nVamos louvar Nosso Deus Fiel\nE a Rainha da Floresta\nNosso Jesus de bom coração\nE ficar bem firme nesta união\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">               Bb</cifra><p>                    </p><cifra class=\"cifra\">                 F</cifra><p>                       Bb</p><cifra class=\"cifra\"> </cifra><p>               Eb                        Bb</p><cifra class=\"cifra\">           Eb            Bb</cifra><p>            </p><cifra class=\"cifra\">           F             Bb</cifra><p> </p><cifra class=\"cifra\">               Bb</cifra><p>                    </p><cifra class=\"cifra\">                 F</cifra><p>                      Bb</p><cifra class=\"cifra\"> </cifra><p>               Eb                            Bb</p><cifra class=\"cifra\">              Eb                            Bb</cifra><p>            </p><cifra class=\"cifra\">                    F             Bb</cifra><p> </p><cifra class=\"cifra\">                Bb</cifra><p>                    </p><cifra class=\"cifra\">                         F</cifra><p>                 Bb</p><cifra class=\"cifra\"> </cifra><p>                   Eb                     Bb</p><cifra class=\"cifra\">                   Eb                    Bb</cifra><p>            </p><cifra class=\"cifra\">                      F                          Bb</cifra><p> </p><cifra class=\"cifra\">               Bb</cifra><p>                    </p><cifra class=\"cifra\">                         F</cifra><p>           Bb</p><cifra class=\"cifra\"> </cifra><p>               Eb                       Bb</p><cifra class=\"cifra\">          Eb            Bb</cifra><p>            </p><cifra class=\"cifra\">                      F               Bb</cifra><p> </p>"
+    },
+    {
+      "id": "4139",
+      "numero": 5,
+      "titulo": "Missão",
+      "autor": "Víctor Amaral",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Preciso me doutrinar\nPara seguir no caminho\nServir, me humilhar\nElevar o meu espírito\n\nEsta força vem ensinar\nTraz todo poder e cresce\nConforme se precisar\nConforme se merece\n\nEu devo continuar\nCumprindo esta missão\nOs ensinos praticar\nDo meu Mestre e de São João\n\nMe curando para curar\nE ser um aparelho\nUm soldado a batalhar\nNa doutrina do Pai verdadeiro",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Am                Dm</cifra><p>   E                      Am</p><cifra class=\"cifra\">                      Dm</cifra><p>     E                Am</p><cifra class=\"cifra\"> </cifra><p>         Am               Dm</p><cifra class=\"cifra\">        C                  Am</cifra><p>                          Dm</p><cifra class=\"cifra\">   Bm7(b5)         Am</cifra><p> </p><cifra class=\"cifra\">     Am            Dm</cifra><p>         E                   Am</p><cifra class=\"cifra\">                      Dm</cifra><p>                    E                  Am</p><cifra class=\"cifra\"> </cifra><p>         Am               Dm</p><cifra class=\"cifra\">    C                 Am</cifra><p>                          Dm</p><cifra class=\"cifra\">        Bm7(b5)             Am</cifra>"
+    },
+    {
+      "id": "4140",
+      "numero": 6,
+      "titulo": "Abre-se a Mata",
+      "autor": "Víctor Amaral",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Abre-se a mata e rufa o tambor\nE a lua no céu que ao Mestre guiou\nFoi pra dentro da mata e a cura encontrou\n\nForça da mata que se manifesta\nCipó, Rei jagube e Rainha da floresta\nRevela, transforma, ensina e desperta\n\nDesperta consciência vem iluminar\nPensamento se eleva para encontrar\nO caminho do amor que aqui dentro está\n\nVibra em meu peito no meu coração\nVibra a paz e a harmonia e me da direção\nE vigora essa força trazendo união",
+      "conteudoCifrado": "<cifra class=\"cifra\">A                                       D</cifra><p>     Dm       C</p><cifra class=\"cifra\">      Dm                  A                          Dm</cifra><p> </p><cifra class=\"cifra\">A                                       D</cifra><p>    Dm          C</p><cifra class=\"cifra\">     Dm                        A             Dm</cifra><p> </p><cifra class=\"cifra\">A                                              D</cifra><p>            Dm         C</p><cifra class=\"cifra\">      Dm                             A               Dm</cifra><p> </p><cifra class=\"cifra\">A                                              D</cifra><p>            Dm                C</p><cifra class=\"cifra\">      Dm                         A       Dm</cifra>"
+    },
+    {
+      "id": "4141",
+      "numero": 7,
+      "titulo": "Firmeza",
+      "autor": "Víctor Amaral",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Firmeza, firmeza, firmeza\nFirmeza, firmeza no meu coração\nFirmeza, firmeza, firmeza para ser irmão\nFirmeza, firmeza, firmeza\nFirmeza na luz desta consagração\nFirmeza, firmeza, firmeza aqui neste salão\n\nEu vou seguindo o meu caminho\nAndo direitinho nesta direção\nMe firmo no sagrado vinho\nFirmo em São João\nFirmado não estou sozinho\nCanto a melodia com meu batalhão\nE todos se elevar na firmeza da união\n\nFirmeza, firmeza, firmeza\nFirmeza, firmeza no meu coração\nFirmeza, firmeza, firmeza para ser irmão\nFirmeza, firmeza, firmeza\nFirmeza na luz desta consagração\nFirmeza, firmeza, firmeza aqui neste salão\n\nEu peço ao Senhor Jesus Cristo a clareza\nE presto muita atenção\nVigio e me firmo na força da oração\nNa pureza da luz confio\nPois eu sou seu filho aqui neste chão\nE um dia voar quando eu cumprir minha missão\n\nFirmeza, firmeza, firmeza\nFirmeza, firmeza no meu coração\nFirmeza, firmeza, firmeza para ser irmão\nFirmeza, firmeza, firmeza\nFirmeza na luz desta consagração\nFirmeza, firmeza, firmeza aqui neste salão",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Dm                     F</cifra><p>                  Gm                  Dm</p><cifra class=\"cifra\">                  F                                   Gm</cifra><p>     F                         C</p><cifra class=\"cifra\">                 Bb                     Dm</cifra><p>                               Gm                     Dm</p><cifra class=\"cifra\"> </cifra><p>             Dm                     F</p><cifra class=\"cifra\">               Gm                  Dm</cifra><p>                                   F               </p><cifra class=\"cifra\">                       Gm</cifra><p>      F                         C</p><cifra class=\"cifra\">                  Bb                     Dm</cifra><p>                     Gm                        Dm</p><cifra class=\"cifra\"> </cifra><p>     Dm                     F</p><cifra class=\"cifra\">                  Gm                  Dm</cifra><p>                  F                                   Gm</p><cifra class=\"cifra\">     F                         C</cifra><p>                 Bb                     Dm</p><cifra class=\"cifra\">                               Gm                     Dm</cifra><p> </p><cifra class=\"cifra\">     Dm                               F</cifra><p>      Gm                Dm</p><cifra class=\"cifra\">                    F                         Gm</cifra><p>      F                      C</p><cifra class=\"cifra\">                          Bb                     Dm</cifra><p>                                         Gm                     Dm</p><cifra class=\"cifra\"> </cifra><p>     Dm                     F</p><cifra class=\"cifra\">                  Gm                  Dm</cifra><p>                  F                                   Gm</p><cifra class=\"cifra\">     F                         C</cifra><p>                 Bb                     Dm</p><cifra class=\"cifra\">                               Gm                     Dm</cifra>"
+    },
+    {
+      "id": "4142",
+      "numero": 8,
+      "titulo": "Estrada",
+      "autor": "Víctor Amaral",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C#m",
+      "letraPura": "Eu vou zelando com amor esta estrada\nPara eu caminhar com os meus irmãos\nEste caminho que me leva à morada\nA casa de meu pai, de meu São João\nFoi São Pedro que veio dizer\nEu te entrego a chave para tu poder vencer\nE seguir com a verdade na mão\nNo caminho da salvação\n\nNesta estrada onde tudo é sagrado\nQue reina o amor, verdade e perdão\nA dor ensina e por ela nos corrigimos\nPara escutar mais alto a voz do coração\nTodos juntos a caminhar\nRecebendo os ensinos que o mestre vem nos dar\nNeste mundo de ilusão, conviver e praticar",
+      "conteudoCifrado": "<cifra class=\"cifra\">             C#m </cifra><p>                   F#m                             B     G#</p><cifra class=\"cifra\">          C#m</cifra><p>                      F#m                       B  </p><cifra class=\"cifra\">             F#m                    B  </cifra><p>                          C#m                        E</p><cifra class=\"cifra\">     F#m                                B  </cifra><p>                             C#m  A  G#</p><cifra class=\"cifra\"> </cifra><p>            C#m </p><cifra class=\"cifra\">                   F#m                         B     G#</cifra><p>          C#m</p><cifra class=\"cifra\">                          F#m                    B  </cifra><p>          F#m               B  </p><cifra class=\"cifra\">                    C#m                                       E</cifra><p>         F#m           B                         C#m   A  G#</p><cifra class=\"cifra\"> </cifra>"
+    },
+    {
+      "id": "4143",
+      "numero": 9,
+      "titulo": "Olho para o Céu",
+      "autor": "Víctor Amaral",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Eu olho para o Céu\nVejo todo o clarão\nPeço para enxergar\nÓ Virgem da conceição\n\nEnxergar meus defeitos\npara eu me corrigir\nEu com vossa firmeza\nSempre hei de conseguir\n\nConquistar a nobreza\nQue há em meu coração\nDominar o meu ser\nE ser feliz com os irmãos\n\nTer amor e coragem\nPara não esmorecer\nConfiando em minha Mãe\nSempre fiel ao Poder\n\nDentro desta fortaleza\nNa força da união\nServindo para curar\nCantando a elevação",
+      "conteudoCifrado": "<cifra class=\"cifra\">                         E</cifra><p>                     Am</p><cifra class=\"cifra\">                       E</cifra><p>                            Am</p><cifra class=\"cifra\"> </cifra><p>                              E</p><cifra class=\"cifra\">                      Am</cifra><p>                            E</p><cifra class=\"cifra\">                            Am</cifra><p> </p><cifra class=\"cifra\">                         E</cifra><p>                             Am</p><cifra class=\"cifra\">                          E</cifra><p>                              Am</p><cifra class=\"cifra\"> </cifra><p>                         E</p><cifra class=\"cifra\">                     Am</cifra><p>                                   E</p><cifra class=\"cifra\">                          Am</cifra><p> </p><cifra class=\"cifra\">                            E</cifra><p>                     Am</p><cifra class=\"cifra\">                         E</cifra><p>                          Am</p>"
+    },
+    {
+      "id": "4144",
+      "numero": 10,
+      "titulo": "Vou Seguindo",
+      "autor": "Víctor Amaral",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F",
+      "letraPura": "E vou seguindo ao Pai Criador\nEu que não sei para onde vou\nPedindo à Vós a proteção\nVossa firmeza\n\nO meu destino é do meu Senhor\nEu me entrego aqui onde estou\nVivo por esta luz de amor\nMinha fortaleza\n\nNeste caminho por onde vou\nVou aprendendo que luz eu sou\nE tenho visto tanto primor\nTanta beleza\n\nSigo cantando, dando louvor\nMeu Pai, eu sigo por onde for\nPeço para que meu irmão\nNão esmoreça\n\nEu sigo, eu sigo a caminhar\nTenho fé de um dia chegar\nE todo sempre apreciar\nEste presente\n\nTenho este dia que está\nSer um soldado a batalhar\nDe ser um filho de Deus Pai\nOnipotente",
+      "conteudoCifrado": "<cifra class=\"cifra\">              F</cifra><p>                  Dm</p><cifra class=\"cifra\">                 Gm</cifra><p>  A          Dm</p><cifra class=\"cifra\"> </cifra><p>                  F</p><cifra class=\"cifra\">               Dm</cifra><p>              Gm</p><cifra class=\"cifra\">  A          Dm</cifra><p> </p><cifra class=\"cifra\">              F</cifra><p>                  Dm</p><cifra class=\"cifra\">              Gm</cifra><p>  A          Dm</p><cifra class=\"cifra\"> </cifra><p>              F</p><cifra class=\"cifra\">                   Dm</cifra><p>                 Gm</p><cifra class=\"cifra\">  A          Dm</cifra><p> </p><cifra class=\"cifra\">                   F</cifra><p>                               Dm</p><cifra class=\"cifra\">               Gm</cifra><p>  A          Dm</p><cifra class=\"cifra\"> </cifra><p>              F</p><cifra class=\"cifra\">                  Dm</cifra><p>                 Gm</p><cifra class=\"cifra\">  A          Dm</cifra>"
+    },
+    {
+      "id": "4145",
+      "numero": 11,
+      "titulo": "Eu Recebi",
+      "autor": "Víctor Amaral",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Eu recebi\nDe meu pai e minha mãe\nEsta grande riqueza\nÉ no céu é no mar\nEm toda natureza\nOh meu Pai, minha Mãe\nVejo aonde ela está\n\nEu aprendi\nQue mamãe quem me dá\nTudo o que eu preciso\nVivo neste paraíso\nE lá no alto meu Pai\nVejo ele brilhar\n\nEu sou feliz\nMesmo as vezes sentindo\nUma profunda tristeza\nJá que a vida é a balança\nÉ pra nos dar firmeza\nE com ela seguimos\nVemos tudo passar\n\nE compreendi\nQue agradecendo a tudo\nTudo mesmo é que tenho\nE prestando atenção\nAssim vou aprendendo\nA cada instante a apreciar",
+      "conteudoCifrado": "<cifra class=\"cifra\">         Bm</cifra><p>                                  A</p><cifra class=\"cifra\">                      Bm</cifra><p>                       A</p><cifra class=\"cifra\">                   Bm</cifra><p>                               F#</p><cifra class=\"cifra\">                        Bm</cifra><p> </p><cifra class=\"cifra\">         Bm</cifra><p>                                    A</p><cifra class=\"cifra\">                         Bm</cifra><p> A                   Bm</p><cifra class=\"cifra\">                          F#</cifra><p>                 Bm</p><cifra class=\"cifra\"> </cifra><p>           Bm</p><cifra class=\"cifra\">                                  A</cifra><p>                         Bm</p><cifra class=\"cifra\">                            A</cifra><p>                       Bm</p><cifra class=\"cifra\">                        F#</cifra><p>                       Bm</p><cifra class=\"cifra\"> </cifra><p>             Bm</p><cifra class=\"cifra\">                                A</cifra><p>                               Bm</p><cifra class=\"cifra\">                       A</cifra><p>                   Bm</p><cifra class=\"cifra\">      F#                    Bm</cifra>"
+    },
+    {
+      "id": "4146",
+      "numero": 12,
+      "titulo": "Vejo aqui meu Grande Mestre",
+      "autor": "Víctor Amaral",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Vejo aqui meu Grande Mestre\nE o caminho que mostrou\nLuz que brilha e resplandece\nEstá em mim meu professor\nEu vou seguir na verdade\nBuscando o meu valor\nDisciplina, caridade, amor\nEu sou, eu sou, eu sou\n\nE a responsabilidade\nPara ser um filho exemplar\nSempre com muita humildade\nAprender para ensinar\nEstou aqui, estou firmado\nMirando na luz no astral\nCom meus irmãos ao meu lado\nE a proteção celestial",
+      "conteudoCifrado": "<cifra class=\"cifra\">                                    Gm</cifra><p>                            Dm</p><cifra class=\"cifra\">                                    A</cifra><p>                                   D7</p><cifra class=\"cifra\">                               Gm</cifra><p>                            Dm</p><cifra class=\"cifra\">                       A</cifra><p>                             Dm</p><cifra class=\"cifra\"> </cifra><p>                        Gm</p><cifra class=\"cifra\">                                Dm</cifra><p>                                    A</p><cifra class=\"cifra\">                            D7</cifra><p>                               Gm</p><cifra class=\"cifra\">                              Dm</cifra><p>                                           A</p><cifra class=\"cifra\">                             Dm</cifra>"
+    },
+    {
+      "id": "4147",
+      "numero": 13,
+      "titulo": "Meu Destino",
+      "autor": "Víctor Amaral",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Do céu veio a luz do caminho\nE a luz veio me acompanhar\nPara seguir meu destino\nE saber aonde devo chegar\n\nA força que meu pai mandou\nEstremece e me faz entender\nDevo ser filho legítimo\nE em meu lugar permanecer\n\nCantar firme com atenção\nAmar e dar o seu valor\nCrescendo a energia\nNos trabalhos de Deus Criador",
+      "conteudoCifrado": "<cifra class=\"cifra\">      Bm           F#         Bm</cifra><p>                  Em          Bm</p><cifra class=\"cifra\">  Em                      Bm      F#</cifra><p>                                Bm       (B7)</p><cifra class=\"cifra\"> </cifra><p>      Bm          F#         Bm</p><cifra class=\"cifra\">                  Em          Bm</cifra><p>  Em                      Bm      F#</p><cifra class=\"cifra\">                                Bm       (B7)</cifra><p> </p><cifra class=\"cifra\">      Bm           F#         Bm</cifra><p>             Em          Bm</p><cifra class=\"cifra\">  Em                  Bm      F#</cifra><p>                                       Bm       (B7)</p>"
+    },
+    {
+      "id": "4149",
+      "numero": 1,
+      "titulo": "Canção do Amanhecer",
+      "autor": "Olívio Fonseca",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Nasceu novo dia\nNova página a se escrever\nRenova a alegria\nA esperança nutre meu viver\nCriança de dia\nDe tarde e ao anoitecer\nDescansa a poesia\nPara um novo dia acontecer\n\nA minha cartilha\nMe ensina com exatidão\nMe dá liberdade\nDe experienciar com atenção\nE nesta verdade\nExperimentar o néctar do amor\nE ver que eu consigo\nAquilo que ele me falou\n\nO dia descansa\nPra noite também vir dar o ar\nCom a lua cheia\nE estrelas para enfeitar\nEu peço a meu guia\nPara sempre me direcionar\nPra luz que nos guia\nJesus cristo meu pai oxalá",
+      "conteudoCifrado": "<cifra class=\"cifra\">       A</cifra><p>                                    D</p><cifra class=\"cifra\">   Bm</cifra><p>           E7                          A</p><cifra class=\"cifra\">     A</cifra><p>      A7                      D</p><cifra class=\"cifra\">      Dm             A</cifra><p>               E7                    A</p><cifra class=\"cifra\"> </cifra><p>      A</p><cifra class=\"cifra\">                                 D</cifra><p>     Bm</p><cifra class=\"cifra\">         E7                           A</cifra><p>     A</p><cifra class=\"cifra\">       A7                                D</cifra><p>  Dm                   A</p><cifra class=\"cifra\">       E7                      A</cifra><p> </p><cifra class=\"cifra\">     A</cifra><p>                                           D</p><cifra class=\"cifra\">       Bm</cifra><p>       E7                      A</p><cifra class=\"cifra\">       A</cifra><p>          A7                        D</p><cifra class=\"cifra\">      Dm                A</cifra><p>           E7                        A</p><cifra class=\"cifra\"> </cifra>"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "hinario": {
+    "nome": "Hinário Mad. Rizelda",
+    "slug": "hinario-mad.-rizelda",
+    "autor": "Rizelda Brito do Nascimento",
+    "totalHinos": 3
+  },
+  "hinos": [
+    {
+      "id": "2347",
+      "numero": 1,
+      "titulo": " Meu Mestre a Vós Eu Peço",
+      "autor": "Rizelda Brito do Nascimento",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu mestre a vós eu peço\nPelo nome de Jesus\nEu quero seguir com vós\nRecebendo a santa luz\n\nAqui nesta verdade\nÉ para todos nós seguir\nCom amor no coração\nE tratar de reunir\n\nEsta verdade é divina\nA minha mãe é quem me dá\nPara mim e os meus irmãos\nPara todos trabalhar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2348",
+      "numero": 2,
+      "titulo": " Cantar",
+      "autor": "Rizelda Brito do Nascimento",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Cantar vamos cantar\nCantar vamos cantar\nEu pedi a meu mestre\nDo meu mestre sempre a esperar\n\nEu sigo a meu mestre\nCom meu mestre hei de vencer\nQue ele é supremo\nE é quem tem poder\n\nEu pedi a meu mestre\nMe deu com muita atenção\nEu estou agradecida\nCheia de satisfação.",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2349",
+      "numero": 3,
+      "titulo": " Esta Casa está Eleita",
+      "autor": "Rizelda Brito do Nascimento",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Esta casa está eleita\nAqui dentro do meu poder\nPeço que vós nos ajude\nNão nos deixe esmorecer\n\nEu estou pedindo\nPeço de coração\nEu aqui estou pedindo\nEstá tudo em vossas mãos\n\nEu estou pedindo\nPaz e harmonia\nPeço que vos nos segure\nToda hora e todo dia",
+      "conteudoCifrado": ""
+    }
+  ]
+}

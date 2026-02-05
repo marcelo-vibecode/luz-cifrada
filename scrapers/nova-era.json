@@ -1,0 +1,351 @@
+{
+  "hinario": {
+    "nome": "Nova Era",
+    "slug": "nova-era",
+    "autor": "Alfredo Gregório de Melo",
+    "totalHinos": 31
+  },
+  "hinos": [
+    {
+      "id": "805",
+      "numero": 1,
+      "titulo": "Nova Era",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Que beleza no universo \nMeu Pai está me guiando \nE quanto mais eu me entrego \nMais Ele vai me limpando \n\nEu vou seguindo, ensinando \nO que meu Pai deixou na Terra \nNa colheita de irmãos \nQue vêm compor a Nova Era \n\nEu convido os meus irmãos \nSe alegrar na nossa festa \nEsquecer a ilusão \nE se firmar bem na Floresta \n\nNa Floresta temos tudo \nEla, Mamãe e Papai \nToda fonte de riqueza \nA Natureza e muito mais",
+      "conteudoCifrado": "<cifra class=\"cifra\">          Am           G</cifra><p>               Dm   G         C</p><cifra class=\"cifra\">         Am                      G</cifra><p>              Dm     G        C</p><cifra class=\"cifra\"> </cifra><p>          Am           G</p><cifra class=\"cifra\">               Dm   G         C</cifra><p>         Am                      G</p><cifra class=\"cifra\">              Dm     G        C</cifra><p> </p><cifra class=\"cifra\">          Am           G</cifra><p>               Dm   G         C</p><cifra class=\"cifra\">         Am                      G</cifra><p>              Dm     G        C</p><cifra class=\"cifra\"> </cifra><p>          Am           G</p><cifra class=\"cifra\">               Dm   G         C</cifra><p>         Am                      G</p><cifra class=\"cifra\">              Dm     G        C</cifra>"
+    },
+    {
+      "id": "806",
+      "numero": 2,
+      "titulo": "Demonstração",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Eu aprendi neste mundo \nNão fazer mal a ninguém \nE desejo demonstrar \nBelezas que meu Pai tem \n\nEste Santo Soberano \nDe poder universal \nQuem destrói a Natureza \nEstá ferindo o nosso Pai \n\nO nosso Pai e nossa Mãe \nNos olha todo momento \nNos dá tudo em abundância \nA saúde e o alimento \n\nQuem não reconhece a força \nDo Divino Onipotente \nEstá vivendo no escuro \nE caminhando inconsciente \n\nSe alertem toda gente \nQue habita aqui na Terra \nOlha o Sol e os planetas \nNeles não existe guerra \n\nQuem trabalha neste mundo \nSem ao Mestre respeitar \nEle dá a disciplina \nE muda para outro lugar",
+      "conteudoCifrado": "<cifra class=\"cifra\"> A              E            A  </cifra><p>            F#m             D  </p><cifra class=\"cifra\">        Bm              E</cifra><p>                                 A</p><cifra class=\"cifra\"> </cifra><p> A              E            A  </p><cifra class=\"cifra\">        F#m             D  </cifra><p>              D        Bm      A</p><cifra class=\"cifra\">      F#m       E           A</cifra><p> </p><cifra class=\"cifra\"> A              E            A  </cifra><p>            F#m             D  </p><cifra class=\"cifra\">        Bm              E</cifra><p>                                 A</p><cifra class=\"cifra\"> </cifra><p> A              E            A  </p><cifra class=\"cifra\">        F#m             D  </cifra><p>              D        Bm      A</p><cifra class=\"cifra\">      F#m       E           A</cifra><p> </p><cifra class=\"cifra\"> A              E            A  </cifra><p>            F#m             D  </p><cifra class=\"cifra\">        Bm              E</cifra><p>                                 A</p><cifra class=\"cifra\"> </cifra><p> A              E            A  </p><cifra class=\"cifra\">        F#m             D  </cifra><p>              D        Bm      A</p><cifra class=\"cifra\">      F#m       E           A</cifra>"
+    },
+    {
+      "id": "807",
+      "numero": 3,
+      "titulo": "Eu Venho Acrescentar",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Eu venho acrescentar \nAqui dentro deste poder \nA cura Deus é quem dá \nE é se bem merecer \n\nE é se bem merecer \nDa verdade e do amor \nDeus e a Virgem Mãe \nE Jesus Redentor \n\nPatriarca São José \nE todos seres divinos \nNos dão a graça da vida \nSão João é o nosso caminho",
+      "conteudoCifrado": "<cifra class=\"cifra\">  A           E              A</cifra><p>        A7               D </p><cifra class=\"cifra\">   D      E      A         F#m    </cifra><p>    Bm     E           A</p><cifra class=\"cifra\"> </cifra><p>  A           E              A</p><cifra class=\"cifra\">        A7                  D</cifra><p>   D      E      A         F#m    </p><cifra class=\"cifra\">    Bm     E           A</cifra><p> </p><cifra class=\"cifra\">  A           E              A</cifra><p>        A7                  D</p><cifra class=\"cifra\">   D      E      A         F#m    </cifra><p>    Bm     E           A</p>"
+    },
+    {
+      "id": "808",
+      "numero": 4,
+      "titulo": "Calma",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Sou filho do meu Pai \nE meu Pai é quem me dá \nPara Deus tudo está feito \nNão precisa se avexar \n\nVamos seguir com calma \nQue com calma Deus está \nNo céu e nos astros \nNa Floresta, vento e o mar \n\nNo homem, na mulher \nE em toda criação \nDeixo tudo acontecer \nNo poder de São João \n\nDeste lado e do outro \nA Verdade é uma só \nO meu Mestre está seguro \nJunto com a força maior \n\nEsta é uma clareza \nQue me veio do astral \nAndar direitinho \nNa Doutrina do meu Pai",
+      "conteudoCifrado": "<cifra class=\"cifra\">                         A</cifra><p>                Bm             E</p><cifra class=\"cifra\"> F#m                  Bm  </cifra><p>       E                  A</p><cifra class=\"cifra\"> </cifra><p>                         A</p><cifra class=\"cifra\">                Bm             E</cifra><p> F#m                  Bm  </p><cifra class=\"cifra\">       E                  A</cifra><p> </p><cifra class=\"cifra\">                         A</cifra><p>      Bm             E</p><cifra class=\"cifra\"> F#m                  Bm  </cifra><p>       E                  A</p><cifra class=\"cifra\"> </cifra><p>                         A</p><cifra class=\"cifra\">        Bm             E</cifra><p> F#m                  Bm  </p><cifra class=\"cifra\">       E                  A</cifra><p> </p><cifra class=\"cifra\">                         A</cifra><p>           Bm             E</p><cifra class=\"cifra\"> F#m             Bm  </cifra><p>       E                  A</p>"
+    },
+    {
+      "id": "809",
+      "numero": 5,
+      "titulo": "Pai dos Pais",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Quanto mais ando mais vejo \nE aviso aos meus irmãos \nCuidado, cuidado \nDo Padrinho Sebastião \n\nO cuidado do Padrinho \nÉ um aviso de irmão \nUm, um, um, hum \nSe acordem meus irmãos \n\nSalve o grande Pai dos pais \nViva a nossa Virgem Mãe \nViva nós como seus filhos \nViva a nossa salvação \n\nPara ser filho de Deus \nÉ preciso todo Amor \nSer fiel e obediente \nA Jesus Cristo Redentor",
+      "conteudoCifrado": "<cifra class=\"cifra\">  C                  G            Am</cifra><p>             C                 Em</p><cifra class=\"cifra\">       Am         Em</cifra><p>   Dm         G           C </p><cifra class=\"cifra\"> </cifra><p>  C            G            Am</p><cifra class=\"cifra\">        C                 Em</cifra><p>       Am         Em</p><cifra class=\"cifra\">   Dm         G           C </cifra><p> </p><cifra class=\"cifra\">  C                  G            Am</cifra><p>             C                 Em</p><cifra class=\"cifra\">       Am         Em</cifra><p>   Dm         G           C </p><cifra class=\"cifra\"> </cifra><p>  C           G            Am</p><cifra class=\"cifra\">             C                 Em</cifra><p>       Am         Em</p><cifra class=\"cifra\">   Dm         G           C </cifra>"
+    },
+    {
+      "id": "810",
+      "numero": 6,
+      "titulo": "O Barquinho",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Meu Pai é tudo e todo \nMeu Pai não é ruim \nEu acredito em meu Pai \nE acredito em mim \nSou filho da Rainha \nE vivo neste jardim \n\nNavego nesta força \nDo Supremo Criador \nNo barquinho da firmeza \nDa Justiça e do Amor \nCom Mamãe Natureza \nMãe do nosso Salvador \n\nNo meio destas ondas \nMe levas a conhecer \nO poder destas ilhas \nNo seu Divino poder \nTerremotos e vulcões \nFaz tudo estremecer \n\nSó a força do meu Pai \nÉ quem faz tudo renascer \nO Santo poder da Vida \nSe transforma e faz crescer \nViva a Terra e viva o mar \nE viva o amanhecer",
+      "conteudoCifrado": "<cifra class=\"cifra\">    Dm        A        Dm</cifra><p>              F           A</p><cifra class=\"cifra\">    Dm        A        Dm</cifra><p>             F           A</p><cifra class=\"cifra\">    Dm      A      Dm</cifra><p>             A        Dm   </p><cifra class=\"cifra\"> </cifra><p>    Dm        A        Dm</p><cifra class=\"cifra\">              F           A</cifra><p>    Dm        A        Dm</p><cifra class=\"cifra\">             F           A</cifra><p>    Dm      A      Dm</p><cifra class=\"cifra\">             A        Dm   </cifra><p> </p><cifra class=\"cifra\">    Dm        A        Dm</cifra><p>              F           A</p><cifra class=\"cifra\">    Dm        A        Dm</cifra><p>             F           A</p><cifra class=\"cifra\">    Dm      A      Dm</cifra><p>             A        Dm   </p><cifra class=\"cifra\"> </cifra><p>    Dm        A        Dm</p><cifra class=\"cifra\">              F           A</cifra><p>    Dm        A        Dm</p><cifra class=\"cifra\">             F           A</cifra><p>    Dm      A      Dm</p><cifra class=\"cifra\">             A        Dm   </cifra>"
+    },
+    {
+      "id": "811",
+      "numero": 7,
+      "titulo": "Dia das Mães",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Firmei-me na Lua Cheia \nNo grande dia das Mães \nPedindo conforto a meu Pai \nE pedindo benção a Mamãe \n\nA benção para viver \nE colher esta grande família \nPara um dia apresentar \nNo reino da Soberania \n\nOh! Santa Mãe das Mães \nEm todo o universo impera \nProtegei a nossa família \nCom minha Mãe que me trouxe em matéria \n\nA Doutrina é verdadeira \nO Santo Daime em tudo se soma \nO mestre é o de Nazaré \nE o mistério é da Amazônia",
+      "conteudoCifrado": "<cifra class=\"cifra\">      C           G            C</cifra><p>     C         Am        Dm</p><cifra class=\"cifra\">                 G       Dm        G</cifra><p>     Dm         G               C</p><cifra class=\"cifra\"> </cifra><p>      C           G            C</p><cifra class=\"cifra\">     C         Am        Dm</cifra><p>                 G       Dm        G</p><cifra class=\"cifra\">     Dm         G               C</cifra><p> </p><cifra class=\"cifra\">      C           G            C</cifra><p>     C         Am        Dm</p><cifra class=\"cifra\">                 G       Dm        G</cifra><p>     Dm         G               C</p><cifra class=\"cifra\"> </cifra><p>      C           G            C</p><cifra class=\"cifra\">     C         Am        Dm</cifra><p>                 G       Dm        G</p><cifra class=\"cifra\">     Dm         G               C</cifra>"
+    },
+    {
+      "id": "812",
+      "numero": 8,
+      "titulo": "Parabéns",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F",
+      "letraPura": "Salve todos festejos de Maio \nLinda festa da Virgem Maria \nSalve a Mãe, o Filho e as flores \nSalve o Pai em nossa harmonia \n\nSalve os aniversariantes \nQue agradecem a Deus nesse dia \nSó cantando e cantar com Amor \nEspalhando Paz e Alegria \n\nNovamente girando os festejos \nNessa roda que vai e que vem \nViva os aniversariantes \nParabéns, Parabéns, Parabéns \n\nParabéns, Parabéns, Parabéns \nNesta roda não falta ninguém \nViva todos os aniversários \nParabéns, Parabéns, Parabéns",
+      "conteudoCifrado": "<cifra class=\"cifra\">                F                    Am</cifra><p>                F                    G</p><cifra class=\"cifra\">             C                        Em</cifra><p>             G                      C (C7)  </p><cifra class=\"cifra\"> </cifra><p>                F                    Am</p><cifra class=\"cifra\">                F                    G</cifra><p>             C                        Em</p><cifra class=\"cifra\">             G                      C (C7)  </cifra><p> </p><cifra class=\"cifra\">                F                    Am</cifra><p>                F                    G</p><cifra class=\"cifra\">             C                        Em</cifra><p>             G                      C (C7)  </p><cifra class=\"cifra\"> </cifra><p>                F                    Am</p><cifra class=\"cifra\">                F                    G</cifra><p>             C                        Em</p><cifra class=\"cifra\">             G                      C (C7)  </cifra>"
+    },
+    {
+      "id": "813",
+      "numero": 9,
+      "titulo": "Me Abençoa",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Me abençoa, Divino Papai \nE abençoa, Mamãe \nPara sempre eu Vos amar \n\nMe abençoa, Divino Papai \nE abençoa, Mamãe \nPara sempre eu Vos louvar \n\nMe abençoa, Divina Mamãe \nE abençoa, Papai \nPara sempre eu enxergar \n\nMe abençoa, Divina Mamãe \nE abençoa, Papai \nPara sempre acompanhar \n\nJoguei a minha tarrafa no meio \nE com esperança me veio \nA praia da beira-mar \n\nOs peixes que eu peguei nela veio \nE com certeza ensinei \nPara sempre saber nadar \n\nAgora vamos cantar com amor \nE vamos bailar meus irmãos \nPara sempre nós festejar \n\nA Deus e a Virgem Maria no Céu \nCom a doçura do mel \nNa terra, no vento e no mar",
+      "conteudoCifrado": "<cifra class=\"cifra\">   Dm       C/Dm    Bb   A</cifra><p> Gm      A          Dm</p><cifra class=\"cifra\">          A                     Dm</cifra><p> </p><cifra class=\"cifra\">   Dm       C/Dm    Bb   A</cifra><p> Gm      A          Dm</p><cifra class=\"cifra\">          A                     Dm</cifra><p> </p><cifra class=\"cifra\">   Dm       C/Dm    Bb   A</cifra><p> Gm      A          Dm</p><cifra class=\"cifra\">          A                     Dm</cifra><p> </p><cifra class=\"cifra\">   Dm       C/Dm    Bb   A</cifra><p> Gm      A          Dm</p><cifra class=\"cifra\">          A                     Dm</cifra><p> </p><cifra class=\"cifra\">   Dm       C/Dm    Bb   A</cifra><p> Gm      A          Dm</p><cifra class=\"cifra\">          A                     Dm</cifra><p> </p><cifra class=\"cifra\">   Dm       C/Dm    Bb   A</cifra><p> Gm      A          Dm</p><cifra class=\"cifra\">          A                     Dm</cifra><p> </p><cifra class=\"cifra\">   Dm       C/Dm    Bb   A</cifra><p> Gm      A          Dm</p><cifra class=\"cifra\">          A                     Dm</cifra><p> </p><cifra class=\"cifra\">   Dm       C/Dm    Bb   A</cifra><p> Gm      A          Dm</p><cifra class=\"cifra\">          A                     Dm</cifra>"
+    },
+    {
+      "id": "814",
+      "numero": 10,
+      "titulo": "Mensagem",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Vou cantar esta mensagem \nQue meu Mestre me mandou \nDoutrinar o mundo inteiro \nNa ordem do Pai Criador \n\nCom a ordem da Mãe Divina \nAo Guerreiro Arcanjo São Miguel \nAí tem a disciplina \nPara nossa educação no Céu \n\nSem Amor não tem caridade \nSem a força não tem união \nVai doer a disciplina \nDo Guerreiro São Sebastião \n\nQuem mandou foi a Rainha \nQuem castiga é São Irineu \nDependendo da ignorância \nCada um se destrói por si mesmo \n\nEstou fazendo o que Ele disse \nSe cumprindo a sua Justiça \nE as doenças vão se transformando \nDo correio da má notícia",
+      "conteudoCifrado": "<cifra class=\"cifra\">         G</cifra><p>                                   Am</p><cifra class=\"cifra\">      Am                      G</cifra><p>          D7                   G</p><cifra class=\"cifra\"> </cifra><p>         G</p><cifra class=\"cifra\">                                   Am</cifra><p>      Am                      G</p><cifra class=\"cifra\">          D7                   G</cifra><p> </p><cifra class=\"cifra\">         G</cifra><p>                                   Am</p><cifra class=\"cifra\">      Am                      G</cifra><p>          D7                   G</p><cifra class=\"cifra\"> </cifra><p>         G</p><cifra class=\"cifra\">                                   Am</cifra><p>      Am                      G</p><cifra class=\"cifra\">          D7                   G</cifra><p> </p><cifra class=\"cifra\">         G</cifra><p>                                   Am</p><cifra class=\"cifra\">      Am                      G</cifra><p>          D7                   G</p>"
+    },
+    {
+      "id": "815",
+      "numero": 11,
+      "titulo": "A Deus eu agradeço",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F",
+      "letraPura": "A Deus eu agradeço \nE à toda a natureza \nPelo Céu azul \nO Sol, a Lua e as Estrelas \n\nOh! Minha Mãe Divina \nEu também Vós agradeço \nPelo que conheço \nO que obtenho e que recebo \n\nAndar na Paz dos Santos \nProteção dos Anjos vem \nPrestar bem atenção \nQue no mundo tudo tem \n\nAlerta para o tempo \nQue o mesmo está chegando \nQuem falou do meu Mestre \nCom certeza vai ficando \n\nAnjos e Arcanjos \nNeste dia de Natal \nSão José, São Zacarias \nE o Príncipe Imperial",
+      "conteudoCifrado": "<cifra class=\"cifra\">      F            Am</cifra><p>       C            G</p><cifra class=\"cifra\">   Dm</cifra><p>        C                    Em</p><cifra class=\"cifra\"> </cifra><p>      F            Am</p><cifra class=\"cifra\">       C            G</cifra><p>   Dm</p><cifra class=\"cifra\">        C                    Em</cifra><p> </p><cifra class=\"cifra\">      F            Am</cifra><p>       C            G</p><cifra class=\"cifra\">   Dm</cifra><p>        C                    Em</p><cifra class=\"cifra\"> </cifra><p>      F            Am</p><cifra class=\"cifra\">       C            G</cifra><p>   Dm</p><cifra class=\"cifra\">        C                    Em</cifra><p> </p><cifra class=\"cifra\">      F            Am</cifra><p>       C            G</p><cifra class=\"cifra\">   Dm</cifra><p>        C                    Em</p>"
+    },
+    {
+      "id": "816",
+      "numero": 12,
+      "titulo": "Senhor Juramidam",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "O Senhor Juramidam \nÉ quem vem me ensinar \nÉ preciso ter amor \nE é preciso rezar \nPara poder merecer \nE é preciso se calar \n\nQuem não ouvir os hinos \nNão devem mais procurar \nNão vai ouvir a meu Pai \nO Mestre que sempre está \nNão ouvir a Natureza \nE não poder participar \n\nEu olhando para o Céu \nVejo Estrelas brilhar \nÉ um grande livro acesso \nQue podemos se firmar \nO leia quem merecer \nE quem souber respeitar \n\nNeste livro se encontra \nNossa Mãe e nosso Pai \nE todos Seres Divinos \nQue todos brilham iguais \nOnde está a divindade \nNão existe Satanás \n\nPara ser filho de Deus \nÉ preciso mais amar \nNão querer ser tão amado \nE nem tão considerado \nNeste mundo deserdado \nSem antes considerar",
+      "conteudoCifrado": "<cifra class=\"cifra\">         C             G</cifra><p>                             Em</p><cifra class=\"cifra\">          Am         Em</cifra><p>         Am        Em</p><cifra class=\"cifra\">         Am          Em</cifra><p>          G            C</p><cifra class=\"cifra\"> </cifra><p>         C             G</p><cifra class=\"cifra\">                             Em</cifra><p>          Am         Em</p><cifra class=\"cifra\">         Am        Em</cifra><p>         Am          Em</p><cifra class=\"cifra\">          G            C</cifra><p> </p><cifra class=\"cifra\">         C             G</cifra><p>                             Em</p><cifra class=\"cifra\">          Am               Em</cifra><p>         Am             Em</p><cifra class=\"cifra\">         Am          Em</cifra><p>          G                  C</p><cifra class=\"cifra\"> </cifra><p>         C             G</p><cifra class=\"cifra\">                             Em</cifra><p>          Am         Em</p><cifra class=\"cifra\">         Am               Em</cifra><p>         Am           Em</p><cifra class=\"cifra\">          G            C</cifra><p> </p><cifra class=\"cifra\">         C             G</cifra><p>                             Em</p><cifra class=\"cifra\">          Am                Em</cifra><p>         Am             Em</p><cifra class=\"cifra\">         Am              Em</cifra><p>          G              C</p>"
+    },
+    {
+      "id": "817",
+      "numero": 13,
+      "titulo": "Dimensão Espiritual",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu amo a Deus nas alturas \nDimensão espiritual \nE amo a minha Mãezinha do Céu \nNa Terra e no astral \n\nAdoro a Santa Estrela Sol \nCom vossa Luz do bem viver \nVenero as noites de luar Mamãe \nQue é para a Senhora eu lhe ver \n\nEstrelas bem pequeninas \nGravitam no firmamento \nFirmeza no Coração do meu Pai \nE firmeza no pensamento \n\nPenetro na Natureza \nNa sua imensidão \nPedindo conforto da vida a meu Pai \nSenhor meu Juramidam",
+      "conteudoCifrado": "<cifra class=\"cifra\">        C      Am           G</cifra><p>                      Am</p><cifra class=\"cifra\">       Dm            G                  C</cifra><p>       Am           Dm</p><cifra class=\"cifra\"> </cifra><p>        C      Am           G</p><cifra class=\"cifra\">                                Am</cifra><p>       Dm            G                  C</p><cifra class=\"cifra\">       Am                            Dm</cifra><p> </p><cifra class=\"cifra\">        C      Am           G</cifra><p>                            Am</p><cifra class=\"cifra\">       Dm            G                  C</cifra><p>       Am                  Dm</p><cifra class=\"cifra\"> </cifra><p>        C      Am           G</p><cifra class=\"cifra\">                      Am</cifra><p>       Dm            G                  C</p><cifra class=\"cifra\">       Am                Dm</cifra>"
+    },
+    {
+      "id": "818",
+      "numero": 14,
+      "titulo": "Valorizar",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "O Mestre fez o convite \nPara todos trabalhar \nE valorizar a vida \nO nosso Mestre aonde está \n\nDar valor ao Criador \nDar valor à criação \nDar valor ao Pai Divino \nE a Virgem da Conceição \n\nA Rainha da Floresta \nCria tudo harmonizado \nToda cor e toda flor \nDentro do jardim dourado \n\nSalve a Luz e Salve a força \nO poder e o saber \nSalve, Salve o nosso Mestre \nA força aonde pode ser",
+      "conteudoCifrado": "<cifra class=\"cifra\">      G         D7        G</cifra><p>                      F#m</p><cifra class=\"cifra\">             D         C</cifra><p>           D7                     G</p><cifra class=\"cifra\"> </cifra><p>      G         D7        G</p><cifra class=\"cifra\">                      F#m</cifra><p>             D               C</p><cifra class=\"cifra\">           D7                     G</cifra><p> </p><cifra class=\"cifra\">      G         D7        G</cifra><p>                      F#m</p><cifra class=\"cifra\">             D         C</cifra><p>           D7                     G</p><cifra class=\"cifra\"> </cifra><p>      G         D7        G</p><cifra class=\"cifra\">                      F#m</cifra><p>             D         C</p><cifra class=\"cifra\">           D7                  G</cifra>"
+    },
+    {
+      "id": "819",
+      "numero": 15,
+      "titulo": "Rota",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Visando este rumo \nVamos conhecer \nO trabalho do Mestre \nE seu grande poder \n\nSeguindo esta rota \nNós vamos chegar \nNo central da Doutrina \nAonde o Mestre está \n\nÉ grande festejo \nE grande disciplina \nAcompanhar o Mestre \nNessa Santa Doutrina \n\nAtenção na jornada \nVamos ver como é \nO trabalho do Mestre \nJesus nossa fé",
+      "conteudoCifrado": "<cifra class=\"cifra\">     D</cifra><p>       Bm          A</p><cifra class=\"cifra\">                            G</cifra><p>         A              D</p><cifra class=\"cifra\"> </cifra><p>     D</p><cifra class=\"cifra\">       Bm          A</cifra><p>                            G</p><cifra class=\"cifra\">         A              D</cifra><p> </p><cifra class=\"cifra\">     D</cifra><p>       Bm          A</p><cifra class=\"cifra\">                            G</cifra><p>         A              D</p><cifra class=\"cifra\"> </cifra><p>     D</p><cifra class=\"cifra\">       Bm          A</cifra><p>                            G</p><cifra class=\"cifra\">         A              D</cifra>"
+    },
+    {
+      "id": "820",
+      "numero": 16,
+      "titulo": "História",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Com certeza, a minha história \nPor onde eu já passei \nMostrando a Santa Doutrina \nA todos eu ensinei \n\nCom firmeza, a nossa Doutrina \nPor onde está passando \nMostra vossa disciplina \nE a todos está ensinando \n\nViva os mestres desta força \nQue é quem nos traz o remédio \nContido no Santo Daime \nEle vai dando a quem lhe pede \n\nRecebemos com Amor \nEnquanto nosso mundo está girando \nComo é bom cantar em roda \nCom nosso Mestre nos ensinando",
+      "conteudoCifrado": "<cifra class=\"cifra\">           Am                     C</cifra><p>        Am              E</p><cifra class=\"cifra\">                                 B°</cifra><p>       E            Am</p><cifra class=\"cifra\"> </cifra><p>           Am                     C</p><cifra class=\"cifra\">        Am                E</cifra><p>                                 B°</p><cifra class=\"cifra\">       E                    Am</cifra><p> </p><cifra class=\"cifra\">           Am                     C</cifra><p>              Am                      E</p><cifra class=\"cifra\">                                 B°</cifra><p>         E                            Am</p><cifra class=\"cifra\"> </cifra><p>           Am                     C</p><cifra class=\"cifra\">                Am                          E </cifra><p>                                     B°</p><cifra class=\"cifra\">                  E                   Am</cifra>"
+    },
+    {
+      "id": "821",
+      "numero": 17,
+      "titulo": "Relógio do Tempo",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Quando é de manhãzinha para mim \nJá é meio-dia em ponto para alguém \nPara muitos essa hora já é tarde \nE outros tantos a iluminária logo vem \n\nBem cedinho é a idade da Criança \nLogo mais vem vindo a maturidade \nPreparando para a hora da colheita \nColher de tudo que plantou nesta verdade \n\nNeste mundo boa árvore dá bom fruto \nDependendo da sua utilidade \nO nosso Mestre nos falou da laranjeira \nCarregada de laranja em seu hinário \n\nFinda o dia, vem a noite e é descanso \nPara quem cuida da sua atividade \nPassa a sombra, já nos vem o novo dia \nPleno de Luz o Sol com sua claridade",
+      "conteudoCifrado": "<cifra class=\"cifra\">            Bm                              A</cifra><p>            Bm                              A</p><cifra class=\"cifra\">        D                 Bm           A</cifra><p>                   F#m        A                D</p><cifra class=\"cifra\"> </cifra><p>            Bm                              A</p><cifra class=\"cifra\">            Bm                              A</cifra><p>        D                 Bm           A</p><cifra class=\"cifra\">                   F#m        A                D</cifra><p> </p><cifra class=\"cifra\">            Bm                              A</cifra><p>            Bm                              A</p><cifra class=\"cifra\">        D                 Bm           A</cifra><p>                   F#m        A                D</p><cifra class=\"cifra\"> </cifra><p>            Bm                              A</p><cifra class=\"cifra\">            Bm                              A</cifra><p>                D                 Bm           A</p><cifra class=\"cifra\">                   F#m        A                D</cifra>"
+    },
+    {
+      "id": "822",
+      "numero": 18,
+      "titulo": "A Justiça é Reta",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Eu amo bem estas forças \nCom elas sigo cantando \nBonicíssimo Jesus e Maria \nCom o Divino Espírito Santo \n\nCantar Amor e alegria \nBuscando estar com o Pai \nJá disse todos se preparem \nNinguém sabe aonde vai \n\nSeguir realmente a Doutrina \nE não alterar nem um til \nA Justiça é reta e justa \nA matéria vive por um fio",
+      "conteudoCifrado": "<cifra class=\"cifra\">    Dm           D7        Gm</cifra><p>          A               Dm</p><cifra class=\"cifra\">        Dm          F           A</cifra><p>            Gm      A          Dm</p><cifra class=\"cifra\"> </cifra><p>    Dm           D7        Gm</p><cifra class=\"cifra\">          A               Dm</cifra><p>        Dm          F           A</p><cifra class=\"cifra\">            Gm      A          Dm</cifra><p> </p><cifra class=\"cifra\">    Dm           D7        Gm</cifra><p>          A               Dm</p><cifra class=\"cifra\">        Dm          F           A</cifra><p>            Gm      A          Dm</p>"
+    },
+    {
+      "id": "823",
+      "numero": 19,
+      "titulo": "Contato",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Meu Pai, eu estou em seu contato \nMeu Pai, continuo a observar \nE pelo giro que o tempo está mostrando \nÉ tempo de viver e de amar \n\nMeu Pai, em Vossa Santa Bondade \nMeu Pai, o que puder vou ensinar \nFilhos da Terra continuam duvidando \nÉ hora de viver e de rezar \n\nMeu Pai, Vos encontro sobre tudo \nE sobre tudo nós devemos Lhe adorar \nMãe Divina eternamente com o Divino \nEternamente a vida eterna vigorar \n\nE mesmo que os tempos estejam findando \nMeu Pai e minha Mãe vamos louvar",
+      "conteudoCifrado": "<cifra class=\"cifra\">      A                                   Bm</cifra><p>      A                            D</p><cifra class=\"cifra\">             Bm</cifra><p>    Em            A           D (D7)</p><cifra class=\"cifra\"> </cifra><p>      A                                   Bm</p><cifra class=\"cifra\">      A                            D</cifra><p>             Bm</p><cifra class=\"cifra\">    Em            A           D (D7)</cifra><p> </p><cifra class=\"cifra\">      A                                   Bm</cifra><p>      A                            D</p><cifra class=\"cifra\">             Bm</cifra><p>    Em            A           D (D7)</p><cifra class=\"cifra\"> </cifra><p>      A                                   Bm</p><cifra class=\"cifra\">      A                            D</cifra>"
+    },
+    {
+      "id": "824",
+      "numero": 20,
+      "titulo": "Meu Pai",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Meu Pai, meu Pai, meu Pai \nAqui aonde estou \nPara te agradecer \nDai-me força e Dai-me Amor \n\nDai-me força e Dai-me amor \nMeu Pai aonde estou \nPara em Vós trabalhar \nCom firmeza e com vigor",
+      "conteudoCifrado": "<cifra class=\"cifra\">    G                           Em</cifra><p>      Am         Em</p><cifra class=\"cifra\">  Am             Em</cifra><p>              G                      C</p><cifra class=\"cifra\"> </cifra><p>    G                           Em</p><cifra class=\"cifra\">      Am         Em</cifra><p>  Am                Em</p><cifra class=\"cifra\">              G                    C</cifra>"
+    },
+    {
+      "id": "825",
+      "numero": 21,
+      "titulo": "Mamãe vosso Brilho é tão Lindo",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Mamãe vosso brilho é tão lindo \nA sombra é apenas um véu \nVossa face iluminada \nMamãe da Terra, Mamãe do Céu \n\nE sois a Luz, Mãe da Luz \nA Luz que vem de Jesus \nEterno Brilho do Sol \nVida, Caminho, a todos conduz \n\nNo Claro, a Presença de Deus \nPara sempre Eu Sou, Sou Eu \nConstante saúde em si \nA Vida que nunca morreu",
+      "conteudoCifrado": "<cifra class=\"cifra\">      Bm      F#           Bm     B7</cifra><p>       Em           G           Em</p><cifra class=\"cifra\">    A                   F#</cifra><p>    Em          F#                  Bm</p><cifra class=\"cifra\"> </cifra><p>      Bm      F#           Bm     B7</p><cifra class=\"cifra\">       Em           G           Em</cifra><p>    A                   F#</p><cifra class=\"cifra\">    Em          F#                  Bm</cifra><p> </p><cifra class=\"cifra\">      Bm      F#           Bm     B7</cifra><p>       Em           G           Em</p><cifra class=\"cifra\">    A                   F#</cifra><p>    Em          F#                  Bm</p>"
+    },
+    {
+      "id": "826",
+      "numero": 22,
+      "titulo": "Criancinha",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Mais uma vez eu vou dizer \nQue Jesus Cristo esta certo \nO Espirito é forte Vós meu Pai \nMais a carne tambem é a Terra \n\nDaí so o Santo Perdão \nPara totalmente ficar perto \nPara totalmente ter firmeza \nÉ preciso totalmente ficar certo \n\nComo Santo Filho de Maria \nInocência de uma criancinha \nSois bondade, sois beleza Vós meu Pai \nMinha Mãe Vós sois pureza sois Rainha",
+      "conteudoCifrado": "<cifra class=\"cifra\">            A                         D</cifra><p>            A                         D</p><cifra class=\"cifra\">                  D7                   G</cifra><p>            A                         D</p><cifra class=\"cifra\"> </cifra><p>     A                         D</p><cifra class=\"cifra\">            A                         D</cifra><p>                  D7                   G</p><cifra class=\"cifra\">            A                            D </cifra><p> </p><cifra class=\"cifra\">            A                         D</cifra><p>            A                         D</p><cifra class=\"cifra\">                  D7                               G</cifra><p>            A                                   D</p>"
+    },
+    {
+      "id": "827",
+      "numero": 23,
+      "titulo": "Oh! Virgem da Conceição",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Oh Virgem da Conceiçao \nOh Minha Santíssima Senhora \nHabitai o meu pensamento \nHabitai meu coraçao agora \nHabitai o meu pensamento \nHabitai meu coraçao, Senhora \n\nOh Virgem Mãe Divina \nOh Virgem nossa Senhora \n\nPresente de aniversário \nSalve, Salve o bom Mestre Irineu \nSanto Daime, Sabedoria \nEsta força o meu Mestre me deu \nNosso chefe Senhor São João \nRepassou e meu Pai recebeu \n\nO Mestre que nos ensina \nPara sempre conosco viveu \n\nE vive no meu coraçao \nTao sublime a Vida de Deus \nEternamente eu Vós agradecer \nEssa vida nosso Pai nos deu \nVosso brlho nos fortaleceu \nPara sempre ser um filho seu \n\nO Mestre encantando na mata \nEssa Santa Doutrina nos deu",
+      "conteudoCifrado": "<cifra class=\"cifra\">       Am       E             Am</cifra><p>                                         C</p><cifra class=\"cifra\">       Dm                     Am</cifra><p>        C                          E</p><cifra class=\"cifra\">      Dm                       Am</cifra><p>        C                               E</p><cifra class=\"cifra\"> </cifra><p>     Am   E          Am  E</p><cifra class=\"cifra\">      Am        E             Am</cifra><p> </p><cifra class=\"cifra\">      Am          E       Am</cifra><p>                                                C</p><cifra class=\"cifra\">           Dm                 Am</cifra><p>         C                                    E</p><cifra class=\"cifra\">           Dm                         Am</cifra><p>            C                           E</p><cifra class=\"cifra\"> </cifra><p>     Am         E         Am  E</p><cifra class=\"cifra\">         Am           E          Am</cifra><p> </p><cifra class=\"cifra\">   Am          E          Am</cifra><p>                                     C</p><cifra class=\"cifra\">           Dm                          Am</cifra><p>         C                            E</p><cifra class=\"cifra\">          Dm                     Am</cifra><p>          C                              E</p><cifra class=\"cifra\"> </cifra><p>     Am                E            Am  E</p><cifra class=\"cifra\">          Am            E          Am</cifra>"
+    },
+    {
+      "id": "828",
+      "numero": 24,
+      "titulo": "Mensageiro",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Do meu Pai eu tenho tudo \nDe minha Mãe eu também tenho \nForça para Vos Louvar \nE também vou agradecendo \n\nChegem perto, meus amigos \nFiquem perto, meus irmaos \nJesus Cristo é o nosso Pai \nE a Rainha é a nossa Mãe \n\nEste é o Mensageiro \nDentro do Jardim Dourado \nO Mestre disse te levanta \nLevanta quem está sentado",
+      "conteudoCifrado": "<cifra class=\"cifra\">         Dm        A           Dm</cifra><p>           F                            Em</p><cifra class=\"cifra\">         A</cifra><p>                                   Dm</p><cifra class=\"cifra\"> </cifra><p>         Dm        A           Dm</p><cifra class=\"cifra\">           F                            Em</cifra><p>         A</p><cifra class=\"cifra\">                                   Dm</cifra><p> </p><cifra class=\"cifra\">         Dm        A           Dm</cifra><p>           F                            Em</p><cifra class=\"cifra\">         A</cifra><p>                                   Dm</p>"
+    },
+    {
+      "id": "829",
+      "numero": 25,
+      "titulo": "A Espada do Perdão",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Estou aqui, eu vivo aqui \nQue o Meu Pai me mandou \nEstou representando ele \nE o Nosso Mestre Ensinador \n\nVivo aqui, vou por aí \nCom ordem Superior \nSempre cantando louvando \nO Mestre que nos ensinou \n\nVos ensino com amor \nVamos buscar na miração \nO conforto Nosso Pai \nA firmeza Nossa Mãe \n\nAlinhados com as forças \nSomos sábio batalhão \nNa batalha quem mais corta \nÉ a Espada do perdão",
+      "conteudoCifrado": "<cifra class=\"cifra\">        A             F#m</cifra><p>         Em        A            D</p><cifra class=\"cifra\">           Bm                 A</cifra><p>      Em         A             D</p><cifra class=\"cifra\"> </cifra><p>        A             F#m</p><cifra class=\"cifra\">         Em        A            D</cifra><p>           Bm                 A</p><cifra class=\"cifra\">      Em         A             D</cifra><p> </p><cifra class=\"cifra\">        A             F#m</cifra><p>         Em        A            D</p><cifra class=\"cifra\">           Bm                 A</cifra><p>      Em         A             D</p><cifra class=\"cifra\"> </cifra><p>        A             F#m</p><cifra class=\"cifra\">         Em        A            D</cifra><p>           Bm                 A</p><cifra class=\"cifra\">      Em         A             D</cifra>"
+    },
+    {
+      "id": "830",
+      "numero": 26,
+      "titulo": "Navegando",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu estou navegando \nE desejo chegar lá \nJunto a Virgem Maria \nE o meu Pai Oxalá \n\nCom amor e alegria \nPara eu poder ensinar \nEsta divina Doutrina \nDo meu Mestre e do meu Pai",
+      "conteudoCifrado": "<cifra class=\"cifra\">       D      A          D</cifra><p>            Bm      Em</p><cifra class=\"cifra\">                         A</cifra><p>                      D</p><cifra class=\"cifra\"> </cifra><p>          D        A      D</p><cifra class=\"cifra\">                Bm      Em</cifra><p>                         A</p><cifra class=\"cifra\">                                       D</cifra>"
+    },
+    {
+      "id": "831",
+      "numero": 27,
+      "titulo": "Guias curadores",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Oh! Meu Divino Pai \nNos daí a benção divina \nDo nosso Criador \nDo nosso Salvador \nE do nosso Protetor \n\nOh! Meu Juramidam \nCom a Santa Mãe Divina \nJesus Cristo Redentor \nSão João nosso pastor \nCom a luz do resplendor \n\nTodos Santos e todas Santas \nRogam a Deus com todo amor \nNossos guias curadores \nNos guiam com fervor \nAo nosso Criador",
+      "conteudoCifrado": "<cifra class=\"cifra\">         G         C    G</cifra><p>                   Am  G    Em</p><cifra class=\"cifra\">        C     Dm   Am</cifra><p>        C     Dm   Am</p><cifra class=\"cifra\">         C       Dm    C</cifra><p> </p><cifra class=\"cifra\">         G         C    G</cifra><p>                   Am  G    Em</p><cifra class=\"cifra\">            C     Dm   Am</cifra><p>           C     Dm   Am</p><cifra class=\"cifra\">         C       Dm    C</cifra><p> </p><cifra class=\"cifra\">         G         C              G</cifra><p>                        Am  G    Em</p><cifra class=\"cifra\">        C     Dm   Am</cifra><p>        C     Dm   Am</p><cifra class=\"cifra\">      C       Dm    C</cifra>"
+    },
+    {
+      "id": "832",
+      "numero": 28,
+      "titulo": "Mamãe eu agradeço",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Mamãe eu agradeço \nA bênção de Papai \nPor todos Vossos filhos \nEsta luz divinal \nSó Vós com Vosso brilho \nNo reino do astral \nNos dai nossa firmeza \nBênção espiritual \n\nToda nossa familia \nE a toda irmandade \nTodos filhos de Deus \nReforço de caridade \nNossos guias na matéria \nE por toda eternidade \nDamos viva e louvores \nObediência e lealdade",
+      "conteudoCifrado": "<cifra class=\"cifra\">       F</cifra><p>     Em</p><cifra class=\"cifra\">      Dm</cifra><p>    C</p><cifra class=\"cifra\">      G</cifra><p>      Dm             G</p><cifra class=\"cifra\">       Dm</cifra><p>        G              C</p><cifra class=\"cifra\"> </cifra><p>     F</p><cifra class=\"cifra\">      Em</cifra><p>     Dm</p><cifra class=\"cifra\">          C</cifra><p>               G</p><cifra class=\"cifra\">         Dm              G</cifra><p>            Dm</p><cifra class=\"cifra\">          G                C</cifra>"
+    },
+    {
+      "id": "833",
+      "numero": 29,
+      "titulo": "Observando",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu vou me firmar \nDeus é que está mandando \nDeus no dominio de tudo \nE a tudo observando \n\nE a tudo observando \nDeus no dominio de tudo \nNele estou me firmando \nMotivando o meu estudo",
+      "conteudoCifrado": "<cifra class=\"cifra\">     C     G       C</cifra><p>            Am             Em</p><cifra class=\"cifra\">         Am                G</cifra><p>      Dm     G      C</p><cifra class=\"cifra\"> </cifra><p>     C     G       C</p><cifra class=\"cifra\">            Am             Em</cifra><p>         Am                G</p><cifra class=\"cifra\">      Dm     G      C</cifra>"
+    },
+    {
+      "id": "834",
+      "numero": 30,
+      "titulo": "O Plantador",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu sou o plantador de tudo \nEu planto paz e planto amor \nEu sou colhedor de tudo \nEu colho fruto e colho flor \n\nEu sou, eu sou \nEu sou e posso ver \nEu sou, eu sou \nEu sou e deve ser \n\nEu sou o criador de tudo \nDe tudo que me Deus criou \nEu sou, sou Eu aqui na terra \nEu sou, o Eu sou, do Eu sou \n\nEu sou, eu sou \nEu sou e posso ver \nEu sou, eu sou \nEu sou e deve ser",
+      "conteudoCifrado": "<cifra class=\"cifra\">      C                           Am</cifra><p>       G                             Em</p><cifra class=\"cifra\">      C                       Am</cifra><p>      G                            C</p><cifra class=\"cifra\"> </cifra><p>      Am       Em</p><cifra class=\"cifra\">     Dm     G        C</cifra><p>      Am       Em</p><cifra class=\"cifra\">     Dm     G      C</cifra><p> </p><cifra class=\"cifra\">       C                      Am</cifra><p>      G                             Em</p><cifra class=\"cifra\">       C                       Am</cifra><p>       G                            C</p><cifra class=\"cifra\"> </cifra><p>      Am      Em</p><cifra class=\"cifra\">     Dm     G        C</cifra><p>      Am       Em</p><cifra class=\"cifra\">     Dm     G      C</cifra>"
+    },
+    {
+      "id": "835",
+      "numero": 31,
+      "titulo": "Mamãe, oh! Mamãe",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Mamãe, oh! Mamãe \nReceba o carinho \nNo dia das Mães \nVamos festejar \n\nMamãe, oh! Mamãe \nCom muita alegria \nE muito amor \nNos abençoar \n\nMamãe, oh! Mamãe \nLembrando Papai \nO nosso querido \nDo nosso lugar \n\nMamãe, oh! Mamãe \nSão estes louvores \nEternamente \nA vos louvar \n\nMamãe, oh! Mamãe \nVida longa \nSaúde e alegria \nNosso Criador \n\nMamãe, oh! Mamãe \nO nosso desejo \nA nossa esperança \nEm nosso Senhor \n\nMamãe, oh! Mamãe \nViver em família \nConsideração \nFé, paz, e amor \n\nMamãe, oh! Mamãe \nLouvando este dia \nDe todas as mães \nViva a Mãe do amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">       C     G         C</cifra><p>  </p><cifra class=\"cifra\">  </cifra><p>                   Dm</p><cifra class=\"cifra\"> </cifra><p>                          G</p><cifra class=\"cifra\">  </cifra><p>  </p><cifra class=\"cifra\">                 C</cifra><p> </p><cifra class=\"cifra\">       C     G         C</cifra><p>                       C7</p><cifra class=\"cifra\">  C#m7(b5)  A7</cifra><p>                 Dm</p><cifra class=\"cifra\"> </cifra><p>       F                 G</p><cifra class=\"cifra\">                      Dm</cifra><p>G          Dm</p><cifra class=\"cifra\">G             C</cifra><p> </p><cifra class=\"cifra\">       C     G         C</cifra><p>  </p><cifra class=\"cifra\">  </cifra><p>                 Dm</p><cifra class=\"cifra\"> </cifra><p>                          G</p><cifra class=\"cifra\">  </cifra><p>  </p><cifra class=\"cifra\">                       C</cifra><p> </p><cifra class=\"cifra\">       C     G         C</cifra><p>                    C7</p><cifra class=\"cifra\">  C#m7(b5)  A7</cifra><p>                  Dm</p><cifra class=\"cifra\"> </cifra><p>       F                 G</p><cifra class=\"cifra\">                        Dm</cifra><p>       G            Dm</p><cifra class=\"cifra\">             G            C</cifra>"
+    }
+  ]
+}

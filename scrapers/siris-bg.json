@@ -1,0 +1,230 @@
+{
+  "hinario": {
+    "nome": "Siris BG ",
+    "slug": "siris-bg",
+    "autor": "Maria Nanaí Gomes",
+    "totalHinos": 20
+  },
+  "hinos": [
+    {
+      "id": "3836",
+      "numero": 1,
+      "titulo": "Minha mãe, Minha Mãezinha",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Minha Mãe, minha Mãezinha\nTão bela eu era se eu fosse\nAgora eu vou olhar\nPara mim acreditar\n\nMinha Mãe, minha Mãezinha\nTodo valor a nós nos da\nMas não sabemos aproveitar\nEste tesouro que aqui está\n\nMinha Mãe, minha Mãezinha\nAqui eu vou aqui estou\nValei-me minha Mãezinha\nPor Vosso Divino Amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">            C           G         C</cifra><p>                   G             C</p><cifra class=\"cifra\">          G            C   Am</cifra><p>           G             C</p><cifra class=\"cifra\"> </cifra><p>            C           G         C</p><cifra class=\"cifra\">             G                  C</cifra><p>                  G                 C     Am</p><cifra class=\"cifra\">           G                      C</cifra><p> </p><cifra class=\"cifra\">            C           G         C</cifra><p>                   G             C</p><cifra class=\"cifra\">          G                   C      Am</cifra><p>           G             C</p>"
+    },
+    {
+      "id": "3837",
+      "numero": 2,
+      "titulo": "A nossa Mãe é soberana",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "A Nossa Mãe é Soberana\nCom amor eu devo ser\nGravar bem no coração\nQue é preciso compreender\n\nSegue sempre o teu destino\nCom amor no coração\nImplorando ao Pai Eterno\nQue vós tenha compaixão",
+      "conteudoCifrado": "<cifra class=\"cifra\">               C</cifra><p>                               G</p><cifra class=\"cifra\">             C                 G</cifra><p>       F       Em    G             C</p><cifra class=\"cifra\"> </cifra><p>            C</p><cifra class=\"cifra\">                              G</cifra><p>           C                   G</p><cifra class=\"cifra\">    F        Em      G        C</cifra>"
+    },
+    {
+      "id": "3838",
+      "numero": 3,
+      "titulo": "Oh meu Divino Pai",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Oh Meu Divino Pai\nSoberano Criador\nDefendei os Vossos filhos\nDe todos estes terrores\n\nMinha Mãe, Minha Rainha\nÉ Vós quem nos tem amor\nRogai a Deus pelos vossos filhos\nAqui na terra aonde estou\n\nJesus Cristo Redentor\nSoberano Salvador\nVós nos dê a salvação\nPor Vosso Divino Amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">      C        G      C</cifra><p>         C       G   C</p><cifra class=\"cifra\">         Bb      Am       C</cifra><p>         G                  C</p><cifra class=\"cifra\"> </cifra><p>           C          G       C</p><cifra class=\"cifra\">          C              G       C</cifra><p>             Bb             Am      C</p><cifra class=\"cifra\">                G                  C</cifra><p> </p><cifra class=\"cifra\">           C        G      C</cifra><p>         C       G   C</p><cifra class=\"cifra\">             Bb      Am  C</cifra><p>         G                  C</p>"
+    },
+    {
+      "id": "3839",
+      "numero": 4,
+      "titulo": "Eu ia por um caminho",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu ia por um caminho\nQue eu não devia seguir\nEncontrei uma Luz Divina\nQue veio me advertir\n\nPara mim seguir em frente\nCom a sempre Virgem Maria\nPara eu não temer a nada\nE fazer essa travessia\n\nNa frente tem as três flores\nDo Nosso Pai Criador\nA Nossa Mãe e o Vosso Filho\nO nosso Mestre Ensinador",
+      "conteudoCifrado": "<cifra class=\"cifra\">     G                  C</cifra><p>                  Dm  G      C</p><cifra class=\"cifra\">            F                   C  </cifra><p>  Am   Dm      G     C</p><cifra class=\"cifra\"> </cifra><p>           G                    C</p><cifra class=\"cifra\">                  Dm  G            C</cifra><p>              F                  C  </p><cifra class=\"cifra\">   Am   Dm    G       C</cifra><p> </p><cifra class=\"cifra\">           G                     C</cifra><p>         Dm         G     C</p><cifra class=\"cifra\">                F                   C  </cifra><p>    Am   Dm            G     C</p>"
+    },
+    {
+      "id": "3840",
+      "numero": 5,
+      "titulo": "A Rainha me guiou",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "A rainha me guiou\nE a meu mestre me entregou\nPara ele me ensinar\nA Doutrina do Salvador\n\nA Rainha me mandou\nEu ensinar com amor\nPara todos enxergarem\nEsta luz do resplendor\n\nEsta divina doutrina\nÉ do meu pai criador\nPara todos bem seguir\nNesta missão do salvador",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Am      E     Am</cifra><p>                E                      Am</p><cifra class=\"cifra\">        E              Am</cifra><p>              E       E7     Am</p><cifra class=\"cifra\"> </cifra><p>     Am      E     Am</p><cifra class=\"cifra\">         E               Am</cifra><p>         E              Am</p><cifra class=\"cifra\">         E       E7        Am</cifra><p> </p><cifra class=\"cifra\">        Am  E      Am</cifra><p>          E               Am</p><cifra class=\"cifra\">         E                 Am</cifra><p>                E          E7     Am</p>"
+    },
+    {
+      "id": "3841",
+      "numero": 6,
+      "titulo": "Sempre eu digo aos meus irmãos",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Sempre eu digo aos meus irmãos\nPara se trabalhar\nPorque quanto mais se canta\nMais é preciso cantar\n\nMinha mãe foi quem me deu\nMe entregou este poder\nPara mim executar\nOs que não quiserem obedecer\n\nMinha mãe foi que me deu\nMe entregou estes primores\nPara todos bem seguirem\nCom firmeza e com amor\n\nJesus Cristo Redentor\nAo mestre ele entregou\nO vosso santo Cruzeiro\nCom estas divinas flores",
+      "conteudoCifrado": "<cifra class=\"cifra\">                   G             A         D</cifra><p>    G              F#m</p><cifra class=\"cifra\">               G         A         F#m</cifra><p>  Bm     Em  A7      D  (D7)</p><cifra class=\"cifra\"> </cifra><p>             G          A            D</p><cifra class=\"cifra\">                G               F#m</cifra><p>          G     A    F#m</p><cifra class=\"cifra\">            Bm     Em         A7      D  (D7)</cifra><p> </p><cifra class=\"cifra\">             G          A          D</cifra><p>                 G                F#m</p><cifra class=\"cifra\">         G         A       F#m</cifra><p>  Bm     Em        A7      D  (D7)</p><cifra class=\"cifra\"> </cifra><p>          G         A       D</p><cifra class=\"cifra\">       G                      F#m</cifra><p>       G         A       F#m</p><cifra class=\"cifra\"> Bm     Em  A7         D  (D7)</cifra>"
+    },
+    {
+      "id": "3842",
+      "numero": 7,
+      "titulo": "Meu Mestre foi quem me deu",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "E",
+      "letraPura": "Meu mestre foi quem me deu\nEste prêmio de valor\nPara mim sempre cantar\nAqui na terra aonde estou\n\nNossa mãe é quem nos manda\nEsta prenda de amor\nPara nós louvar a Deus\nQue é o nosso pai criador\n\nVamos todos meus irmãos\nTer amor com lealdade\nQue o divino Pai Eterno\nEle é o Rei da verdade\n\nTodos estes ensinos\nQue o nosso mestre nos da\nEle dá para todos\nQue quiserem acreditar",
+      "conteudoCifrado": "<cifra class=\"cifra\">                E          B7           E</cifra><p>          B7              E</p><cifra class=\"cifra\">          A                     G#m</cifra><p>            F#m     B7        E</p><cifra class=\"cifra\"> </cifra><p>            E          B7           E</p><cifra class=\"cifra\">          B7              E</cifra><p>          A                G#m</p><cifra class=\"cifra\">                F#m        B7  E</cifra><p> </p><cifra class=\"cifra\">            E          B7        E</cifra><p>          B7               E</p><cifra class=\"cifra\">              A            G#m</cifra><p>           F#m B7     E</p><cifra class=\"cifra\"> </cifra><p>    E         B7     E</p><cifra class=\"cifra\">              B7                     E</cifra><p>   A             G#m</p><cifra class=\"cifra\">            F#m      B7    E</cifra>"
+    },
+    {
+      "id": "3843",
+      "numero": 8,
+      "titulo": "Rondando e Sondando",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "E",
+      "letraPura": "Eu vou rondando, eu vou sondando\nEu sondo aqui, sondo acolá\nEscutando a minha mãe\nQue ela é quem tem para nos dar\n\nOlhei para o firmamento\nCom Deus eu me afirmei\nMe considero filha de Deus\nPorque a vós eu me entreguei",
+      "conteudoCifrado": "<cifra class=\"cifra\">                 E              B7        E</cifra><p>                   E          B7    E</p><cifra class=\"cifra\">       A            B7       G#m</cifra><p>           C#m       F#m   B7        E</p><cifra class=\"cifra\"> </cifra><p>         E         B7       E</p><cifra class=\"cifra\">                B7               E    </cifra><p>               A         B7      G#m</p><cifra class=\"cifra\">      C#m  F#m       B7         E</cifra>"
+    },
+    {
+      "id": "3844",
+      "numero": 9,
+      "titulo": "Foi minha mãe",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Em",
+      "letraPura": "Foi minha mãe que me mandou\nEu pisar firme com amor\nE ensinar os meus irmãos\nA procurarem o seu valor\n\nEu piso firme e sigo em frente\nDando todo valor\nPara ver se todos alcançam\nEsta luz do resplendor",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  Em         B7         Em</cifra><p>              Em              F#m</p><cifra class=\"cifra\">         F#m                  B7</cifra><p>            F#m        B7    Em</p><cifra class=\"cifra\"> </cifra><p>             Em       B7           Em</p><cifra class=\"cifra\">     Em            F#m</cifra><p>       F#m                  B7</p><cifra class=\"cifra\">       F#m    B7      Em</cifra>"
+    },
+    {
+      "id": "3845",
+      "numero": 10,
+      "titulo": "É nesta linda floresta",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "É nesta linda floresta\nQue nós vamos todos cantar\nCantemos com amor\nCom alegria para não faltar\n\nNeste caminho que nós vamos\nÉ de encontrar nossa bandeira\nEu convido os meus irmãos\nPara nós seguir com harmonia\n\nAqui eu peço ao meu chefe\nQue vós seja o nosso guia\nCom o poder do pai eterno\nDe Jesus filho de Maria\n\nRecebi este presente\nDa linha do astral\nMeu Mestre foi quem me deu\nPara mim aqui cantar\n\nEstou muito agradecida\nE alegre e satisfeita\nAgora eu peço a minha mãe\nQue me dê o santo perdão\n\nE o meu nome aqui\nÉ de Maria Nanaí\nQuer dizer que este nome\nÉ de Siris BG",
+      "conteudoCifrado": "<cifra class=\"cifra\">                          A</cifra><p>             Em  A                 D   [Dm]</p><cifra class=\"cifra\">                          Em7(b5)</cifra><p>               A                   Dm   [D]</p><cifra class=\"cifra\"> </cifra><p>                                      A</p><cifra class=\"cifra\">                 Em A                 D   [Dm]</cifra><p>                                    Em7(b5)</p><cifra class=\"cifra\">                    A                   Dm   [D]</cifra><p> </p><cifra class=\"cifra\">                                   A</cifra><p>            Em  A                 D   [Dm]</p><cifra class=\"cifra\">                                  Em7(b5)</cifra><p>               A               Dm   [D]</p><cifra class=\"cifra\"> </cifra><p>                          A</p><cifra class=\"cifra\">     Em  A        D   [Dm]</cifra><p>                                        Em7(b5)</p><cifra class=\"cifra\">          A                   Dm   [D]</cifra><p> </p><cifra class=\"cifra\">                               A</cifra><p>    Em  A            D   [Dm]</p><cifra class=\"cifra\">                                     Em7(b5)</cifra><p>              A                   Dm   [D]</p><cifra class=\"cifra\"> </cifra><p>                          A</p><cifra class=\"cifra\">           Em A    D   [Dm]</cifra><p>                                Em7(b5)</p><cifra class=\"cifra\">   A           Dm   [D]</cifra>"
+    },
+    {
+      "id": "3846",
+      "numero": 11,
+      "titulo": "Eu vivo nesta missão",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Eu vivo nesta missão\nPra trabalhar e aconselhar\nPara ver se todos alcançam\nO que Deus tem pra nos dar\n\nEu convido os meus irmãos\nPara nós todos trabalhar\nPara todos nós seguir\nE viver no bem estar\n\nE aqui neste serviço\nÉ para nós ter mais atenção\nPara todos nós seguir\nCom a virgem da Conceição",
+      "conteudoCifrado": "<cifra class=\"cifra\">        C       G        D</cifra><p>                A        G         D</p><cifra class=\"cifra\">        A         G                D</cifra><p>            C              G         D</p><cifra class=\"cifra\"> </cifra><p>           C           G          D</p><cifra class=\"cifra\">               A        G     D</cifra><p>        A         G       D</p><cifra class=\"cifra\">       C         G       D</cifra><p> </p><cifra class=\"cifra\">       C       G        D</cifra><p>            A         G             D</p><cifra class=\"cifra\">         A       G         D</cifra><p>                 C           G       D</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3847",
+      "numero": 12,
+      "titulo": "Siris Midã",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Siris Midã\nÉ o Reino daqui\nÉ ele é quem me ensina\nÉ quem me da todo valor\n\nA sempre Virgem Maria\nE Jesus Cristo Redentor\nO divino pai eterno\nNos guarnece com amor\n\nEu convido os meus irmãos\nPara nós se firmar\nPara nós ter a saúde\nE viver no bem estar",
+      "conteudoCifrado": "<cifra class=\"cifra\">           Am</cifra><p>       D7          G</p><cifra class=\"cifra\">                              Am</cifra><p>                   D7           G</p><cifra class=\"cifra\"> </cifra><p>                                 Am</p><cifra class=\"cifra\">             D7                G</cifra><p>                      Am</p><cifra class=\"cifra\">              D7                G</cifra><p> </p><cifra class=\"cifra\">                                    Am</cifra><p>        D7           G</p><cifra class=\"cifra\">                         Am</cifra><p>      D7                   G</p>"
+    },
+    {
+      "id": "3848",
+      "numero": 13,
+      "titulo": "Eu Recebi uma flor",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "E",
+      "letraPura": "Eu recebi uma flor\nQue meu mestre me entregou\nPara minha companhia\nQue veio de siris beija flor\n\nQuando o meu pai me entregou\nEu gravei no coração\nPara mim ter firmeza\nNos trabalhos da virgem mãe\n\nMeu mestre me mostrou\nO lugar aonde estou\nPara mim ter firmeza\nEm Jesus Cristo Redentor",
+      "conteudoCifrado": "<cifra class=\"cifra\">         E             F#m</cifra><p>                  A                    G#m</p><cifra class=\"cifra\">         C#m              F#m</cifra><p>                   B7             E</p><cifra class=\"cifra\"> </cifra><p>                 E                        F#m</p><cifra class=\"cifra\">           A               G#m</cifra><p>    C#m               F#m</p><cifra class=\"cifra\">            B7                         E</cifra><p> </p><cifra class=\"cifra\">          E                     F#m</cifra><p>       A               G#m</p><cifra class=\"cifra\">    C#m               F#m</cifra><p>                B7                E</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3849",
+      "numero": 14,
+      "titulo": "Estes Seres que está aqui",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Gm",
+      "letraPura": "Estes seres que está aqui\nNós devemos agradecer\nPara nós louvar a Deus\nE saber obedecer\n\nEstou aqui nesta escola\nPara mim aprender\nSempre eu peço a vós\nPorque não sei compreender\n\nEu peço a meu mestre\nPelo nome de Jesus\nPeço a vós que me perdoe\nE vós me de a santa luz\n\nVós é uma estrela que nos brilha\nQue veio para ensinar\nsempre eu peço a vós\nQue é quem tem para nos dar",
+      "conteudoCifrado": "<cifra class=\"cifra\">          Gm</cifra><p>                              Am7(b5)</p><cifra class=\"cifra\">         D7               Am7(b5)</cifra><p>       D7          Gm</p><cifra class=\"cifra\"> </cifra><p>          Gm</p><cifra class=\"cifra\">                         Am7(b5)</cifra><p>  D7                        Am7(b5)</p><cifra class=\"cifra\">                   D7                 Gm</cifra><p> </p><cifra class=\"cifra\">    Gm</cifra><p>                      Am7(b5)</p><cifra class=\"cifra\">            D7                    Am7(b5)</cifra><p>               D7            Gm</p><cifra class=\"cifra\"> </cifra><p>                    Gm</p><cifra class=\"cifra\">                              Am7(b5)</cifra><p> D7                        Am7(b5)</p><cifra class=\"cifra\">                    D7                Gm</cifra>"
+    },
+    {
+      "id": "3850",
+      "numero": 15,
+      "titulo": "Eu peço ao meu Pai",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu peço ao meu Pai\nE a rainha do astral\nPara vós me ajudar\nE me defender de todos maus\n\nEu peço uma firmeza\nNo meu pensamento\nPara eu ser uma filha eterna\nDe Deus Onipotente",
+      "conteudoCifrado": "<cifra class=\"cifra\">      C                   </cifra><p>        G                C</p><cifra class=\"cifra\">          G             C</cifra><p>        Am     Dm     G          C</p><cifra class=\"cifra\"> </cifra><p>       C                   </p><cifra class=\"cifra\">        G              C</cifra><p>              G                     C  Am</p><cifra class=\"cifra\">      Dm     G     C</cifra>"
+    },
+    {
+      "id": "3851",
+      "numero": 16,
+      "titulo": "Minha mãe é a Rainha",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Minha mãe é a Rainha\nEla é senhora minha\nEla é quem roga por mim\nFoi ela quem me deu esta linha\n\nNossa mãe é soberana\nÉ na terra é no astral\nEla olha para nós todos\nPara ela nós todos somos iguais\n\nA meu mestre eu apresento\nEsta prenda que eu recebi\nPara vós passar um visto\nPara mim poder seguir",
+      "conteudoCifrado": "<cifra class=\"cifra\">             D   A       D</cifra><p>     A                 D</p><cifra class=\"cifra\">            A                    F#m</cifra><p>              Em         A7          D</p><cifra class=\"cifra\"> </cifra><p>             D   A       D</p><cifra class=\"cifra\">        A                 D</cifra><p>      A                    F#m</p><cifra class=\"cifra\">        Em         A7                   D</cifra><p> </p><cifra class=\"cifra\">            D         A          D</cifra><p>           A                         D</p><cifra class=\"cifra\">         A                    F#m</cifra><p>         Em   A7          D</p>"
+    },
+    {
+      "id": "3852",
+      "numero": 17,
+      "titulo": "Meu posto",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Eu recebi o meu posto\nE quem me deu\nEste poder\nFoi o divino Criador\n\nEsta estrela que radeia\nSempre aqui\nÉ os poderes\nDo chefe que nos guia\n\nNós trabalhando\nE sabendo pedir\nNós temos Deus\nE a virgem mãe ao nosso lado",
+      "conteudoCifrado": "<cifra class=\"cifra\">           Bm</cifra><p>                   F#</p><cifra class=\"cifra\">           Bm</cifra><p>           F#          Bm</p><cifra class=\"cifra\"> </cifra><p>           Bm</p><cifra class=\"cifra\">                 F#</cifra><p>           Bm</p><cifra class=\"cifra\">           F#             Bm</cifra><p> </p><cifra class=\"cifra\">               Bm</cifra><p>                    F#</p><cifra class=\"cifra\">                 Bm</cifra><p>                 F#                  Bm</p>"
+    },
+    {
+      "id": "3853",
+      "numero": 18,
+      "titulo": "Este mundo",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Este mundo é de ser combatido\nMais ele nunca é de ser vencido\nPorque nós temos o nosso mestre\nAqui na Pátria ao nosso lado\n\nAqui dentro desta batalha\nTem uma espada de ouro e prata\nQue é que vem nos defender\nE todos nós é de vencer ",
+      "conteudoCifrado": "<cifra class=\"cifra\">          C           G                  C</cifra><p>                C                          G</p><cifra class=\"cifra\">                    C   G                 C</cifra><p>               C                     G</p><cifra class=\"cifra\"> </cifra><p>          C    G              C</p><cifra class=\"cifra\">                   C                       G</cifra><p>                  C  G                C</p><cifra class=\"cifra\">              C                 G</cifra>"
+    },
+    {
+      "id": "3854",
+      "numero": 19,
+      "titulo": "Chegou ",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Cm",
+      "letraPura": "Chegou, chegou, chegou\nNa casa de papai\nE da virgem mãe divina\n\nO mestre recebeu\nCom prazer e alegria\nO mestre recebeu\nCom prazer e alegria",
+      "conteudoCifrado": "<cifra class=\"cifra\">      Cm         G          Cm</cifra><p>     Cm    C7    Fm</p><cifra class=\"cifra\">        G                    Cm</cifra><p> </p><cifra class=\"cifra\">     Cm      G     Cm</cifra><p>             Cm   G    Cm</p><cifra class=\"cifra\">    Cm     C7     Fm</cifra><p>              G           Cm</p>"
+    },
+    {
+      "id": "3855",
+      "numero": 20,
+      "titulo": "Sou do meu Rei",
+      "autor": "Maria Nanaí",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Sou do meu Rei\nSou da rainha\nSou do meu mestre\nEnsinador\n\nEu vou seguindo\nEu vou seguindo\nConforme meu mestre\nMe ordenou",
+      "conteudoCifrado": "<cifra class=\"cifra\">                    Am</cifra><p>             G</p><cifra class=\"cifra\">                     Am</cifra><p> D7      G</p><cifra class=\"cifra\"> </cifra><p>                 Am</p><cifra class=\"cifra\">                  G</cifra><p>                          Am</p><cifra class=\"cifra\"> D7         G</cifra>"
+    }
+  ]
+}

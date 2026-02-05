@@ -1,0 +1,296 @@
+{
+  "hinario": {
+    "nome": "Nova Jerusalém",
+    "slug": "nova-jerusalem",
+    "autor": "Sebastião Mota de Melo",
+    "totalHinos": 26
+  },
+  "hinos": [
+    {
+      "id": "1566",
+      "numero": 1,
+      "titulo": "Convite",
+      "autor": "Pad. Sebastiao",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Estou aqui, eu vim para dizer \nEstou aqui, eu vim para ensinar \nEu digo para todos meus irmãos \nÉ numa noite de São João \nQue vamos se transformar \n\nO amor de Deus é a verdade \nO amor de Deus é harmonia \nO amor de Deus é o alimento sem tormento \nNão existe sofrimento aqui nesta família \n\nEu convido os meus irmãos \nPara irem ao trono de marfim \nEstou dizendo e todos fiquem sabendo \nQue eu aqui estou sofrendo \nMas eu não sou daqui",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1567",
+      "numero": 2,
+      "titulo": "Estou aqui, estou aqui",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Estou aqui, estou aqui \nEstou na casa do amor \nEstou alegre e satisfeito \nCantando meu beija-flor \n\nEstou aqui, estou aqui \nEstou na casa do meu Pai \nMostrando a todos vocês \nQue somos todos iguais \n\nEstou aqui, estou aqui \nEstou na casa da verdade \nMostrando todo amor \nAonde se faz caridade \n\nEstou aqui, estou aqui \nEstou aqui aonde estou \nEu agradeço a vocês \nCantando meu beija-flor",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1568",
+      "numero": 3,
+      "titulo": "Viva São João e seus companheiros",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Estou aqui eu tenho que dizer \nO que eu vim fazer Eu vou apresentar \nMuita harmonia Muito amor e perfeição \nO povo com alegria aqui neste salão \n\nViva São João e seus companheiros \nAqui neste terreiro numa noite de luar \nSanta Maria  Patriarca São José \nTodo mundo está em pé aqui para bailar \n\nEstou aqui e aqui estou \nPara declarar o mistério do beija-flor \nO beija-flor há muito tempo que voou \nAndando por toda parte consagrando o meu amor \n\nO beija-flor foi quem trouxe esta união \nAqui neste salão e não souberam consagrar \nO beija-flor há muito tempo que voou \nTrazendo as instruções e ninguém nunca ligou",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1569",
+      "numero": 4,
+      "titulo": "Vou contar minha história",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vou contar a minha história \nClara como a luz do dia \nDando viva ao sol e à lua \nE ao coração de Maria \n\nVou seguindo a minha estrada \nSem a nada eu temer \nCom fé na Virgem Pura \nTudo eu hei de vencer \n\nVou seguindo a minha linha \nSaindo da ilusão \nSeguindo nesta verdade \nDo Império Juramidam",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1570",
+      "numero": 5,
+      "titulo": "Quando tudo estiver pronto",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Quando tudo aqui já estiver pronto \nQue meu Pai vier receber \nTenho palmas de flores para dar \nMinha boca para agradecer \n\nEu agradeço a minha Mãe \nAgradeço de coração \nAgradecendo todos primores \nQue depositou em minha mãos",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "1571",
+      "numero": 6,
+      "titulo": "Todo mundo chora",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Em",
+      "letraPura": "Estou aqui, vou contar minha história \nTodo mundo chora, todo mundo chora \nEstou aqui, minha história vou contar \nTodo mundo chora, todo mundo vai chorar \n\nMas o meu Mestre \nEle é cheio de alegria \nMe dá paz e harmonia \nPara eu me consolar \n\nEstou aqui, vou contar minha história \nTodo mundo chora, todo mundo chora \nEstou aqui, minha história vou contar \nTodo mundo chora, todo mundo vai chorar \n\nSanta Maria \nQue escolhi para me guiar \nEla é quem me ilumina \nNa estrada para andar \n\nEstou aqui, vou contar minha história \nTodo mundo chora, todo mundo chora \nEstou aqui, minha história vou contar \nTodo mundo chora, todo mundo vai chorar \n\nEstou dizendo \nCom certeza e retidão \nPorque Ela me ensina \nEu ter amor no coração \n\nEstou aqui, vou contar minha história \nTodo mundo chora, todo mundo chora \nEstou aqui, minha história vou contar \nTodo mundo chora, todo mundo vai chorar \n\nEu sempre digo \nE não me canso de falar \nPorque é minha missão \nAprender e ensinar \n\nEstou aqui, vou contar minha história \nTodo mundo chora, todo mundo chora \nEstou aqui, minha história vou contar \nTodo mundo chora, todo mundo vai chorar \n\nEstou dizendo \nCom amor no coração \nO que meu Pai me ensina \nEu ensino aos meus irmãos \n\nEstou aqui, vou contar minha história \nTodo mundo chora, todo mundo chora \nEstou aqui, minha história vou contar \nTodo mundo chora, todo mundo vai chorar \n\nAqui termino \nLembrando a preleção \nQue Deus do Céu apresente \nO Senhor Rei Salomão",
+      "conteudoCifrado": "<cifra class=\"cifra\">              G                                   Em</cifra><p>                    G                                Em</p><cifra class=\"cifra\">               G                                     Em</cifra><p>                G                                    Em</p><cifra class=\"cifra\"> </cifra><p>                        Dm</p><cifra class=\"cifra\">                         C</cifra><p>                             G</p><cifra class=\"cifra\">                        Em</cifra><p> </p><cifra class=\"cifra\">              G                                   Em</cifra><p>                    G                                Em</p><cifra class=\"cifra\">               G                                     Em</cifra><p>                G                                    Em</p><cifra class=\"cifra\"> </cifra><p>                        Dm</p><cifra class=\"cifra\">                         C</cifra><p>                             G</p><cifra class=\"cifra\">                        Em</cifra><p> </p><cifra class=\"cifra\">              G                                   Em</cifra><p>                    G                                Em</p><cifra class=\"cifra\">               G                                     Em</cifra><p>                G                                    Em</p><cifra class=\"cifra\"> </cifra><p>                        Dm</p><cifra class=\"cifra\">                         C</cifra><p>                             G</p><cifra class=\"cifra\">                        Em</cifra><p> </p><cifra class=\"cifra\">              G                                   Em</cifra><p>                    G                                Em</p><cifra class=\"cifra\">               G                                     Em</cifra><p>                G                                    Em</p><cifra class=\"cifra\"> </cifra><p>                        Dm</p><cifra class=\"cifra\">                         C</cifra><p>                             G</p><cifra class=\"cifra\">                        Em</cifra><p> </p><cifra class=\"cifra\">              G                                   Em</cifra><p>                    G                                Em</p><cifra class=\"cifra\">               G                                     Em</cifra><p>                G                                    Em</p><cifra class=\"cifra\"> </cifra><p>                        Dm</p><cifra class=\"cifra\">                         C</cifra><p>                             G</p><cifra class=\"cifra\">                        Em</cifra><p> </p><cifra class=\"cifra\">              G                                   Em</cifra><p>                    G                                Em</p><cifra class=\"cifra\">               G                                     Em</cifra><p>                G                                    Em</p><cifra class=\"cifra\"> </cifra><p>                        Dm</p><cifra class=\"cifra\">                         C</cifra><p>                             G</p><cifra class=\"cifra\">                        Em</cifra><p></p>"
+    },
+    {
+      "id": "1572",
+      "numero": 7,
+      "titulo": "Estou na casa da verdade",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Estou aqui, estou na casa da verdade \nEstou aqui, estou na casa do meu Pai \nAndei e muito vaguei \nSomente aqui com meu Jesus eu encontrei \n\nEstou aqui, estou na casa da verdade \nEstou aqui e não quero mais andar \nJesus que morreu na cruz \nEle morreu para nos remir e salvar \n\nEstou aqui, estou na casa da verdade \nEstou aqui, estou na casa do meu Pai \nJesus que tem perfeição \nA vós eu peço para mim e os meus irmãos",
+      "conteudoCifrado": "<cifra class=\"cifra\">              D                  Bm           Em</cifra><p>               A                                   D</p><cifra class=\"cifra\">      Bm                    A</cifra><p>                  Em                  A                   D</p><cifra class=\"cifra\"> </cifra><p>              D                  Bm           Em</p><cifra class=\"cifra\">               A                                   D</cifra><p>      Bm                    A</p><cifra class=\"cifra\">                  Em                  A                   D</cifra><p> </p><cifra class=\"cifra\">              D                  Bm           Em</cifra><p>               A                                   D</p><cifra class=\"cifra\">      Bm                    A</cifra><p>                  Em                  A                   D</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1573",
+      "numero": 8,
+      "titulo": "Meus castiçais",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Vivo aqui neste mundo \nNão devo nada a ninguém \nVivo na terra de Deus \nAonde Ele habita também \n\nVivo no Sol e na Lua \nAcendi meus castiçais \nTenho uma vida suprema \nPois assim o meu Pai faz \n\nVivo no Sol e na Lua \nAcendi meus castiçais \nReceba este de presente \nPois este lhe satisfaz \n\nSe este lhe satisfaz \nReceba no coração \nEsta prenda de amor \nDo meu Senhor São João",
+      "conteudoCifrado": "<cifra class=\"cifra\"> D       A             D</cifra><p>                Bm               A</p><cifra class=\"cifra\">            Em          A</cifra><p>  Em             A            D</p><cifra class=\"cifra\"> </cifra><p> D       A             D</p><cifra class=\"cifra\">                Bm               A</cifra><p>            Em          A</p><cifra class=\"cifra\">  Em             A            D</cifra><p> </p><cifra class=\"cifra\"> D       A             D</cifra><p>                Bm               A</p><cifra class=\"cifra\">            Em          A</cifra><p>  Em             A            D</p><cifra class=\"cifra\"> </cifra><p> D       A             D</p><cifra class=\"cifra\">                Bm               A</cifra><p>            Em          A</p><cifra class=\"cifra\">  Em             A            D</cifra><p></p>"
+    },
+    {
+      "id": "1574",
+      "numero": 9,
+      "titulo": "Voz do deserto",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Estou aqui, ouço a voz no deserto \nTodo mundo esteja alerta \nNão se sabe aonde vai \n\nNo Paraíso deve andar direitinho \nCaminhando bem limpinho \nNa presença do meu Pai \n\nEstou aqui e aqui estou \nNa presença do Senhor \nE da Sempre Virgem Maria \n\nVos agradeço, toda hora e todo dia \nAté no pino do meio-dia \nPai Nosso, Ave Maria",
+      "conteudoCifrado": "<cifra class=\"cifra\">              D          A                 D</cifra><p>            Bm                Em</p><cifra class=\"cifra\">               A              D</cifra><p> </p><cifra class=\"cifra\">            Em          A              D</cifra><p>           Bm                Em</p><cifra class=\"cifra\">             A                 D</cifra><p> </p><cifra class=\"cifra\">              D          A                 D</cifra><p>            Bm                Em</p><cifra class=\"cifra\">               A              D</cifra><p> </p><cifra class=\"cifra\">            Em          A              D</cifra><p>           Bm                Em</p><cifra class=\"cifra\">             A                 D</cifra><p></p>"
+    },
+    {
+      "id": "1575",
+      "numero": 10,
+      "titulo": "Firmei-me no sol",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Firmei-me no Sol e na Lua \nFirmei-me na Terra e no Mar \nFirmei o meu pensamento \nNas Estrelas, no Vento \nE firmei em meu Pai \n\nA Lua tem três passagens \nE todas nela se encerra \nPrecisamos compreender \nQue ela é quem \nDomina a terra",
+      "conteudoCifrado": "<cifra class=\"cifra\">       A                           E</cifra><p>     A      A7                       D</p><cifra class=\"cifra\"> [D]  Bm         E                A</cifra><p>             F#m        Bm</p><cifra class=\"cifra\">          E                 A    (A7)</cifra><p> </p><cifra class=\"cifra\">        A                           E</cifra><p>     A      A7                       D</p><cifra class=\"cifra\"> [D]  Bm         E                A</cifra><p>             F#m        Bm</p><cifra class=\"cifra\">          E                 A    (A7)</cifra><p></p>"
+    },
+    {
+      "id": "1576",
+      "numero": 11,
+      "titulo": "Cheirinho de rosas",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Tenho o Sol e tenho a Lua \nTenho a Terra e tenho o Mar \nBendito louvado seja \nQuem bendito louvado está \n\nTenho o Sol e tenho a Lua \nTenho as Estrelas também \nSinto um cheirinho de rosas \nQue a minha floresta tem \n\nÉ o tempo do ajusta \nE todos têm que se lembrar \nQuem vos ama com firmeza \nTem Deus para perdoar",
+      "conteudoCifrado": "<cifra class=\"cifra\">     C             Am             G</cifra><p> Dm          G                     C</p><cifra class=\"cifra\">  Am                   Dm</cifra><p>    G                                 C</p><cifra class=\"cifra\"> </cifra><p>     C             Am             G</p><cifra class=\"cifra\"> Dm          G                     C</cifra><p>  Am                   Dm</p><cifra class=\"cifra\">    G                                 C</cifra><p> </p><cifra class=\"cifra\">     C             Am             G</cifra><p> Dm          G                     C</p><cifra class=\"cifra\">  Am                   Dm</cifra><p>    G                                 C</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1577",
+      "numero": 12,
+      "titulo": "Instrução",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Agora mesmo recebi esta instrução \nPara dar aos meus irmãos \nPara todos se lembrar \n\nLouvado seja \nBendito louvado está \nBendito louvado seja \nAqueles que me escutar \n\nO meu amor está no cume de Jesus \nQue radeia a Santa Luz \nE me faz clarear \n\nLouvado seja \nBendito louvado está \nBendito louvado seja \nAqueles que me escutar \n\nMeu Pai é a Estrela radiante \nFeliz quem vai adiante \nCom Ele se encontrar \n\nLouvado seja \nBendito louvado está \nBendito louvado seja \nAqueles que me escutar \n\nEu digo uma, digo duas, digo três \nDigo tudo de uma vez \nPara virem apreciar \n\nMeu Pai \nÉ a chave da nobreza \nOnde está a fortaleza \nPara todos se firmar",
+      "conteudoCifrado": "<cifra class=\"cifra\">              D              A                  D</cifra><p>         Bm                    Em</p><cifra class=\"cifra\">          A                 D</cifra><p> </p><cifra class=\"cifra\">                 A</cifra><p>                            D</p><cifra class=\"cifra\">                           A</cifra><p>                                 D</p><cifra class=\"cifra\"> </cifra><p>              D              A                  D</p><cifra class=\"cifra\">         Bm                    Em</cifra><p>          A                 D</p><cifra class=\"cifra\"> </cifra><p>                 A</p><cifra class=\"cifra\">                            D</cifra><p>                           A</p><cifra class=\"cifra\">                                 D</cifra><p> </p><cifra class=\"cifra\">              D              A                  D</cifra><p>         Bm                    Em</p><cifra class=\"cifra\">          A                 D</cifra><p> </p><cifra class=\"cifra\">                 A</cifra><p>                            D</p><cifra class=\"cifra\">                           A</cifra><p>                                 D</p><cifra class=\"cifra\"> </cifra><p>              D              A                  D</p><cifra class=\"cifra\">         Bm                    Em</cifra><p>          A                 D</p><cifra class=\"cifra\"> </cifra><p>                 A</p><cifra class=\"cifra\">                            D</cifra><p>                           A</p><cifra class=\"cifra\">                                 D</cifra><p></p>"
+    },
+    {
+      "id": "1578",
+      "numero": 13,
+      "titulo": "O segredo",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu estando nas matas \nUma Luz me apareceu \nIluminou meu pensamento \nE era o Rei dos Judeus \n\nEu estando nas matas \nUma Luz me apareceu \nIluminou meu pensamento \nE um segredo Ele me deu \n\nEu estando nas matas \nEu devo agradecer \nDou louvor a minha Mãe \nPara eu resplandecer \n\nEu estando nas matas \nUma Luz me apareceu \nQuando eu abri os olhos \nEu avistei São Irineu \n\nEu estava nas matas \nQuando uma voz me falou \nAgradeça com amor \nTudo em quanto Deus te dá",
+      "conteudoCifrado": "<cifra class=\"cifra\">     C  G             C    Am</cifra><p>            Dm        G     C</p><cifra class=\"cifra\">         C          G       C   Am</cifra><p>         Dm      G        C</p><cifra class=\"cifra\"> </cifra><p>     C  G             C    Am</p><cifra class=\"cifra\">            Dm        G     C</cifra><p>         C          G       C   Am</p><cifra class=\"cifra\">         Dm      G        C</cifra><p> </p><cifra class=\"cifra\">     C  G             C    Am</cifra><p>            Dm        G     C</p><cifra class=\"cifra\">         C          G       C   Am</cifra><p>         Dm      G        C</p><cifra class=\"cifra\"> </cifra><p>     C  G             C    Am</p><cifra class=\"cifra\">            Dm        G     C</cifra><p>         C          G       C   Am</p><cifra class=\"cifra\">         Dm      G        C</cifra><p> </p><cifra class=\"cifra\">     C  G             C    Am</cifra><p>            Dm        G     C</p><cifra class=\"cifra\">         C          G       C   Am</cifra><p>         Dm      G        C</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1579",
+      "numero": 14,
+      "titulo": "Rainha do céu",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Minha Mãe Rainha do Céu \nDa Floresta, da Terra e do Mar \nPeço e rogo a minha Mãe \nQue me ponha no mesmo lugar \n\nMinha Mãe Vós sois protetora \nProtegei-me e os filhos seus \nPeço e rogo a minha Mãe \nPara sempre ser um filho seu \n\nMinha Mãe Vós sois protetora \nEnxugadora de todos os prantos \nPeço e rogo a minha Mãe \nCobri-me com seu Divino Manto \n\nMinha Mãe, Estrela Brilhante \nIlumina todo meu caminho \nPeço e rogo a minha Mãe \nPara nunca me deixar sozinho \n\nAgora eu vou me virar \nPara outro pedido eu fazer \nPeço e rogo a minha Mãe \npara nunca deixar de lhe ver",
+      "conteudoCifrado": "<cifra class=\"cifra\">            C         G           C     Am</cifra><p>            Dm           G            C</p><cifra class=\"cifra\">  C              G            C        Am</cifra><p>               Dm          G            C</p><cifra class=\"cifra\"> </cifra><p>            C         G           C     Am</p><cifra class=\"cifra\">            Dm           G            C</cifra><p>  C              G            C        Am</p><cifra class=\"cifra\">               Dm          G            C</cifra><p> </p><cifra class=\"cifra\">            C         G           C     Am</cifra><p>            Dm           G            C</p><cifra class=\"cifra\">  C              G            C        Am</cifra><p>               Dm          G            C</p><cifra class=\"cifra\"> </cifra><p>            C         G           C     Am</p><cifra class=\"cifra\">            Dm           G            C</cifra><p>  C              G            C        Am</p><cifra class=\"cifra\">               Dm          G            C</cifra><p> </p><cifra class=\"cifra\">            C         G           C     Am</cifra><p>            Dm           G            C</p><cifra class=\"cifra\">  C              G            C        Am</cifra><p>               Dm          G            C</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1580",
+      "numero": 15,
+      "titulo": "Este claro que eu vejo",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Este claro que eu vejo \nEle vem se aproximando \nÉ o dono do Império \nÉ o meu Senhor Jesus \n\nMeu Pai, meu Pai \nMeu Pai é a chave do amor \n\nEste claro que eu vejo \nEle vem me alumiando \nÉ da minha Virgem Mãe \nE do meu Pai Soberano \n\nMeu Pai, meu Pai \nMeu Pai é a chave do amor \n\nEu convido os meus irmãos \nPara todos se acordar \nQue o dia da audiência \nJá está para chegar \n\nMeu Pai, meu Pai \nMeu Pai é a chave do amor \n\nTodo dia eu peço e rogo \nCom prazer e alegria \nProtetora desta barca \nProtegei esta família \n\nMeu Pai, meu Pai \nMeu Pai é a chave do amor \n\nO valor desta Doutrina \nJá é para estar guardado \nMas os membros desta casa \nPrecisam ter lealdade \n\nAmor, amor \nAmor, meu Pai é puro amor",
+      "conteudoCifrado": "<cifra class=\"cifra\"> C        G                 C</cifra><p>          G                  C</p><cifra class=\"cifra\">         Am          Dm</cifra><p>         G                C</p><cifra class=\"cifra\"> </cifra><p>         G            C</p><cifra class=\"cifra\">         G                          C</cifra><p> </p><cifra class=\"cifra\"> C        G                 C</cifra><p>          G                  C</p><cifra class=\"cifra\">         Am          Dm</cifra><p>         G                C</p><cifra class=\"cifra\"> </cifra><p>         G            C</p><cifra class=\"cifra\">         G                          C</cifra><p> </p><cifra class=\"cifra\"> C        G                 C</cifra><p>          G                  C</p><cifra class=\"cifra\">         Am          Dm</cifra><p>         G                C</p><cifra class=\"cifra\"> </cifra><p>         G            C</p><cifra class=\"cifra\">         G                          C</cifra><p> </p><cifra class=\"cifra\"> C        G                 C</cifra><p>          G                  C</p><cifra class=\"cifra\">         Am          Dm</cifra><p>         G                C</p><cifra class=\"cifra\"> </cifra><p>         G            C</p><cifra class=\"cifra\">         G                          C</cifra><p> </p><cifra class=\"cifra\"> C        G                 C</cifra><p>          G                  C</p><cifra class=\"cifra\">         Am          Dm</cifra><p>         G                C</p><cifra class=\"cifra\"> </cifra><p>         G            C</p><cifra class=\"cifra\">         G                          C</cifra><p></p>"
+    },
+    {
+      "id": "1581",
+      "numero": 16,
+      "titulo": "Minha Coroa",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "A verdade do meu Pai \nEu aqui venho lembrar \nSó terá a salvação \nOs que prestar atenção \n\nA verdade do meu Pai \nEla vai realizar \nFeliz serão aqueles \nQue nesta altura chegar \n\nViva o Sol e viva a Lua \nViva as estrelas também \nDou viva a todos seres \nAqueles que me querem bem \n\nEu convido os meus irmãos \nPara todos nós seguir \nA escada é muito alta \nE é difícil de subir \n\nEu aqui não estou enganado \nO Mestre me disse aqui \nQue eu convidasse os meus irmãos \nPara todos nós seguir \n\nO nosso Mestre nos ensinou \nAinda hoje Ele ensina assim \nDizendo aos seus filhos \nTomem cuidado para não cair \n\nSempre eu peço aos meus irmãos \nNão queiram ficar sozinhos \nCom o Mestre em sua frente \nÉ mais fácil de seguir \n\nEu peço aos meus irmãos \nPara todos mudar de opinião \nSe lembrem das falsidades \nQue fizeram com Jesus e São João \n\nJesus Cristo é minha coroa \nNa terra e no céu \nLembranças do passado \nMeus irmãos, aqui estou eu",
+      "conteudoCifrado": "<cifra class=\"cifra\">         D      A          D</cifra><p>                Bm         A</p><cifra class=\"cifra\">         D   A       D   Bm</cifra><p>                Em      A     D</p><cifra class=\"cifra\"> </cifra><p>         D      A          D</p><cifra class=\"cifra\">                Bm         A</cifra><p>         D   A       D   Bm</p><cifra class=\"cifra\">                Em      A     D</cifra><p> </p><cifra class=\"cifra\">         D      A          D</cifra><p>                Bm         A</p><cifra class=\"cifra\">         D   A       D   Bm</cifra><p>                Em      A     D</p><cifra class=\"cifra\"> </cifra><p>         D      A          D</p><cifra class=\"cifra\">                Bm         A</cifra><p>         D   A       D   Bm</p><cifra class=\"cifra\">                Em      A     D</cifra><p> </p><cifra class=\"cifra\">         D      A          D</cifra><p>                Bm         A</p><cifra class=\"cifra\">         D   A       D   Bm</cifra><p>                Em      A     D</p><cifra class=\"cifra\"> </cifra><p>         D      A          D</p><cifra class=\"cifra\">                Bm         A</cifra><p>         D   A       D   Bm</p><cifra class=\"cifra\">                Em      A     D</cifra><p> </p><cifra class=\"cifra\">         D      A          D</cifra><p>                Bm         A</p><cifra class=\"cifra\">         D   A       D   Bm</cifra><p>                Em      A     D</p><cifra class=\"cifra\"> </cifra><p>         D      A          D</p><cifra class=\"cifra\">                Bm         A</cifra><p>         D   A       D   Bm</p><cifra class=\"cifra\">                Em      A     D</cifra><p> </p><cifra class=\"cifra\">         D      A          D</cifra><p>                Bm         A</p><cifra class=\"cifra\">         D   A       D   Bm</cifra><p>                Em      A     D</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1582",
+      "numero": 17,
+      "titulo": "Rainha da Formosura",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Oh minha Senhora Mãe \nOuça o que vou lhe pedir \nQue este é o primeiro \nQue faço em seu jardim \n\nOh minha Senhora Mãe \nRainha da Formosura \nTirai os vossos filhos \nDe dentro da sepultura \n\nOh minha Senhora Mãe \nUm pedido eu vou fazer \nColhei os vossos filhos \nAqueles que merecer \n\nColhendo os vossos filhos \nE pondo em seu jardim \nTirando as angústias \nE afastando de mim \n\nOuça quem está falando \nTodos prestem atenção \nÉ o Senhor Juramidam \nJunto com meu São João",
+      "conteudoCifrado": "<cifra class=\"cifra\"> D          A                 D</cifra><p>              Em                A</p><cifra class=\"cifra\">        Em               A</cifra><p>            A7                D</p><cifra class=\"cifra\"> </cifra><p> D          A                 D</p><cifra class=\"cifra\">              Em                A</cifra><p>        Em               A</p><cifra class=\"cifra\">            A7                D</cifra><p> </p><cifra class=\"cifra\"> D          A                 D</cifra><p>              Em                A</p><cifra class=\"cifra\">        Em               A</cifra><p>            A7                D</p><cifra class=\"cifra\"> </cifra><p> D          A                 D</p><cifra class=\"cifra\">              Em                A</cifra><p>        Em               A</p><cifra class=\"cifra\">            A7                D</cifra><p> </p><cifra class=\"cifra\"> D          A                 D</cifra><p>              Em                A</p><cifra class=\"cifra\">        Em               A</cifra><p>            A7                D</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1583",
+      "numero": 18,
+      "titulo": "Somos Midam",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Minhas irmãs eu vos convido \nPara nós seguir \nAndar de ombro a ombro \nNa missão de São João \n\nMinhas irmãs eu vos convido \nPara nós seguir \nDeixando os maus costumes \nPara todos poder seguir \n\nA verdade do meu Pai \nNão pode cair \nTodo dia eu rogo e peço \nMas não querem me ouvir \n\nMinhas irmãs meu nome é este \nAqui eu vou declarar \nMeu Pai se chama Jura \nE nós todos somos Midam \n\nA verdade de Santa Maria \nÉ preciso respeitar \nÉ andar direitinho \nSe não todos vão apanhar \n\nA Jura que fizeram \nAnda no escondido \nAgora eu vos convido \nOs que quiserem seguir comigo \n\nMinhas irmãs eu não jurei \nMas hoje vou jurar \nCom fé no Pai Eterno \nQue este dia já está para chegar \n\nMinhas irmãs o tempo é este \nPara quem quer seguir \nAndando de passo a passo \nNa doutrina de Juramidam \n\nMinhas irmãs eu vos declaro \nNão ando sozinho \nEu ando é com meu Pai \nE minha Mãe em seu jardim",
+      "conteudoCifrado": "<cifra class=\"cifra\">                C          Am      G</cifra><p> F       G          C</p><cifra class=\"cifra\">       C                       G</cifra><p>            Dm       G      C</p><cifra class=\"cifra\"> </cifra><p>                C          Am      G</p><cifra class=\"cifra\"> F       G          C</cifra><p>       C                       G</p><cifra class=\"cifra\">            Dm       G      C</cifra><p> </p><cifra class=\"cifra\">                C          Am      G</cifra><p> F       G          C</p><cifra class=\"cifra\">       C                       G</cifra><p>            Dm       G      C</p><cifra class=\"cifra\"> </cifra><p>                C          Am      G</p><cifra class=\"cifra\"> F       G          C</cifra><p>       C                       G</p><cifra class=\"cifra\">            Dm       G      C</cifra><p> </p><cifra class=\"cifra\">                C          Am      G</cifra><p> F       G          C</p><cifra class=\"cifra\">       C                       G</cifra><p>            Dm       G      C</p><cifra class=\"cifra\"> </cifra><p>                C          Am      G</p><cifra class=\"cifra\"> F       G          C</cifra><p>       C                       G</p><cifra class=\"cifra\">            Dm       G      C</cifra><p> </p><cifra class=\"cifra\">                C          Am      G</cifra><p> F       G          C</p><cifra class=\"cifra\">       C                       G</cifra><p>            Dm       G      C</p><cifra class=\"cifra\"> </cifra><p>                C          Am      G</p><cifra class=\"cifra\"> F       G          C</cifra><p>       C                       G</p><cifra class=\"cifra\">            Dm       G      C</cifra><p> </p><cifra class=\"cifra\">                C          Am      G</cifra><p> F       G          C</p><cifra class=\"cifra\">       C                       G</cifra><p>            Dm       G      C</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1584",
+      "numero": 19,
+      "titulo": "A mensagem",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Eu convido meus irmãos \nPara todos escutar \nUma linda mensagem \nQue a Virgem mandou dar \n\nEu convido meus irmãos \nPara todos prestarem atenção \nEsta linda mensagem \nQue eu trago para os meus irmãos \n\nEscutem meus irmãos \nO que a mensagem veio dizer \nÉ andar direitinho \nCom cuidado para não sofrer \n\nSempre aqui é preciso respeitar \nVamos todos mudar de opinião \nDizendo que estão seguindo \nEstão longe do meu Paraíso \n\nVamos todos meus irmãos escutar \nO que a mensagem veio dizer \nÉ uma vida nova \nQue o nosso Pai e nossa Mãe manda nos dar \n\nTodo aquele que prestar bem atenção \nBotar o ouvido e perceber \nTerá uma vida eterna \nCom meu Jesus, Santa Maria e São João",
+      "conteudoCifrado": "<cifra class=\"cifra\">            A  E               A</cifra><p>       F#m                 E</p><cifra class=\"cifra\"> A       E            A         F#m</cifra><p>            Bm    E              A</p><cifra class=\"cifra\"> </cifra><p>            A  E               A</p><cifra class=\"cifra\">       F#m                 E</cifra><p> A       E            A         F#m</p><cifra class=\"cifra\">            Bm    E              A</cifra><p> </p><cifra class=\"cifra\">            A  E               A</cifra><p>       F#m                 E</p><cifra class=\"cifra\"> A       E            A         F#m</cifra><p>            Bm    E              A</p><cifra class=\"cifra\"> </cifra><p>            A  E               A</p><cifra class=\"cifra\">       F#m                 E</cifra><p> A       E            A         F#m</p><cifra class=\"cifra\">            Bm    E              A</cifra><p> </p><cifra class=\"cifra\">            A  E               A</cifra><p>       F#m                 E</p><cifra class=\"cifra\"> A       E            A         F#m</cifra><p>            Bm    E              A</p><cifra class=\"cifra\"> </cifra><p>            A  E               A</p><cifra class=\"cifra\">       F#m                 E</cifra><p> A       E            A         F#m</p><cifra class=\"cifra\">            Bm    E              A</cifra><p></p>"
+    },
+    {
+      "id": "1585",
+      "numero": 20,
+      "titulo": "Bendito é Deus",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "E",
+      "letraPura": "Estou no Sol, estou na Lua e nas Estrelas \nBendito é Deus com todos seus seres \nBendito é Deus com todos seus seres \n\nEstou no Sol, estou na Lua, estou na terra \nBendito é Deus que num só se encerra \nBendito é Deus que num só se encerra \n\nEstou no Ar, estou no Mar e na Floresta \nSão três pessoas, que num só se encerra \nSão três pessoas, que num só se encerra \n\nOh minha Mãe eu não me canso de pedir \nPode falar que eu quero lhe ouvir \nPode falar que eu quero lhe ouvir \n\nEstou no Sol, estou na Lua, estou no Vento \nBendito é Deus que nos alimenta \nBendito é Deus que nos alimenta",
+      "conteudoCifrado": "<cifra class=\"cifra\"> E           B                                      E</cifra><p>                B                                E</p><cifra class=\"cifra\">                B                                E</cifra><p> </p><cifra class=\"cifra\"> E           B                                      E</cifra><p>                B                                E</p><cifra class=\"cifra\">                B                                E</cifra><p> </p><cifra class=\"cifra\"> E           B                                      E</cifra><p>                B                                E</p><cifra class=\"cifra\">                B                                E</cifra><p> </p><cifra class=\"cifra\"> E           B                                      E</cifra><p>                B                                E</p><cifra class=\"cifra\">                B                                E</cifra><p> </p><cifra class=\"cifra\"> E           B                                      E</cifra><p>                B                                E</p><cifra class=\"cifra\">                B                                E</cifra><p></p>"
+    },
+    {
+      "id": "1586",
+      "numero": 21,
+      "titulo": "Do meu Pai eu tenho tudo",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Do meu Pai eu tenho tudo \nDe minha Mãe tenho também \nEla tem um grande amor \nA minha mãe, Ela nos quer bem \n\nOh meu Pai que estais no céu \nÉ quem tem todo poder \nDefendei os vossos filhos \nE castigai quem merecer \n\nEu confesso aos meus irmãos \naqueles que me escutar \nQuem não obedecer \nTerá muito que apanhar",
+      "conteudoCifrado": "<cifra class=\"cifra\">             D           A        D</cifra><p>                Bm                  Em</p><cifra class=\"cifra\">                                 A</cifra><p>              Em         A            D</p><cifra class=\"cifra\"> </cifra><p>             D           A        D</p><cifra class=\"cifra\">                Bm                  Em</cifra><p>                                 A</p><cifra class=\"cifra\">              Em         A            D</cifra><p> </p><cifra class=\"cifra\">             D           A        D</cifra><p>                Bm                  Em</p><cifra class=\"cifra\">                                 A</cifra><p>              Em         A            D</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "1587",
+      "numero": 22,
+      "titulo": "Consultei a minha Mãe",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Consultei a minha Mãe \nPara Ela me dizer \nComo é que vai ficar \n\nEla me respondeu \nSegue filho meu \nDeixa quem quiser falar \n\nPergunto a minha Mãe \nCom toda doçura \nDentro do meu coração \n\nSegue meu Jesus \nO dono desta luz \nO homem que pisa no chão \n\nDentro desta luz \nCom meu Senhor Jesus \nE a Sempre Virgem Maria \n\nA vós eu peço paz \nSaúde e harmonia \nPara mim e minha família",
+      "conteudoCifrado": "<cifra class=\"cifra\">A          E                 A</cifra><p>        E             A</p><cifra class=\"cifra\">          F#m             E</cifra><p> </p><cifra class=\"cifra\">E                     Bm</cifra><p>                     E</p><cifra class=\"cifra\">                                 A</cifra><p> </p><cifra class=\"cifra\">A          E                 A</cifra><p>        E             A</p><cifra class=\"cifra\">          F#m             E</cifra><p> </p><cifra class=\"cifra\">E                     Bm</cifra><p>                     E</p><cifra class=\"cifra\">                                 A</cifra><p> </p><cifra class=\"cifra\">A          E                 A</cifra><p>        E             A</p><cifra class=\"cifra\">          F#m             E</cifra><p> </p><cifra class=\"cifra\">E                     Bm</cifra><p>                     E</p><cifra class=\"cifra\">                                 A</cifra><p></p>"
+    },
+    {
+      "id": "1589",
+      "numero": 23,
+      "titulo": "Eu agradeço",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu agradeço a meu Pai \nAgradeço a minha Mãe \nEu agradeço a todos seres \nQue são neste rebanho \n\nEu agradeço a minha Mãe \nAgradeço a meu Padrinho \nEu agradeço aos meus irmãos \nQue estão neste jardim",
+      "conteudoCifrado": "<cifra class=\"cifra\">             D               A</cifra><p>         A7                    D</p><cifra class=\"cifra\">            G           A         D</cifra><p>         A                 D</p><cifra class=\"cifra\"> </cifra><p>             D               A</p><cifra class=\"cifra\">         A7                    D</cifra><p>            G           A         D</p><cifra class=\"cifra\">         A                 D</cifra><p></p>"
+    },
+    {
+      "id": "1590",
+      "numero": 24,
+      "titulo": "Estou aqui",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Estou aqui, porque meu Pai me mandou \nEstou aqui, porque sou o Salvador \nEngarrafei, sempre vivo engarrafado \nE o povo muito animado procurando seu valor \n\nEstou aqui, porque meu Pai me mandou \nEstou aqui, porque sou o Salvador \nO Mestre diz, o Mestre canta, o Mestre fala \nE o povo se atrapalha na linha do amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">           D                A                       D</cifra><p>              D                 A             F#m</p><cifra class=\"cifra\">            D                 A                  Bm</cifra><p>                             Em              A          D</p><cifra class=\"cifra\"> </cifra><p>           D                A                       D</p><cifra class=\"cifra\">              D                 A             F#m</cifra><p>            D                 A                  Bm</p><cifra class=\"cifra\">                             Em              A          D</cifra><p></p>"
+    },
+    {
+      "id": "1588",
+      "numero": 25,
+      "titulo": "Deus é seu saber",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Para amar e ter amor \nÉ preciso conhecer \nDeus em tua mente \nDeus é teu saber \n\nPara amar e ter amor \nÉ preciso compreender \nAmar a todos seres \nIgualmente a você \n\nQuem ama e sabe amar \nÉ um foco de luz \nQuem ama a todos seres \nAma a meu Jesus \n\nPara amar e ter amor \nÉ preciso obediência \nAmar à Virgem Mãe \nE ao nosso Pai Onipotente",
+      "conteudoCifrado": "<cifra class=\"cifra\">A         D        A       D</cifra><p>           A            F#m</p><cifra class=\"cifra\">     G                 D</cifra><p>  Em      A         D</p><cifra class=\"cifra\"> </cifra><p>A         D        A       D</p><cifra class=\"cifra\">           A            F#m</cifra><p>     G                 D</p><cifra class=\"cifra\">  Em      A         D</cifra><p> </p><cifra class=\"cifra\">A         D        A       D</cifra><p>           A            F#m</p><cifra class=\"cifra\">     G                 D</cifra><p>  Em      A         D</p><cifra class=\"cifra\"> </cifra><p>A         D        A       D</p><cifra class=\"cifra\">           A            F#m</cifra><p>     G                 D</p><cifra class=\"cifra\">  Em      A         D</cifra><p></p>"
+    },
+    {
+      "id": "1591",
+      "numero": 26,
+      "titulo": "Brilho Do Sol",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu sou brilho do sol \nSou brilho do lua \nDou brilho as estrelas \nPorque todas me acompanham \n\nEu sou brilho do mar \nEu vivo no vento \nEu brilho na floresta \nPorque ela me pertence",
+      "conteudoCifrado": "<cifra class=\"cifra\">                           D</cifra><p>                      Bm</p><cifra class=\"cifra\">      G                  D</cifra><p>           A                        D</p><cifra class=\"cifra\"> </cifra><p>                          D</p><cifra class=\"cifra\">                Bm</cifra><p>     G                D</p><cifra class=\"cifra\">            A              D</cifra><p></p>"
+    }
+  ]
+}

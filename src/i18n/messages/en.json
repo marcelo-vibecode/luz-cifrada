@@ -1,0 +1,91 @@
+{
+  "common": {
+    "appName": "Luz Cifrada",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "back": "Back",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "comingSoon": "Coming soon"
+  },
+  "nav": {
+    "home": "Home",
+    "hinarios": "Hymnals",
+    "favorites": "Favorites",
+    "pro": "PRO",
+    "login": "Log in",
+    "logout": "Log out"
+  },
+  "home": {
+    "title": "Luz Cifrada",
+    "subtitle": "Chords and tablatures for the Santo Daime doctrine",
+    "description": "Spiritual heritage offered openly and freely.",
+    "exploreButton": "Explore Hymnals",
+    "learnMore": "Learn More",
+    "featuredTitle": "Featured Hymnals",
+    "features": {
+      "title": "Features",
+      "transposition": {
+        "title": "Key Transposition",
+        "description": "Adjust the key of chords to your voice or instrument with one click."
+      },
+      "autoScroll": {
+        "title": "Auto-scroll",
+        "description": "Automatic page scrolling so you can play hands-free."
+      },
+      "mobileFirst": {
+        "title": "Mobile-first",
+        "description": "Design optimized for smartphone use during ceremonies."
+      }
+    }
+  },
+  "hinarios": {
+    "title": "Hymnals",
+    "subtitle": "Explore the sacred hymnals of Santo Daime",
+    "searchPlaceholder": "Search hymnal...",
+    "hinosCount": "{count} hymns",
+    "moreComingSoon": "More hymnals will be added soon"
+  },
+  "hino": {
+    "key": "Key",
+    "transpose": "Transpose",
+    "lowerKey": "Lower key",
+    "raiseKey": "Raise key",
+    "resetKey": "Reset key",
+    "rhythm": {
+      "marcha": "March",
+      "valsa": "Waltz",
+      "mazurca": "Mazurka"
+    },
+    "position": {
+      "standing": "STANDING",
+      "sitting": "SITTING"
+    }
+  },
+  "autoScroll": {
+    "play": "Start scrolling",
+    "pause": "Pause scrolling",
+    "speed": "Speed",
+    "slow": "Slow",
+    "medium": "Medium",
+    "fast": "Fast",
+    "hint": "Space to play/pause"
+  },
+  "chord": {
+    "diagramUnavailable": "Diagram unavailable"
+  },
+  "pro": {
+    "badge": "PRO",
+    "upgrade": "Upgrade",
+    "editChord": "Edit chord",
+    "addTablature": "Add tablature"
+  },
+  "footer": {
+    "description": "Spiritual heritage of Santo Daime",
+    "legalNote": "Musical content considered spiritual and cultural domain"
+  }
+}

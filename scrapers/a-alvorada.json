@@ -1,0 +1,307 @@
+{
+  "hinario": {
+    "nome": "A Alvorada",
+    "slug": "a-alvorada",
+    "autor": "Ana de Souza Brito",
+    "totalHinos": 27
+  },
+  "hinos": [
+    {
+      "id": "2400",
+      "numero": 1,
+      "titulo": "Oh! Meu divino Pai",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Oh! Meu divino Pai\nVós mandou me chamar\nEu vivo aqui sozinha\nSaí a procurar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2401",
+      "numero": 2,
+      "titulo": " Vou Seguindo",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu vou seguindo, eu vou seguindo\nOs meus passos com razão\nQue o poder de Deus é grande\nE da Virgem da Conceição",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2376",
+      "numero": 3,
+      "titulo": " Eu Vivo Neste Mundo",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu vivo neste mundo\nCom prazer e alegria\nViva Deus no céu\nE a sempre Virgem Maria\n\nA sempre Virgem Maria\nÉ quem vem nos ensinar\nÉ quem dá o reino da santa glória\nPara nós todos se salvar\n\nPara nós todos se salvar\nSeguindo nesta aventura\nCom o poder da Virgem Mãe\nNão sair dessa doçura\n\nO Mestre que nos ensina\nPrecisa nós adorar\nSeguindo na linha direita\nÉ muito fácil de encontrar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2377",
+      "numero": 4,
+      "titulo": " Jesus Cristo",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Jesus Cristo veio ao mundo\nCom a bandeira na mão\nConsagrando vossos filhos\nPara dar a salvação\n\nA Virgem Mãe Divina\nSaiu com a moeda na mão\nAjudando os vossos filhos\nE alimpando os corações\n\nJesus Cristo Redentor\nPelo vosso santo amor\nSaiu do balanço do mar\nPara nos dar outro valor",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2378",
+      "numero": 5,
+      "titulo": " Minha Mãe é Divina",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Minha Mãe é Divina\nE Jesus Cristo Salvador\nMeu Mestre, a vós eu peço\nConforme eu merecer\n\nVós me dê meu seguimento\nPara eu ir ao trono de Deus\nTu segue o teu caminho\nCumprindo a sua obrigação\n\nNão será muito difícil\nVocê entrar nesse salão\nO salão do nosso Pai\nDe primor e maravilha\n\nTodos que lá chegar\nDando viva a nossa chefia",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2379",
+      "numero": 6,
+      "titulo": " Minha Mãezinha Querida do Céu",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Minha Mãezinha Querida do Céu\nVós acarinha nós todos\nEu peço a minha Mãezinha\nPelo vosso santo amor\n\nPara nos dar o dom do conforto\nJunto com o meu Professor\nPara nós seguir nos ensinos\nDe Jesus Cristo Redentor\n\nEu convido os meus irmãos\nPara nós afirmar esta união\nPara nós seguir na linha\nDo nosso Juramidam\n\nO Senhor Juramidam\nEle é o filho querido\nPara nós seguir com ele\nÉ preciso nós ter harmonia",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2380",
+      "numero": 7,
+      "titulo": " O meu Mestre me Entregou",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "O meu Mestre me entregou\nMinha firmeza e amor\nMinha fé, minha esperança\nE a luz do resplendor\n\nEu sigo a minha linha\nQue meu Pai me ordenou\nCom esta divina luz\nE o meu Mestre Ensinador\n\nEu vim para esta casa\nDo brilho do amor\nFazendo as minhas preces\nPara dar grandes louvores\n\nO meu Mestre eternamente\nEle é meu protetor\nCom a força do Divino\nE o poder superior",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2381",
+      "numero": 8,
+      "titulo": " A minha Luz é Presal",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "A minha luz é presal\nEla vem do poder divinal\nQuem me deu foi a minha Mãe\nCom a força do Soberano\n\nEu digo aos meus irmãos\nQue zelemos a nossa luz\nE a nossa luz é divina\nEla é o poder de Jesus\n\nVós entregou nosso Mestre\nPorque ele é uma cruz\nNós zelando este cruzeiro\nNós temos tanta doçura",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2382",
+      "numero": 9,
+      "titulo": " Eu Sigo",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu sigo, eu sigo, eu sigo\nOs meus passos na floresta\nFui no pé de Jagube\nPara apresentar meu Mestre\n\nCheguei lá eu encontrei\nO meu Mestre recostado\nEle disse para mim\nA tua riqueza encontraste",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2383",
+      "numero": 10,
+      "titulo": " Sigo minha Linha",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu sigo a minha linha\nCom a verdade na mão\nFazendo as minhas preces\nE alimpando o meu coração\n\nEsta verdade amorosa\nConforta toda nação\nPorque é os poderes divinos\nDa Virgem da Conceição\n\nDou viva ao Pai Eterno\nE ao nosso Juramidam\nRecebo a minha luz\nCom toda a consagração",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2384",
+      "numero": 11,
+      "titulo": " A Rainha da Floresta",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "A Rainha da Floresta\nFoi quem veio me entregar\nOs poderes divinos\nDo Reino Celestial\n\nEu sigo é com meu Mestre\nEu sigo é com amor\nPiso firme com alegria\nPara dar grandes louvores",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2385",
+      "numero": 12,
+      "titulo": " Em Pé Firmado",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu estava em pé firmada\nOlhando os primor do meu Pai\nMinha Mãe estava dizendo\nQue nós todos somos iguais\n\nCom meu Pai, estou afirmada\nQue ele é minha coluna\nMeu Mestre estava de lado\nCom os primores redobrados\n\nEu vim para esta casa\nMeu Pai foi quem me guiou\nPara mim conhecer os primores\nDo meu Divino Salvador",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2386",
+      "numero": 13,
+      "titulo": " Deus é o Nosso Pai",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Deus é o nosso Pai\nTaí, taí, tá, tá\n\nDeus é o nosso Pai\nTá, tá, tá, tá, tái\n\nDeus, Deus, Deus\nDeus, Deus, Deus",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2387",
+      "numero": 14,
+      "titulo": "Os Meus Passos em Frente",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vou seguindo os meus passos em frente\nCom amor no coração\nVou cantando mais meu Mestre\nA Virgem da Conceição\n\nMinha Mãe, minha Rainha\nA Dona dessa missão\nEu peço a vós o conforto\nPara mim e os meus irmãos\n\nVamos todos trabalhar\nCom amor no coração\nEu quero todos reunidos\nAqui dentro do salão\n\nA meu Mestre eu apresento\nEsta divina cruz\nÉ divina nas alturas\nDo nosso Pai Criador",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2388",
+      "numero": 15,
+      "titulo": " Palavras do Pai Criador",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Com as palavras do Pai Criador\nVá, levante essa torre\nA Rainha da Floresta\nÉ a minha Protetora\n\nEu vou seguindo, eu vou seguindo\nEu vou seguindo com a minha devoção\nEu serei eternamente\nVencedora aqui dentro da sessão\n\nEu vim para esta casa\nFoi meu Pai quem me mandou\nMeu Mestre me recebeu\nPara me dar o meu valor\n\nVamos trabalhar\nSem a nada temer\nEu rezo prece, eu rezo prece\nTudo eu hei de vencer\n\nAgora que eu apresento\nEsta estrela do Pai Criador\nAlimpando os corações\nPara nós ir ao Salvador\n\nEsta Divina Estrela\nQue o Divino Pai me dá\nPara mim e os meus irmãos\nPara todos nós cantar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2389",
+      "numero": 16,
+      "titulo": " Alvorada",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu vou cantar minha Alvorada\nQue o Divino Pai me deu\nSou o Chefe Regionário\nAqui o Chefe sou eu\n\nO amor que vem do Sol\nÉ pra todos nós conhecer\nE viver com alegria\nE amar esse poder\n\nA minha Mãe tão poderosa\nNas alturas onde ela está\nEla entregou ao nosso Mestre\nPara ele nos ensinar\n\nMinha Mãe, minha Rainha\nÉ quem me dá todos primores\nEla entregou ao nosso Mestre\nQue ele é o nosso Salvador",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2390",
+      "numero": 17,
+      "titulo": " Parcelas Divinas",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Em parcela divina andamos\nEm parcela divina de amor\n\nEm parcela divina do Nosso Pai\nEm parcela divina do Senhor\n\nEm parcela divina de rosa\nEm parcela divina de paz\n\nEm parcela divina eu consagro\nEm parcela divina eu nado",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2391",
+      "numero": 18,
+      "titulo": " Amor Eu Tenho",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Amor, eu tenho amor\nAmor para te dar\nAmor para te dar\nE a toda humanidade\n\nVá sempre me ouvindo\nFazendo as suas preces\nEstá juntinho a mim\nE da Rainha da Floresta\n\nMeu Mestre, a vós eu peço\nEu peço de coração\nNão peço só para mim\nEu peço para os meus irmãos\n\nTodos têm um prêmio\nDa Virgem da Conceição\nÉ todos zelar\nE gravar no coração\n\nMeus irmãos, vou apurando\nE alimpando os corações\nPara todos se unir\nNa casa da Virgem Mãe\n\nVá seguindo e vá cantando\nFazendo a declaração\nQuero todos reunidos\nAqui dentro do salão\n\nO Presidente fala\nO Presidente diz\nSuas palavras vão subindo\nCom a sempre Virgem Maria",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2392",
+      "numero": 19,
+      "titulo": " Vou me Embora",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vou me embora, vou me embora\nVou me embora do jardim\nDeus e Jesus Cristo\nÉ quem vai no meu caminho\n\nO Mestre que nos ensina\nE manda eu cantar\nMe manda que eu me alegre\nE viver no bem estar\n\nMinha Mãe, minha Rainha\nÉ a Dona desta missão\nAumentou a minha vida\nE o Rei Juramidam\n\nTrabalhe, trabalhe, trabalhe\nQue tu é vencedora\nEnfrente com coragem\nQue tu tem seu Defensor",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2393",
+      "numero": 20,
+      "titulo": " Tenha Calma e Paciência",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Tenha calma e paciência\nSe lembre de Papai\nTu prepara o seu jardim\nCom força de vontade\n\nTu sois uma estrela\nGuiada pelo Sol\nCom o poder divinal\nContigo ninguém não pode\n\nEu te dou esta flor\nQue nasceu no seu jardim\nTrouxe força e trouxe amor\nVocê chame por mim\n\nSe lembra, se lembra\nDo que foi que eu te entreguei\nO que foi que eu te entreguei\nTudo é seu, tudo é seu\n\nVocê nunca desprezou\nE não entregou a ninguém\nNinguém dá o seu valor\nO seu valor sou eu quem tenho",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2394",
+      "numero": 21,
+      "titulo": " Fique Firme",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Fique firme em seu lugar\nZelando o que eu te entreguei\nVai zelando o meu jardim\nZelando e olhe para mim\n\nCom firmeza, eu te entreguei\nCom firmeza, tu tem amor\nCom firmeza, tu tem certeza\nQue eu sou teu Pai Criador\n\nVá zelando o meu jardim\nCom muitas flores perfumosas\nEu espalho o meu perfume\nE cubro todos de rosa\n\nNinguém invente moda\nNinguém vá por desmanchar\nAí ninguém coloca\nOutra em seu lugar\n\nNinguém pode desmanchar\nO que eu saí e deixei seu\nEu baixo a disciplina\nE sei o que eu vou fazer\n\nVocê recebeu\nE a Virgem Mãe lhe entregou\nSua cadeira, sua patente\nDo nosso Pai Criador\n\nNão tenho fingimento\nSou limpa de coração\nVamos todos se unir\nVamos prestar atenção\n\nEu já findei\nE vou arrematar\nDeus abençoe a todos\nCom sua luz de cristal",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2395",
+      "numero": 22,
+      "titulo": " Sou Eu",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Sou eu, sou eu, sou eu\nQuem zela o meu jardim\nEu zelo o meu jardim\nCom prece e com carinho\n\nSiga o seu caminho\nCantando com alegria\nEstás perto de mim\nDa Sempre Virgem Maria\n\nDourado é meu Pai\nQue tem primor, tem maravilha\nDourada é sua estrela\nQue te guia e que te brilha",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2396",
+      "numero": 23,
+      "titulo": " Oh! meu Divino Pai",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Oh! Meu Divino Pai\nOlhe bem minha saúde\nDeus lhe abençoe\nE lhe cubra de virtude\n\nOh! Minha Virgem Mãe\nVós me dê minha saúde\nSe firme, vá trabalhar\nQue nada vai lhe faltar\n\nSou eu que estou dizendo\nNão vai se assustar\nVocê leva esta mensagem\nAos seus irmãos apresentar\n\nVocê não se incomode\nO que fazem com você\nEu vejo tudo embalançar\nEu vejo tudo estremecer",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2397",
+      "numero": 24,
+      "titulo": " O Mensageiro",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu sou o Mensageiro\nDono do jardim\nVocê me cede o brilho\nA vós eu peço assim\n\nOh! Minha Virgem Mãe\nA Dona desta missão\nVós nos dê nossa saúde\nVós nos dê o santo perdão\n\nVocês vão seguindo\nNesta direção\nDe mim vocês têm tudo\nTêm o santo perdão\n\nVocê me pede o brilho\nEu te dou assim\nVá cantando nosso brilho\nNosso amor do jardim\n\nEu sou o brilho\nEu te digo assim\nVai cantando nosso brilho\nNosso amor do jardim\n\nEu sou amor\nEu te digo assim\nVai cantando nosso amor\nNosso brilho do jardim",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2398",
+      "numero": 25,
+      "titulo": " Concentração",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Você vá seguindo\nEm concentração\nEm frente com coragem\nE trabalhando pelos seus irmãos\n\nAqui nesta missão\nEu ensino é a trabalhar\nA todos meus irmãos\nPara todos lá chegar\n\nJesus Cristo veio ao mundo\nCom seu livro na mão\nEle veio para nos dar um voto\nAqui nesta missão",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2399",
+      "numero": 26,
+      "titulo": " Vai Zelando Seu Jardim",
+      "autor": "Ana de Souza Brito",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vá zelando seu jardim\nVá zelando com amor\nVá zelando seu jardim\nQue eu sou seu defensor\n\nVá zelando seu jardim\nCantando a sua alvorada\nVá zelando seu jardim\nRogando pela humanidade\n\nEstou juntinho a ti\nE eu sou o teu guia\nEstás perto de mim\nE da sempre Virgem Maria\n\nTu és uma sofredora\nMas é batalhadora\nAqui dentro do meu poder\nVocê tem as coisas boas",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "2402",
+      "numero": 27,
+      "titulo": " Jesus Cristo",
+      "autor": "Elias Alves de Brito",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Jesus Cristo Redentor\nPelo vosso santo amor\nVamos adorar a Jesus Cristo\nQue ele é o nosso salvador",
+      "conteudoCifrado": ""
+    }
+  ]
+}

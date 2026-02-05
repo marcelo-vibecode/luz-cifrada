@@ -1,0 +1,340 @@
+{
+  "hinario": {
+    "nome": "O Menino Jesus",
+    "slug": "o-menino-jesus",
+    "autor": "João Pedro",
+    "totalHinos": 30
+  },
+  "hinos": [
+    {
+      "id": "1409",
+      "numero": 1,
+      "titulo": "A Viagem",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Eu fiz uma viagem\nQue minha mãe me mandou\n\nA sempre Virgem Maria\nFoi quem me acompanhou\n\nPara eu vir para esta casa\nA luz que me alumiou",
+      "conteudoCifrado": "<cifra class=\"cifra\">      D           Em</cifra><p>              D          Em        Bm</p><cifra class=\"cifra\"> </cifra><p>             D      Em       Bm</p><cifra class=\"cifra\">                  D     Em       Bm </cifra><p> </p><cifra class=\"cifra\">              D          Em    Bm</cifra><p>            D        Em   Bm</p>"
+    },
+    {
+      "id": "1380",
+      "numero": 2,
+      "titulo": "Eu andava no escuro",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu andava no escuro\nE não pisava bem no chão\nSó pensava em vaidade\nNo caminho da perdição\n\nAdiante encontrei meu Mestre\nEle passou-me uma lição \nEu um pouco cabeçudo\nNão tratava de aprender\n\nMeu Mestre me castigou-me\nConforme eu mereci \nEu lhe pedi o perdão\nMeu Mestre me perdoou\n\nHoje eu me acho com Ele \nNo trono superior",
+      "conteudoCifrado": "<cifra class=\"cifra\">         Dm    G      C</cifra><p>             Em    G           Em</p><cifra class=\"cifra\">           Em [Am]     Dm</cifra><p>           G                     C</p><cifra class=\"cifra\"> </cifra><p>          Am                        Dm</p><cifra class=\"cifra\">             G                   Em</cifra><p>           Am            Dm</p><cifra class=\"cifra\">            G                  Em</cifra><p> </p><cifra class=\"cifra\">               Am                 Dm</cifra><p>            G              Em</p><cifra class=\"cifra\">           Am           Dm</cifra><p>               G               Em</p><cifra class=\"cifra\"> </cifra><p>              Am                Dm</p><cifra class=\"cifra\">           G           C</cifra>"
+    },
+    {
+      "id": "1410",
+      "numero": 3,
+      "titulo": "O meu Mestre é poderoso",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "O meu Mestre é poderoso\nEle tem força e tem poder\nEle com a Rainha\nNada nós tem a temer\n\nEle ensina é porque sabe\nNinguém queira duvidar \nAquele que for teimoso \nTerá muito de apanhar\n\nEle ensina os seus irmãos\nÉ com amor no coração\nCom força do Pai Eterno \nE do nosso Juramidam\n\nMeu Mestre com a Rainha \nTem força superior \nEle recebe os seus irmãos \nÉ com carinho e com amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">             D                  A</cifra><p>              G                   F#m</p><cifra class=\"cifra\">  D        Bm   A</cifra><p>          Em        A       D</p><cifra class=\"cifra\"> </cifra><p>          D                     A</p><cifra class=\"cifra\">                  G           F#m</cifra><p>        D        Bm        A</p><cifra class=\"cifra\">          Em        A       D</cifra><p> </p><cifra class=\"cifra\">          D                       A</cifra><p>               G              F#m</p><cifra class=\"cifra\">              D      Bm    A</cifra><p>             Em    A      D</p><cifra class=\"cifra\"> </cifra><p>                D               A</p><cifra class=\"cifra\">             G         F#m</cifra><p>          D          Bm         A</p><cifra class=\"cifra\">              Em        A         D</cifra>"
+    },
+    {
+      "id": "1382",
+      "numero": 4,
+      "titulo": "A Rainha da Floresta",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "A Rainha da Floresta\nFoi quem mandou eu cantar\nHoje aqui neste salão\nPara meu Mestre se alegrar\n\nA Rainha manda o Mestre \nEnsinar os seus irmãos \nQue abrisse este caminho \nP'ra se alcançar a salvação\n\nEu canto na floresta\nQue a Rainha me ordenou \nA Virgem Nossa Senhora \nÉ mãe de Nosso Senhor \n\nEla é quem nos ajuda \nA nós todos trabalhar \nA limpar nossos corações \nPara Jesus nos perdoar",
+      "conteudoCifrado": "<cifra class=\"cifra\">       C       D      C</cifra><p>                 Dm       G        C</p><cifra class=\"cifra\">            Am            Em</cifra><p>                 Dm      G         C</p><cifra class=\"cifra\"> </cifra><p>       C         D            C</p><cifra class=\"cifra\">        Dm     G          C</cifra><p>            Am               Em</p><cifra class=\"cifra\">                   Dm     G       C</cifra><p> </p><cifra class=\"cifra\">       C       D      C</cifra><p>             Dm         G       C</p><cifra class=\"cifra\">         Am                  Em</cifra><p>          Dm      G         C</p><cifra class=\"cifra\"> </cifra><p>      C           D      C</p><cifra class=\"cifra\">          Dm     G        C</cifra><p>         Am                    Em</p><cifra class=\"cifra\">            Dm        G      C</cifra>"
+    },
+    {
+      "id": "1383",
+      "numero": 5,
+      "titulo": "Meu Divino Pai do Céu",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Meu Divino Pai do Céu\nMeu Soberano Senhor \nCurai as minhas doenças \nJesus Cristo Redentor\n\nA Vós peço, meu Jesus, \nCom amor no coração \nCurai as minhas doenças \nDe mim e dos meus irmãos \n\nOh! minha Virgem Maria \nMãe de um Deus Onipotente \nPerdoai as minhas culpas\nMeus três Reis do Oriente \n\nMeus três Reis do Oriente\nQue a Jesus tem amor \nPerdoai as minhas culpas \nJesus Cristo redentor \n\nA Vos peço meu Jesus\nFilho da Virgem Maria\nQue Vós dai força a meu Mestre \nQue é uma luz que nos guia\n\nÉ uma luz que nos guia \nNos mostrai o bom caminho\nMeu Jesus de Nazaré\nTenha compaixão de mim",
+      "conteudoCifrado": "<cifra class=\"cifra\">            D                A</cifra><p>            Bm             A</p><cifra class=\"cifra\">         Bm                A</cifra><p>           Bm              A</p><cifra class=\"cifra\"> </cifra><p>            D                A</p><cifra class=\"cifra\">            Bm             A</cifra><p>         Bm                A</p><cifra class=\"cifra\">            Bm                    A</cifra><p> </p><cifra class=\"cifra\">             D                   A</cifra><p>                    Bm            A</p><cifra class=\"cifra\">        Bm                   A</cifra><p>                 Bm            A</p><cifra class=\"cifra\"> </cifra><p>                  D              A</p><cifra class=\"cifra\">          Bm               A</cifra><p>         Bm                  A</p><cifra class=\"cifra\">           Bm              A</cifra><p> </p><cifra class=\"cifra\">            D                A</cifra><p>        Bm                   A</p><cifra class=\"cifra\">              Bm                       A</cifra><p>              Bm                    A</p><cifra class=\"cifra\"> </cifra><p>       D                       A</p><cifra class=\"cifra\">               Bm                A</cifra><p>           Bm              A</p><cifra class=\"cifra\">           Bm                    A</cifra>"
+    },
+    {
+      "id": "1384",
+      "numero": 6,
+      "titulo": "Virgem Maria",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Oh! minha Virgem Maria \nVós é Mãe do Redentor\nVós guiai os meus passos \nNesta estrada do amor\n\nEsta estrada do amor\nDentro do meu coração \nVós guiai os meus passos \nOh! Virgem da Conceição \n\nOh! minha Virgem Maria \nVós é Mãe do Onipotente\nAlimpai meu coração \nE Vós perdoe os inocentes\n\nOh! minha Virgem Maria\nOh! Virgem da Conceição\nVós dai força a meu Mestre \nAqui dentro da sessão",
+      "conteudoCifrado": "<cifra class=\"cifra\">             D                    A        </cifra><p>           A         E         D</p><cifra class=\"cifra\">       Bm                  F#m</cifra><p>              Em     A       D</p><cifra class=\"cifra\"> </cifra><p>             D               A        </p><cifra class=\"cifra\">            A           E      D</cifra><p>        Bm                 F#m</p><cifra class=\"cifra\">            Em        A       D</cifra><p> </p><cifra class=\"cifra\">             D                    A        </cifra><p>            A           E      D</p><cifra class=\"cifra\">       Bm               F#m</cifra><p>               Em      A     D</p><cifra class=\"cifra\"> </cifra><p>             D                    A        </p><cifra class=\"cifra\">             A          E         D</cifra><p>       Bm                     F#m</p><cifra class=\"cifra\">         Em       A       D</cifra>"
+    },
+    {
+      "id": "1385",
+      "numero": 7,
+      "titulo": "Andei o mundo todo",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Andei o mundo todo \nE só aqui pude encontrar \nEsta verdade é pura \nQue o nosso Mestre nos dá\n\nVamos todos meus irmãos \nTratar da união \nSenão vamos apanhar \nE não tem mais apelação \n\nNosso Mestre não precisa \nDe enganar os seus irmãos \nNós vivendo todos unidos \nNós teremos a salvação\n\nMas se assim continuar \nConforme o Mestre está vendo \nO chicote vai comer \nE não tem grande, nem pequeno",
+      "conteudoCifrado": "<cifra class=\"cifra\">      A</cifra><p>           F#m                 E</p><cifra class=\"cifra\">    D                 Bm</cifra><p>               F#m                 E</p><cifra class=\"cifra\"> </cifra><p>             A</p><cifra class=\"cifra\">    F#m          E</cifra><p>            D               Bm</p><cifra class=\"cifra\">                 F#m            E</cifra><p> </p><cifra class=\"cifra\">             A</cifra><p>                F#m               E</p><cifra class=\"cifra\">            D                 Bm</cifra><p>          F#m                 E</p><cifra class=\"cifra\"> </cifra><p>                 A</p><cifra class=\"cifra\">               F#m                   E</cifra><p>         D               Bm</p><cifra class=\"cifra\">                  F#m                   E</cifra>"
+    },
+    {
+      "id": "1386",
+      "numero": 8,
+      "titulo": "Jardim de Belas Flores",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Estou aqui neste jardim \nMeu Mestre me colocou \nPara eu amar com firmeza \nO jardim de belas flores\n\nAs flores deste jardim \nElas tem muito valor \nO meu Mestre só entrega \nPara quem for merecedor.\n\nMuitos querem merecer \nMas nenhum tem o poder\nPrecisa trabalhar muito \nPara poder receber\n\nO trabalho é ter amor \nE com muita perfeição\nNão andar com fingimento \nE nem ser falso aos seus irmãos",
+      "conteudoCifrado": "<cifra class=\"cifra\">              D   F#         Bm   </cifra><p>                D        G     F#</p><cifra class=\"cifra\">             D                    F#</cifra><p>    C#m7(b5)  F#   Bm</p><cifra class=\"cifra\"> </cifra><p>          D       F#      Bm   </p><cifra class=\"cifra\">         D          G    F#</cifra><p>              D                 F#</p><cifra class=\"cifra\">           C#m7(b5)  F#   Bm</cifra><p> </p><cifra class=\"cifra\">                D       F#    Bm   </cifra><p>               D          G      F#</p><cifra class=\"cifra\">         D                    F#</cifra><p>      C#m7(b5) F# Bm</p><cifra class=\"cifra\"> </cifra><p>         D         F#     Bm   </p><cifra class=\"cifra\">             D       G       F#</cifra><p>            D                   F#</p><cifra class=\"cifra\">                C#m7(b5)  F#       Bm </cifra>"
+    },
+    {
+      "id": "1387",
+      "numero": 9,
+      "titulo": "Se ao Céu tu queres ir",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Se ao céu tu queres ir \nTrabalha para se limpar\nTendo fé em nosso Mestre \nO que pedir Ele dá\n\nAqui não tem nada em dúvida \nTem tudo o que procurar\nTodos tenham paciência \nQue um dia é de alcançar\n\nTendo fé nesta verdade \nE consagrando este amor \nUm dia nós todos vamos \nLá nos pés do Salvador\n\nNosso Mestre tem poder\nEle mostra o seu valor \nDe ensinar os seus irmãos \nCompreender e ter amor\n\nMas ninguém presta atenção \nE não faz caso de aprender\nDepois que estão sofrendo \nÉ que vão se arrepender",
+      "conteudoCifrado": "<cifra class=\"cifra\">           D                  G</cifra><p>          D                    Em</p><cifra class=\"cifra\">           D                   Em</cifra><p>           D             G</p><cifra class=\"cifra\"> </cifra><p>         D                          G</p><cifra class=\"cifra\">         D                      Em</cifra><p>            D               Em</p><cifra class=\"cifra\">               D                  G</cifra><p> </p><cifra class=\"cifra\">           D                 G</cifra><p>               D                Em</p><cifra class=\"cifra\">        D                   Em</cifra><p>             D                G</p><cifra class=\"cifra\"> </cifra><p>             D                   G</p><cifra class=\"cifra\">         D                   Em</cifra><p>             D                     Em</p><cifra class=\"cifra\">                 D                G</cifra><p> </p><cifra class=\"cifra\">                D                      G</cifra><p>                D                  Em</p><cifra class=\"cifra\">               D                 Em</cifra><p>           D                    G</p>"
+    },
+    {
+      "id": "1388",
+      "numero": 10,
+      "titulo": "Homens Fortes",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Tu tens vontade de aprender\nMais eu tenho de ensinar \nPara todos meus irmãos \nAqueles que procurar\n\nÀqueles que estão comigo \nAqui dentro do poder \nA Rainha dá o conforto \nE não deixa esmorecer\n\nVamos todos meus irmãos\nNão quero ver ninguém correr \nQue a batalha está pesada \nE é preciso nós vencer \n\nPrecisa de homens fortes \nPara poder guerrear\nAgora está no apuro \nE vamos ver quem vai ficar",
+      "conteudoCifrado": "<cifra class=\"cifra\">                   D</cifra><p>             Bm                Em</p><cifra class=\"cifra\">         Em                   A</cifra><p>         G           A      D</p><cifra class=\"cifra\"> </cifra><p>         D</p><cifra class=\"cifra\">         Bm              Em</cifra><p>       Em                 A</p><cifra class=\"cifra\">           G           A     D</cifra><p> </p><cifra class=\"cifra\">             D</cifra><p>                 Bm                   Em</p><cifra class=\"cifra\">             Em                 A       </cifra><p>            G      A        D</p><cifra class=\"cifra\"> </cifra><p>         D</p><cifra class=\"cifra\">         Bm             Em</cifra><p>      Em               A</p><cifra class=\"cifra\">               G             A      D</cifra>"
+    },
+    {
+      "id": "1389",
+      "numero": 11,
+      "titulo": "Meu Caminho",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F",
+      "letraPura": "Eu sigo o meu caminho \nCom coragem e com amor \nRecebendo a Santa Luz \nDo nosso Pai Criador\n\nA Rainha me ensinou \nEu prestei bem atenção\nSiga este caminho \nCom a mesma direção\n\nEu ia esmorecendo \nQuando uma voz me falou \nPede conforto a Deus\nE a Jesus Cristo Redentor \nE a Rainha da Floresta \nAo nosso Mestre Ensinador\n\nUma luz me clareou \nIluminou meu pensamento\nPede perdão a Deus \nAo nosso Pai Onipotente",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Dm                  C</cifra><p>           Dm           C        F</p><cifra class=\"cifra\">         Dm                  C</cifra><p>          Dm       C     F</p><cifra class=\"cifra\"> </cifra><p>     Dm                   C</p><cifra class=\"cifra\">           Dm        C       F</cifra><p>  Dm              C</p><cifra class=\"cifra\">            Dm       C     F</cifra><p> </p><cifra class=\"cifra\">    Dm             C</cifra><p>                Dm       C      F</p><cifra class=\"cifra\">    Dm                  C</cifra><p>                Dm      C       F</p><cifra class=\"cifra\">       Dm                C</cifra><p>                Dm         C       F</p><cifra class=\"cifra\"> </cifra><p>        Dm               C</p><cifra class=\"cifra\">         Dm          C        F</cifra><p>   Dm                 C</p><cifra class=\"cifra\">              Dm     C     F</cifra>"
+    },
+    {
+      "id": "1390",
+      "numero": 12,
+      "titulo": "Eu amo a Deus no céu",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu amo a Deus no céu \nE ao nosso Juramidam \nE à Rainha da Floresta \nEu entreguei meu coração\n\nA Rainha disse para mim \nPara mim dizer para os meus irmãos \nQue é para todos se humilhar \nAqui dentro da sessão\n\nEstão aparecendo umas coisas \nQue o Mestre não está gostando\nDe vez em quando um irmão \nEstórias de outros contando\n\nO Mestre manda tomar Daime \nE todos se corrigir\nVamos prestar atenção \nAonde é que vai doer\n\nO hino está dizendo \nPara todos escutar\nQuando estiverem sofrendo \nNão tem de quem se queixar.",
+      "conteudoCifrado": "<cifra class=\"cifra\">     D          A           D</cifra><p>              G           F#m</p><cifra class=\"cifra\">         G                F#m</cifra><p>               Em         A      D</p><cifra class=\"cifra\"> </cifra><p>                D       A       D</p><cifra class=\"cifra\">                     G                          F#m</cifra><p>                   G                   F#m</p><cifra class=\"cifra\">         Em       A        D</cifra><p> </p><cifra class=\"cifra\">                D           A        D</cifra><p>                  G                     F#m</p><cifra class=\"cifra\">                    G                F#m</cifra><p>             Em       A          D</p><cifra class=\"cifra\"> </cifra><p>                  D        A         D</p><cifra class=\"cifra\">        G           F#m</cifra><p>              G             F#m</p><cifra class=\"cifra\">          Em       A      D</cifra><p> </p><cifra class=\"cifra\">     D        A      D</cifra><p>         G            F#m</p><cifra class=\"cifra\">                 G              F#m</cifra><p>              Em          A          D</p>"
+    },
+    {
+      "id": "1391",
+      "numero": 13,
+      "titulo": "Meu Mestre me ajude",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu Mestre me ajude \nQue eu já vou viajar\nEle disse para mim \nVocê já pode andar\n\nSiga seu caminho \nSem a nada temer\nSua viagem é comprida \nMas você tem que vencer \n\nVá pensando sempre em Deus \nE confiando na Rainha \nSiga este caminho \nQue terás a benção minha \n\nOs caminhos estão abertos \nNeles não tem arrodeio\nQuando eu vou esmorecendo \nO meu Mestre está no meio \n\nEu sigo o meu caminho \nEu não posso demorar\nVou ver minha Rainha \nQue Ela está lá no astral \n\nQuando eu cheguei no astral \nFui enxergando os primores\nÀ Rainha da Floresta \nEu fui dando os meus louvores \n\nEla me perguntou \nMeu filho para onde vai? \nEu disse: minha Mãe\nAndo em procura de meu Pai\n\nEla disse para mim: \nVocê vai se demorar\nOlha o que tu procuras \nE repare aonde está\n\nEla dizendo estas palavras \nQuando o Mestre eu enxerguei\nEle disse Me acompanhe \nE eu a Ele acompanhei\n\nDaí chegamos num palácio \nO Mestre foi me entregando\nReceba estes primores \nQue a Rainha está mandando",
+      "conteudoCifrado": "<cifra class=\"cifra\">          C               F</cifra><p>            C              F</p><cifra class=\"cifra\">      Em              Am</cifra><p>         G               C</p><cifra class=\"cifra\"> </cifra><p> C                  F</p><cifra class=\"cifra\">        C                F</cifra><p>       Em                 Am</p><cifra class=\"cifra\">             G                     C</cifra><p> </p><cifra class=\"cifra\">            C                             F</cifra><p>          C                F</p><cifra class=\"cifra\">    Em            Am</cifra><p>            G                   C</p><cifra class=\"cifra\"> </cifra><p>           C                     F</p><cifra class=\"cifra\">           C                   F</cifra><p>                  Em              Am</p><cifra class=\"cifra\">             G                        C</cifra><p> </p><cifra class=\"cifra\">     C                      F</cifra><p>             C                F</p><cifra class=\"cifra\">       Em              Am</cifra><p>                 G               C</p><cifra class=\"cifra\"> </cifra><p>                    C                    F</p><cifra class=\"cifra\">          C                         F</cifra><p>      Em              Am</p><cifra class=\"cifra\">            G                          C</cifra><p> </p><cifra class=\"cifra\">  C                    F</cifra><p>            C                    F</p><cifra class=\"cifra\">     Em                 Am</cifra><p>                     G                   C</p><cifra class=\"cifra\"> </cifra><p>      C                  F</p><cifra class=\"cifra\">          C                 F</cifra><p>    Em                   Am</p><cifra class=\"cifra\">       G                   C</cifra><p> </p><cifra class=\"cifra\">          C                    F</cifra><p>                  C                         F</p><cifra class=\"cifra\">      Em                   Am</cifra><p>           G                  C</p><cifra class=\"cifra\"> </cifra><p>             C                    F</p><cifra class=\"cifra\">            C                       F</cifra><p>    Em                   Am</p><cifra class=\"cifra\">             G                       C</cifra>"
+    },
+    {
+      "id": "1392",
+      "numero": 14,
+      "titulo": "Eu nasci neste mundo",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu nasci neste mundo \nSó foi para sofrer\nMas peço conforto ao Divino \nQue tudo eu hei de vencer\n\nVivo nesta irmandade \nJunto com os meus irmãos\nCantando os meus hinos \nDa Virgem da Conceição\n\nVamos todos meus irmãos\nCom coragem e com amor\nCultivar esta Doutrina \nDo nosso Pai Criador\n\nTodo mundo pensa que o Mestre \nTem com Ele esta obrigação \nDe tratar de todo mundo \nNinguém dá uma satisfação\n\nEle cura é porque tem \nConsigo um bom coração\nRecebendo os ensinos \nDa Virgem da Conceição\n\nO nosso Mestre tem amor \nA todos os seus irmãos \nMas ninguém Lhe agradece \nSó pagam com ingratidão",
+      "conteudoCifrado": "<cifra class=\"cifra\"> D       A             Bm</cifra><p>     D    A          D</p><cifra class=\"cifra\">        Bm                          A</cifra><p>       Bm         A              D</p><cifra class=\"cifra\"> </cifra><p>        D    A          Bm</p><cifra class=\"cifra\">      D         A                  D</cifra><p>      Bm                    A</p><cifra class=\"cifra\">     Bm        A              D</cifra><p> </p><cifra class=\"cifra\">             D   A               Bm</cifra><p>             D       A             D</p><cifra class=\"cifra\">     Bm                   A</cifra><p>     Bm       A          D</p><cifra class=\"cifra\"> </cifra><p>           D              A            Bm</p><cifra class=\"cifra\">               D        A            D</cifra><p>     Bm                     A</p><cifra class=\"cifra\">               Bm         A        D</cifra><p> </p><cifra class=\"cifra\">       D    A              Bm</cifra><p>       D            A            D</p><cifra class=\"cifra\">    Bm                  A</cifra><p>      Bm       A              D</p><cifra class=\"cifra\"> </cifra><p>                D    A            Bm</p><cifra class=\"cifra\">    D       A                D</cifra><p>        Bm                        A</p><cifra class=\"cifra\">      Bm        A              D</cifra>"
+    },
+    {
+      "id": "1393",
+      "numero": 15,
+      "titulo": "Estás Sofrendo",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Se tu hoje estás sofrendo \nAmanhã pode melhorar \nPedi à Virgem Mãe \nQue é quem tem para nos dar\n\nEla dá e vai te dando \nE nunca deixa de te dar \nQue Ela não vive em matéria \nPorque faz se alegrar\n\nEu sempre venho dizendo \nE nunca deixo de dizer \nQuem sofrer com paciência \nTem um prêmio a receber",
+      "conteudoCifrado": "<cifra class=\"cifra\">         C          E        Am</cifra><p>               Am     E     Am       </p><cifra class=\"cifra\">     G     E           C</cifra><p>                     C         E        Am</p><cifra class=\"cifra\"> </cifra><p>       C     E        Am</p><cifra class=\"cifra\">               Am   E       Am       </cifra><p>               G          E         C</p><cifra class=\"cifra\">             C       E    Am</cifra><p> </p><cifra class=\"cifra\">             C         E      Am</cifra><p>              Am     E     Am       </p><cifra class=\"cifra\">                G           E    C</cifra><p>                C           E     Am</p>"
+    },
+    {
+      "id": "1394",
+      "numero": 16,
+      "titulo": "Elevei meu Pensamento",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F",
+      "letraPura": "Elevei meu pensamento \nNas alturas aonde estou\nCom fé no Pai Eterno \nE no Mestre que me ensinou\n\nO Mestre que me ensina \nMe ordena todo dia: \nRezar prece e ter firmeza \nNa sempre Virgem Maria \n\nPara Ela nos defender \nDe todas estas epidemias\nAs doenças vem chegando \nE é preciso nós afastar\n\nRezar prece e ter firmeza \nE conhecer aonde está",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Dm                   C</cifra><p>         Bb       C           F</p><cifra class=\"cifra\">        Dm             C</cifra><p>               Bb        C           F</p><cifra class=\"cifra\"> </cifra><p>     Dm                      C</p><cifra class=\"cifra\">         Bb     C       F</cifra><p>            Dm                 C</p><cifra class=\"cifra\">             Bb       C          F</cifra><p> </p><cifra class=\"cifra\">        Dm                 C</cifra><p>               Bb       C       F</p><cifra class=\"cifra\">        Dm                    C</cifra><p>           Bb         C       F</p><cifra class=\"cifra\"> </cifra><p>           Dm                   C</p><cifra class=\"cifra\">            Bb    C           F</cifra>"
+    },
+    {
+      "id": "1395",
+      "numero": 17,
+      "titulo": "Vou chamar Juramidam",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Dou viva à Virgem Maria \nE à Rainha da Floresta \nE o Patriarca São José \nQue deu poder ao nosso Mestre\n\nO nosso Mestre tem poder \nAqui na terra e no astral\nNo mar e no espaço\nEm todo canto que chamar\n\nQuem amar Juramidam\nCom amor no coração\nChamando Ele vem \nEm toda esta sessão\n\nEle é quem dá o conforto \nPara aqueles que procurar\nQue não tem perto e nem longe \nAonde chama Ele está\n\nEu vou chamar Juramidam \nÉ para todo mundo ver\nQuem não deve nada sofre\nQuem deve é quem vai sofrer\n\nVou chamar Juramidam \nPorque mandaram eu chamar\nQuem está limpo não apanha\nQuem está sujo vai apanhar \n\nApanhar para aprender \nNo caminho para trabalhar\nSem apanhar ninguém aprende \nE todos querem se julgar",
+      "conteudoCifrado": "<cifra class=\"cifra\">             C        G          C</cifra><p>         C       D        C</p><cifra class=\"cifra\">             F                  C   Am</cifra><p>                  Dm      G         C       (C7)</p><cifra class=\"cifra\"> </cifra><p>                C         G        C</p><cifra class=\"cifra\">              C         D        C</cifra><p>        F                C   Am</p><cifra class=\"cifra\">               Dm      G          C   (C7)</cifra><p> </p><cifra class=\"cifra\">               C      G      C</cifra><p>             C       D      C</p><cifra class=\"cifra\">         F               C   Am</cifra><p>         Dm    G        C   (C7)</p><cifra class=\"cifra\"> </cifra><p>            C        G       C</p><cifra class=\"cifra\">                 C           D      C</cifra><p>                F                         C    Am</p><cifra class=\"cifra\">            Dm      G      C  (C7)</cifra><p> </p><cifra class=\"cifra\">                   C      G       C</cifra><p>            C       D        C</p><cifra class=\"cifra\">                  F               C    Am</cifra><p>                Dm           G        C   (C7)</p><cifra class=\"cifra\"> </cifra><p>              C       G      C</p><cifra class=\"cifra\">                     C       D         C</cifra><p>                   F                  C    Am</p><cifra class=\"cifra\">                     Dm     G      C   (C7)</cifra><p> </p><cifra class=\"cifra\">          C          G         C</cifra><p>            C               D        C</p><cifra class=\"cifra\">                 F                       C    Am</cifra><p>              Dm      G        C       (C7)</p>"
+    },
+    {
+      "id": "1396",
+      "numero": 18,
+      "titulo": "Cantar com amor",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vamos cantar com amor \nDentro da soberania\nCom fé no Pai Eterno \nE na sempre Virgem Maria\n\nNosso Mestre vai na frente\nEle é o nosso guia\nEle roga por nós todos \nÀ sempre Virgem Maria\n\nEle mandou que eu seguisse \nNesta estrada do amor\nImplorando à Virgem Mãe \nE a Jesus Cristo Redentor\n\nSiga por esta estrada \nQue nela não tem errada\nQuando for esmorecendo \nEu estou aí encostado\n\nPode me procurar \nQue Eu estou pronto para ensinar\nQuanto mais pede, mais vê \nE mais Eu tenho para mostrar",
+      "conteudoCifrado": "<cifra class=\"cifra\">             C                   G</cifra><p>           Am            G</p><cifra class=\"cifra\">        F               Am</cifra><p>                Dm      G        C</p><cifra class=\"cifra\"> </cifra><p>             C                    G</p><cifra class=\"cifra\">     Am               G</cifra><p>       F                  Am</p><cifra class=\"cifra\">           Dm      G         C</cifra><p> </p><cifra class=\"cifra\">         C                          G</cifra><p>              Am             G</p><cifra class=\"cifra\">          F                       Am</cifra><p>                Dm      G      C</p><cifra class=\"cifra\"> </cifra><p>    C                     G</p><cifra class=\"cifra\">          Am                  G</cifra><p>               F              Am</p><cifra class=\"cifra\">             Dm  G     C</cifra><p> </p><cifra class=\"cifra\">     C                 G</cifra><p>                       Am                     G</p><cifra class=\"cifra\">                F                   Am</cifra><p>                Dm         G         C</p>"
+    },
+    {
+      "id": "1397",
+      "numero": 19,
+      "titulo": "Santa Luz",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu Mestre me ajude, \nNão me deixe esmorecer\nMe dê o Vosso conforto \nTenha dó do meu sofrer\n\nEstou aqui em Vossos pés \nCom os meus joelhos no chão\nEu peço a Vós a Santa Luz \nPra iluminar o meu perdão\n\nEle me disse: te levanta\nTeus crimes estão perdoados\nSegue sempre cantando \nAqui dentro da verdade\n\nOlhe o que Eu vou lhe dizer \nE preste bem atenção\nO que eu te dei com tanto amor \nNão vá deixar cair no chão\n\nVá fazendo como ensino \ne cumpra sua missão\nEu quero é ver todos cantando \nAqui dentro da sessão",
+      "conteudoCifrado": "<cifra class=\"cifra\">          G          F     C</cifra><p>               G                 C</p><cifra class=\"cifra\">          G       F           C</cifra><p>           G                   C</p><cifra class=\"cifra\"> </cifra><p>              G         F         C</p><cifra class=\"cifra\">                       G                 C</cifra><p>                  G       F        C</p><cifra class=\"cifra\">                G                   C</cifra><p> </p><cifra class=\"cifra\">            G        F      C</cifra><p>                    G               C</p><cifra class=\"cifra\">      G            F         C</cifra><p>           G                 C</p><cifra class=\"cifra\"> </cifra><p>              G              F       C</p><cifra class=\"cifra\">          G                  C</cifra><p>                    G            F           C</p><cifra class=\"cifra\">                 G                  C</cifra><p> </p><cifra class=\"cifra\">          G        F          C</cifra><p>            G              C</p><cifra class=\"cifra\">                  G        F          C</cifra><p>          G                 C</p>"
+    },
+    {
+      "id": "1398",
+      "numero": 20,
+      "titulo": "O Relógio",
+      "autor": "João Pedro",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Oh! Que noite tão bonita \nOh! Que relógio de luz \nQuem estiver dormindo acorde\nOuça a voz do meu Jesus\n\nTodos seres se levantem \nPara ver o Salvador\nVenha ver o nosso Mestre \nCom a cruz do resplendor\n\nSempre, sempre eu peço a Deus \nE ao nosso Mestre ensinador \nSe Vós vê que eu mereço \nAumentai o meu amor\n\nAumentai o meu amor \nDe mim e dos meus irmãos\nDai luz a quem não enxerga \nOh! Virgem da Conceição",
+      "conteudoCifrado": "<cifra class=\"cifra\">              G  Em         D</cifra><p>            Am  D         G</p><cifra class=\"cifra\">               F#m  Em            D</cifra><p>             C   Am          D</p><cifra class=\"cifra\"> </cifra><p>          G  Em         D</p><cifra class=\"cifra\">       Am  D         G</cifra><p>          F#m Em          D</p><cifra class=\"cifra\">              C   Am            D</cifra><p> </p><cifra class=\"cifra\">                G        Em              D</cifra><p>                   Am     D         G</p><cifra class=\"cifra\">          F#m  Em          D</cifra><p>           C  Am           D</p><cifra class=\"cifra\"> </cifra><p>           G  Em           D</p><cifra class=\"cifra\">            Am  D                 G</cifra><p>          F#m  Em             D</p><cifra class=\"cifra\">            C    Am           D</cifra>"
+    },
+    {
+      "id": "1399",
+      "numero": 21,
+      "titulo": "Mandei te chamar",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Mandei te chamar \nPara ensinar o caminho\nEstou na frente da estrada \nEu moro bem pertinho\n\nVá trabalhando \nConforme o seu saber\nEstou na frente da estrada \nProcurando todos ver\n\nEstou ensinando \nCom amor e com carinho\nQuando se ver atrapalhado \nTome Daime e pense em Mim\n\nSou o Chefe da sessão\nSou o Mestre ensinador\nTrago os meus ensinos \nPara quem for merecedor\n\nVamos trabalhar \nE não vá esmorecer\nPisa firme e segue em frente \nPara a batalha vencer",
+      "conteudoCifrado": "<cifra class=\"cifra\">                        C</cifra><p>             G             Em</p><cifra class=\"cifra\">                                   Dm</cifra><p>       G                  C</p><cifra class=\"cifra\"> </cifra><p>                C</p><cifra class=\"cifra\">       G                   Em</cifra><p>                                 Dm</p><cifra class=\"cifra\">          G                 C</cifra><p> </p><cifra class=\"cifra\">                  C</cifra><p>             G                 Em</p><cifra class=\"cifra\">                                  Dm</cifra><p>            G                           C</p><cifra class=\"cifra\"> </cifra><p>                               C</p><cifra class=\"cifra\">             G                Em</cifra><p>                            Dm</p><cifra class=\"cifra\">                   G               C</cifra><p> </p><cifra class=\"cifra\">                      C</cifra><p>          G             Em</p><cifra class=\"cifra\">                                     Dm</cifra><p>            G                C</p>"
+    },
+    {
+      "id": "1400",
+      "numero": 22,
+      "titulo": "Maria Eterna",
+      "autor": "João Pedro",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "A terra toda celeste \nAté o trono de Deus\nVamos cantar este hino \nQue o nosso Mestre nos deu\n\nEstremecem todos os astros\nRepicam todos os sinos \nEm louvor à Mãe de Deus \nVamos cantar este hino\n\nEm toda parte se ouve \nO nome de Maria Eterna\nVamos cantar este hino \nDo Soberano do Céu",
+      "conteudoCifrado": "<cifra class=\"cifra\">    Dm    A        Dm</cifra><p>   F      Gm           A</p><cifra class=\"cifra\">     Dm        A           Dm</cifra><p>             F         A             Dm</p><cifra class=\"cifra\"> </cifra><p>        Dm         A           Dm</p><cifra class=\"cifra\">      F        Gm             A</cifra><p>      Dm      A             Dm</p><cifra class=\"cifra\">        F         A           Dm</cifra><p> </p><cifra class=\"cifra\">      Dm     A          Dm</cifra><p>      F           Gm           A</p><cifra class=\"cifra\">     Dm        A           Dm</cifra><p>      F       A          Dm</p>"
+    },
+    {
+      "id": "1401",
+      "numero": 23,
+      "titulo": "Campina de espinho",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu entrei numa viagem \nNuma campina de espinhos\nFirmei o meu pensamento \nMinha Mãe rogai por mim \n\nMeu Pai Eterno do Céu \nTenha de mim compaixão\nIluminai o meu caminho \nMe tirai da solidão\n\nAí entrei num jardim\nSaí brincando com as flores\nNa frente estava meu Pai \nQue é o Rei do Amor\n\nDe lado estava meu Mestre \nQuando comigo falou\nEu vou contar para os meus irmãos \nTudo quanto se passou\n\nEle disse para mim \nTem muito que trabalhar\nÉ de grande a pequeno \nTodos precisam rezar\n\nAqueles que não rezar \nMuito irão se arrepender\nO clamor que vem aí \nQuem não morrer tem que ver\n\nO mundo vai se balançar \nE a terra estremecer \nE o mar soltar gemidos\nAs estrelas no céu correr\n\nFeliz serão aqueles \nQue nesta casa chegar \nEle tomba mas não cai \nQue tem Deus para segurar",
+      "conteudoCifrado": "<cifra class=\"cifra\">           C        D   C</cifra><p>           Dm    G           C</p><cifra class=\"cifra\">          Am                  C</cifra><p>           Dm       G         C</p><cifra class=\"cifra\"> </cifra><p>              C     D        C</p><cifra class=\"cifra\">         Dm         G          C</cifra><p>        Am                 C</p><cifra class=\"cifra\">        Dm      G    C</cifra><p> </p><cifra class=\"cifra\">     C        D          C</cifra><p>       Dm      G                C</p><cifra class=\"cifra\">             Am                  C</cifra><p>         Dm     G     C</p><cifra class=\"cifra\"> </cifra><p>             C     D            C</p><cifra class=\"cifra\">             Dm   G      C</cifra><p>                Am                             C</p><cifra class=\"cifra\">           Dm     G        C</cifra><p> </p><cifra class=\"cifra\">       C      D       C</cifra><p>             Dm       G        C</p><cifra class=\"cifra\">          Am              C</cifra><p>           Dm     G     C</p><cifra class=\"cifra\"> </cifra><p>         C          D        C</p><cifra class=\"cifra\">           Dm         G       C</cifra><p>          Am              C</p><cifra class=\"cifra\">                 Dm       G            C</cifra><p> </p><cifra class=\"cifra\">               C        D      C</cifra><p>           Dm    G      C</p><cifra class=\"cifra\">       Am                 C</cifra><p>            Dm       G         C</p><cifra class=\"cifra\"> </cifra><p>     C      D        C</p><cifra class=\"cifra\">           Dm     G         C</cifra><p>       Am                    C</p><cifra class=\"cifra\">                Dm           G     C</cifra>"
+    },
+    {
+      "id": "1402",
+      "numero": 24,
+      "titulo": "Há muito tempo eu andava",
+      "autor": "João Pedro",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Há muito tempo eu andava \nAtrás de Pai meu Senhor\nHoje foi que encontrei Ele \nFeito um Mestre pregador\n\nEu nesta minha viagem \nRompi muitas travessias \nPara conhecer o Poder \nQue ainda não conhecia\n\nSenti meu corpo estremecer \nMinhas carnes se liquidando \nDo mundo eu fui me esquecendo \nSó de Deus fui me lembrando\n\nEu me entreguei ao Divino \nAo meu Mestre ensinador\nQue Ele fizesse de mim \nO que eu fosse merecedor\n\nA Rainha minha Mãe\nEla veio me consolar\nMandou-me que eu voltasse \nE este hino cantar\n\nEstes são os ensinos \nDo Mestre Juramidam\nPeço que todos me ajudem \nMeus irmãos preste atenção\n\nO Mestre manda que eu cante \nÉ para todos aprender \nMas ninguém não me procura \nE eu não vou me oferecer",
+      "conteudoCifrado": "<cifra class=\"cifra\">          Em            A        D</cifra><p>          G                    F#m</p><cifra class=\"cifra\">         G                        Bm</cifra><p>                 A                  D</p><cifra class=\"cifra\"> </cifra><p>          Em       A    D</p><cifra class=\"cifra\">              G                F#m</cifra><p>          G                  Bm</p><cifra class=\"cifra\">             A                  D</cifra><p> </p><cifra class=\"cifra\">                  Em         A        D</cifra><p>                   G              F#m</p><cifra class=\"cifra\">                G                       Bm</cifra><p>            A                         D</p><cifra class=\"cifra\"> </cifra><p>              Em         A      D</p><cifra class=\"cifra\">               G                 F#m</cifra><p>             G               Bm</p><cifra class=\"cifra\">                    A               D</cifra><p> </p><cifra class=\"cifra\">      Em      A          D</cifra><p>         G                F#m</p><cifra class=\"cifra\">              G                   Bm</cifra><p>       A                D</p><cifra class=\"cifra\"> </cifra><p>    Em        A       D</p><cifra class=\"cifra\">             G              F#m</cifra><p>           G                       Bm</p><cifra class=\"cifra\">                 A                     D</cifra><p> </p><cifra class=\"cifra\">          Em         A              D</cifra><p>            G               F#m</p><cifra class=\"cifra\">                G                     Bm</cifra><p>                 A                 D</p>"
+    },
+    {
+      "id": "1403",
+      "numero": 25,
+      "titulo": "Eu vim para esta casa",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Eu vim para esta casa \nQue mandaram me chamar\nEu confessei os meu crimes \nAo meu Príncipe Imperial\n\nEle me deu o braço\nSaímos a passear\nA Força foi me levando\nEu cheguei lá no Astral\n\nEu fiquei muito contente\nCom prazer e alegria\nMeu Mestre me perguntou \nO que era o que eu queria\n\nSem a nada temer \nEu a Ele respondi: \nEu quero a minha saúde \nPara eu poder ser feliz\n\nVá sempre trabalhando \nSem a nada temer\nNo maior dos avexames \nPronto Eu para lhe atender",
+      "conteudoCifrado": "<cifra class=\"cifra\">      D     A           Bm</cifra><p>          D      F#              Bm</p><cifra class=\"cifra\">       D     A                Bm</cifra><p>        D          F#           Bm</p><cifra class=\"cifra\"> </cifra><p>D     A            Bm</p><cifra class=\"cifra\">    D      F#       Bm</cifra><p>    D        A          Bm</p><cifra class=\"cifra\">        D        F#         Bm</cifra><p> </p><cifra class=\"cifra\">     D           A         Bm</cifra><p>          D      F#      Bm</p><cifra class=\"cifra\">           D        A            Bm</cifra><p>          D         F#           Bm</p><cifra class=\"cifra\"> </cifra><p>  D        A        Bm</p><cifra class=\"cifra\">     D  F#         Bm</cifra><p>        D         A        Bm</p><cifra class=\"cifra\">         D       F#         Bm</cifra><p> </p><cifra class=\"cifra\">      D      A          Bm</cifra><p>        D  F#        Bm</p><cifra class=\"cifra\">        D       A       Bm</cifra><p>            D      F#           Bm</p>"
+    },
+    {
+      "id": "1404",
+      "numero": 26,
+      "titulo": "Eu fiz esta Viagem",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu fiz esta viagem \nQue meu Mestre me ordenou\nA sempre Virgem Maria \nFoi quem me acompanhou\n\nOs anjos lá no céu \nEstão cantando em louvor \nDe ver tantos primores \nQue meu Mestre me entregou\n\nEu agradeço a meu Mestre\nA Jesus Cristo Redentor\nCom o poder da Virgem Mãe \nO meu jardim florou",
+      "conteudoCifrado": "<cifra class=\"cifra\">      C</cifra><p>                 F                     Em</p><cifra class=\"cifra\">            F                    Em</cifra><p>Am          Dm    G          C</p><cifra class=\"cifra\"> </cifra><p>      C</p><cifra class=\"cifra\">                F                 Em</cifra><p>       F                    Em</p><cifra class=\"cifra\">  Am          Dm            G       C</cifra><p> </p><cifra class=\"cifra\">         C</cifra><p>                F               Em</p><cifra class=\"cifra\">                 F                     Em</cifra><p>Am      Dm  G       C</p>"
+    },
+    {
+      "id": "1405",
+      "numero": 27,
+      "titulo": "Meu Mestre a Vós eu Lhe peço",
+      "autor": "João Pedro",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Meu Mestre a Vós eu Lhe peço \nCom amor no coração\nPor tudo quanto é Divino \nPara Vós abrir a sessão\n\nEstamos dentro do clamor \nProcurando todos ver \nEu sei que Vós tem a Força \nE Vós sois dono do Poder\n\nOs caminhos se fechando \nSó Vós é quem pode abrir\nMeu Mestre a Vós eu Lhe peço \nVós não deixai nós cair",
+      "conteudoCifrado": "<cifra class=\"cifra\">                   D        F#        Bm</cifra><p>            Em      G     Em</p><cifra class=\"cifra\">        G              A       D</cifra><p>            C#m7(b5)  F#  Bm</p><cifra class=\"cifra\"> </cifra><p>               D         F#      Bm</p><cifra class=\"cifra\">         Em      G      Em</cifra><p>             G         A         D</p><cifra class=\"cifra\">              C#m7(b5)  F#  Bm</cifra><p> </p><cifra class=\"cifra\">           D        F#      Bm</cifra><p>          Em          G         Em</p><cifra class=\"cifra\">                 G          A          D</cifra><p>        C#m7(b5)  F#  Bm</p>"
+    },
+    {
+      "id": "1406",
+      "numero": 28,
+      "titulo": "Bom Caminho",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Meu Mestre a Vós eu Lhe peço\nPelo Vosso Santo amor\nMe mostrai um bom caminho \nQue eu não sei para onde eu vou\n\nSiga por esta estrada \nQue nela estou lhe mostrando\nO que fores me pedindo \nDevagarinho Eu vou te dando\n\nE viva sempre preparado\nNão deixe de trabalhar\nQue o mundo está em balanço \nE Eu vou mandar balançar\n\nQuero ver quem está firmado \nNo balanço que Eu vou dar\nQuem está firmado não cai\nCuidado para não tombar\n\nE vá prestando atenção \nE repare como está\nQue ninguém quer Me ouvir \nE ninguém quer Me respeitar\nNão tem grande, nem pequeno \nAgora Eu vou executar",
+      "conteudoCifrado": "<cifra class=\"cifra\">                   Em                  D</cifra><p>          Em                  D</p><cifra class=\"cifra\">              Em                   D</cifra><p>                   Em                     D</p><cifra class=\"cifra\"> </cifra><p>   Em                    D</p><cifra class=\"cifra\">           Em                        D</cifra><p>          Em               D</p><cifra class=\"cifra\">            Em                       D</cifra><p> </p><cifra class=\"cifra\">           Em                  D</cifra><p>            Em               D</p><cifra class=\"cifra\">                     Em               D</cifra><p>                 Em               D</p><cifra class=\"cifra\"> </cifra><p>           Em                       D</p><cifra class=\"cifra\">          Em                       D</cifra><p>                  Em                D</p><cifra class=\"cifra\">         Em                     D</cifra><p> </p><cifra class=\"cifra\">              Em              D</cifra><p>       Em                D</p><cifra class=\"cifra\">              Em                     D</cifra><p>                   Em                  D</p><cifra class=\"cifra\">                Em                      D</cifra><p>              Em             D</p>"
+    },
+    {
+      "id": "1407",
+      "numero": 29,
+      "titulo": "Meu Mestre estou aqui",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu Mestre estou aqui\nVim para Vós me curar \nMe tirai destas doenças \nMe livrai de todo mal\n\nTudo enquanto estais sofrendo\nEu sou o sabedor\nNão tenha medo de tomar Daime\nVenha aqui aonde estou\n\nEu só ensino é coisas boas \nMas ninguém presta atenção\nSó não estou é satisfeito \nDe quem faz mal aos meus irmãos\n\nPode viver tranquilo\nCom amor no coração\nQue aqui ninguém lhe ofende\nEu sou o Chefe da sessão",
+      "conteudoCifrado": "<cifra class=\"cifra\">           C          D        C</cifra><p>           Dm        G      C</p><cifra class=\"cifra\">         C         D      C</cifra><p>          Dm     G       C</p><cifra class=\"cifra\"> </cifra><p>                C            D        C</p><cifra class=\"cifra\">     Dm    G      C</cifra><p>                       C       D          C</p><cifra class=\"cifra\">              Dm  G           C</cifra><p> </p><cifra class=\"cifra\">              C        D         C</cifra><p>              Dm         G          C</p><cifra class=\"cifra\">                 C      D      C</cifra><p>                     Dm          G           C</p><cifra class=\"cifra\"> </cifra><p>     C      D           C</p><cifra class=\"cifra\">            Dm     G      C</cifra><p>            C          D            C</p><cifra class=\"cifra\">               Dm     G       C</cifra>"
+    },
+    {
+      "id": "1408",
+      "numero": 30,
+      "titulo": "A Sempre Virgem Maria",
+      "autor": "João Pedro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "A sempre Virgem Maria \nE o Menino Jesus\nEla veio e me curou\nPara sempre, amém, Jesus\n\nO Mestre ensinador \nEle veio e me curou \nCom as graças divinas \nE o poder do Criador\n\nEu sempre venho te dizendo\nTu não quer acreditar \nQue o Mestre que te ensina \nTem poder divinal\n\nMeu Mestre a Vós eu agradeço \nTudo quanto eu Lhe pedi\nQue foi de Vossas mãos \nQue esta cura recebi",
+      "conteudoCifrado": "<cifra class=\"cifra\">   D            A              D</cifra><p>   A               F#m</p><cifra class=\"cifra\">  A                     Bm</cifra><p>    Em             A              D</p><cifra class=\"cifra\"> </cifra><p>      D        A         D</p><cifra class=\"cifra\">   A                    F#m</cifra><p>  A                       Bm</p><cifra class=\"cifra\">      Em      A          D</cifra><p> </p><cifra class=\"cifra\">      D               A           D</cifra><p>      A                  F#m</p><cifra class=\"cifra\">       A                          Bm</cifra><p> Em       A          D</p><cifra class=\"cifra\"> </cifra><p>           D                A           D</p><cifra class=\"cifra\">    A                           F#m</cifra><p>        A                     Bm</p><cifra class=\"cifra\">         Em      A        D</cifra>"
+    }
+  ]
+}

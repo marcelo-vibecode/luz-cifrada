@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app:*)",
+      "Bash(cmd.exe /c \"where node\")",
+      "Bash(npm install:*)",
+      "Bash(cmd.exe /c \"cd /d C:\\\\Users\\\\inter\\\\OneDrive\\\\Área de Trabalho\\\\luzcifrada && npm install\")",
+      "Bash(cmd.exe /c \"cd /d C:\\\\Users\\\\inter\\\\OneDrive\\\\Área de Trabalho\\\\luzcifrada && npm install 2>&1\")",
+      "Bash(export PATH=\"$PATH:/c/Program Files/nodejs\")",
+      "Bash(npx tsx:*)",
+      "Bash(timeout 20 npm run dev:*)",
+      "Bash(timeout 15 npm run dev:*)",
+      "Bash(pkill:*)",
+      "Bash(npm run dev:*)",
+      "WebFetch(domain:www.estudofino.org)",
+      "Bash(npm run scrape:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(ls:*)",
+      "Bash(psql:*)",
+      "Bash(supabase:*)",
+      "Bash(npx supabase --version)",
+      "Bash(timeout:*)",
+      "Bash(npm run import:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(cat << 'EOF'\n# Install Netlify CLI\nnpm install -g netlify-cli\n\n# Login to Netlify\nnetlify login\n\n# Deploy from your project folder\ncd \"c:\\\\Users\\\\inter\\\\OneDrive\\\\Área de Trabalho\\\\luzcifrada\"\nnetlify deploy --prod\nEOF)",
+      "Bash(git config:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}

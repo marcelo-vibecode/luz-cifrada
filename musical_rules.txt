@@ -1,0 +1,14 @@
+{
+  "project_name": "Luz Cifrada",
+  "scale": ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"],
+  "musical_elements": {
+    "rhythms": ["Marcha", "Valsa", "Mazurca"],
+    "instruments": ["Violão"],
+    "tunings": ["Padrão (EADGBE)"]
+  },
+  "logic_requirements": {
+    "transposition": "Linear shift in the scale array",
+    "chord_detection": "Regex for [A-G][b#]?[m]?[7]?",
+    "tablature_format": "ASCII or SVG grid for PRO users"
+  }
+}

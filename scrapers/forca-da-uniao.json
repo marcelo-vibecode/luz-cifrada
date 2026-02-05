@@ -1,0 +1,230 @@
+{
+  "hinario": {
+    "nome": "Força da União",
+    "slug": "forca-da-uniao",
+    "autor": "André Peixoto",
+    "totalHinos": 20
+  },
+  "hinos": [
+    {
+      "id": "3655",
+      "numero": 1,
+      "titulo": "Estou Aqui",
+      "autor": "Silvio",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Estou aqui porque vós foi quem mandou\nVim replantar a doutrina do amor \n\nMeu Deus do Céu como minha vontade é grande \nDe firmar esta ciência este saber\n\nPeço firmeza para não esmorecer\nQue o inimigo está rondando este poder\n\nPeço força para trabalhar\nConto com vós que o mal aqui não vai entrar\n\nEu vou chamar Ogum da Terra e Ogum do Mar\nEu chamo a vós para vir testemunhar\n\nTestemunhar o que estão fazendo aqui\nEu quero ver se vós vai permitir \n\nPor isso eu sigo dentro da convicção \nQue a nossa Mãe é a Virgem da Conceição \n\nNossa Senhora, poder que se manifesta \nVós nos defenda do fogo do dragão \n\nRei Salomão me dê a sabedoria,\nDiscernimento toda hora e todo dia \n\nMuita fé para continuar \nQue a Santa Doutrina vai perpetuar \n",
+      "conteudoCifrado": "<cifra class=\"cifra\">          Am                                     Dm</cifra><p>            E                                Am</p><cifra class=\"cifra\"> </cifra><p>                     Dm                                        Am</p><cifra class=\"cifra\">         E                                  Am   (A7)</cifra><p> </p><cifra class=\"cifra\">          Am                          Dm</cifra><p>            E                                         Am</p><cifra class=\"cifra\"> </cifra><p>         Dm              Am                          </p><cifra class=\"cifra\">                   E                                          Am  (A7)</cifra><p> </p><cifra class=\"cifra\">             Am                                                Dm</cifra><p>                    E                        Am</p><cifra class=\"cifra\"> </cifra><p>        Dm                                        Am</p><cifra class=\"cifra\">                E                       Am     (A7)</cifra><p> </p><cifra class=\"cifra\">                  Am                        Dm</cifra><p>                      E                                Am</p><cifra class=\"cifra\"> </cifra><p>             Dm                               Am</p><cifra class=\"cifra\">                E                           Am     (A7)</cifra><p> </p><cifra class=\"cifra\">          Am                        Dm</cifra><p>                E                                 Am</p><cifra class=\"cifra\"> </cifra><p>         Dm                  Am</p><cifra class=\"cifra\">                            E                   Am  (A7)</cifra><p> </p>"
+    },
+    {
+      "id": "3656",
+      "numero": 2,
+      "titulo": "Oxalá meu Pai",
+      "autor": "Thais Llanos",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Oxalá meu Pai \nVenha me valer \nEu estou aqui \nJunto com meus irmãos \n\nCom nossas famílias \nE nossa irmandade \nCom a nossa amizade\nE a nossa união \n\nOh! Meu Pai Santíssimo \nAbre nossos caminhos \nPara nós alcançarmos \nA nossa redenção \n\nQue o mundo está balançando\nQue o mundo está chacoalhando\nNão estamos conseguindo \nSe abrir para a luz\n\nMinha Virgem Maria \nMamãe de toda harmonia \nProteja as nossas vidas \nCom seu Divino Amor\n\nPapai pedra preciosa \nMamãe perfume de rosas \nDoce mistério de amor\nDo meu Beija-Flor \n\nTesouro igual a esse\nComo ele não há \nEntão vamos meus irmãos \nTodos triunfar\n\nOxalá meu Pai \nVenha me valer \nEu estou aqui \nJunto com meus irmãos \n\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  D</cifra><p>                  A</p><cifra class=\"cifra\">                E</cifra><p>                              A     (A7) </p><cifra class=\"cifra\"> </cifra><p>                        D</p><cifra class=\"cifra\">                        A</cifra><p>                         E</p><cifra class=\"cifra\">                  A     (A7) </cifra><p> </p><cifra class=\"cifra\">                           D</cifra><p>                         A</p><cifra class=\"cifra\">                         E</cifra><p>                     A  (A7) </p><cifra class=\"cifra\"> </cifra><p>                                   D</p><cifra class=\"cifra\">                                         A</cifra><p>                                E</p><cifra class=\"cifra\">                         A  (A7) </cifra><p> </p><cifra class=\"cifra\">                          D</cifra><p>                                  A</p><cifra class=\"cifra\">                              E</cifra><p>                            A   (A7) </p><cifra class=\"cifra\"> </cifra><p>                          D</p><cifra class=\"cifra\">                                 A</cifra><p>                              E</p><cifra class=\"cifra\">                        A  (A7) </cifra><p> </p><cifra class=\"cifra\">                           D</cifra><p>                       A</p><cifra class=\"cifra\">                                    E</cifra><p>                 A  (A7) </p><cifra class=\"cifra\"> </cifra><p>                  D</p><cifra class=\"cifra\">                  A</cifra><p>                E</p><cifra class=\"cifra\">                               A    (A7) </cifra><p> </p><cifra class=\"cifra\"> </cifra>"
+    },
+    {
+      "id": "3657",
+      "numero": 3,
+      "titulo": "Orgulho",
+      "autor": "Edicarlos Bispo",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Orgulho não leva a nada\nE faz mal pro coração\nAtrasa a sua alma\nEm receber o seu perdão\n\n Quem fala muito ouve pouco\n Quem ouve pouco nada aprende\n Se não aprende,\n Como pode querer ensinar?",
+      "conteudoCifrado": "<cifra class=\"cifra\">       Am</cifra><p>                          Dm</p><cifra class=\"cifra\">     G</cifra><p>            E7                Am</p><cifra class=\"cifra\"> </cifra><p>                    C              Am</p><cifra class=\"cifra\">                     C                Dm</cifra><p></p><cifra class=\"cifra\">            E7                 Am</cifra>"
+    },
+    {
+      "id": "3658",
+      "numero": 4,
+      "titulo": "Cuidado com o que se diz ",
+      "autor": "André Peixoto",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Cuidado com o que se diz\nPode por tudo a perder\n\nRespeitar todas as coisas\nQue vem do coração\nObservar a natureza\nInclusive do seu irmão\n\nCuidado com o que se diz\nO universo vai escutar\n\nSão Francisco já dizia\nOnde houver dúvidas que eu leve a fé\nVamos todos meus irmãos\nCom a Virgem da Conceição\n\nCuidado com o que se diz\nEscuta a voz do coração\n\nPeço sempre a Virgem Mãe\nAbençoe o meu irmão\nTraga a paz e harmonia\n Aqui dentro desta sessão",
+      "conteudoCifrado": "<cifra class=\"cifra\">         D                         G</cifra><p>          D                   G</p><cifra class=\"cifra\"> </cifra><p>            D                      G</p><cifra class=\"cifra\">          D               G</cifra><p>         D               G</p><cifra class=\"cifra\">          D                  G</cifra><p> </p><cifra class=\"cifra\">         D                         G</cifra><p>          D                   G</p><cifra class=\"cifra\"> </cifra><p>               D              G</p><cifra class=\"cifra\">                        D                             G</cifra><p>              D                  G</p><cifra class=\"cifra\">                 D                  G</cifra><p> </p><cifra class=\"cifra\">         D                         G</cifra><p>               D               G</p><cifra class=\"cifra\"> </cifra><p>            D                      G</p><cifra class=\"cifra\">          D               G</cifra><p>              D               G</p><cifra class=\"cifra\">            D                  G</cifra>"
+    },
+    {
+      "id": "3672",
+      "numero": 5,
+      "titulo": "São Francisco",
+      "autor": "Edicarlos Bispo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu planto paz\nEu planto amor\nComo São Francisco\nNos ensinou\n\nOnde houver ódio\nLevo meu amor\nQuem errou comigo\nDou meu perdão\n\nEu planto paz\nEu planto amor\nComo São Francisco\nNos ensinou\n\nOnde houver discórdia\nLevo a união\nOnde houver dúvidas \nLevo a minha fé\n\nEu planto paz\nEu planto amor\nComo São Francisco\nNos ensinou\n\nSenhor fazei de mim\nInstrumento de Vossa paz",
+      "conteudoCifrado": "<cifra class=\"cifra\">                 D</cifra><p>                 Em</p><cifra class=\"cifra\">                         A</cifra><p>              D    (D7)</p><cifra class=\"cifra\"> </cifra><p>                       G</p><cifra class=\"cifra\">                  D</cifra><p>                      Em (A)</p><cifra class=\"cifra\"> A (G)           D</cifra><p> </p><cifra class=\"cifra\">                 D</cifra><p>                 Em</p><cifra class=\"cifra\">                         A</cifra><p>              D    (D7)</p><cifra class=\"cifra\"> </cifra><p>                          G</p><cifra class=\"cifra\">               D</cifra><p>                      Em (A)</p><cifra class=\"cifra\"> A (G)             D</cifra><p> </p><cifra class=\"cifra\">                 D</cifra><p>                 Em</p><cifra class=\"cifra\">                         A</cifra><p>              D    (D7)</p><cifra class=\"cifra\"> </cifra><p>       G                  D</p><cifra class=\"cifra\">             Em        A        D</cifra>"
+    },
+    {
+      "id": "3659",
+      "numero": 6,
+      "titulo": "Lição de Casa",
+      "autor": "André Peixoto",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Beija flor voando neste salão\nBeija flor voando neste salão\nForça divina da Virgem da Conceição \nVem nos curar e harmonizar \nMas que beleza o encantar deste olhar\n \nA missão do nosso Mestre Irineu \nA missão do nosso Mestre Irineu \nÉ nos guiar ao caminho da salvação \nDeixando sempre a mensagem de amor \nNunca duvide da força de uma flor \n \nRecebeu da Virgem da Conceição \nRecebeu da Virgem da Conceição\nTodos os hinos da nossa doutrinação \nMostrando fé, paz, amor e alegria \nSão os ensinos da nossa Virgem Maria",
+      "conteudoCifrado": "<cifra class=\"cifra\">          A          E               A  </cifra><p>          A         E                A</p><cifra class=\"cifra\">             A7                                D </cifra><p>                 D                 A</p><cifra class=\"cifra\">                    E                                    A  (A7)</cifra><p></p><cifra class=\"cifra\">          A          E                     A  </cifra><p>          A         E                      A</p><cifra class=\"cifra\">             A7                                D </cifra><p>                 D                                     A</p><cifra class=\"cifra\">                E                               A  (A7)</cifra><p></p><cifra class=\"cifra\">          A          E               A  </cifra><p>          A         E                A</p><cifra class=\"cifra\">                A7                              D </cifra><p>                  D                        A</p><cifra class=\"cifra\">                  E                                  A  (A7)</cifra>"
+    },
+    {
+      "id": "3660",
+      "numero": 7,
+      "titulo": "O Brilho do Sol",
+      "autor": "André Peixoto",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "O Brilho do Sol \nIlumina nosso coração \nTraz a paz para todo irmão \nE vamos festejar\n \nO Brilho do Sol \nQue me lembra da força de Deus \nE clareia os filhos seus \nCada um onde está \n \nA Virgem Maria \nEla guia com todo amor\nO irmão que tem muito valor\nEla vai encontrar",
+      "conteudoCifrado": "<cifra class=\"cifra\">    C</cifra><p>              G</p><cifra class=\"cifra\">                          F</cifra><p>                    C            G</p><cifra class=\"cifra\"> </cifra><p>    C</p><cifra class=\"cifra\">                               G</cifra><p>               F</p><cifra class=\"cifra\">                          C            G</cifra><p> </p><cifra class=\"cifra\">    C</cifra><p>                      G</p><cifra class=\"cifra\">                              F</cifra><p>                      C            G </p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3661",
+      "numero": 8,
+      "titulo": " A força quem faz ",
+      "autor": "André Peixoto",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "A força é quem faz \nO mundo rodar \nMostrando aos anjos \nO que passar\n\nPela Virgem Maria \nTemos a salvação \nEla dá a luz \nPara o seu coração \n\nA força é quem faz \nO mundo rodar \nMostrando aos anjos \nO que passar\n\nSiga na força \nDa luz de Maria\nQue vai encontrar \nJesus Cristo um dia \n\nA força é quem faz \nO mundo rodar \nMostrando aos anjos \nO que passar\n\nFaça uma prece \nAbra o seu coração \nPedindo a eles\nCurar aos irmãos\n\nA força é quem faz \nO mundo rodar \nMostrando aos anjos \nO que passar\n\nNunca se esqueça \nDa Virgem Maria \nÉ ela quem traz \nCom toda alegria \n\nA força é quem faz \nO mundo rodar \nMostrando aos anjos \nO que passar",
+      "conteudoCifrado": "<cifra class=\"cifra\">    G</cifra><p>    D</p><cifra class=\"cifra\">       C</cifra><p>    Am</p><cifra class=\"cifra\"> </cifra><p>         G</p><cifra class=\"cifra\">          D</cifra><p>   C</p><cifra class=\"cifra\">           Am</cifra><p> </p><cifra class=\"cifra\">    G</cifra><p>    D</p><cifra class=\"cifra\">       C</cifra><p>    Am</p><cifra class=\"cifra\"> </cifra><p>  G</p><cifra class=\"cifra\">      D</cifra><p>        C</p><cifra class=\"cifra\">          Am</cifra><p> </p><cifra class=\"cifra\">    G</cifra><p>    D</p><cifra class=\"cifra\">       C</cifra><p>    Am</p><cifra class=\"cifra\"> </cifra><p>  G</p><cifra class=\"cifra\">            D</cifra><p>       C</p><cifra class=\"cifra\">   Am</cifra><p> </p><cifra class=\"cifra\">    G</cifra><p>    D</p><cifra class=\"cifra\">       C</cifra><p>    Am</p><cifra class=\"cifra\"> </cifra><p>  G</p><cifra class=\"cifra\">       D</cifra><p>     C</p><cifra class=\"cifra\">         Am</cifra><p> </p><cifra class=\"cifra\">    G</cifra><p>    D</p><cifra class=\"cifra\">       C</cifra><p>    Am</p>"
+    },
+    {
+      "id": "3662",
+      "numero": 9,
+      "titulo": "Lua Branca",
+      "autor": "André Peixoto",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "O Brilho\n Da Virgem Maria\n Nos traz a presença\n Do Senhor Jesus \n\n Veja o Encanto\n Que Ela nos dá\n Oh! Lua Branca \n Vem me iluminar\n\n De joelhos\n A Minha Amada\n Eu digo a todos\n Da minha paixão\n\n Daime o luar \n Do meu coração \n Oh! Lua Branca \n Vem me iluminar",
+      "conteudoCifrado": "<cifra class=\"cifra\">    Am</cifra><p>                    G</p><cifra class=\"cifra\">                       F</cifra><p>                     E</p><cifra class=\"cifra\"> </cifra><p>               Am</p><cifra class=\"cifra\">                    G</cifra><p>               F</p><cifra class=\"cifra\">                     E</cifra><p> </p><cifra class=\"cifra\">         Am</cifra><p>                  G</p><cifra class=\"cifra\">                 F</cifra><p>                     E</p><cifra class=\"cifra\"> </cifra><p>              Am</p><cifra class=\"cifra\">                    G</cifra><p>               F</p><cifra class=\"cifra\">                     E</cifra>"
+    },
+    {
+      "id": "3663",
+      "numero": 10,
+      "titulo": "Santa Maria",
+      "autor": "André Peixoto",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Santa Maria com primor e alegria \nConsagramos todo dia \nEm busca da salvação \n\nIrmãos vamos buscar no coração \nEste momento de união \nCom a Virgem da Conceição\n\nEssa família que tem toda harmonia \nTraz a força de Maria \nE do Padrinho Sebastião",
+      "conteudoCifrado": "<cifra class=\"cifra\">           C                                G</cifra><p>                               F</p><cifra class=\"cifra\">                            C</cifra><p> </p><cifra class=\"cifra\">      C                                    G</cifra><p>                               F</p><cifra class=\"cifra\">                                     C</cifra><p> </p><cifra class=\"cifra\">           C                                    G</cifra><p>                            F</p><cifra class=\"cifra\">                            C</cifra><p> </p>"
+    },
+    {
+      "id": "3664",
+      "numero": 11,
+      "titulo": "Força da União ",
+      "autor": "André Peixoto",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Meu Pai estou aqui\nA te seguir, de coração\nCom meus irmãos \nNesta sessão \nJunto com São Sebastião\n\nVejo com muita alegria a harmonia\nQue temos na mão\nAqui no salão \nNão é ilusão \nEsta é a Força da União \n\nO Daime ele é o professor \nDisse o Mestre Irineu\nBebida sagrada, que meu Deus deu \nEste é o presente \nDa Rainha do Mar",
+      "conteudoCifrado": "<cifra class=\"cifra\">        Am           Dm</cifra><p>            G                C</p><cifra class=\"cifra\">                     F</cifra><p>           Bdim</p><cifra class=\"cifra\">                   E             Am          E </cifra><p> </p><cifra class=\"cifra\"> Am                       Dm                G</cifra><p>                        C</p><cifra class=\"cifra\">                  F</cifra><p>           Bdim</p><cifra class=\"cifra\">               E             Am          E </cifra><p> </p><cifra class=\"cifra\">      Am                      Dm</cifra><p>                              G     </p><cifra class=\"cifra\">                     C                           F</cifra><p>                  Bdim       E</p><cifra class=\"cifra\">                      Am      E</cifra><p> </p>"
+    },
+    {
+      "id": "3665",
+      "numero": 12,
+      "titulo": "Liberdade",
+      "autor": "André Peixoto",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Gm",
+      "letraPura": "Eu peço a liberdade\nSentado aqui neste lugar\nSinto a presença do Mestre\nNo Daime que fomos tomar\n\nEu peço a Liberdade\nCantando com os meus irmãos\nQue o amor...\nDesperte em nossos corações",
+      "conteudoCifrado": "<cifra class=\"cifra\">Gm</cifra><p>               Cm</p><cifra class=\"cifra\">  D</cifra><p>                Gm</p><cifra class=\"cifra\"> </cifra><p>Gm</p><cifra class=\"cifra\">                Cm</cifra><p>             D</p><cifra class=\"cifra\">                                     Gm</cifra>"
+    },
+    {
+      "id": "3666",
+      "numero": 13,
+      "titulo": "Porta da Prosperidade ",
+      "autor": "André Peixoto",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Irmãos\nPrestem muita atenção\n\nNesta Doutrina\nÉ Amor no coração\n\nIrmãos\nPrestem muita atenção\n\nNesta Doutrina\nEstá a sua Salvação\n\nIrmão\nEstá prestando atenção?\n\nNeste caminho\nEstá sua libertação\n\nIrmão\nAgora está em suas mãos\n\nJá se curou\nEntão cure o seu irmão\n\nEstes ensinos \nVem com toda humildade \n\nAbrindo as portas \nDa sua prosperidade \n\nFirmeza \nPara seguirmos na missão \n\nQue para seguir \nÉ tendo muita gratidão",
+      "conteudoCifrado": "<cifra class=\"cifra\">        C</cifra><p>                              Em</p><cifra class=\"cifra\"> </cifra><p>                 Dm</p><cifra class=\"cifra\">                        Am</cifra><p> </p><cifra class=\"cifra\">        C</cifra><p>                              Em</p><cifra class=\"cifra\"> </cifra><p>                 Dm</p><cifra class=\"cifra\">                        Am</cifra><p> </p><cifra class=\"cifra\">      C</cifra><p>                              Em</p><cifra class=\"cifra\"> </cifra><p>                 Dm</p><cifra class=\"cifra\">                        Am</cifra><p> </p><cifra class=\"cifra\">      C</cifra><p>                                 Em</p><cifra class=\"cifra\"> </cifra><p>           Dm</p><cifra class=\"cifra\">                             Am</cifra><p> </p><cifra class=\"cifra\">              C</cifra><p>                              Em</p><cifra class=\"cifra\"> </cifra><p>                  Dm</p><cifra class=\"cifra\">                        Am</cifra><p> </p><cifra class=\"cifra\">      C</cifra><p>                                Em</p><cifra class=\"cifra\"> </cifra><p>                 Dm</p><cifra class=\"cifra\">                        Am</cifra>"
+    },
+    {
+      "id": "3667",
+      "numero": 14,
+      "titulo": "Doce Mistério ",
+      "autor": "Halley",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Gm",
+      "letraPura": "O Daime é um Ser Divino\nDoce Mistério que o império vem mostrar  \n\nA realeza das plantas de poder\nTá firmado no amor tu pode ver \n\nO Mestre aqui deixou \nNesta cadência ao som dos maracás \n\nEstá firmado no saber e na ciência \nTá confirmado segue a luz da consciência \n\nÉ de todo aquele que participar \nE na alvorada ouvir o clarim tocar \n\nJá é tarde te acorda meu irmão \nJá é hora escuta a voz do coração",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Gm    D             Gm</cifra><p>         F                                          Gm</p><cifra class=\"cifra\"> </cifra><p>        Bb                           Cm</p><cifra class=\"cifra\">        D                                  Gm</cifra><p> </p><cifra class=\"cifra\">     Gm    D          Gm</cifra><p>             F                                 Gm</p><cifra class=\"cifra\"> </cifra><p>         Bb                               Cm</p><cifra class=\"cifra\">        D                                     Gm</cifra><p> </p><cifra class=\"cifra\">        Gm               D     Gm</cifra><p>         F                                    Gm</p><cifra class=\"cifra\"> </cifra><p>        Bb                           Cm</p><cifra class=\"cifra\">        D                                  Gm</cifra>"
+    },
+    {
+      "id": "3668",
+      "numero": 15,
+      "titulo": "Convite",
+      "autor": "André Peixoto",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Pode vir tomar\nPode vir tomar\nTomar o Santo Daime\nPara a vida se alegrar \n\nPode vir tomar\nPode vir tomar\nTomar com alegria\nPara a vida melhorar\n\nPode vir tomar\nPode vir tomar\nO Mestre e a Rainha \nEstão aqui a te esperar\n\nPode vir tomar\nPode vir tomar\nViva o Mestre, Viva o Mestre \nViva a Rainha do Mar",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  C      </cifra><p> G              C</p><cifra class=\"cifra\">                   </cifra><p>                        Dm</p><cifra class=\"cifra\"> </cifra><p>                  G  </p><cifra class=\"cifra\"></cifra><p>                  </p><cifra class=\"cifra\">                          C</cifra><p> </p><cifra class=\"cifra\">                  C      </cifra><p> G              C</p><cifra class=\"cifra\">                       </cifra><p>                           Dm</p><cifra class=\"cifra\"> </cifra><p>                  G  </p><cifra class=\"cifra\"></cifra><p>                </p><cifra class=\"cifra\">                            C</cifra>"
+    },
+    {
+      "id": "3669",
+      "numero": 16,
+      "titulo": "Eu me entrego ",
+      "autor": "Sandro Ronaldo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu me entrego ao meu Pai \nSei que Ele tem o poder \nEu me entrego a minha Mãe\nSei que Ela vai nos defender \n\nDentro dessa união \nNenhum mal vai nos vencer \nFirmeza irmãos \nA luz tá no coração\n\nEspantando todo mal\nPondo ele pra correr \nO caminho está aberto \nÉ fazer por merecer",
+      "conteudoCifrado": "<cifra class=\"cifra\">                C                  G</cifra><p>            Am            G</p><cifra class=\"cifra\">               C                     G</cifra><p>             Am                   G</p><cifra class=\"cifra\"> </cifra><p>                C        G</p><cifra class=\"cifra\">              Am                   G</cifra><p>       C          G</p><cifra class=\"cifra\">        Am           G</cifra><p> </p><cifra class=\"cifra\">          C                G</cifra><p>          Am            G</p><cifra class=\"cifra\">          C                G</cifra><p>     Am               G</p>"
+    },
+    {
+      "id": "3670",
+      "numero": 17,
+      "titulo": "Primeiro Feitio ",
+      "autor": "Alexandre Rinaldi",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Eu consegui, eu consegui\nEu consegui e cheguei até aqui \n\nCom meus irmãos e meus companheiros \nJuntos Neste terreiro viemos apresentar\n\nAos meus irmãos, aos meus irmãos\nEu agradeço de todo meu coração\n\nVenha conosco a panela está no fogo\nO Santo Daime viemos apresentar\n\nNosso feitio aconteceu\nNa Lua Nova\nComo o Mestre nos mandou\n\nForça de vontade e Amor no coração\nTe apresento o Santo Daime meu irmão\n\nAqui chegou para ficar\nO Sacramento para nunca mais faltar\n\nAqui termino a minha preleção\nRogando a Deus com amor no coração",
+      "conteudoCifrado": "<cifra class=\"cifra\">               A   E             A  E</cifra><p>              A   E                      A</p><cifra class=\"cifra\"> </cifra><p>                    Bm                           E</p><cifra class=\"cifra\">                                                  A</cifra><p> </p><cifra class=\"cifra\">                   A    E                    A  E</cifra><p>            A            E                  A</p><cifra class=\"cifra\"> </cifra><p>               Bm                                 E</p><cifra class=\"cifra\">                                              A</cifra><p> </p><cifra class=\"cifra\">               A   E         A  E</cifra><p>                A                       </p><cifra class=\"cifra\">                    E                 A</cifra><p> </p><cifra class=\"cifra\">                 Bm                             E</cifra><p>                                                      A</p><cifra class=\"cifra\"> </cifra><p>              A   E         A   E</p><cifra class=\"cifra\">             A                E                  A</cifra><p> </p><cifra class=\"cifra\">            Bm                       E</cifra><p>                                                   A</p>"
+    },
+    {
+      "id": "3673",
+      "numero": 18,
+      "titulo": "O Anjo de Deus",
+      "autor": "Padrinho Alfredo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "O anjo de Deus nos protege\nCom seu santo manto azul\n\nDe leste a oeste, de norte a sul\nViva a Estrela do azul\n\nQue faz brilhar as Estrelas do Céu\nDo arcanjo Rafael\n\nEste globo gira perfeito\nCom diversas mostragens de cor\n\nÉ Deus em tudo, é o fruto, é a flor\nVida do meu Criador\n\nQue faz brotar com todo vigor\nVida do Rei do amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">       Am      C               Am </cifra><p>        Bm7(5b)    E7        Am</p><cifra class=\"cifra\"> </cifra><p>       Dm               F              E</p><cifra class=\"cifra\">  Bm7(5b)    E7        Am</cifra><p> </p><cifra class=\"cifra\">       Dm               F              E</cifra><p>Bm7(5b)    E7   Am</p><cifra class=\"cifra\"> </cifra><p>       Dm               F              E</p><cifra class=\"cifra\">        Bm7(5b)    E7        Am</cifra><p> </p><cifra class=\"cifra\">       Dm               F              E</cifra><p>        Bm7(5b)    E7        Am</p><cifra class=\"cifra\"> </cifra><p>       Dm               F              E</p><cifra class=\"cifra\">        Bm7(5b)    E7        Am</cifra>"
+    },
+    {
+      "id": "3674",
+      "numero": 19,
+      "titulo": "Brilho do Sol",
+      "autor": "Pad. Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu sou brilho do sol\nSou brilho do lua\nDou brilho as estrelas\nPorque todas me acompanham\n\nEu sou brilho do mar\nEu vivo no vento\nEu brilho na floresta\nPorque ela me pertence",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3675",
+      "numero": 20,
+      "titulo": "Eu vivo na Floresta",
+      "autor": "Mad. Rita",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu vivo na floresta\nAprendendo a me curar\nEu convido os meus irmãos\nVamos todos se cuidar\n\nEstou dentro da batalha\nSofrendo mas sou feliz\nNela estou aprendendo\nO que eu ainda não sabia\n\nEu não vou enganar\nEu vim e vou dizer\nQuem quiser passar nas provas\nÉ começar do ABC\n\nExaminar a consciência\nÉ a primeira lição\nTer firmeza e ter amor\nE amar os seus irmãos\n\nIsto eu digo é porque sei\nPois estou examinando\nÉ o tempo do apuro\nDo meu Senhor São João\n\nJá foi dito e lembrado\nTodos prestem atenção\nO começo da história\nVem do rio de Jordão",
+      "conteudoCifrado": ""
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "hinario": {
+    "nome": "O Rosário",
+    "slug": "o-rosario",
+    "autor": "Maria Alice Campos Freire",
+    "totalHinos": 12
+  },
+  "hinos": [
+    {
+      "id": "225",
+      "numero": 1,
+      "titulo": "O Rosário",
+      "autor": "Maria Alice",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Oh! Minha Mãe \nVós limpai meu pensamento \nPara eu poder seguir \nJunto com Juramidam \n\nNa piedade \nQuero firmar meu coração \nPara eu poder libertar \nO amor dos meus irmãos \n\nJuramidam \nHoje a Vós vos reconheço \nE vos sigo sem tropeço \nPorque sei aonde estás \n\nEstrela viva \nDentro do meu coração \nCada raio do seu brilho \nÉ uma manifestação \n\nPai Oxalá \nXangô, Obaluê \nPai Ogum e Rei Oxóssi \nVós venha nos valer \n\nMamãe Oxum \nE Mamãe Iemanjá \nIansã, Nanã, Jurema \nVós venha nos salvar \n\nEu venho aqui \nMeu Rosário apresentar \nFazer os meus rogativos \nPra meus irmãos vos enxergar",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  C</cifra><p>            F                     C</p><cifra class=\"cifra\">         F                  Am</cifra><p>          G                 C</p><cifra class=\"cifra\"> </cifra><p>           C</p><cifra class=\"cifra\">              F                     C</cifra><p>                  F           Am</p><cifra class=\"cifra\">         G                        C</cifra><p> </p><cifra class=\"cifra\">           C</cifra><p>             F                     C</p><cifra class=\"cifra\">            F                  Am</cifra><p>            G                  C</p><cifra class=\"cifra\"> </cifra><p>            C</p><cifra class=\"cifra\">            F                   C</cifra><p>           F                  Am</p><cifra class=\"cifra\">           G              C</cifra><p> </p><cifra class=\"cifra\">            C</cifra><p>       F           C</p><cifra class=\"cifra\">       F                    Am</cifra><p>       G                  C</p><cifra class=\"cifra\"> </cifra><p>              C</p><cifra class=\"cifra\">        F               C</cifra><p>      F                Am</p><cifra class=\"cifra\">       G                  C</cifra><p> </p><cifra class=\"cifra\">               C</cifra><p>            F                   C</p><cifra class=\"cifra\">         F                 Am</cifra><p>                    G                     C</p>"
+    },
+    {
+      "id": "237",
+      "numero": 2,
+      "titulo": "Por Piedade",
+      "autor": "Maria Alice",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Por piedade \nMinha Mãe eu vou rogar \nTem piedade \nMamãe Iemanjá \n\nTem piedade \nMamãe Iemanjá \nQue é \nPra nós poder caminhar \n\nTem piedade \nDestas almas sofredoras \nQue me acompanham \nNeste caminho da Cruz \n\nPor piedade \nMinha Mãe eu vou rogar \nPelo Amor Divino \nDe Jesus \n\nCom vosso sal \nOh! Minha Mãe queira lavar \nSeus corações \nVós queira purificar \n\nPor piedade \nMinha Mãe eu vou rogar \nPra todas as almas \nEu poder encaminhar \n\nTem piedade, minha Mãe \nDo sofrimento \nNos libertai \nDeste subjulgamento \n\nCom Vosso manto \nVós queira nos cobrir \nPra todos nós \nTambém poder se redimir",
+      "conteudoCifrado": "<cifra class=\"cifra\">           Am</cifra><p>                               Dm</p><cifra class=\"cifra\">            C</cifra><p>     F               C</p><cifra class=\"cifra\"> </cifra><p>             Dm</p><cifra class=\"cifra\">       G7           Am</cifra><p>       Dm</p><cifra class=\"cifra\">                 G              C</cifra><p> </p><cifra class=\"cifra\">             Am</cifra><p>                              Dm</p><cifra class=\"cifra\">                      C</cifra><p>           F                C</p><cifra class=\"cifra\"> </cifra><p>           Dm</p><cifra class=\"cifra\">           G7                 Am</cifra><p>        Dm          G</p><cifra class=\"cifra\">        C</cifra><p> </p><cifra class=\"cifra\">                Am</cifra><p>                                    Dm</p><cifra class=\"cifra\">                 C</cifra><p>            F            C</p><cifra class=\"cifra\"> </cifra><p>           Dm</p><cifra class=\"cifra\">            G7               Am</cifra><p>                     Dm</p><cifra class=\"cifra\">         G                C</cifra><p> </p><cifra class=\"cifra\">             Am</cifra><p>             Dm</p><cifra class=\"cifra\">              C</cifra><p>           F            C</p><cifra class=\"cifra\"> </cifra><p>                  Dm</p><cifra class=\"cifra\">         G7               Am</cifra><p>               Dm</p><cifra class=\"cifra\">                  G               C</cifra>"
+    },
+    {
+      "id": "238",
+      "numero": 3,
+      "titulo": "Oxalá",
+      "autor": "Maria Alice",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Firmada na piedade \nDe Mamãe \nVenho rogar \nPela luz do meu Senhor \n\nPai Oxalá \nVós venha me valer \nCom Vossa luz \nPara eu poder vencer \n\nPara eu vencer \nA escuridão desta matéria \nIluminar \nToda esta legião \n\nDos sofredores \nQue vêm me acompanhando \nPara eu cumprir \nA minha peregrinação \n\nVós que sois \nA luz do sol dourado \nFonte de luz \nMeu farol iluminado \n\nBaixai na Terra \nClareai meu pensamento \nCom vosso brilho \nQue ilumina o firmamento \n\nAqui eu venho \nMeu Rosário apresentar \nPedindo a vós \nPara não me desprezar \n\nCom meus irmãos \nOh! Meu Pai Oxalá \nAo vosso brilho \nEu quero retornar",
+      "conteudoCifrado": "<cifra class=\"cifra\">         A</cifra><p>          Bm</p><cifra class=\"cifra\">              E</cifra><p>                               A</p><cifra class=\"cifra\"> </cifra><p>           A</p><cifra class=\"cifra\">                         Bm</cifra><p>                  E</p><cifra class=\"cifra\">                            A</cifra><p> </p><cifra class=\"cifra\">                 A</cifra><p>                                 Bm</p><cifra class=\"cifra\">        E</cifra><p>                     A</p><cifra class=\"cifra\"> </cifra><p>               A</p><cifra class=\"cifra\">                                  Bm</cifra><p>                   E</p><cifra class=\"cifra\">                            A</cifra><p> </p><cifra class=\"cifra\">              A</cifra><p>                        Bm</p><cifra class=\"cifra\">              E</cifra><p>                         A</p><cifra class=\"cifra\"> </cifra><p>                A</p><cifra class=\"cifra\">                              Bm</cifra><p>                  E</p><cifra class=\"cifra\">                                A</cifra><p> </p><cifra class=\"cifra\">             A</cifra><p>                                Bm</p><cifra class=\"cifra\">                E</cifra><p>                               A</p><cifra class=\"cifra\"> </cifra><p>                      A</p><cifra class=\"cifra\">                        Bm</cifra><p>                E</p><cifra class=\"cifra\">                      A</cifra>"
+    },
+    {
+      "id": "228",
+      "numero": 4,
+      "titulo": "Minha Mãe Maria",
+      "autor": "Maria Alice",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Minha Mãe Maria \nVós venha me abençoar \nPara eu passar \nPor mais esta provação \n\nPro Vosso Amor \nEternamente eu consagrar \nFortificai \nA minha servidão \n\nMinha Mãe Maria \nVós que sois Mamãe Oxum \nPurificai \nO meu coração \n\nPoli, poli \nTodos estes cristais \nPra eu consagrar \nO vosso Amor nesta missão \n\nMinha Mãe Maria \nInspirai-me o Vosso pranto \nPra eu lavar \nTodas estas almas em agonia \n\nLavai, lavai \nOh! Minha Mãe Maria \nConfortai-nos \nCom Vosso divino manto \n\nMinha Mãe Maria \nMais uma conta eu vou contar \nDo meu Rosário \nQue aqui venho apresentar \n\nPor caridade \nMinha Mãe eu vou rogar \nMamãe Oxum \nÁguas celestes a lavar",
+      "conteudoCifrado": "<cifra class=\"cifra\">                      Am</cifra><p>            C                  Dm</p><cifra class=\"cifra\">                 G</cifra><p>                G7           C</p><cifra class=\"cifra\"> </cifra><p>                  Am</p><cifra class=\"cifra\">          C                      Dm</cifra><p>         E4</p><cifra class=\"cifra\">     E7             Am</cifra><p> </p><cifra class=\"cifra\">                       Am</cifra><p>               C                  Dm</p><cifra class=\"cifra\">         G</cifra><p>     G7         C</p><cifra class=\"cifra\"> </cifra><p>          Am</p><cifra class=\"cifra\">     C                  Dm</cifra><p>                   E4</p><cifra class=\"cifra\">                E7                 Am</cifra><p> </p><cifra class=\"cifra\">                      Am</cifra><p>          C                    Dm </p><cifra class=\"cifra\">              G</cifra><p>                   G7                  C</p><cifra class=\"cifra\"> </cifra><p>             Am</p><cifra class=\"cifra\">         C                  Dm</cifra><p>           E4</p><cifra class=\"cifra\">             E7                 Am</cifra><p> </p><cifra class=\"cifra\">                      Am</cifra><p>                 C                       Dm</p><cifra class=\"cifra\">                 G</cifra><p>               G7                  C</p><cifra class=\"cifra\"> </cifra><p>              Am</p><cifra class=\"cifra\">            C                 Dm</cifra><p>               E4</p><cifra class=\"cifra\">              E7             Am</cifra>"
+    },
+    {
+      "id": "229",
+      "numero": 5,
+      "titulo": "Misericórdia",
+      "autor": "Maria Alice",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Em",
+      "letraPura": "Aqui na terra \nEu só posso agradecer \nPorque vivo \nCom a benção do meu Pai \n\nMisericórdia \nDentro do meu coração \nEternamente \nPeço para merecer \n\nOh! Meu São Lázaro \nVós venha me ajudar \nNessa lembrança \nQue o tempo vem me relembrar \n\nDa redenção \nQue está no sofrimento \nAqui na Terra \nEu vim pra testemunhar \n\nMisericórdia \nPeço a São Irineu \nPara eu seguir \nSempre no caminho seu \n\nDo Vosso Amor \nEu não posso me esquecer \nAtotô, atotô \nObaluaê \n\nRei Salomão \nRogo ao Vosso coração \nPra vós olhar \nOs sofredores na Terra\n\nO meu Rosário \nEu vos apresento aqui \nRogando a Vós \nPara abrandar esta guerra",
+      "conteudoCifrado": "<cifra class=\"cifra\">             Em</cifra><p>                          D</p><cifra class=\"cifra\">            C</cifra><p>                                   B7</p><cifra class=\"cifra\"> </cifra><p>         Am</p><cifra class=\"cifra\">                              Em</cifra><p>           B7</p><cifra class=\"cifra\">                       Em</cifra><p> </p><cifra class=\"cifra\">                    Em</cifra><p>                          D</p><cifra class=\"cifra\">                 C</cifra><p>                                           B7</p><cifra class=\"cifra\"> </cifra><p>              Am</p><cifra class=\"cifra\">                           Em</cifra><p>            B7</p><cifra class=\"cifra\">                                Em</cifra><p> </p><cifra class=\"cifra\">          Em</cifra><p>                     D</p><cifra class=\"cifra\">                 C</cifra><p>                                B7</p><cifra class=\"cifra\"> </cifra><p>                 Am</p><cifra class=\"cifra\">                                   Em</cifra><p>     B7</p><cifra class=\"cifra\">         Em</cifra><p> </p><cifra class=\"cifra\">            Em</cifra><p>                               D</p><cifra class=\"cifra\">               C</cifra><p>                            B7</p><cifra class=\"cifra\"> </cifra><p>               Am</p><cifra class=\"cifra\">                             Em</cifra><p>                 B7</p><cifra class=\"cifra\">                               Em</cifra>"
+    },
+    {
+      "id": "230",
+      "numero": 6,
+      "titulo": "Mamãe dos Ventos",
+      "autor": "Maria Alice",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Mamãe dos Ventos \nAqui eu vou chamar \nChamando o tempo \nPara vir se adiantar \n\nJusticeira, Vós vem \nNa tempestade, Vós vem \nSoprando o vento \nCom vosso raio purificar \n\nO vosso raio \nÉ que rompe a imensidão \nPara eu poder \nOuvir a voz do trovão \n\nEparrêi, Iansã \nEparrêi, Iansã \nEparrêi \nDentro do meu coração \n\nMinha Santa Bárbara \nCom a vossa chama na mão \nVós sois Rainha \nDa comunicação \n\nEstais no fogo \nDa fogueira de São João \nVós limpai a casa \nPara a justificação \n\nMamãe dos Ventos \nA vós eu vou louvar \nE o meu Rosário \nTambém vos apresentar \n\nVarrei as trevas, Iansã \nNa varreção, Iansã \nIluminai \nToda esta escuridão",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  Am</cifra><p>    E7                 Am</p><cifra class=\"cifra\">                    C</cifra><p>      [Am]            E7</p><cifra class=\"cifra\"> </cifra><p>       Dm            </p><cifra class=\"cifra\">                Am                     </cifra><p>                  E</p><cifra class=\"cifra\">                                 Am  (A7)</cifra><p> </p><cifra class=\"cifra\">            Am</cifra><p>          E7                   Am</p><cifra class=\"cifra\">                 C</cifra><p>    [Am]                E7</p><cifra class=\"cifra\"> </cifra><p>        Dm</p><cifra class=\"cifra\">        Am</cifra><p>       E</p><cifra class=\"cifra\">                               Am  (A7)</cifra><p> </p><cifra class=\"cifra\">                     Am      </cifra><p>               E7                   Am</p><cifra class=\"cifra\">               C</cifra><p>   [Am]           E7</p><cifra class=\"cifra\"> </cifra><p>              Dm</p><cifra class=\"cifra\">                              Am</cifra><p>                    E</p><cifra class=\"cifra\">                        Am  (A7)</cifra><p> </p><cifra class=\"cifra\">                  Am</cifra><p>             E7        Am</p><cifra class=\"cifra\">                 C</cifra><p>     [Am]                   E7</p><cifra class=\"cifra\"> </cifra><p>               Dm</p><cifra class=\"cifra\">            Am</cifra><p>        E</p><cifra class=\"cifra\">                          Am  (A7)</cifra>"
+    },
+    {
+      "id": "231",
+      "numero": 7,
+      "titulo": "Pai Xangô",
+      "autor": "Maria Alice",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "É delicada com um cristal \nA tecedura do Vosso Amor \nCristal de rocha, firme e seguro \nÉ o coração de Pai Xangô \n\nMeu São João, sois o fiel \nDa balança do Criador \nO prumo do Amor verdadeiro \nÉ a peneira do Vosso Amor \n\nEstás no alto da montanha \nCom a machada do Justiceiro \nMeu São Miguel está em vós \nPeneirador do verdadeiro \n\nMeu Pai Xangô, vos reconheço \nNo meu Padrinho Sebastião \nCaô, Caô, Caô, Xangô \nVem nos falar pelo trovão \n\nMeu Pai Xangô, vou vos louvar \nE o meu Rosário vou vos cantar \nPedir por mim e por meus irmãos \nPra nós conhecer com o coração",
+      "conteudoCifrado": "<cifra class=\"cifra\">        C             F           C</cifra><p>          G                      C</p><cifra class=\"cifra\">                C            F           C</cifra><p>            G                    C</p><cifra class=\"cifra\"> </cifra><p>               C           F    C           </p><cifra class=\"cifra\">           G                C</cifra><p>                 C              F     C</p><cifra class=\"cifra\">           G                      C</cifra><p> </p><cifra class=\"cifra\">             C       F        C                     </cifra><p>                G                    C</p><cifra class=\"cifra\">                    C        F        C</cifra><p>            G                  C</p><cifra class=\"cifra\"> </cifra><p>                   C          F        C</p><cifra class=\"cifra\">                  G                 C</cifra><p>           C       F        C</p><cifra class=\"cifra\">                 G                C</cifra><p> </p><cifra class=\"cifra\">                   C          F        C</cifra><p>                 G                        C</p><cifra class=\"cifra\">                C              F            C</cifra><p>                     G                      C</p>"
+    },
+    {
+      "id": "232",
+      "numero": 8,
+      "titulo": "Mãe Jurema",
+      "autor": "Maria Alice",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Em",
+      "letraPura": "Jurema, vós sois minha Mãe \nRainha do meu Jacutá \nMamãe de toda a floresta \nJurema, ô Jurema \n\nJurema, vós sois caçadora \nDas almas da escuridão \nVós caça com a vossa flecha \nIlumina com o coração \n\nO vosso coração divino \nTem a chave do conhecimento \nVós sois estrela cadente \nQue cai lá do firmamento \n\nOh! Minha Mãe Jurema \nAqui venho vos louvar \nTrazendo o meu Rosário \nPara vos apresentar \n\nO meu rogativo é de luz \nPara toda a escuridão \nJurema, dai-me a vossa chave \nPara eu cumprir minha missão",
+      "conteudoCifrado": "<cifra class=\"cifra\">    Em                              D</cifra><p>    C                     B7</p><cifra class=\"cifra\">      Am                     Em</cifra><p>   C          B7    Em</p><cifra class=\"cifra\"> </cifra><p>   Em                      D</p><cifra class=\"cifra\">       C                      B7</cifra><p>      Am                       Em</p><cifra class=\"cifra\">      C          B7        Em</cifra><p> </p><cifra class=\"cifra\">   Em                     D</cifra><p>           C                        B7</p><cifra class=\"cifra\">       Am                  Em</cifra><p>        C       B7          Em   </p><cifra class=\"cifra\"> </cifra><p>      Em               D</p><cifra class=\"cifra\">  C                         B7</cifra><p>     Am                  Em</p><cifra class=\"cifra\">   C        B7         Em</cifra><p> </p><cifra class=\"cifra\">    Em                       D</cifra><p>        C                  B7</p><cifra class=\"cifra\">   Am                             Em</cifra><p>       C                 B7            Em</p>"
+    },
+    {
+      "id": "233",
+      "numero": 9,
+      "titulo": "Meu Rei Ogum",
+      "autor": "Maria Alice",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Em",
+      "letraPura": "Já vem das matas \nNa direção do mar \nCom sua lança \nÉ Ogum que vai chegar \n\nÉ o cavaleiro \nDo capacete de aço \nCom seu rigor \nVai acertar nosso passo \n\nMeu Rei Ogum \nSois general de Papai \nMeu Rei Ogum \nSois guardião de Mamãe \n\nMeu Rei Ogum \nEu a Vós venho louvar \nE o meu Rosário \nTambém vos apresentar \n\nPerante a Vós \nDe joelhos me formar \nRogando a Vós \nPara Vós me ordenar \n\nPara eu vencer \nNesta linha do vigor \nCom meus irmãos \nE triunfar o Amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">                 Em</cifra><p>           B7        Em</p><cifra class=\"cifra\">              B7</cifra><p>                             Em</p><cifra class=\"cifra\"> </cifra><p>            Em</p><cifra class=\"cifra\">        B7             Em</cifra><p>                 B7</p><cifra class=\"cifra\">                            Em</cifra><p> </p><cifra class=\"cifra\">               Em</cifra><p>           B7             Em</p><cifra class=\"cifra\">               B7</cifra><p>                               Em</p><cifra class=\"cifra\"> </cifra><p>               Em</p><cifra class=\"cifra\">        B7               Em</cifra><p>                 B7</p><cifra class=\"cifra\">                               Em</cifra><p> </p><cifra class=\"cifra\">                Em</cifra><p>        B7                Em</p><cifra class=\"cifra\">                 B7</cifra><p>                           Em</p><cifra class=\"cifra\"> </cifra><p>                 Em</p><cifra class=\"cifra\">         B7            Em</cifra><p>                     B7</p><cifra class=\"cifra\">                    Em</cifra>"
+    },
+    {
+      "id": "234",
+      "numero": 10,
+      "titulo": "Mamãe Velha (Nanã)",
+      "autor": "Maria Alice",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Em",
+      "letraPura": "Nanã Buruquê \nVós sois a Mãe das Mães \nSois Rainha da Terra \nO perdão é você \n\nNanã Buruquê \nOh Senhora Santana \nVós sois Mãe de Maria \nVós sois soberana \n\nVós sois Mamãe Velha \nÔ Nanã Buruquê \nToda vida que nasce \nProvém de você \n\nVós sois Mãe da Floresta \nE de todas as águas \nÉ no fundo do lago \nOnde está vossa casa \n\nNanã Buruquê \nEu quero vos louvar \nDe joelhos na terra \nVosso amor consagrar \n\nTambém um pedido \nEu quero vos fazer \nDentro do meu Rosário \nÔ Nanã Buruquê \n\nOh Minha Mamãe Velha \nAfirmai o perdão \nTransformai as entranhas \nDe cada coração",
+      "conteudoCifrado": "<cifra class=\"cifra\">    B7          Em</cifra><p>       B7                     Em</p><cifra class=\"cifra\">        B7                G</cifra><p>        Am        Em</p><cifra class=\"cifra\"> </cifra><p>    B7          Em</p><cifra class=\"cifra\">         B7             Em</cifra><p>              B7             G</p><cifra class=\"cifra\">      Am          Em</cifra><p> </p><cifra class=\"cifra\">        B7              Em</cifra><p>       B7          Em</p><cifra class=\"cifra\">        B7                G</cifra><p>      Am        Em</p><cifra class=\"cifra\"> </cifra><p>                B7           Em</p><cifra class=\"cifra\">       B7           Em</cifra><p>        B7          G</p><cifra class=\"cifra\">         Am            Em</cifra><p> </p><cifra class=\"cifra\">    B7          Em</cifra><p>     B7                Em</p><cifra class=\"cifra\">      B7             G</cifra><p>           Am           Em</p><cifra class=\"cifra\"> </cifra><p>     B7               Em</p><cifra class=\"cifra\">       B7            Em</cifra><p>           B7             G</p><cifra class=\"cifra\">      Am        Em</cifra><p> </p><cifra class=\"cifra\">       B7                  Em</cifra><p>       B7         Em</p><cifra class=\"cifra\">             B7                G</cifra><p>     Am         Em</p>"
+    },
+    {
+      "id": "235",
+      "numero": 11,
+      "titulo": "Passarinho Verde",
+      "autor": "Maria Alice",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Passarinho verde \nCanta na floresta \nÉ o mistério sagrado \nQue se manifesta \n\nÉ do Rei Oxossi \nA manifestação \nQue ilumina as trevas \nCom o coração \n\nSão Sebastião \nMeu guerreiro sem lança \nO mistério do Vosso Amor \nÉ a minha esperança \n\nMeu guerreiro Santo \nEu venho vos louvar \nDentro do meu Rosário \nE também vos rogar \n\nDai-me a vossa fé \nVosso amor e firmeza \nPara eu alcançar \nA Vossa fortaleza \n\nDai-me a vossa luz \nDo conhecimento \nPara eu livrar os seres \nDo escurecimento \n\nOh! Meu Rei Oxossi \nDa folha de ouro \nVós sois Rei dos caboclos \nVós sois meu tesouro",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  Am</cifra><p>     F            Am</p><cifra class=\"cifra\">         F             Am</cifra><p>       F            Am</p><cifra class=\"cifra\"> </cifra><p>               Am</p><cifra class=\"cifra\">        F         Am</cifra><p>             F         Am</p><cifra class=\"cifra\">       F        Am</cifra><p> </p><cifra class=\"cifra\">               Am</cifra><p>            F                Am</p><cifra class=\"cifra\">         F                       Am</cifra><p>       F              Am</p><cifra class=\"cifra\"> </cifra><p>                       Am</p><cifra class=\"cifra\">     F                  Am</cifra><p>            F             Am</p><cifra class=\"cifra\">          F            Am</cifra><p> </p><cifra class=\"cifra\">                       Am</cifra><p>              F          Am</p><cifra class=\"cifra\">         F          Am</cifra><p>        F          Am</p><cifra class=\"cifra\"> </cifra><p>                        Am</p><cifra class=\"cifra\">      F          Am</cifra><p>             F           Am</p><cifra class=\"cifra\">         F        Am</cifra><p> </p><cifra class=\"cifra\">                    Am</cifra><p>     F            Am</p><cifra class=\"cifra\">              F             Am</cifra><p>       F               Am</p>"
+    },
+    {
+      "id": "236",
+      "numero": 12,
+      "titulo": "Rosa do seu Coração",
+      "autor": "Maria Alice",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Meu Pai faça de mim o que quiser \nE para sempre eu lhe prometo ser fiel \n\nMeu Pai agora eu tenho o meu bastão \nQue vós me deu para eu zelar no coração \n\nMeu Pai eu vou rogar por meus irmãos \nPra vos amar e segurar a vossa mão \n\nPra ser humilde e seguir com alegria \nSem vaidade nem soberba e rebeldia \n\nMeu Pai sou rosa do seu coração \nHumildemente caminhando neste chão \n\nMeu Pai eu vou regando o seu jardim \nZelo por todos sei que vós zela por mim",
+      "conteudoCifrado": "<cifra class=\"cifra\">        A                                     Bm                             </cifra><p>           E                                        A</p><cifra class=\"cifra\"> </cifra><p>       A                                            Bm</p><cifra class=\"cifra\">                   E                                      A</cifra><p> </p><cifra class=\"cifra\">        A                                           Bm                             </cifra><p>                E                                 A</p><cifra class=\"cifra\"> </cifra><p>                 A                                Bm</p><cifra class=\"cifra\">             E                                      A</cifra><p> </p><cifra class=\"cifra\">        A                                     Bm                             </cifra><p>           E                                        A</p><cifra class=\"cifra\"> </cifra><p>       A                                          Bm</p><cifra class=\"cifra\">              E                                         A</cifra>"
+    }
+  ]
+}

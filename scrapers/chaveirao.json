@@ -1,0 +1,208 @@
+{
+  "hinario": {
+    "nome": "Chaveirão",
+    "slug": "chaveirao",
+    "autor": "Glauco",
+    "totalHinos": 18
+  },
+  "hinos": [
+    {
+      "id": "2290",
+      "numero": 1,
+      "titulo": "Hóspede",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Eu convidei no meu sonho\nMeu mestre vamos passear\nMeu mestre veio comigo\nNa minha casa me visitar\n\nEu abraçando o meu mestre\nAi, meu Deus como é bom\n\nEu abraçando meu mestre\nLembrei do meu pai\nLembrei de Salomão\n\nO meu mestre me disse\nFilho eu não vim passear\n\nVou estar sempre contigo\nBem ao teu lado\nEu não vou te deixar\n\nNesta passagem do mestre\nVejam o que ele me deu\n\nUm galhinho de arruda\nCom a benção do Mestre Irineu",
+      "conteudoCifrado": "<cifra class=\"cifra\"> Am                               F</cifra><p>            Dm                      E</p><cifra class=\"cifra\">            Dm               Am</cifra><p>           Bm7(b5) E         Am</p><cifra class=\"cifra\"> </cifra><p></p><cifra class=\"cifra\"></cifra><p> </p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\"></cifra><p> </p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\"> </cifra><p></p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\"> </cifra><p></p><cifra class=\"cifra\"></cifra><p> </p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "2291",
+      "numero": 2,
+      "titulo": " Caboclo Véio",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Caboclo Véio\nVem aqui buscar um povo\nPra nós cantar\nE vossa luz brilhar de novo\n\nDa alta esfera\nManda a nossa luz brilhante\nPara nós neste instante\nVer quem sois Juramidam\n\nMe apresentar\nTambém é o que mais quero\nSó aparelho\nQuando tu estiver mais sério\n\nBem caminhando\nComo filho verdadeiro\nMe apresento por inteiro\nVou mostrar todo mistério\n\nJuntando a glória\nDo meu senhor Jesus Cristo\nCom a firmeza\nDo meu santo Irineu\n\nTodos as estrelas\nDo universo se ajuntaram\nNum só verso da Rainha\nE veja que festa se deu",
+      "conteudoCifrado": "<cifra class=\"cifra\">              Dm</cifra><p>          A                     Dm</p><cifra class=\"cifra\"></cifra><p>                                   A</p><cifra class=\"cifra\"> </cifra><p>                Gm</p><cifra class=\"cifra\">                                  C#°</cifra><p>                             A7</p><cifra class=\"cifra\">                                  (F) 2°vez</cifra><p> </p><cifra class=\"cifra\">                 Dm</cifra><p>               A                  Dm</p><cifra class=\"cifra\"></cifra><p>                                     A</p><cifra class=\"cifra\"> </cifra><p>                 Gm</p><cifra class=\"cifra\">                           C#°</cifra><p>                                A7</p><cifra class=\"cifra\">                                   (F) 2°vez</cifra><p> </p><cifra class=\"cifra\">                  Dm</cifra><p>             A                  Dm</p><cifra class=\"cifra\"></cifra><p>                          A</p><cifra class=\"cifra\"> </cifra><p>                Gm</p><cifra class=\"cifra\">                               C#°</cifra><p>                               A7</p><cifra class=\"cifra\">                              (F) 2°vez</cifra><p></p>"
+    },
+    {
+      "id": "2292",
+      "numero": 3,
+      "titulo": " Zóio D’água",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Bailando eu vim a Terra\nCantar pra meu Jesus\nCantar, bailar na Terra\nPara merecer a luz\n\nCantei, bailei pra Lua\nEla que nos conduz\nCantei foi pra Rainha\nDando viva ao meu Jesus\n\nO Sol e a tardinha\nOlhei, inté chorei\nSequei meus zóio d'água\nNo amor do astro rei\n\nOlhando o Sol tão lindo\nLembrei de meu Jesus\nDisse minha saudade\nEle têm a mesma luz",
+      "conteudoCifrado": "<cifra class=\"cifra\">     C</cifra><p>      F                     E</p><cifra class=\"cifra\">      F                    E</cifra><p>         F              E</p><cifra class=\"cifra\"> </cifra><p>      C</p><cifra class=\"cifra\">  F                    E</cifra><p>      F                  E</p><cifra class=\"cifra\">           F                     E</cifra><p> </p><cifra class=\"cifra\">    C</cifra><p>      F               E</p><cifra class=\"cifra\">     F                     E</cifra><p>       F                   E</p><cifra class=\"cifra\"> </cifra><p>   C</p><cifra class=\"cifra\">      F                    E</cifra><p>    F                    E</p><cifra class=\"cifra\">      F                    E</cifra><p></p>"
+    },
+    {
+      "id": "2293",
+      "numero": 4,
+      "titulo": " Flores",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Vou buscar flores pra mamãe\nVou oferecer de coração\nTu sois a flor da vida\nTu sois minha mãe querida\n\nVou buscar flores pra mamãe\nEu vou pedir o meu perdão\nPerdoe as minhas faltas\nQue eu estava na ilusão\n\nVou plantar no meu jardim\nA semente do perdão\nPara dar-te lindas rosas\nFlores da tua compaixão",
+      "conteudoCifrado": "<cifra class=\"cifra\">                   Bm              C#m7/5-</cifra><p>                F#             Bm   (B7)2°vez</p><cifra class=\"cifra\">     Em                Bm</cifra><p>            F#              Bm   (B7)1°vez</p><cifra class=\"cifra\"> </cifra><p>                  Bm                C#m7/5-</p><cifra class=\"cifra\">               F#             Bm      (B7)2°vez</cifra><p>     Em                   Bm</p><cifra class=\"cifra\">               F#           Bm   (B7)1°vez</cifra><p> </p><cifra class=\"cifra\">              Bm                 C#m7/5-</cifra><p>      F#             Bm       (B7)2°vez</p><cifra class=\"cifra\">        Em                Bm</cifra><p>           F#                  Bm   (B7)1°vez</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "2294",
+      "numero": 5,
+      "titulo": " Meu Pranto",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Meu pranto, nem tanto\nQuando eu vi o beija-flor\nQuero receber teu canto\nAqui na Terra com amor\n\nMe ensina, me ensina\nNos primores do amor\nPara eu seguir viagem\nAo encontro do senhor\n\nRainha me ensina\nA caminhar em seu jardim\nPara apreciar as flores\nQue vós deixaste para mim",
+      "conteudoCifrado": "<cifra class=\"cifra\">        Dm</cifra><p>                                  A</p><cifra class=\"cifra\">           Gm              A</cifra><p>                               Dm</p><cifra class=\"cifra\"> </cifra><p>         Dm</p><cifra class=\"cifra\">                            A</cifra><p>        Gm             A</p><cifra class=\"cifra\">                           Dm</cifra><p> </p><cifra class=\"cifra\">    Dm</cifra><p>                                    A</p><cifra class=\"cifra\">          Gm            A</cifra><p>                                   Dm</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "2295",
+      "numero": 6,
+      "titulo": " Trono de Marfim",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Cm",
+      "letraPura": "É papai e mamãe chamando\nPara o trono de marfim\nVamos todos caminhando\nNeste caminho que é tão divino\n\nVamos todos caminhando\nE deixar de teimosia\nPara ir se iluminando\nGanhar o tempo, ganhar o dia\n\nQue o tempo está chegando\nE papai está por vir\nE mamãe nos esperando\nMeus irmãos, temos que ir",
+      "conteudoCifrado": "<cifra class=\"cifra\">      Cm</cifra><p>           C7                Fm</p><cifra class=\"cifra\">                             Cm</cifra><p>              G                           Cm</p><cifra class=\"cifra\"> </cifra><p>           Cm</p><cifra class=\"cifra\">       C7                 Fm</cifra><p>                        Cm</p><cifra class=\"cifra\">               G                        Cm</cifra><p> </p><cifra class=\"cifra\">          Cm</cifra><p>       C7               Fm</p><cifra class=\"cifra\">                             Cm</cifra><p>               G                     Cm</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "2296",
+      "numero": 7,
+      "titulo": " Beija-Flor",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Cm",
+      "letraPura": "Passarinho verde vem para cantar\nPassarinho verde canta o amor\nPassarinho verde canta\nPassarinho verde é o beija-flor\n\nMeu padrinho veio e me ensinou\nComo cantar para o meu beija-flor\nRespondendo a melodia\nDizendo já vou, já vou, já vou",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  Cm</cifra><p>                  G                     (C7)2°vez</p><cifra class=\"cifra\">          Fm              Cm</cifra><p>                   G                     C7 (Cm)2°vez</p><cifra class=\"cifra\"> </cifra><p>                      Cm</p><cifra class=\"cifra\">               G                                (C7)2°vez</cifra><p>             Fm               Cm</p><cifra class=\"cifra\">                  G                    C7 (Cm)2°vez</cifra><p></p>"
+    },
+    {
+      "id": "2297",
+      "numero": 8,
+      "titulo": " Passarada",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Viva São Pedro e São Paulo\nQue eles já trouxeram a solução\nCanta passarada com alegria\nCanta com amor no coração\n\nEu estou pedindo ao meu mestre\nQue meu cantar seja de alegria\nChegou a passarada e canta forte\nChegou a passarada da minha guia\n\nEu estou pedindo ao meu mestre\nE o nosso canto é de alegria\nChegou a passarada do teu mestre\nChegou a passarada de Maria",
+      "conteudoCifrado": "<cifra class=\"cifra\"> Dm</cifra><p>                                              A</p><cifra class=\"cifra\"> Gm                                 A</cifra><p> Gm                               Dm</p><cifra class=\"cifra\"> </cifra><p>Dm</p><cifra class=\"cifra\">                                           A</cifra><p>      Gm                                  A</p><cifra class=\"cifra\">      Gm                                    Dm</cifra><p> </p><cifra class=\"cifra\">Dm</cifra><p>                                      A</p><cifra class=\"cifra\">      Gm                                A</cifra><p>      Gm                              Dm</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "2298",
+      "numero": 9,
+      "titulo": " Preto Velho Sanfoneiro",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Ele vive me olhando\nPreto Velho sanfoneiro\nEle vive me tocando\nToca meu pai verdadeiro\n\nEu vi uma estrela nascendo\nEu bem sei, fui o primeiro\nDeixei a estrela crescendo\nPara avisar o mundo inteiro\n\nQuem vai velho volta novo\nPreto Velho sanfoneiro\nSó voltou para dizer\nQue Deus é pai e brasileiro",
+      "conteudoCifrado": "<cifra class=\"cifra\">      D           Em</cifra><p>         A                 D</p><cifra class=\"cifra\">      Bm           Em</cifra><p>                 F#          Bm</p><cifra class=\"cifra\"> </cifra><p>         D            Em</p><cifra class=\"cifra\">            A                 D</cifra><p>          Bm                 Em</p><cifra class=\"cifra\">             F#                   Bm</cifra><p> </p><cifra class=\"cifra\">               D                Em</cifra><p>          A                D</p><cifra class=\"cifra\">         Bm            Em</cifra><p>                   F#            Bm</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "2299",
+      "numero": 10,
+      "titulo": " Legado",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Em",
+      "letraPura": "Esta mensagem\nQue lhe traz o enviado\nFaz parte do teu legado\nDa herança de São João\n\nQue este tempo\nJá está quase acabado\nÉ preciso estar firmado\nDentro desta união\n\nVai se assustar\nQuem não estiver acordado\nVai chegar de todo lado\nOs cavalos de São João\n\nMeu general\nCom seu cavalo de fogo\nGalopando sobre o povo\nCom a verdade na mão\n\nMeu cavaleiro\nLevantando a santa espada\nPesando a santa balança\nDizendo um sim e um não\n\nVem cá comigo\nQuem está em pé firmado\nDeixa quem está deitado\nEmbolado pelo chão\n\nNão adianta choro\nNem ranger de dentes\nSalvo quem está contente\nVendo a luz que eu vou mandar\n\nE este dia\nEstá mais perto que tu pensa\nAgora me dá licença\nTenho um povo pra tirar",
+      "conteudoCifrado": "<cifra class=\"cifra\">              Em</cifra><p></p><cifra class=\"cifra\"></cifra><p>                                 B</p><cifra class=\"cifra\"> </cifra><p>               B</p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\">                         Em</cifra><p> </p><cifra class=\"cifra\">                   Em</cifra><p></p><cifra class=\"cifra\"></cifra><p>                                B</p><cifra class=\"cifra\"> </cifra><p>              B</p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\">                             Em</cifra><p> </p><cifra class=\"cifra\">               Em</cifra><p></p><cifra class=\"cifra\"></cifra><p>                                   B</p><cifra class=\"cifra\"> </cifra><p>                B</p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\">                        Em</cifra><p> </p><cifra class=\"cifra\">           Em</cifra><p></p><cifra class=\"cifra\"></cifra><p>                                           B</p><cifra class=\"cifra\"> </cifra><p>           B</p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\">                                 Em</cifra><p></p>"
+    },
+    {
+      "id": "2300",
+      "numero": 11,
+      "titulo": " Coroa",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Chegou a minha coroa\nQue eu estava esperando\nQuem mandou foi o meu mestre\nE a rainha soberana\n\nPousou a coroa do mestre\nNa cabeça do Jaguar\nQuem estava aqui zelando\nÉ Currupipiraguá\n\nReceba a minha coroa\nQue eu vou lhe graduar\nTe lembrando do caboclo\nVelho cacique Jaraguá",
+      "conteudoCifrado": "<cifra class=\"cifra\">      Gm                   Dm</cifra><p>               A</p><cifra class=\"cifra\">                 A7</cifra><p>        (F)            Gm (A)</p><cifra class=\"cifra\"> </cifra><p>      Gm                  Dm</p><cifra class=\"cifra\">         A</cifra><p>              A7</p><cifra class=\"cifra\">        (F)         Gm (A)</cifra><p> </p><cifra class=\"cifra\">       Gm                 Dm</cifra><p>            A</p><cifra class=\"cifra\">          A7</cifra><p>          (F)              Gm (A)</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "2324",
+      "numero": 12,
+      "titulo": " Castelo",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Só leva pito\nQuem não anda no caminho\nDepois do pito\nVem aqui me encontrar\nSó leva pito\nQuem não anda no caminho\nDepois do pito\nVem aqui me abraçar\n\nVai procurar teu pio\nQue depois eu dou meu ninho\n\nO pio do ninho\nDessa ave majestosa\nQue nos leva pra mirar\nO pio do ninho\nDessa ave gloriosa\nQue nos leva pra voar\n\nVai procurar teu pio\nQue depois eu dou meu ninho\n\nAlçando vôo\nEm direção à minha casa\nQue já volto pra ficar\nAlçando vôo\nEm direção ao meu castelo\nQue já fico pra morar\n\nVai procurar teu pio\nQue depois eu dou meu ninho",
+      "conteudoCifrado": "<cifra class=\"cifra\">             D</cifra><p>                                    Em</p><cifra class=\"cifra\">                  A</cifra><p>                                 D</p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\"> </cifra><p>             D</p><cifra class=\"cifra\">                                    Em</cifra><p> </p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\">                  A</cifra><p>                                 D</p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\"> </cifra><p>             D</p><cifra class=\"cifra\">                                    Em</cifra><p> </p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\">                  A</cifra><p>                                 D</p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\"> </cifra><p>             D</p><cifra class=\"cifra\">                                    Em</cifra><p></p>"
+    },
+    {
+      "id": "2325",
+      "numero": 13,
+      "titulo": " Mãe Dágua",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu tava na beira da praia\nEscutando o professor\nAfine o teu ouvido\nPara ouvir o Rei do Amor\n\nCantar praia, cantar praia\nNas ondas eu escutei\nNão vá fugir da raia\nCom tudo que eu já te dei\n\nCantar praia, cantar praia\nDessas coisas eu não sei\nTua sabedoria\nFui eu mesmo que plantei\n\nCantar praia, cantar praia\nMe despeço de Mãe D'água\nVou pro fundo do mar\nDizendo saber mais nada",
+      "conteudoCifrado": "<cifra class=\"cifra\">       C</cifra><p>                            G</p><cifra class=\"cifra\"></cifra><p>            F      G          C</p><cifra class=\"cifra\"> </cifra><p>           C</p><cifra class=\"cifra\">                             G</cifra><p></p><cifra class=\"cifra\">            F              G      C</cifra><p> </p><cifra class=\"cifra\">           C</cifra><p>                                  G</p><cifra class=\"cifra\"></cifra><p>           F          G           C</p><cifra class=\"cifra\"> </cifra><p>            C</p><cifra class=\"cifra\">                                G</cifra><p></p><cifra class=\"cifra\">         F      G            C</cifra><p></p>"
+    },
+    {
+      "id": "2327",
+      "numero": 14,
+      "titulo": " Santo Sonho",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Quando eu tinha oito anos\nEu sonhei com meu Jesus\nEle me pegou no colo\nE me deu a Santa Luz\n\nAgora no Santo Daime\nEncontrei com meu Jesus\nMe lembrei do santo sonho\nEle me dando a Luz.",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  Dm           A</cifra><p>                                  Dm</p><cifra class=\"cifra\">                           A</cifra><p>                            Dm</p><cifra class=\"cifra\"> </cifra><p>                         A</p><cifra class=\"cifra\">                                 Dm</cifra><p>                                 A</p><cifra class=\"cifra\">                         Dm</cifra><p></p>"
+    },
+    {
+      "id": "2326",
+      "numero": 15,
+      "titulo": " Galo de Briga",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu sou Galo de briga\nEssa vida é minha rinha\nSou filho do meu Pai\nSou filho da Rainha\n\nEu sou Galo de briga\nTenho espora de luz\nEu só luto por meu Mestre\nLuto pelo meu Jesus\n\nA batalha está fechada\nEstou pronto pra lutar\nExpulsar o inimigo\nPara Deus poder chegar\n\nEu sou Galo de briga\nCanto logo é de manhã\nVamos todos acordando\nQue chegou Juramidam",
+      "conteudoCifrado": "<cifra class=\"cifra\">                       D</cifra><p>        A                   D</p><cifra class=\"cifra\">       Bm               Em</cifra><p>       A              D</p><cifra class=\"cifra\"> </cifra><p>                        D</p><cifra class=\"cifra\">          A              D</cifra><p>         Bm                Em</p><cifra class=\"cifra\">A                        D</cifra><p> </p><cifra class=\"cifra\">       D</cifra><p>          A                  D</p><cifra class=\"cifra\">        Bm        Em</cifra><p>         A                     D</p><cifra class=\"cifra\"> </cifra><p>                        D</p><cifra class=\"cifra\">          A                  D</cifra><p>    Bm                   Em</p><cifra class=\"cifra\">             A               D</cifra><p></p>"
+    },
+    {
+      "id": "3423",
+      "numero": 16,
+      "titulo": "Hino da Toinha",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Viva São Paulo, viva São Pedro \nDou Viva a Santa Maria que me revelou segredo \n\nPara cantar com alegria e zelar com atenção \nEste presente é meu hinário que eu deixei em suas mãos \n\nQuando eu era menino, eu sonhei com Jesus Cristo \nEle disse para mim: Tudo aqui já estava escrito \n",
+      "conteudoCifrado": "<cifra class=\"cifra\">Dm          Gm     A            Dm</cifra><p>                                   Gm            A      Dm</p><cifra class=\"cifra\"> </cifra><p>              Dm             Gm       A            Dm</p><cifra class=\"cifra\">                                               Gm                     A      Dm</cifra><p> </p><cifra class=\"cifra\">               Dm           Gm            A                  Dm    Dm</cifra><p>                       Gm               A                    Dm</p><cifra class=\"cifra\"></cifra><p></p>"
+    },
+    {
+      "id": "3424",
+      "numero": 17,
+      "titulo": "Colher",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Vou colher flores para o dia do Senhor \nFoi minha Mãe que mandou eu enfeitar \n\nFoi minha mãe que mandou eu ir colher\nNo coração sem sair do meu lugar \n\nSão essas flores que te mando do astral \nE tu recebes mesmo aí aonde está\n\nFlores divinas da minha Virgem Maria \nEu quero pôr no meu vaso todo dia \n\nE essa casa vai ficar um vaso em flor \nPara dar viva a Jesus Cristo Redentor \n\nMestre Divino olhe o que minha Mãe mandou \nMe apresentar Todo coberto em flor\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  Dm                              F</cifra><p>                  A                                      Dm</p><cifra class=\"cifra\"> </cifra><p>                C                                      F</p><cifra class=\"cifra\">            A                                  Dm</cifra><p> </p><cifra class=\"cifra\">                 Dm                                   F</cifra><p>           A                                     Dm</p><cifra class=\"cifra\"> </cifra><p>             C                                        F</p><cifra class=\"cifra\">               A                                Dm</cifra><p> </p><cifra class=\"cifra\">           Dm                                    F</cifra><p>               A                                     Dm</p><cifra class=\"cifra\"> </cifra><p>               C                                               F</p><cifra class=\"cifra\">                   A                              Dm</cifra><p></p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3425",
+      "numero": 18,
+      "titulo": "Braseiro",
+      "autor": "Glauco",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Brasil tu és o canteiro \nTu és o braseiro de nosso Senhor \n\nTu faz o grau desta taça \nMistura das raças vingança do amor \n\nBrasil dentro das tuas matas \nVeio a serenata do daime do amor \n\nBrasil eu sou brasileiro \nSou o mundo inteiro Sou o redentor \n\nSe na tua mata virgem de novo \nCantou a voz de São João \n\nEntão eu sou o primeiro \nA ser brasileiro de fé meus irmãos\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">      Am   E           Am</cifra><p>                                             E</p><cifra class=\"cifra\"> </cifra><p>     Dm                     Am</p><cifra class=\"cifra\">                    E                             Am</cifra><p> </p><cifra class=\"cifra\">      Am     E                  Am</cifra><p>                                               E</p><cifra class=\"cifra\"> </cifra><p>     Dm                   Am</p><cifra class=\"cifra\">                         E                        Am</cifra><p> </p><cifra class=\"cifra\">    Am   E           Am</cifra><p>       Am                       E</p><cifra class=\"cifra\"> </cifra><p>   Dm                    Am</p><cifra class=\"cifra\">                 E                          Am</cifra><p></p><cifra class=\"cifra\"></cifra>"
+    }
+  ]
+}

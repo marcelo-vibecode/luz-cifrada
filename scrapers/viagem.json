@@ -1,0 +1,109 @@
+{
+  "hinario": {
+    "nome": "Viagem",
+    "slug": "viagem",
+    "autor": "Adália Grangeiro",
+    "totalHinos": 9
+  },
+  "hinos": [
+    {
+      "id": "3827",
+      "numero": 1,
+      "titulo": "Tão limpo é este caminho",
+      "autor": "Adália Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Tão limpo é este caminho\nÉ para todos nós seguir\nCumprindo estes ensinos\nDa sempre virgem Maria\n\nEu sigo neste caminho\nE vou com muita atenção\nAcompanhando o meu mestre\nE a senhora da Conceição\n\nEu sigo neste caminho\nE vou com muita alegria\nAcompanhando o meu Mestre\nE a sempre virgem Maria",
+      "conteudoCifrado": "<cifra class=\"cifra\">      Am        E7         Am  </cifra><p>           A7                 Dm</p><cifra class=\"cifra\">                                Am</cifra><p>      E7                         Am </p><cifra class=\"cifra\"> </cifra><p>    Am   E7          Am  </p><cifra class=\"cifra\">   A7                           Dm</cifra><p>                                    Am</p><cifra class=\"cifra\">           E7                      Am</cifra><p> </p><cifra class=\"cifra\">     Am  E7          Am  </cifra><p>   A7                         Dm</p><cifra class=\"cifra\">                                   Am</cifra><p>      E7                         Am</p>"
+    },
+    {
+      "id": "3828",
+      "numero": 2,
+      "titulo": "Eu sigo nesta estrada",
+      "autor": "Adália Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Eu sigo nesta estrada\nCom muita satisfação\nCumprindo estes ensinos\nJunto com os meus irmãos\n\nMeu mestre a vós eu peço\nConforme eu merecer\nPara vós nos ajudar\nPara nós todos compreender\n\nEstou muito agradecida\nE alegre e satisfeita\nTodos fiquem sabendo\nQue aqui existe respeito\n\nEu convido os meus irmãos\nPara nós todos trabalhar\nPara todos nós seguir\nE viver no bem estar",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Am  E7          Am</cifra><p>              E            Am</p><cifra class=\"cifra\">         Am        E7      Am</cifra><p>          E7                     Am</p><cifra class=\"cifra\"> </cifra><p>        Am         E7        Am</p><cifra class=\"cifra\">       E                    Am</cifra><p>        Am       E7      Am</p><cifra class=\"cifra\">               E7                     Am</cifra><p> </p><cifra class=\"cifra\">          Am       E7     Am</cifra><p>     E                 Am</p><cifra class=\"cifra\">    Am      E7       Am</cifra><p>               E7            Am</p><cifra class=\"cifra\"> </cifra><p>          Am        E7         Am</p><cifra class=\"cifra\">               E                Am</cifra><p>        Am     E7       Am</p><cifra class=\"cifra\">      E7                   Am</cifra>"
+    },
+    {
+      "id": "3829",
+      "numero": 3,
+      "titulo": "Eu sigo com o meu mestre",
+      "autor": "Adália Grangeiro",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu sigo com o meu mestre\nPara sempre amém Jesus\nQue vós veio para este mundo\nNos dar a santa Luz\n\nMeu Mestre a vós eu lhe peço\nPara vós me perdoar\nEu quero seguir com vós\nPara um dia lá chegar",
+      "conteudoCifrado": "<cifra class=\"cifra\">     D      A7               D    D7</cifra><p>    G                             A</p><cifra class=\"cifra\">             G       A7            D </cifra><p>  A        A7           D  (D7)</p><cifra class=\"cifra\"> </cifra><p>          D          A7             D    D7</p><cifra class=\"cifra\">    G                       A</cifra><p>      G       A7               D </p><cifra class=\"cifra\">  A           A7           D  (D7)</cifra>"
+    },
+    {
+      "id": "3830",
+      "numero": 4,
+      "titulo": "A Viagem",
+      "autor": "Adália Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu viajei eu viajei\nViajei com alegria\nChegando lá encontrei\nCom a festa da virgem Maria\n\nEsta festa é divina\nÉ da Virgem da Conceição\nAonde estamos todos reunidos\nCom amor no coração\n\nÉ preciso nós aprender\nViver com harmonia\nPara nós seguir na linha\nDa sempre virgem Maria\n\nNosso Mestre nos ensina\nCom amor e atenção\nPara nós seguir com ele\nE cumprir com as obrigações",
+      "conteudoCifrado": "<cifra class=\"cifra\">          D  A        D</cifra><p>     Em              A</p><cifra class=\"cifra\">       Em                    A </cifra><p>           Em         A7             D</p><cifra class=\"cifra\"> </cifra><p>        D   A       D</p><cifra class=\"cifra\">       Em                        A</cifra><p>              Em                     A </p><cifra class=\"cifra\">           Em  A7        D</cifra><p> </p><cifra class=\"cifra\">        D      A             D</cifra><p>    Em                  A</p><cifra class=\"cifra\">        Em                 A </cifra><p>      Em        A7            D</p><cifra class=\"cifra\"> </cifra><p>            D    A            D</p><cifra class=\"cifra\">          Em              A</cifra><p>        Em                    A </p><cifra class=\"cifra\">          Em             A7         D</cifra>"
+    },
+    {
+      "id": "3831",
+      "numero": 5,
+      "titulo": "Agradecimento",
+      "autor": "Adália Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Eu agradeço ao meu Mestre\nE a sempre virgem Maria\nEu agradeço a todos os seres\nNas santas horas do dia",
+      "conteudoCifrado": "<cifra class=\"cifra\">         Dm      A7          Dm</cifra><p>            Em7(b5)  A7    Dm </p><cifra class=\"cifra\">             Gm                   Dm</cifra><p>            A7                 Dm</p>"
+    },
+    {
+      "id": "3832",
+      "numero": 6,
+      "titulo": " Pisem firme, Pisem firme",
+      "autor": "Adália Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Pisem firme, pisem firme.\nPara todos compreender\nPisem firme com amor\nPara nós poder vencer\n\nVou seguindo nesta linha\nSem a nada eu temer\nQue dentro do poder divino\nTem tudo para nós ver\n\nAqui nesta verdade\nTodos têm que se firmar\nPara nós louvar a Deus\nNesta noite de Natal\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">           F         A7     Dm</cifra><p>         A7                     Dm</p><cifra class=\"cifra\">          Dm      A7     Dm</cifra><p>         F        A7       Dm</p><cifra class=\"cifra\"> </cifra><p>            F         A7     Dm</p><cifra class=\"cifra\">           A7               Dm</cifra><p>                  Dm     A7    Dm</p><cifra class=\"cifra\">            F     A7       Dm</cifra><p> </p><cifra class=\"cifra\">    F       A7      Dm</cifra><p>          A7                     Dm</p><cifra class=\"cifra\">        Dm      A7     Dm</cifra><p>            F      A7     Dm</p><cifra class=\"cifra\"> </cifra>"
+    },
+    {
+      "id": "3833",
+      "numero": 7,
+      "titulo": "O Barco",
+      "autor": "Adália Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Uma estrela brilhou\nA terra estremeceu\nO mar balançou\nO barco flutuou\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">        D                A</cifra><p>    D                    A</p><cifra class=\"cifra\">     D             A</cifra><p>     F       A7   Dm</p><cifra class=\"cifra\"> </cifra>"
+    },
+    {
+      "id": "3834",
+      "numero": 8,
+      "titulo": "Noite de São João",
+      "autor": "Adália Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "A minha mãe está comigo.\nAonde eu estiver\nJunto a Jesus Cristo\nE o patriarca São José\n\nViva a Deus lá nas alturas\nE viva os seus seres divinos\nViva ao nosso mestre\nÉ quem nos dá estes ensinos\n\nÉ quem nos dá estes ensinos\nNos dá o santo perdão\nViva a todos os seres\nViva a noite de São João",
+      "conteudoCifrado": "<cifra class=\"cifra\">               Am      E      Am</cifra><p>  E                 Am</p><cifra class=\"cifra\"> C                    Dm</cifra><p>            E7              Am</p><cifra class=\"cifra\"> </cifra><p>            Am      E      Am</p><cifra class=\"cifra\">               E                 Am</cifra><p> C                    Dm</p><cifra class=\"cifra\">                   E7              Am</cifra><p> </p><cifra class=\"cifra\">                  Am     E      Am</cifra><p>            E                 Am</p><cifra class=\"cifra\"> C                     Dm</cifra><p>            E7                Am</p>"
+    },
+    {
+      "id": "3835",
+      "numero": 9,
+      "titulo": "Vamos rezar",
+      "autor": "Adália Grangeiro",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Meus irmãos, vamos rezar\nE tratar de se unir\n\nPara Deus nos dá coragem\nPara nós poder seguir\n\nPara seguir nesta verdade\nÉ preciso ter união\n\nTer fé em nosso mestre\nO nosso Rei Juramidã\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">             Am E               Am</cifra><p>        E               Am</p><cifra class=\"cifra\"> </cifra><p>          E                   Am</p><cifra class=\"cifra\">         E                   Am</cifra><p> </p><cifra class=\"cifra\">            Am E             Am</cifra><p>         E             Am</p><cifra class=\"cifra\"> </cifra><p>      E                   Am</p><cifra class=\"cifra\">               E             Am</cifra><p> </p>"
+    }
+  ]
+}

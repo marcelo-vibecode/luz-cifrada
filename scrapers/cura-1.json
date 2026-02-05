@@ -1,0 +1,153 @@
+{
+  "hinario": {
+    "nome": "Cura 1",
+    "slug": "cura-1",
+    "autor": "Sebastião Mota de Melo",
+    "totalHinos": 13
+  },
+  "hinos": [
+    {
+      "id": "719",
+      "numero": 1,
+      "titulo": "Pai nosso",
+      "autor": "Padrinho Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Pai nosso que está no céu\nSantificado é nosso Senhor\nAproveitando a ocasião\nMeu Mestre é Rei superior\n\nOh! Minha Virgem Mãe\nAs suas lágrimas derramou\nAqueles que não amam\nVão sentir a mesma dor\n\nMeu Mestre está comigo\nEle é Mestre ensinador\nJunto com a Virgem Mãe\nO nosso pai foi quem mandou\n\nNinguém sabe o que diz\nE nem sabe o que estão dizendo\nCom o poder do nosso Pai\nO relho agora está comendo",
+      "conteudoCifrado": "<cifra class=\"cifra\">       D                          Bm</cifra><p>           D                       F#m</p><cifra class=\"cifra\">             Em              Bm</cifra><p>                       D       A   D</p><cifra class=\"cifra\"> </cifra><p>        D                    Bm</p><cifra class=\"cifra\">              D                    F#m</cifra><p>    Em                  Bm</p><cifra class=\"cifra\">             D       A         D</cifra><p> </p><cifra class=\"cifra\">          D                   Bm</cifra><p>           D                F#m</p><cifra class=\"cifra\">    Em                       Bm</cifra><p>              D            A            D</p><cifra class=\"cifra\"> </cifra><p>         D                     Bm</p><cifra class=\"cifra\">           D                           F#m</cifra><p>               Em                Bm</p><cifra class=\"cifra\">                D        A        D</cifra>"
+    },
+    {
+      "id": "720",
+      "numero": 2,
+      "titulo": "Eu chamei meu Mestre",
+      "autor": "Padrinho Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu chamei meu Mestre\nEm nome da verdade\nQue a verdade é Deus\nO Rei da caridade\n\nEu peço a meu Mestre\nDe todo meu coração\nMeu Mestre tenha piedade\nAbra nossa sessão\n\nAssim está acontecendo\nDeixa ficar como está\nQue é para conhecerem\nSaberem me respeitar\n\nJá disse e torno a dizer\nNão querem acreditar\nLevanto a minha sessão\nPara o reino celestial\n\nMeus irmãos vamos orar\nRogar e vamos pedir\nPara levarmos esta verdade\nQue o Mestre deixou aqui\n\nTodos querem ser feliz\nCada um só quer pra si\nDizendo que estão comigo\nEstão longe de mim\n\nEu não deixei assim\nDeixei foi para juntar\nNão fizeram como eu disse\nFizeram foi espalhar",
+      "conteudoCifrado": "<cifra class=\"cifra\"> D          A           D</cifra><p>      Bm              F#m</p><cifra class=\"cifra\">       D                   A</cifra><p>    Em      A     D</p><cifra class=\"cifra\"> </cifra><p> D          A           D</p><cifra class=\"cifra\">     Bm                F#m</cifra><p>          D                       A</p><cifra class=\"cifra\">Em         A         D</cifra><p> </p><cifra class=\"cifra\">    D               A       D</cifra><p>    Bm                   F#m</p><cifra class=\"cifra\">       D                   A</cifra><p>    Em       A             D</p><cifra class=\"cifra\"> </cifra><p>    D          A              D</p><cifra class=\"cifra\">        Bm                F#m</cifra><p>     D                         A</p><cifra class=\"cifra\">            Em       A     D</cifra><p> </p><cifra class=\"cifra\">                D         A      D</cifra><p>    Bm                  F#m</p><cifra class=\"cifra\">            D                      A</cifra><p>           Em            A       D</p><cifra class=\"cifra\"> </cifra><p>             D         A      D</p><cifra class=\"cifra\">         Bm                 F#m</cifra><p>     D                            A</p><cifra class=\"cifra\">    Em      A         D</cifra><p> </p><cifra class=\"cifra\">       D        A       D</cifra><p>     Bm                    F#m</p><cifra class=\"cifra\">          D                       A</cifra><p>   Em           A      D</p>"
+    },
+    {
+      "id": "721",
+      "numero": 3,
+      "titulo": "Chamei o Mestre",
+      "autor": "Padrinho Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Chamei o Mestre Juramidam\nPara o meu Mestre vir cá\nCom sua força divina\nPara vir me libertar\n\nDai-me força, dai-me amor\nPara eu poder dominar\nMeu Mestre em sua corte\nEm seu trono divinal\n\nTudo tem, tudo dá\nCom sua luz de cristal\n\nSou pequeno, sou pequeno\nE é a quem eu devo pedir\nTodos têm, todos têm\nTodos têm podem seguir\n\nAqui eu vou declarar\nA quem o Mestre entregou\nQuem ama e sabe amar\nSegue na estrada do amor\n\nMeu Mestre me declare\nComo é que vai ficar\nPreste atenção no que eu já disse\nQuem vencer é que vai brilhar",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  D                  Bm</cifra><p>             A                    D</p><cifra class=\"cifra\">           D             Bm</cifra><p>         A               D</p><cifra class=\"cifra\"> </cifra><p>             D                      Bm</p><cifra class=\"cifra\">              A                D</cifra><p>          D                    Bm</p><cifra class=\"cifra\">              A             D</cifra><p> </p><cifra class=\"cifra\">          D             Bm</cifra><p>           A                   D</p><cifra class=\"cifra\"> </cifra><p>              D                Bm</p><cifra class=\"cifra\">            A                      D</cifra><p>           D               Bm</p><cifra class=\"cifra\">           A                      D</cifra><p> </p><cifra class=\"cifra\">         D               Bm</cifra><p>                  A                 D</p><cifra class=\"cifra\">           D                  Bm</cifra><p>           A                    D</p><cifra class=\"cifra\"> </cifra><p>           D                Bm</p><cifra class=\"cifra\">          A               D</cifra><p>                   D                        Bm</p><cifra class=\"cifra\">                 A                        D</cifra>"
+    },
+    {
+      "id": "722",
+      "numero": 4,
+      "titulo": "As estrelas",
+      "autor": "Mestre Irineu",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "As estrelas já chegaram\nPara dizer o nome seu\nSou eu, sou eu, sou eu\nSou eu um filho de Deus\n\nAs estrelas me levaram\nPara correr o mundo inteiro\nPra conhecer esta verdade\nPara poder ser verdadeiro\n\nEu subi serra de espinho\nPisando em pontas agudas\nAs estrelas me disseram\nNo mundo se cura tudo\n\nAs estrelas me disseram\nOuve muito e fala pouco\nPara poder compreender\nE conversar com meus caboclos\n\nOs caboclos já chegaram\nDe braços nus e pés no chão\nEles trazem remédios bons\nPara curar os cristãos",
+      "conteudoCifrado": "<cifra class=\"cifra\">          C      G        C</cifra><p>           Am              G</p><cifra class=\"cifra\">       C          G          C</cifra><p>            C7                F</p><cifra class=\"cifra\"> </cifra><p>           C       G      C</p><cifra class=\"cifra\">              Am                  G</cifra><p>                 C      G        C</p><cifra class=\"cifra\">              C7                F</cifra><p> </p><cifra class=\"cifra\">         C       G          C</cifra><p>             Am                G</p><cifra class=\"cifra\">          C        G       C</cifra><p>            C7              F</p><cifra class=\"cifra\"> </cifra><p>          C        G        C</p><cifra class=\"cifra\">          Am               G</cifra><p>         C          G            C</p><cifra class=\"cifra\">              C7                       F</cifra><p> </p><cifra class=\"cifra\">          C        G         C</cifra><p>                 Am                  G</p><cifra class=\"cifra\">         C              G         C</cifra><p>         C7                 F</p>"
+    },
+    {
+      "id": "723",
+      "numero": 5,
+      "titulo": "Os espíritos estão chegando",
+      "autor": "Alex Polari",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Perante este momento\nEu quero declarar\nUmas poucas palavras\nQue eu ouvi publicar\n\nOs espíritos estão chegando\nPela linha devagar\nSe preparem aparelhos\nPara ouvir e ensinar\n\nEles estão vindo do céu\nTambém virão do mar\nDa terra e das montanhas\nPara todos doutrinar\n\nEsta estrada é do Mestre\nFoi ele quem abriu\nReplantando a Santa Doutrina\nPara aquele que seguiu\n\nSanto Daime e Santa Maria\nConsola e dá alívio\nEu digo aos meus caboclos\nQue aqui o centro é livre\n\nTodos são filhos de Deus\nSó basta ele querer\nSaúdo a proteção\nDo Vovô Omunguelê\n\nNo meio da minha viagem\nEle comigo veio ter\nDisse que já fora escravo\nE cultuava o mesmo poder\n\nMeu Império Juramidam\nQue glória vos pertencer\nBasta ser sempre fiel\nQue tudo eu posso ser",
+      "conteudoCifrado": "<cifra class=\"cifra\">     C                    G</cifra><p>                       C</p><cifra class=\"cifra\">     C </cifra><p>        G                 C</p><cifra class=\"cifra\"> </cifra><p>          C                       G</p><cifra class=\"cifra\">                         C</cifra><p>           C </p><cifra class=\"cifra\">             G            C</cifra><p> </p><cifra class=\"cifra\">            C                  G</cifra><p>                             C</p><cifra class=\"cifra\">      C </cifra><p>         G                C</p><cifra class=\"cifra\"> </cifra><p>            C                G</p><cifra class=\"cifra\">                         C</cifra><p>            C </p><cifra class=\"cifra\">             G                 C</cifra><p> </p><cifra class=\"cifra\">            C                        G</cifra><p>                       C</p><cifra class=\"cifra\">     C </cifra><p>           G                   C</p><cifra class=\"cifra\"> </cifra><p>           C                  G</p><cifra class=\"cifra\">                          C</cifra><p>    C </p><cifra class=\"cifra\">          G                 C</cifra><p> </p><cifra class=\"cifra\">        C                      G</cifra><p>                          C</p><cifra class=\"cifra\">            C </cifra><p>          G                         C</p><cifra class=\"cifra\"> </cifra><p>             C                  G</p><cifra class=\"cifra\">                                  C</cifra><p>           C </p><cifra class=\"cifra\">        G                    C</cifra>"
+    },
+    {
+      "id": "724",
+      "numero": 6,
+      "titulo": "Harmonia, verdade e perdão",
+      "autor": "Vera Fróes",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Harmonia, verdade e perdão\nSão os três pontos\nQue seguram esta união\n\nEu peço meus irmãos prestem atenção\nQue o Mestre do astral\nEstá olhando a sessão\n\nAs doenças que aparecer\nÉ disciplina\nPra quem faz por merecer\n\nPedir aos espíritos curadores\nDa linha de Arrochim\nA Jesus Cristo Redentor\n\nTer fé e esperança no pedido\nPensar em Deus\nE na nossa Virgem Mãe\n\nNão ter medo de morrer\nE se sair correndo\nÉ pior para você\n\nCom calma e tranquilidade\nO seu caminho\nVai se iluminar\n\nTe lembra do velho Juramidam\nEle está sempre presente\nE segura a sua mão",
+      "conteudoCifrado": "<cifra class=\"cifra\">           D           A             D</cifra><p>                   Bm</p><cifra class=\"cifra\">                                  A</cifra><p> </p><cifra class=\"cifra\">      G                   A                           D        </cifra><p>            Bm              Em</p><cifra class=\"cifra\">           A                D</cifra><p> </p><cifra class=\"cifra\">        D           A            D</cifra><p>           Bm</p><cifra class=\"cifra\">                                     A</cifra><p> </p><cifra class=\"cifra\">     G             A                D        </cifra><p>     Bm                 Em</p><cifra class=\"cifra\">               A                D</cifra><p> </p><cifra class=\"cifra\">      D             A                D</cifra><p>                  Bm</p><cifra class=\"cifra\">                                A</cifra><p> </p><cifra class=\"cifra\">       G      A                D        </cifra><p>  Bm            Em</p><cifra class=\"cifra\">      A              D</cifra><p> </p><cifra class=\"cifra\">          D      A                D</cifra><p>               Bm</p><cifra class=\"cifra\">                   A</cifra><p> </p><cifra class=\"cifra\">     G               A                  D        </cifra><p>        Bm                 Em</p><cifra class=\"cifra\">       A                D</cifra>"
+    },
+    {
+      "id": "725",
+      "numero": 7,
+      "titulo": "Linha do Tucum",
+      "autor": "Mestre Irineu",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Gm",
+      "letraPura": "Eu canto aqui na Terra\nO amor que Deus me dá\nPara sempre, para sempre\nPara sempre, para sempre\n\nA minha Mãe que vem comigo\nQue me deu esta lição\nPara sempre, para sempre\nPara sempre eu ser irmão\n\nEnxotando os malfazejos\nQue não querem me ouvir\nQue escurecem o pensamento\nE nunca podem ser feliz\n\nEsta é a linha do Tucum\nQue traz toda lealdade\nCastigando os mentirosos\nAqui dentro desta verdade",
+      "conteudoCifrado": "<cifra class=\"cifra\">      Gm       D7      Gm</cifra><p>       D7                      Gm</p><cifra class=\"cifra\">          F                   Bb</cifra><p>         D7                 Gm</p><cifra class=\"cifra\"> </cifra><p>               Gm        D7      Gm</p><cifra class=\"cifra\">              D7            Gm</cifra><p>           F                  Bb</p><cifra class=\"cifra\">         D7                      Gm</cifra><p> </p><cifra class=\"cifra\">        Gm         D7    Gm</cifra><p>               D7                Gm</p><cifra class=\"cifra\">               F                      Bb</cifra><p>              D7              Gm</p><cifra class=\"cifra\"> </cifra><p>            Gm     D7    Gm</p><cifra class=\"cifra\">               D7         Gm</cifra><p>           F                    Bb</p><cifra class=\"cifra\">              D7               Gm</cifra>"
+    },
+    {
+      "id": "726",
+      "numero": 8,
+      "titulo": "Olho para o firmamento",
+      "autor": "Padrinho Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Olho para o firmamento\nE vejo todo universo\nEsta força que recebo\nSempre canto e sempre peço\n\nPeço ao onipotente\nE a ele me humilho\nPara nunca me faltar\nA vossa luz com santo brilho\n\nMe seguro no astral\nE quando me acho doente\nMe lembro de minha Mãe\nE de meu Pai onipotente\n\nEstas forças verdadeiras\nProvam que são existentes\nMas quem vive neste mundo\nPouco vê e pouco sente\n\nDigo tudo humilhado\nE continuo a jornada\nCom meu Pai em minha frente\nE minha mãe ao meu lado\n\nVou seguindo e vou pedindo\nPara todos inocentes\nPeço força nos trabalhos\nAos três Reis do Oriente",
+      "conteudoCifrado": "<cifra class=\"cifra\">        Am                C</cifra><p>          G           Am</p><cifra class=\"cifra\">        C         E      Am</cifra><p>              E                       Am</p><cifra class=\"cifra\"> </cifra><p>         Am         C</p><cifra class=\"cifra\">      G              Am</cifra><p>          C         E      Am</p><cifra class=\"cifra\">              E                     Am</cifra><p> </p><cifra class=\"cifra\">          Am            C</cifra><p>                G             Am</p><cifra class=\"cifra\">              C        E        Am</cifra><p>                E            Am</p><cifra class=\"cifra\"> </cifra><p>          Am                C</p><cifra class=\"cifra\">              G                Am</cifra><p>                  C       E      Am</p><cifra class=\"cifra\">           E                Am</cifra><p> </p><cifra class=\"cifra\">        Am             C</cifra><p>            G           Am</p><cifra class=\"cifra\">                C           E        Am</cifra><p>          E                     Am</p><cifra class=\"cifra\"> </cifra><p>            Am                   C</p><cifra class=\"cifra\">         G            Am</cifra><p>          C       E       Am</p><cifra class=\"cifra\">               E              Am</cifra>"
+    },
+    {
+      "id": "727",
+      "numero": 9,
+      "titulo": "Firmo em Marachimbé",
+      "autor": "Padrinho Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Sol, Lua, Estrela\nA terra, o vento e o mar\nA floresta e seus mistérios\nPara todos estudar\n\nSol, Lua, Estrela\nA terra, o vento e o mar\nÉ a luz do firmamento\nÉ só a quem eu devo amar\n\nÉ só a quem eu devo amar\nE me segura em meu canto\nPai, Filho e Virgem Mãe\nCom o divino Espírito Santo\n\nO divino Espírito Santo\nTodos três em um só se encerra\nÉ o tempo do apuro\nPouca paz e muita guerra\n\nEsta paz é da Rainha\nDa floresta e do Mestre\nÉ o princípio das dores\nMeus irmãos o tempo é este\n\nMeus irmãos o tempo é este\nDas lembranças de Noé\nPeço força a todos seres\nFirmo em Marachimbé",
+      "conteudoCifrado": "<cifra class=\"cifra\"> D    A          D</cifra><p>   Em                        A</p><cifra class=\"cifra\">        D          A           D</cifra><p>        Em     A     D</p><cifra class=\"cifra\"> </cifra><p> D    A          D</p><cifra class=\"cifra\">   Em                        A</cifra><p>      D        A          D</p><cifra class=\"cifra\">            Em         A         D</cifra><p> </p><cifra class=\"cifra\">             D          A          D</cifra><p>            Em                   A</p><cifra class=\"cifra\">       D          A           D</cifra><p>           Em          A        D</p><cifra class=\"cifra\"> </cifra><p>      D          A        D</p><cifra class=\"cifra\">          Em                            A</cifra><p>      D         A     D</p><cifra class=\"cifra\">           Em       A        D</cifra><p> </p><cifra class=\"cifra\">        D       A      D</cifra><p>        Em                A</p><cifra class=\"cifra\">        D      A          D</cifra><p>             Em       A           D</p><cifra class=\"cifra\"> </cifra><p>               D        A           D</p><cifra class=\"cifra\">             Em                A</cifra><p>         D          A       D</p><cifra class=\"cifra\">          Em      A         D</cifra>"
+    },
+    {
+      "id": "728",
+      "numero": 10,
+      "titulo": "Eu agora paro e peço",
+      "autor": "Pad. Alfredo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu agora paro e peço\nPeço e rogo ao senhor Deus\nQue me dê a santa saúde\nPara todos filhos seus\n\nAqui estamos pedindo\nE quem responde é nosso pai\nVossa vontade é feita\nSempre em todo lugar\n\nSempre estou reunido\nPara mais fácil dizer\nNo trabalho com firmeza\nÉ mais fácil de vencer\n\nVou chamando um a um\nAqui dentro da sessão\nOs que tiver consciência\nE deseja ser irmão\n\nEsta prova é para todos\nNos exige este trabalho\nViver sempre com alegria\nE no salão cantar o hinário",
+      "conteudoCifrado": "<cifra class=\"cifra\">       D      A         D</cifra><p>            Bm                    A</p><cifra class=\"cifra\">                 A</cifra><p>        Em     A        D</p><cifra class=\"cifra\"> </cifra><p>        D       A       D</p><cifra class=\"cifra\">                 Bm                    A</cifra><p>            A</p><cifra class=\"cifra\">             Em     A      D</cifra><p> </p><cifra class=\"cifra\">              D        A    D</cifra><p>        Bm               A</p><cifra class=\"cifra\">          A</cifra><p>           Em     A       D</p><cifra class=\"cifra\"> </cifra><p>              D        A      D</p><cifra class=\"cifra\">         Bm                A</cifra><p>            A</p><cifra class=\"cifra\">      Em     A       D</cifra><p> </p><cifra class=\"cifra\">          D         A      D</cifra><p>        Bm                A</p><cifra class=\"cifra\">           A</cifra><p>           Em        A         D</p>"
+    },
+    {
+      "id": "729",
+      "numero": 11,
+      "titulo": "Eu te dei uma casa",
+      "autor": "Padrinho Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu peço a meu pai\nSei que vós tem o poder\nPerdoai as minhas culpas\nSe de vós eu merecer\n\nEu te dei uma casa\nQue não falta ninguém\nPara tu escolher\nAqueles que te convêm\n\nA estrada eu dou a todos\nPara todos viajar\nVer e compreender\nE ficar em seu lugar\n\nEu estou com Deus\nDeus está em mim\nEu estando com Deus\nDeus é o meu caminho\n\nDeus é a glória\nDeus a glória é\nQuem é meu salvador\nÉ Jesus de Nazaré\n\nEu vivo neste mundo\nNa minha direção\nOlhando as coisas de Deus\nE prestando bem atenção",
+      "conteudoCifrado": "<cifra class=\"cifra\">      F                   </cifra><p>              C                Am</p><cifra class=\"cifra\">        Am      A7       Dm</cifra><p>          G                 C</p><cifra class=\"cifra\"> </cifra><p>     F                   </p><cifra class=\"cifra\">        C                   Am</cifra><p>   Am    A7     Dm</p><cifra class=\"cifra\">        G                     C</cifra><p> </p><cifra class=\"cifra\">         F                   </cifra><p>         C          Am</p><cifra class=\"cifra\"> Am      A7       Dm</cifra><p>      G                   C</p><cifra class=\"cifra\"> </cifra><p> F                   </p><cifra class=\"cifra\">  C                  Am</cifra><p>    Am    A7         Dm</p><cifra class=\"cifra\">  G                       C</cifra><p> </p><cifra class=\"cifra\">      F                   </cifra><p>  C                Am</p><cifra class=\"cifra\">        Am        A7    Dm</cifra><p>       G               C</p><cifra class=\"cifra\"> </cifra><p>      F                   </p><cifra class=\"cifra\">       C             Am</cifra><p>             Am      A7        Dm</p><cifra class=\"cifra\">               G                  C</cifra>"
+    },
+    {
+      "id": "730",
+      "numero": 12,
+      "titulo": "São João na terra",
+      "autor": "Padrinho Sebastião",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Quando ouvir falar\nDe São João na Terra\nÉ sinal de guerra\nEm todo lugar\n\nÉ fora de confusão\nChegou São Pedro\nCom seus dois irmãos\n\nOs anjinhos do céu\nÉ quem vem colher\nPara ajuntar\nEm um só lugar\n\nLouvar a meu Pai eterno\nFeliz daqueles\nQue bem trabalhar",
+      "conteudoCifrado": "<cifra class=\"cifra\">                         A</cifra><p>                        Bm</p><cifra class=\"cifra\">                  Em</cifra><p>          A     D</p><cifra class=\"cifra\"> </cifra><p>   Em              F#m</p><cifra class=\"cifra\">                    Em</cifra><p>                  A          D</p><cifra class=\"cifra\"> </cifra><p>                         A</p><cifra class=\"cifra\">                        Bm</cifra><p>              Em</p><cifra class=\"cifra\">            A      D</cifra><p> </p><cifra class=\"cifra\">     Em                   F#m</cifra><p>             Em</p><cifra class=\"cifra\">               A         D</cifra>"
+    },
+    {
+      "id": "731",
+      "numero": 13,
+      "titulo": "Peço que  Vós me ouça",
+      "autor": "Padrinho Sebastião",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Meu Pai peço que vós me ouça\nPara eu pedir o perdão\nEu peço não só para mim\nPara mim e os meus irmãos\n\nMeu Pai quando for perdoar\nPerdoa como lhe convêm\nEu peço que vós nos perdoe\nComo perdoou em Belém\n\nA barca que corre no mar\nCorre no meu coração\nAquele que aqui batiza\nBatizou no rio de Jordão",
+      "conteudoCifrado": "<cifra class=\"cifra\">        D               A              D   D7</cifra><p> G                            A</p><cifra class=\"cifra\">      G             A           D  Bm</cifra><p>          Em     A                D</p><cifra class=\"cifra\"> </cifra><p>        D                A            D  D7</p><cifra class=\"cifra\">       G                       A</cifra><p>      G             A               D  Bm</p><cifra class=\"cifra\">          Em    A              D</cifra><p> </p><cifra class=\"cifra\">    D               A             D   D7</cifra><p> G                           A</p><cifra class=\"cifra\">      G          A         D  Bm</cifra><p>       Em        A            D</p>"
+    }
+  ]
+}

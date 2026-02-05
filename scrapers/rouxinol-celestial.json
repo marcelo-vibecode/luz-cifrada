@@ -1,0 +1,362 @@
+{
+  "hinario": {
+    "nome": "Rouxinol Celestial",
+    "slug": "rouxinol-celestial",
+    "autor": "Heitor Siso ",
+    "totalHinos": 32
+  },
+  "hinos": [
+    {
+      "id": "3494",
+      "numero": 1,
+      "titulo": "Passarinho",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Passarinho cantou em minha vida\nMe trouxe a alegria\nBateu asas e voou\nPassarinho cantou em minha vida\npara eu conhecer minhas sombras\nE enfrentar a minha dor\n\nOnde vai esse(a) belo(a) Passarinho(a)\nvai voando pela Terra\nIluminando a escuridão\nOnde vai esse(a) belo(a) Passarinho(a)\nA semente do amor\nplantar em cada coração\n\nCanta canta Passarinho\nCanta pra Rainha da Floresta\nCanta, canta o seu amor\nChama São Miguel Arcanjo\nPra comandar essa reza\n\nCanta nas cachoeiras de Oxum(Ora Ie Ie)\nCanta sobre o mar de Iemanjá(Odoyá)\nCanta que somos todos um\nE estamos aqui vivendo\nPara aprender amar\n\nCanta nas cachoeiras de Oxum(Ora Ie Ie)\nCanta sobre o mar de Iemanjá(Odoyá)\nCanta nas lagoas de Nanã\nE vem nos ventos de Iansã\nA Nova Era anunciar\n\n{Segunda e Terceira)\n\nCanta canta Passarinho\nCanta pra Rainha da Floresta\nCanta, canta o seu amor\nChama São Miguel Arcanjo\nPra comandar essa reza",
+      "conteudoCifrado": "<cifra class=\"cifra\">          D</cifra><p>                        A</p><cifra class=\"cifra\">          G            D</cifra><p>        D </p><cifra class=\"cifra\">                                         A</cifra><p>             G</p><cifra class=\"cifra\"> </cifra><p>         D</p><cifra class=\"cifra\">                         A</cifra><p>        G                    D</p><cifra class=\"cifra\">        D                           </cifra><p>                        A</p><cifra class=\"cifra\">                  G</cifra><p> </p><cifra class=\"cifra\">A7                D</cifra><p>D7                                  G</p><cifra class=\"cifra\">                               D</cifra><p>                                   A</p><cifra class=\"cifra\">           G                  D</cifra><p> </p><cifra class=\"cifra\">D                       A7             D</cifra><p>                                           A</p><cifra class=\"cifra\"></cifra><p>                        A7</p><cifra class=\"cifra\">                       D              B7</cifra><p> </p><cifra class=\"cifra\">     E                   B7           E</cifra><p>                                           B7</p><cifra class=\"cifra\"></cifra><p>                                    B7</p><cifra class=\"cifra\">                            E</cifra><p> </p><cifra class=\"cifra\"></cifra><p> </p><cifra class=\"cifra\">B7                         E</cifra><p>E7                                  A</p><cifra class=\"cifra\">                                E</cifra><p>                                   B</p><cifra class=\"cifra\">          A                  E</cifra>"
+    },
+    {
+      "id": "3493",
+      "numero": 2,
+      "titulo": "Asas Resplandecentes",
+      "autor": "Heitor Siso ",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Com o coração firmado na Luz\nNesta Luz para sempre eu estou\nGrandes Asas, lindas plumas brancas\nQue flutuam nessa Luz do Amor\n\nE essas asas vem resplandecendo\nResplandecem com todo primor\nFirme eu canto este som com alegria\nPra curar e transmutar a dor\n\nDoces cantos da voz criativa\nLibertando a mim mesmo EU SOU\nNavegando nesses mistérios\nDesta Luz infinita do Amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">               D           A            D</cifra><p>         D            A                   D</p><cifra class=\"cifra\">             A                               D</cifra><p>          D             A                D</p><cifra class=\"cifra\"> </cifra><p>             D           A            D</p><cifra class=\"cifra\">             D            A                   D</cifra><p>              A                                    D</p><cifra class=\"cifra\">          D             A              D</cifra><p> </p><cifra class=\"cifra\">           D            A          D</cifra><p>        D                  A               D</p><cifra class=\"cifra\">        A                         D</cifra><p>          D         A           D</p>"
+    },
+    {
+      "id": "3492",
+      "numero": 3,
+      "titulo": "Semente da Vida",
+      "autor": "Heitor Siso ",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "A Luz de Deus vem nos presentar\nCom a semente do Sol\nQue vem do beija-flor\nO Amor da Deusa fez desabrochar\nAo Nascer dos encantos\nA mais bela Flor\n\nComo é lindo ver esta Semente\nGerminar e brotar pelo chão\nPoder vê-la nascer\nCrescer e florescer\nE viver junto a imensidão\n\nA Luz de Deus vem nos presentar\nCom a semente do Sol\nQue vem do beija-flor\nO Amor da Deusa fez desabrochar\nAo Nascer dos encantos\nA mais bela Flor\n\nBeija-flor no bater de suas asas\nVoa sobre a Terra e o Mar\nMostre o coração\nLeve nesta canção\nA Sagrada Semente do Amar\n\nA Luz de Deus vem nos presentar\nCom a semente do Sol\nQue vem do beija-flor\nO Amor da Deusa fez desabrochar\nAo Nascer dos encantos\nA mais bela Flor\n\nPra semente crescer direitinho\nÉ  preciso Paz e muito Amor\nJunto aos ensinamentos\nUnidos e atentos\nVê-la manifestar com primor\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">              D                    A7        D</cifra><p>                Bm         Em </p><cifra class=\"cifra\">               A7          D</cifra><p>                 D              A7         D</p><cifra class=\"cifra\">        Bm              Em</cifra><p>    A7           D</p><cifra class=\"cifra\"> </cifra><p>            A                     D</p><cifra class=\"cifra\">           G                        D (D7)</cifra><p>          G           A</p><cifra class=\"cifra\">            D            Bm</cifra><p>     Em          A7          D</p><cifra class=\"cifra\"> </cifra><p>              D                    A7        D</p><cifra class=\"cifra\">                Bm         Em </cifra><p>               A7          D</p><cifra class=\"cifra\">                 D              A7         D</cifra><p>        Bm              Em</p><cifra class=\"cifra\">    A7           D</cifra><p> </p><cifra class=\"cifra\">         A                               D</cifra><p>      G                          D (D7)</p><cifra class=\"cifra\">            G       A</cifra><p>        D            Bm</p><cifra class=\"cifra\">       Em          A7             D</cifra><p> </p><cifra class=\"cifra\">              D                    A7        D</cifra><p>                Bm         Em </p><cifra class=\"cifra\">               A7          D</cifra><p>                 D              A7         D</p><cifra class=\"cifra\">        Bm              Em</cifra><p>    A7           D</p><cifra class=\"cifra\"> </cifra><p>          A                            D</p><cifra class=\"cifra\">        G                          D (D7)</cifra><p>               G         A</p><cifra class=\"cifra\">     D         Bm</cifra><p>         Em        A7           D</p><cifra class=\"cifra\"> </cifra>"
+    },
+    {
+      "id": "3473",
+      "numero": 4,
+      "titulo": "Colo de Jesus",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Quando vi caí no colo de Jesus\nE Jesus com Vossa Luz me ensinou\nMe ensinou sobre o amor e a caridade\nO sentimento que alegra o coração\n\nÓ Jesus venha a todos nós iluminar\nIluminarmos a chama do coração\nCom vosso amor eu sou capaz de perdoar\nE voar livre no vôo do Beija-flor\n\nO vôo do Beija-flor vem encantando\nEncantando o lugar onde eu passar\nEu vôo livre, vôo livre com alegria\nE a certeza de estar onde eu devo estar",
+      "conteudoCifrado": "<cifra class=\"cifra\">            Bm         F#           Bm</cifra><p>    Em                   F#               Bm</p><cifra class=\"cifra\">           F#                                     Em</cifra><p>           F#             Bm</p><cifra class=\"cifra\"> </cifra><p>            Bm         F#           Bm</p><cifra class=\"cifra\">    Em                   F#               Bm</cifra><p>                   F#                                     Em</p><cifra class=\"cifra\">           F#                             Bm</cifra><p> </p><cifra class=\"cifra\">     Bm             F#                    Bm</cifra><p>         Em           F#                   Bm</p><cifra class=\"cifra\">           F#                               Em</cifra><p>           F#                                          Bm</p>"
+    },
+    {
+      "id": "3474",
+      "numero": 5,
+      "titulo": "Pássaro Mensageiro",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Os dias passarão, passarão e passarão\nPassarinho vai levando até Mamãe essa oração\nPassarão dias de dor e também de alegria\nA ti eu me entrego Minha Santa Mãe Divina\n\nE tudo o que existe nos Mistérios da Verdade\nNos ensina a viver com paciência e humildade\nA ti eu imploro Jesus Cristo Redentor\nLimpa o meu coração e leva embora minha dor\n\nPassarinho vai voando nas mais altas esferas\nE mostrando que o amor é pra quem faz e não espera\nPassarinho vai-se embora, ele também já passou\nE deixou grande mensagem que é viver na Luz do Amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">                Bm                          Em</cifra><p>                        F#                                Bm</p><cifra class=\"cifra\">                        B7                       Em</cifra><p>                  F#                                    Bm</p><cifra class=\"cifra\"> </cifra><p>                      Bm                                   Em</p><cifra class=\"cifra\">                        F#                                    Bm</cifra><p>                 B7                                Em</p><cifra class=\"cifra\">                           F#                                    Bm</cifra><p> </p><cifra class=\"cifra\">                          Bm                               Em</cifra><p>                        F#                                Bm</p><cifra class=\"cifra\">                                B7                                 Em</cifra><p>                                 F#                                          Bm</p><cifra class=\"cifra\"></cifra>"
+    },
+    {
+      "id": "3475",
+      "numero": 6,
+      "titulo": "Passarinho Canta Canta",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "E",
+      "letraPura": "Passarinho canta canta\nPassarinho cura cura\nPassarinho canta o amor, daime o beijo, traz a flor \nE leva embora a amargura\n\nPassarinho me ensina\nJunto ao sopro do vento\nQue pra vida acontecer, fluir mais meu belo Ser\nDevo domar meus pensamentos\n\nPassarinho voa voa\nAlto lá na imensidão\nCom seu canto cristalino, nos revela a Verdade\nTraz Consciência à ilusão\n\nPassarinho me mostrou\nQue a ilusão é tão pequena\nQue preciso aprender a fluir na Luz do Amor\nPra vida valer a pena",
+      "conteudoCifrado": "<cifra class=\"cifra\">                           B7</cifra><p>                         E</p><cifra class=\"cifra\">                               B7                                        A</cifra><p>              B7               E           B7    E</p><cifra class=\"cifra\"> </cifra><p>                           B7</p><cifra class=\"cifra\">                         E</cifra><p>                               B7                                        A</p><cifra class=\"cifra\">              B7               E           B7    E</cifra><p> </p><cifra class=\"cifra\">                        B7</cifra><p>                          E</p><cifra class=\"cifra\">                               B7                                A</cifra><p>                B7               E           B7    E</p><cifra class=\"cifra\"> </cifra><p>                             B7</p><cifra class=\"cifra\">                                 E</cifra><p>                            B7                               A</p><cifra class=\"cifra\">        B7              E           B7    E</cifra>"
+    },
+    {
+      "id": "3476",
+      "numero": 7,
+      "titulo": "Rouxinol Celestial",
+      "autor": "João Pedro Gonçalves Afonso",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Ó Passarinho, ó Passarinho\nEstá na hora de aprender a voar\nBata suas asas e dê adeus\nSaia do conforto e comece a trabalhar\n \nEstá na hora de assumir\nO controle do canal interior\nEstá na hora de crescer\nPra ficar maduro precisa desenvolver\n\nO seu passado já passou\nE a paz só vai reinar o seu momento\nQuando assumir que o caminho\nÉ trabalhar para ser exemplo\n\nLevanta a cabeça como se faz um soldado\nNão seja derrotado pelo mal que é perdedor\nPassarinho cantador só alcança o Plano do Alto\nQuando estiver completo \nEm nome do Santo Amor\n\nVoa pra frente com vontade\nE firma sua mente na Luz do Superior\nHoje, agora e sempre é lealdade\nNa força da Presença Eu Sou, Eu Sou",
+      "conteudoCifrado": "<cifra class=\"cifra\">            Dm        A7     Dm</cifra><p>            D7                              Gm</p><cifra class=\"cifra\">                Gm      A7   Dm</cifra><p>                  A7                               Dm    A7</p><cifra class=\"cifra\"></cifra><p>            Dm        A7     Dm</p><cifra class=\"cifra\">            D7                       Gm</cifra><p>            Gm   A7    Dm</p><cifra class=\"cifra\">                  A7                               Dm    A7</cifra><p> </p><cifra class=\"cifra\">            Dm      A7    Dm</cifra><p>      D7                                    Gm</p><cifra class=\"cifra\">                   Gm       A7   Dm</cifra><p>           A7                   Dm        A7</p><cifra class=\"cifra\"> </cifra><p>                   Dm             A7                Dm</p><cifra class=\"cifra\">                      D7                                     Gm</cifra><p>                          Gm              A7                  Dm</p><cifra class=\"cifra\">                               A7           </cifra><p>                               Dm    A7</p><cifra class=\"cifra\"> </cifra><p>            Dm       A7      Dm</p><cifra class=\"cifra\">                   D7                               Gm</cifra><p>                     Gm          A7   Dm</p><cifra class=\"cifra\">                  A7                              Dm   </cifra>"
+    },
+    {
+      "id": "3477",
+      "numero": 8,
+      "titulo": "Luz Esmeralda",
+      "autor": "Heitor Siso ",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Mas nossa que Luz é essa\nÉ a Força vem se apresentar\nCom os segredos da floresta\nDo Sol, da Lua, Estrelas e do Mar\n\nSalve a Santa Rainha\nSalve o Santo Cipó\nUnidos nessa Bebida \nVem desatando qualquer nó\n\nBrilha, brilha Luz Esmeralda\nMostrando as Portas da Libertação\nVem entregando as Chaves\nPara abrir os nossos corações\n\nCom paz no coração\nEstou alegre a cantar\nCom a pureza do Beija-flor\nE a firmeza do Sabiá",
+      "conteudoCifrado": "<cifra class=\"cifra\">       Dm</cifra><p>    A7                             Dm</p><cifra class=\"cifra\">            Gm                   Dm</cifra><p>            A7                           Dm</p><cifra class=\"cifra\"> </cifra><p>     Dm</p><cifra class=\"cifra\">    A7                 Dm</cifra><p>   Gm                 Dm</p><cifra class=\"cifra\">        A7                           Dm</cifra><p> </p><cifra class=\"cifra\">          Dm</cifra><p>                     A7                        Dm</p><cifra class=\"cifra\">       Gm                  Dm</cifra><p>            A7                        Dm</p><cifra class=\"cifra\"> </cifra><p>       Dm</p><cifra class=\"cifra\">           A7             Dm</cifra><p>             Gm                  Dm</p><cifra class=\"cifra\">            A7             Dm</cifra>"
+    },
+    {
+      "id": "3478",
+      "numero": 9,
+      "titulo": "Ciranda Celestial",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Girando nesta ciranda\nVim aqui para aprender\nA voltar a ser criança\nCom alegria de viver\n\nNa força azul e rosa\nNesta delicada Flor\nEu aprendo a voar mais alto\nE enxergar todo esplendor\n\nLá de cima eu avistei\nO jardim da esperança\nRevoadas de passarinhos\nNos ensinando como se canta\n\nEu pedi à Minha Mãe\nEsta ciranda não ter fim\nPra continuar esta dança\nDevo zelar este Jardim",
+      "conteudoCifrado": "<cifra class=\"cifra\">        D        A     D</cifra><p>         G        A7        D (D7)</p><cifra class=\"cifra\">      G       A       D      Bm</cifra><p>             Em   A7    D</p><cifra class=\"cifra\"> </cifra><p>         D     A      D</p><cifra class=\"cifra\">          G     A7   D (D7)</cifra><p>        G             A            D     </p><cifra class=\"cifra\">   Bm    Em         A7     D</cifra><p> </p><cifra class=\"cifra\">          D         A     D</cifra><p>        G        A7      D (D7)</p><cifra class=\"cifra\">      G            A       D      </cifra><p>      Bm  Em          A7      D</p><cifra class=\"cifra\"> </cifra><p>        D        A     D</p><cifra class=\"cifra\">         G        A7        D (D7)</cifra><p>           G        A       D     </p><cifra class=\"cifra\">    Bm  Em   A7     D</cifra>"
+    },
+    {
+      "id": "3479",
+      "numero": 10,
+      "titulo": "Bailinho do Mar",
+      "autor": "Heitor Siso ",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Em silêncio eu sinto a Lua Cheia\nVim me sentir, me limpar\nFrente ao Mar ouço o canto da Sereia\nDou flores pra Iemanjá\n\nPeço sua ajuda ó Senhor Marinheiro\nÁ desvendar o meu Mar\nDa onda eu viro o oceano inteiro\nCom Mamãe vou navegar\n\nIemanjá\nRainha do Mar\nRainha do Mar\nRainha do Mar\n\nIemanjá\nRainha do Mar\nNa areia da praia\nVeio a todos gerar\n\nSilenciosos Mistérios do Amor\nNas profundezas mergulhar\nSe está confuso e repleto de dor\nRogue a Mamãe Iemanjá\n\nIemanjá não julga credo ou cor\nGera e a todos cura\nRosas brancas lhe ofereço em louvor\nOdociaba Odoyá\n\nIemanjá\nRainha do Mar\nRainha do Mar\nRainha do Mar\n\nIemanjá\nRainha do Mar\nNa areia da praia\nVeio a todos gerar",
+      "conteudoCifrado": "<cifra class=\"cifra\">D                              A</cifra><p>D                              A</p><cifra class=\"cifra\">D                                     A</cifra><p>D                              A</p><cifra class=\"cifra\"> </cifra><p>D                             A</p><cifra class=\"cifra\">D                           A</cifra><p>D                               A</p><cifra class=\"cifra\">D                               A</cifra><p> </p><cifra class=\"cifra\">D</cifra><p>                Bm           </p><cifra class=\"cifra\">                A</cifra><p>                D      D7</p><cifra class=\"cifra\"> </cifra><p>G</p><cifra class=\"cifra\">                D</cifra><p>                    A7</p><cifra class=\"cifra\">                        D</cifra><p> </p><cifra class=\"cifra\">D                              A</cifra><p>D                              A</p><cifra class=\"cifra\">D                              A</cifra><p>D                              A</p><cifra class=\"cifra\"> </cifra><p>D                              A</p><cifra class=\"cifra\">D                              A</cifra><p>D                              A</p><cifra class=\"cifra\">D                              A</cifra><p> </p><cifra class=\"cifra\">D</cifra><p>                Bm           </p><cifra class=\"cifra\">                A</cifra><p>                D      D7</p><cifra class=\"cifra\"> </cifra><p>G</p><cifra class=\"cifra\">                D</cifra><p>                    A7</p><cifra class=\"cifra\">                        D</cifra>"
+    },
+    {
+      "id": "3484",
+      "numero": 11,
+      "titulo": "Estrela do Mar",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Vou seguindo meu caminho\nPara sempre lhe louvar\nVou rezando essa Estrela \nDa Mamãe Iemanjá\n\nNavego nesse oceano\nEm seus mistérios adentrar\nQuanta luz, mas quanto brilho\nDessa Estrela do Mar\n\nEssa Estrela é quem me guia\nNos caminhos da emoção\nVem limpando as minhas águas\nE curando o coração\n\nSó com o coração puro\nNós podemos trabalhar\nE servir em seu barquinho\nPara as almas ir pescar\n\nPescando sob o seu canto\nDe perdão e piedade\nTe agradeço ò Minha Mãe\nPor me trazer a Verdade",
+      "conteudoCifrado": "<cifra class=\"cifra\">            Bm      F#      Bm</cifra><p>        B7                  Em</p><cifra class=\"cifra\">         Em        B7      Em</cifra><p>         Em   F#      Bm</p><cifra class=\"cifra\"> </cifra><p>      Bm      F#      Bm</p><cifra class=\"cifra\">                   B7             Em</cifra><p>           Em          B7       Em</p><cifra class=\"cifra\">         Em   F#      Bm</cifra><p> </p><cifra class=\"cifra\">           Bm      F#           Bm</cifra><p>          B7                  Em</p><cifra class=\"cifra\">            Em         B7         Em</cifra><p>      Em     F#      Bm</p><cifra class=\"cifra\"> </cifra><p>           Bm   F#      Bm</p><cifra class=\"cifra\">          B7               Em</cifra><p>      Em       B7      Em</p><cifra class=\"cifra\">             Em   F#      Bm</cifra><p> </p><cifra class=\"cifra\">           Bm      F#      Bm</cifra><p>          B7          Em</p><cifra class=\"cifra\">         Em        B7      Em</cifra><p>            Em      F#    Bm</p>"
+    },
+    {
+      "id": "3480",
+      "numero": 12,
+      "titulo": "Oração á Lua Cheia",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "E",
+      "letraPura": "Esta é uma singela oração\nPara a Lua Cheia\nMovimenta as Sagradas Águas do Mar\nAo canto das Sereias\n\nCom a sua Luz a iluminar\nChoro de tanta emoção\nPra sempre eu te guardo Lua Cheia \nEm meu coração",
+      "conteudoCifrado": "<cifra class=\"cifra\">E</cifra><p>                 B</p><cifra class=\"cifra\">       B7</cifra><p>                         E         E7</p><cifra class=\"cifra\"> </cifra><p>A                               B</p><cifra class=\"cifra\">E                           C#m</cifra><p>A                                            B7</p><cifra class=\"cifra\">                    E</cifra>"
+    },
+    {
+      "id": "3485",
+      "numero": 13,
+      "titulo": "Oxum",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Sentindo o vento e a mais linda melodia\nDas cachoeiras da nossa Mamãe Oxum\nVivendo pleno esse momento em harmonia\nSabendo sempre que nós todos somos Um\n\nDaqui de longe eu avisto as borboletas\nLivres voando o seu mais lindo voar\nSentindo a força da nossa Mãe Natureza\nCom suas cores vindo nos presentear\n\nObservando a mata e o lindo céu azul\nEu escuto o Passarinho a cantar\nque o amanhã há de ser muito bonito\nCom humildade sempre em primeiro lugar\n\nEstou enviando meu amor ao firmamento\nNesse momento para todos meus irmãos\nVou caminhando nessa vida passo a passo\nSempre trilhando a estrada do Coração",
+      "conteudoCifrado": "<cifra class=\"cifra\">                 G                              </cifra><p>                                                   D</p><cifra class=\"cifra\"></cifra><p>               D7                                         G</p><cifra class=\"cifra\"> </cifra><p>              G                              </p><cifra class=\"cifra\">                                                   D</cifra><p></p><cifra class=\"cifra\">               D7                                   G</cifra><p> </p><cifra class=\"cifra\">                       G                              </cifra><p>                                             D</p><cifra class=\"cifra\"></cifra><p>                D7                                         G</p><cifra class=\"cifra\"> </cifra><p>                G                              </p><cifra class=\"cifra\">                                                        D</cifra><p></p><cifra class=\"cifra\">                D7                                   G</cifra>"
+    },
+    {
+      "id": "3486",
+      "numero": 14,
+      "titulo": "Convite",
+      "autor": "Heitor Siso ",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Palavras não são capazes de descrever\nO tamanho do amor que eu sinto por você\n\nSe às vezes ando distraído\nExtremamente racional\nSutilmente eu peço perdão\nPois nunca foi por mal\n\nMe perdoe pois nunca é tarde para aprender\n\nLhe convido à aprender a sonhar\nE tornar sonho realidade\nBater asas para imaginar\nO quão radiante a vida pode ser\n\nColorir novas telas em branco\nE em meus ombros correr o teu pranto\nDescobrir novas formas mais lindas\nO que é viver\n\nNova chance de recomeçar de maneira mais simples\nE no novo encontrar novos meios para acreditar\n\nSe às vezes parece difícil\nSucumbir, permanecer no início\nE lá do alto do precipício\nA vista pode ser diferente\n\nQue a Fé e a Esperança na vida possam renascer\n\nLhe convido à aprender a sonhar\nE fazer deste sonho a verdade\nCom coragem para realizar\nDescobrir verdadeiramente o que é amar\n\nColorir novas telas em branco\nE em meus ombros correr o teu pranto\nDescobrir novas formas mais lindas\nO que é viver\n\n\n ",
+      "conteudoCifrado": "<cifra class=\"cifra\">   D                         A                      D (D7)</cifra><p>      G                                    F#m           Em</p><cifra class=\"cifra\"> </cifra><p>          G                       A</p><cifra class=\"cifra\">            D                B7</cifra><p>       Em                        A7</p><cifra class=\"cifra\">                  D         A7</cifra><p> </p><cifra class=\"cifra\">          D                          A7                      D</cifra><p> </p><cifra class=\"cifra\">           G                               A</cifra><p>       D                     B7</p><cifra class=\"cifra\">          Em                   A7</cifra><p>                 D                          D7</p><cifra class=\"cifra\"> </cifra><p>       G                           A</p><cifra class=\"cifra\">                  D                              B7</cifra><p>        Em                                 A7</p><cifra class=\"cifra\">                D</cifra><p> </p><cifra class=\"cifra\">         D                     A                                D (D7)</cifra><p>        G                               F#m                     Em</p><cifra class=\"cifra\"> </cifra><p>        G                       A</p><cifra class=\"cifra\">          D                               B7</cifra><p>       Em                    A7</p><cifra class=\"cifra\">           D                   A7</cifra><p> </p><cifra class=\"cifra\">          D                    A7                         D      D7</cifra><p> </p><cifra class=\"cifra\">           G                               A</cifra><p>      D                              B7</p><cifra class=\"cifra\">          Em                       A7</cifra><p>                        D                               D7</p><cifra class=\"cifra\"> </cifra><p>      G                           A</p><cifra class=\"cifra\">                 D                               B7</cifra><p>        Em                                 A7</p><cifra class=\"cifra\">                D                      </cifra><p> </p><cifra class=\"cifra\"> </cifra><p></p>"
+    },
+    {
+      "id": "3487",
+      "numero": 15,
+      "titulo": "Seres Divinos",
+      "autor": "Heitor Siso ",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Canta o Passarinho\nQue me inspira alegria\nOuço o seu cantar lá do alto\nTrazendo harmonia\n\nVoa o Passarinho\nO seu mais lindo voar\nVoa além de todo o infinito\nNos ensinando a Amar\n\nCanto junto ao Passarinho\nAlto para a natureza\nMeu deus, mas quanta alegria eu sinto\nVejo toda essa Beleza\n\nRezo a ti meu Jesus\nE a Sempre Virgem Maria\nRezo a todos os Seres Divinos\nAbençoar nossas vidas",
+      "conteudoCifrado": "<cifra class=\"cifra\">D                    Em</cifra><p>A                  A7          D      D7(2ªrep)</p><cifra class=\"cifra\">G          A         D             B7</cifra><p>Em      A7          D</p><cifra class=\"cifra\"> </cifra><p>D                Em</p><cifra class=\"cifra\">A              A7          D      D7(2ªrep)</cifra><p>G       A         D             B7</p><cifra class=\"cifra\">Em         A7          D</cifra><p> </p><cifra class=\"cifra\">D                    Em</cifra><p>A            A7       D      D7(2ªrep)</p><cifra class=\"cifra\">G                      A              D         B7</cifra><p>Em          A7         D</p><cifra class=\"cifra\"> </cifra><p>D                    Em</p><cifra class=\"cifra\">A                A7             D      D7(2ªrep)</cifra><p>G          A         D             B7</p><cifra class=\"cifra\">Em      A7          D</cifra>"
+    },
+    {
+      "id": "3488",
+      "numero": 16,
+      "titulo": "Fênix ",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Gira Gira Gira Gira\nAqui dentro do Salão\nForça do Fogo Divino\nVem queimar a ilusão \n\nVem limpar as gerações\nE fazer o mal passar\nVem purificar a Alma \nForça vem Iluminar\n\nNesse mundo tudo nasce\nVive e já já vai morrer\nQuando um ciclo chega ao fim\nÉ para outro renascer\n\nDo fogo surge a ave Fênix\nPara tudo transformar\nE resplandecer das cinzas\nA sua essência libertar \n\nBrilha o Pássaro de Fogo\nNos conduz até o alto\nNos mostrando as direções\nAté o Salão Dourado\n\nQueima Queima Queima Queima\nFogo do Espírito Santo\nO Rei dos Reis que é Jesus Cristo\nNos protege com seu Manto",
+      "conteudoCifrado": "<cifra class=\"cifra\">Bm  F#    Bm</cifra><p>                            D</p><cifra class=\"cifra\">                        C#m7(b5)</cifra><p>               A                      Bm</p><cifra class=\"cifra\"> </cifra><p>                                   G</p><cifra class=\"cifra\">                            F#</cifra><p>                                G</p><cifra class=\"cifra\">A7     A#7          Bm</cifra><p> </p><cifra class=\"cifra\">Bm     F#               Bm</cifra><p>                            D</p><cifra class=\"cifra\">                                        C#m7(b5)</cifra><p>          A                Bm</p><cifra class=\"cifra\"> </cifra><p>                        G</p><cifra class=\"cifra\">                            F#</cifra><p>                                G</p><cifra class=\"cifra\">A7    A#7          Bm</cifra><p> </p><cifra class=\"cifra\">Bm        F#              Bm</cifra><p>                            D</p><cifra class=\"cifra\">                            C#m7(b5)</cifra><p>      A                Bm</p><cifra class=\"cifra\"> </cifra><p>                         G</p><cifra class=\"cifra\">                         F#</cifra><p>                          G</p><cifra class=\"cifra\">A7     A#7                   Bm</cifra>"
+    },
+    {
+      "id": "3489",
+      "numero": 17,
+      "titulo": "O Som da Vida",
+      "autor": "Heitor Siso ",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Se a vida passa e não há saída\nPor que não se entregar a seu coração?\nSe os bosques sopram a fonte da vida\ntambém posso ser o Dom da criação\n\nSe os Sabiás cantam o raiar do dia\nTambém vou cantar o Sol que vai nascer\nSe as borboletas vão da morte à vida\nTambém vou cantar o som de renascer\n\nNasce, cresce e vai e já nasce de novo\nNo fluir da vida vou me harmonizar\nSe os Passarinhos cantam livremente\nDe qualquer fronteira vou me libertar\n\nLibertado estou, liberto estou agora\nPosso sentir Deus e toda a criação\nComo criatura em pleno instrumento\nCanto o Som da Vida Daime a União\n\nDaime fé e amor minha Mãe Divina\nMostre-me o Néctar da Realidade\nQue inunda tudo em águas cristalinas\nRevelando a fonte viva da Verdade\n\nTendo consciência deste Ensinamento\nJá posso seguir tranquilo o meu caminho\nTendo confiança entrega e equilíbrio\nTudo há de fluir pois nunca estou sozinho",
+      "conteudoCifrado": "<cifra class=\"cifra\">               D            </cifra><p>                           Bm                       Em </p><cifra class=\"cifra\">                       G                            D</cifra><p>                         A7                       D</p><cifra class=\"cifra\"> </cifra><p>               D</p><cifra class=\"cifra\">                          D7                            G</cifra><p>                  G                               D</p><cifra class=\"cifra\">                          A                           D</cifra><p> </p><cifra class=\"cifra\">                        D                       </cifra><p>                 Bm                        Em </p><cifra class=\"cifra\">                  G                            D</cifra><p>                         A7                        D</p><cifra class=\"cifra\"> </cifra><p>                  D</p><cifra class=\"cifra\">                    D7                        G</cifra><p>               G                               D</p><cifra class=\"cifra\">                         A7                      D</cifra><p> </p><cifra class=\"cifra\">                   D            </cifra><p>                    Bm                   Em </p><cifra class=\"cifra\">                  G                              D</cifra><p>                   A7                       D</p><cifra class=\"cifra\"> </cifra><p>                 D</p><cifra class=\"cifra\">                  D7                                G</cifra><p>                  G                            D</p><cifra class=\"cifra\">                    A7                                D</cifra>"
+    },
+    {
+      "id": "3490",
+      "numero": 18,
+      "titulo": "Escolha",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu escolho me amar\nEu escolho voar\nEu escolho viver\nDas coisas boas que a vida dá\n\nEu escolho viver\nDistribuindo o meu carinho\nPara as irmãs e irmãos\nVou cantando esse hino\n\nEu escolho honrar\nA esta Santa Doutrina\nEu escolho viver\nBuscando sempre a disciplina\n\nEu escolho servir\nAs ordens que vem lá do Alto\nEscutando os Passarinhos\nConduzindo cada passo\n\nCurrupipiáiá\nVai cantando o Passarinho\nCom seu canto de amor\nEscolho nunca estar sozinho\n\nCom sua bela melodia\nQuero aprender cantar\nCantar Paz e Alegria\nAlto até o Sol raiar\n\nEu escolho sorrir \nAté nos dias cinzentos\nEu escolho respirar\nE sentir cada momento\n\nCada momento\nSeja triste ou alegre\nEu escolho aproveitar\nPois como todos será breve\n\nEu escolho transformar\nToda dor que existe em arte\nEu escolho esbanjar\nA vida a qual eu faço parte\n\nEu escolho viver\nCom leveza e humildade\nEm cada ato, em cada ação\nEstar mais perto da Verdade",
+      "conteudoCifrado": "<cifra class=\"cifra\">     A                  D</cifra><p>    A              D  </p><cifra class=\"cifra\">    D7            Em</cifra><p>                 A7                      D  </p><cifra class=\"cifra\"> </cifra><p>    D7             G</p><cifra class=\"cifra\">          A                      D</cifra><p>                             A7</p><cifra class=\"cifra\">                             D</cifra><p> </p><cifra class=\"cifra\">     A                D</cifra><p>     A                  D</p><cifra class=\"cifra\">    D7            G</cifra><p>                 A7                      D  </p><cifra class=\"cifra\"> </cifra><p>    D7             G</p><cifra class=\"cifra\">               A                      D</cifra><p>                             A7</p><cifra class=\"cifra\">                             D</cifra><p> </p><cifra class=\"cifra\">     A         D</cifra><p>           A                   D</p><cifra class=\"cifra\">              D7            G</cifra><p>                 A7                      D  </p><cifra class=\"cifra\"> </cifra><p>             D7             G</p><cifra class=\"cifra\">          A                  D</cifra><p>                          A7</p><cifra class=\"cifra\">                         D</cifra><p> </p><cifra class=\"cifra\">     A              D</cifra><p>     A                  D</p><cifra class=\"cifra\">       D7            Em</cifra><p>        A7              D    </p><cifra class=\"cifra\"> </cifra><p>D7          G</p><cifra class=\"cifra\">       A              D</cifra><p>                             A7</p><cifra class=\"cifra\">                                  D</cifra><p> </p><cifra class=\"cifra\">         A                  D</cifra><p>        A                          D</p><cifra class=\"cifra\">        D7            G</cifra><p>             A7                 D  </p><cifra class=\"cifra\"> </cifra><p>    D7             G</p><cifra class=\"cifra\">          A                   D</cifra><p>                                    A7</p><cifra class=\"cifra\">                                    D</cifra>"
+    },
+    {
+      "id": "3495",
+      "numero": 19,
+      "titulo": "Eu Sou",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Sou o brilho da Luz da Verdade\nSou a Autenticidade\nSou a própria Fortaleza\nSou o Divino em Ação\n\nSou coragem inabalável\nSou Mistério indecifrável\nQue a mente não compreende\nBasta ouvir o coração\n\nSou Estrela nas alturas\nOnde sussurram os Anjos\nCom primor e formosura\nA mais doce melodia\nTrazendo o Céu para Terra \nNa mais plena harmonia\n\nTudo a minha volta é Reluzente\nSou a Flor resplandecente \nNo jardim na Mãe Divina \nEU SOU o Tudo EU SOU o Todo\nE dentro de mim habita\nO Grande Mistério da Vida\n\n",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "3491",
+      "numero": 20,
+      "titulo": "Viva o Santo Daime",
+      "autor": "Heitor Siso ",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "És o Santo Daime e seu poder divino\nEsplendorosa Luz que está a me guiar\nMe livrou da morte e trouxe um novo rumo\nUma nova chance de recomeçar\n\nUm novo caminho, uma nova jornada\nUm novo momento, uma nova estrada\nCanta o Passarinho, Voa a passarada\nIrradia o brilho da Cura Sagrada\n\nNesta nova chance de reaprender\nCoisas que um dia eu deixei passar\nPrometo a mim mesmo estar bem atento \nE eu juro a Vós para sempre louvar\n\nNeste juramento eu decreto agora\nMinha lealdade e todo o meu Amor\nA prece de paz envio ao firmamento\nE o trabalho firme de curar a dor\n\nCanto minha cura e da irmandade\nQue também passa por sua provação\nQue qualquer faísca de Luz da Verdade\nPossa acalentar o nosso coração \n\nCom o coração cheio desse brilho \nTudo que enxergamos fica mais bonito\nFica mais fluido como um belo rio\nQue já virou mar em pleno equilíbrio",
+      "conteudoCifrado": "<cifra class=\"cifra\">                 D                              Bm</cifra><p>                     Em                           Bm</p><cifra class=\"cifra\">                    C#m7(b5)                       Bm</cifra><p>                F#                         Bm / D  F# Bm B7 (seg.)</p><cifra class=\"cifra\"> </cifra><p>                  Em                           A</p><cifra class=\"cifra\">                   D                             Bm</cifra><p>                  C#m7(b5)                 F#7</p><cifra class=\"cifra\">              D               F#        Bm</cifra><p> </p><cifra class=\"cifra\">                  D                          Bm</cifra><p>                       Em                    Bm</p><cifra class=\"cifra\">                         C#m7(b5)               Bm</cifra><p>                F#                          Bm / D  F# Bm B7 (seg.)</p><cifra class=\"cifra\"> </cifra><p>                Em                           A</p><cifra class=\"cifra\">                D                             Bm</cifra><p>                C#m7(b5)              F#7</p><cifra class=\"cifra\">                    D               F#        Bm</cifra><p> </p><cifra class=\"cifra\">                     D                      Bm</cifra><p>                       Em                       Bm</p><cifra class=\"cifra\">                       C#m7(b5)               Bm</cifra><p>                  F#                       Bm / D  F# Bm B7 (seg.)</p><cifra class=\"cifra\"> </cifra><p>                Em                           A</p><cifra class=\"cifra\">                       D                            Bm</cifra><p>                  C#m7(b5)               F#7</p><cifra class=\"cifra\">                   D            F#           Bm</cifra>"
+    },
+    {
+      "id": "3496",
+      "numero": 21,
+      "titulo": "Firmeza no Pensamento",
+      "autor": "Heitor Siso ",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Para comungar esta Santa Bebida\nTem que ter Verdade e Discernimento\nInabaláveis Fé e Esperança\nE muita firmeza no seu pensamento\n\nPara receber o Vosso Santo Brilho\nUsar como aliada toda a sua dor\nZelar e honrar o Vosso Santo Ensino\nEm Silêncio contemplar seu Esplendor\n\nQuem hoje aqui canta é a Liberdade\nA Fraternidade toda em oração\nNa nobre missão de Amor e Caridade\nO Poder da Verdade está em nossas Mãos\n\nCom o corpo blindado e o Daime brindado\nTudo aqui habita em nome da Verdade\nNossa Mãe Rainha que sempre nos guia\nRevela o caminho para a Unidade",
+      "conteudoCifrado": "<cifra class=\"cifra\">                Bm                F#     Bm</cifra><p>                   Em                 F#     Bm</p><cifra class=\"cifra\">        Em             F#    Bm</cifra><p>                F#                         Bm</p><cifra class=\"cifra\"> </cifra><p>              D                            Bm</p><cifra class=\"cifra\">                   Em               F#   Bm</cifra><p>                 Em              F#        Bm</p><cifra class=\"cifra\">                   F#                               Bm</cifra><p> </p><cifra class=\"cifra\">                        Bm          F#     Bm</cifra><p>               Em                 F# Bm</p><cifra class=\"cifra\">                   Em                   F#    Bm</cifra><p>                       F#                            Bm</p><cifra class=\"cifra\"> </cifra><p>                          D                            Bm</p><cifra class=\"cifra\">                   Em                   F#    Bm</cifra><p>                    Em                  F#       Bm</p><cifra class=\"cifra\">                 F#                       Bm</cifra>"
+    },
+    {
+      "id": "3481",
+      "numero": 22,
+      "titulo": "Luz de Cristal",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Cristalino é o elo de nossa corrente\nDe Cristal é a força da nossa união\nO Cristal que torna a vida resplandecente\nCristalino é o brilho de nosso coração\n\nO Cristal que reluz na água da cachoeira\nO Cristal que reflete nas ondas do Mar\nÉ o espelho que acaba com qualquer fronteira\nÉ o Cristal que revela a consciência do amar\n\nNo brilho do Cristal vamos nos elevando\nE com os anjos surfando nas ondas da Luz\nCom todos passarinhos nos acompanhando\nE quem abre os caminhos é o Mestre Jesus\n\nNesta viagem tão longa rumo ao infinito\nEntregues nós seguimos na Luz de Cristal\nÓ Santo Pai Nosso que estais no Céu\nNos mostrai a Verdade e livrai-nos do mal",
+      "conteudoCifrado": "<cifra class=\"cifra\">         Bm                              Em</cifra><p>                      A                          D </p><cifra class=\"cifra\">   D                    Bm           B7           Em</cifra><p>                      F#                           Bm</p><cifra class=\"cifra\"> </cifra><p>        Bm                                          Em</p><cifra class=\"cifra\">                         A                           D </cifra><p>   D                    Bm            B7                Em</p><cifra class=\"cifra\">                          F#                                Bm</cifra><p> </p><cifra class=\"cifra\">        Bm                                       Em</cifra><p>                             A                            D </p><cifra class=\"cifra\">   D                    Bm           B7           Em</cifra><p>                        F#                           Bm</p><cifra class=\"cifra\"> </cifra><p>         Bm                                         Em</p><cifra class=\"cifra\">                            A                            D </cifra><p>   D              Bm           B7           Em</p><cifra class=\"cifra\">                      F#                                 Bm</cifra>"
+    },
+    {
+      "id": "3483",
+      "numero": 23,
+      "titulo": "O Observador",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Silenciar para poder observar\nObservando para poder aprender\nE aprender que é somente nos amando, \nperdoando e ensinando a Trindade do Saber\nSanto Poder que nos revela o Esplendor \ndos mistérios mais profundos para um novo Renascer\n\nDe pena em pena vamos nos regenerar\nAlçando vôo pra batalha triunfar\nCom a Luz do Sol iluminando os caminhos \npara poder livremente nas asas da Águia voar\nO Infinito é o ponto que nos aguarda,\ndai-nos força e coragem sem ter pena de viver\n\nDaqui de cima vejo tudo a clarear\nA vida, a morte nada tenho a temer\nMeu Jesus Cristo dai Vossa Santa Pureza, \nNo coração a Nobreza e o Amor Resplandecer\nEu juro a Vós sempre espalhar essa semente \nconstruindo um mundo novo firmado em vosso Poder",
+      "conteudoCifrado": "<cifra class=\"cifra\">          D              F#           Bm</cifra><p>         B7                                 Em</p><cifra class=\"cifra\">            Em               A                D</cifra><p>        Bm            C#m7(b5)     F#             D D7</p><cifra class=\"cifra\">             Em                 A                   D</cifra><p>           Bm                  C#m7(b5)           F#             Bm</p><cifra class=\"cifra\"> </cifra><p>                   D                 F#           Bm</p><cifra class=\"cifra\">              B7                           Em</cifra><p>                     Em          A                D</p><cifra class=\"cifra\">        Bm            C#m7(b5)    F#                   D D7</cifra><p>        Em             A                    D</p><cifra class=\"cifra\">           Bm         C#m7(b5)           F#           Bm</cifra><p> </p><cifra class=\"cifra\">               D              F#           Bm</cifra><p>            B7                                Em</p><cifra class=\"cifra\">                 Em                A                D</cifra><p>        Bm          C#m7(b5)     F#                   D   D7</p><cifra class=\"cifra\">             Em                       A                   D</cifra><p>           Bm                  C#m7(b5)           F#             Bm</p>"
+    },
+    {
+      "id": "3497",
+      "numero": 24,
+      "titulo": "Limpeza",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "E vem limpando, vem limpando\nOs Urubus vem cá limpar\nTodo o resto de carne podre\nOs abutres vem devorar\n\nCada emoção sentida\nDesolada, reprimida\nQue lhe impedem de cantar\nFicaram no passado\nSorridente e bem curado\nO seu coração está\n\nE que todas as correntes\nQue amedrontam nossa mente\nPossam desaparecer\nNa limpeza dos Exus\nDos abutres, Urubus\nVão todas se dissolver\n\nE vem curando, vem curando\nE tudo limpinho está\nO Salão está brilhando\nPara a Luz aqui reinar\n\nE que todos os seus vícios\nSe transforme em virtudes\nPara a vida cultivar\nQue com todos os teus recursos\ntu construas uma ponte \nFirme para atravessar\n\nE que de ponte e ponte\nTu consigas alcançar\nO propósito dessa Vida\nBeber da àgua da fonte\nExplorar mares e montes\nCurar todas as feridas\n\nCurar todas as feridas\nCurar todas as feridas\nCurar todas as feridas",
+      "conteudoCifrado": "<cifra class=\"cifra\">A7                                   Dm</cifra><p>                                 A7</p><cifra class=\"cifra\">                                   Gm</cifra><p>                         Dm       D7</p><cifra class=\"cifra\"> </cifra><p>                           Gm</p><cifra class=\"cifra\"></cifra><p>                                       A7 Bb7 A7</p><cifra class=\"cifra\">                      Bb</cifra><p>                                A7</p><cifra class=\"cifra\">                           Dm  D7</cifra><p> </p><cifra class=\"cifra\">                            Gm</cifra><p></p><cifra class=\"cifra\">                           A7 Bb7 A7 </cifra><p>                          Bb</p><cifra class=\"cifra\">                         A7</cifra><p>                            Dm          A7</p><cifra class=\"cifra\"> </cifra><p>A7                                Dm</p><cifra class=\"cifra\">                            A7</cifra><p>                         Gm</p><cifra class=\"cifra\">                            Dm       D7</cifra><p> </p><cifra class=\"cifra\">                              Gm</cifra><p></p><cifra class=\"cifra\">                         A7 Bb7 A7 </cifra><p>                                       Bb</p><cifra class=\"cifra\">                             A7</cifra><p>                            Dm  D7</p><cifra class=\"cifra\"> </cifra><p>                          Gm</p><cifra class=\"cifra\"></cifra><p>                              A7 Bb7 A7 </p><cifra class=\"cifra\">                             Bb</cifra><p>                             A7</p><cifra class=\"cifra\">                           Dm          A7</cifra><p> </p><cifra class=\"cifra\">                           Dm</cifra><p></p><cifra class=\"cifra\">                           Bb  A7</cifra>"
+    },
+    {
+      "id": "3498",
+      "numero": 25,
+      "titulo": "Perdão",
+      "autor": "Heitor Siso ",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Vim falar sobre o o Perdão\nPodes dar uma trégua\nAo seu coração\n\nDe que vale tomar o veneno\nNa mera ilusão\nQue o outro irá sofrer\nSe podes seguir brando, liberto\nE com peito aberto\nPara aprender\n\nComo passarinho a voar\nO que foi, já foi\nNão vai mais voltar\n\nTua mochila vê se descarrega\nE sente o teu orgulho\nTodo virar pó\nSó o perdão deixa tua cruz mais leve\nE te permite alcançar\nO Pai Maior",
+      "conteudoCifrado": "<cifra class=\"cifra\">Bm          F#                 Bm</cifra><p>                        Em </p><cifra class=\"cifra\">F#              Bm</cifra><p> </p><cifra class=\"cifra\">            D                     Em</cifra><p>                  F#</p><cifra class=\"cifra\">                           B7</cifra><p>        Em                            D</p><cifra class=\"cifra\">                     F#</cifra><p>                 Bm</p><cifra class=\"cifra\"> </cifra><p>Bm             F#           Bm</p><cifra class=\"cifra\">                   Em</cifra><p>F#                    Bm</p><cifra class=\"cifra\"> </cifra><p>           D                         Em</p><cifra class=\"cifra\">                        F#</cifra><p>               B7</p><cifra class=\"cifra\">           Em                                  D</cifra><p>                    F#</p><cifra class=\"cifra\">             Bm</cifra>"
+    },
+    {
+      "id": "3499",
+      "numero": 26,
+      "titulo": "Flor",
+      "autor": "Heitor Siso ",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Toda dor que eu carreguei no peito\nPouco a pouco tornou-se uma flor\nDesvelando e despetalando\nDescobrindo todo esse primor\n\nPrimorosamente se apresenta\nA beleza toda se acender\nMinha Mãe vós me dá os ensinos\nMe abraça e vem me acolher\n\nTransformada toda dor no Amor\nEu agradeço a Santa Maria\nCom seu grande amigo Beija-Flor\nPreencheu minha vida toda de alegria",
+      "conteudoCifrado": "<cifra class=\"cifra\">        Bm                     F#         Bm</cifra><p>             D                                F#</p><cifra class=\"cifra\">        Bm             F#   Bm</cifra><p>        D                  F#         Bm</p><cifra class=\"cifra\"> </cifra><p>        Bm                  F#      Bm</p><cifra class=\"cifra\">       D                       F#</cifra><p>        Bm                     F#    Bm</p><cifra class=\"cifra\">        D                       F#   Bm</cifra><p> </p><cifra class=\"cifra\">             Bm           F#        Bm</cifra><p>            D                       F#</p><cifra class=\"cifra\">              Bm                 F#   Bm</cifra><p>                           D             F#      Bm</p>"
+    },
+    {
+      "id": "3500",
+      "numero": 27,
+      "titulo": "Colheita",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Canto para sempre\nSeguirmos em frente \nConfiando  \nQue aqui\nO Amor que vai reinar\n\nNo belo jardim da vida\nPlante o que quer colher\nSomos livres\nLiberdade\nPara livres ser\n\nLivre vou voando\nNa luz me firmando\nChamo a Força\nA Força chega\nPara nos mostrar\n\nTodo primor e a beleza\nPara a nós revelar\nComo é belo \nO dom da Vida\nE o dom de semear\n\nPlantando as sementes\nFlores reluzentes\nSempre em boa \nCompanhia\nConvido a provar\n\nEste saboroso fruto\nDo néctar do Conhecimento\nAo infinito\nE além\nViajo na nave do tempo",
+      "conteudoCifrado": "<cifra class=\"cifra\">                     F#</cifra><p></p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\">                      Bm</cifra><p> </p><cifra class=\"cifra\">Bm </cifra><p>                             Dm/B</p><cifra class=\"cifra\">C#m7(b5)</cifra><p>F#</p><cifra class=\"cifra\">C#m7(5b) F# Bm</cifra><p> </p><cifra class=\"cifra\">                  F#</cifra><p></p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\">                    Bm</cifra><p> </p><cifra class=\"cifra\">Bm </cifra><p>                      Dm/B</p><cifra class=\"cifra\">           C#m7(b5)</cifra><p>   F#</p><cifra class=\"cifra\"> C#m7(b5)  F#  Bm</cifra><p> </p><cifra class=\"cifra\">                        F#</cifra><p></p><cifra class=\"cifra\"></cifra><p></p><cifra class=\"cifra\">                   Bm</cifra><p> </p><cifra class=\"cifra\">Bm </cifra><p>                                Dm/B</p><cifra class=\"cifra\">    C#m7(b5)</cifra><p>   F#</p><cifra class=\"cifra\"> C#m7(b5) F#      Bm</cifra>"
+    },
+    {
+      "id": "3501",
+      "numero": 28,
+      "titulo": "O Mestre me Chamou",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Sob os seus desígnios\nResplandece o meu Ser Ígneo\nSobe o Fogo do Espírito\nMe chamou, Mestre Irineu\n\nPara explanar a Verdade\nA esta humanidade\nQue afogada nas Trevas \nMuito se afastou de Deus\n\nO Mestre me chamou \nE eu vim pra Trabalhar\nO Mestre me chamou \nE eu vim pra Trabalhar\n\nCravar no coração\nPoder de amar e perdoar\nZelar a Santa Doutrina \nPra todos testemunhar\n\nCom o Divino em pensamento\nPermito o Desprendimento\nPara o Sagrado Momento\nDe me encontrar com Deus\n\nCom a nossa Mãe Rainha\nJesus Cristo Redentor\nCom todos Seres Divinos \nE o Mestre São Irineu\n\nAqui eu vou expor\nPara todo mundo ver\nAqui eu vou expor\nPara todo mundo ver\n\nQuem aqui nessa Terra \nEstá cansado de sofrer\nTem de se render a Deus\nE fazer por bem merecer",
+      "conteudoCifrado": "<cifra class=\"cifra\">                       Bm</cifra><p>            F#                     Bm</p><cifra class=\"cifra\">        F#                 Bm</cifra><p>                                  C#7</p><cifra class=\"cifra\"> </cifra><p>                        Em</p><cifra class=\"cifra\">A                     Em</cifra><p>                          F#</p><cifra class=\"cifra\">                               Bm</cifra><p> </p><cifra class=\"cifra\">                          Bm</cifra><p>       F#                  Bm</p><cifra class=\"cifra\">                          Bm</cifra><p>       F#                  Bm</p><cifra class=\"cifra\"> </cifra><p>                       Em</p><cifra class=\"cifra\">               A                  D</cifra><p>        Bm              Em</p><cifra class=\"cifra\">         F#               Bm</cifra><p> </p><cifra class=\"cifra\">                                    Bm</cifra><p>            F#                Bm</p><cifra class=\"cifra\">          F#               Bm</cifra><p>                                  C#7</p><cifra class=\"cifra\"> </cifra><p>                           Em</p><cifra class=\"cifra\">         A                 Em</cifra><p>                          F#</p><cifra class=\"cifra\">                           Bm</cifra><p> </p><cifra class=\"cifra\">                     Bm</cifra><p>       F#                Bm</p><cifra class=\"cifra\">                      Bm</cifra><p>       F#                Bm</p><cifra class=\"cifra\"> </cifra><p>                          Em</p><cifra class=\"cifra\">            A               D</cifra><p>         Bm              Em</p><cifra class=\"cifra\">         F#               Bm</cifra>"
+    },
+    {
+      "id": "3502",
+      "numero": 29,
+      "titulo": "Olhar Interior",
+      "autor": "Heitor Siso ",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Tudo rodeado em olhos\nOlho cá, Olho lá\nOlho em todo lugar\nOlho para Deus Pai\nOnde eu hei de alcançar\n\nPara sempre, Sempre observando\nOlho cá, Olho lá\nOlho em todo Lugar\nO Sagrado Mistério\nEstá a observar\n\nNo infinito os olhos vêem tudo\nOlham cá, Olham lá\nOlham todo lugar\nOlham todo valor \nQue tu tens para dar\n\nEntão mostra todo o seu valor\nSe amar, respeitar\nSaber se aceitar\nObservar os pontos\nPara se lapidar\n\nCom todas virtudes e primores\nCorrigir, construir\nO seu Divino ser\nE saber que na vida\nSempre há mais a aprender\n\nEterno humilde aprendiz\nOlho cá, olho lá\nOlho em todo Lugar\nSou a Luz do Universo\nEu sou tudo o que há",
+      "conteudoCifrado": "<cifra class=\"cifra\">Bm       F#            Bm</cifra><p>        D    </p><cifra class=\"cifra\">             A       F# Bm</cifra><p>                        Em</p><cifra class=\"cifra\">             F#                Bm</cifra><p> </p><cifra class=\"cifra\">Bm       F#            Bm</cifra><p>        D    </p><cifra class=\"cifra\">             A       F# Bm</cifra><p>                        Em</p><cifra class=\"cifra\">             F#                Bm</cifra><p> </p><cifra class=\"cifra\">Bm       F#            Bm</cifra><p>        D    </p><cifra class=\"cifra\">             A       F# Bm</cifra><p>                        Em</p><cifra class=\"cifra\">             F#                Bm</cifra><p> </p><cifra class=\"cifra\">Bm       F#            Bm</cifra><p>        D    </p><cifra class=\"cifra\">             A       F# Bm</cifra><p>                        Em</p><cifra class=\"cifra\">             F#                Bm</cifra><p> </p><cifra class=\"cifra\">Bm       F#            Bm</cifra><p>        D    </p><cifra class=\"cifra\">             A       F# Bm</cifra><p>                        Em</p><cifra class=\"cifra\">             F#                Bm</cifra><p> </p><cifra class=\"cifra\">Bm       F#            Bm</cifra><p>        D    </p><cifra class=\"cifra\">             A       F# Bm</cifra><p>                        Em</p><cifra class=\"cifra\">             F#                Bm</cifra>"
+    },
+    {
+      "id": "3503",
+      "numero": 30,
+      "titulo": "Salão Dourado",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Fui recebido pelo Dono do Poder\nDivino convite recebi para entrar\nAdentro em silêncio\nE me ponho ajoelhado\nA vós no Trono Dourado\nEternamente irei honrar\n\nPara subir e chegar até aqui\nTantas provações tive de passar\nA dor eu conquistei\nComo grande aliada\nE o deserto atravessei\nAndando com Fé e mais nada\n\nTantas virtudes desvelaram-se no Ser\nPoderosas fazem o coração pulsar\nDa gaivota\nEu herdei toda a destreza\nDas penas brancas do Mestre\nSanto dom de Perdoar\n\nNeste caminho eu agradeço a quem me guia\nSeres divinos, Passarinhos, Rouxinol\nÁguia dourada\nTransforma medo em coragem\nSeguir voando a viagem\nIrradiante como o Sol\n\nEu já vos disse e vou dizer mais uma vez\nQue nada simples foi chegar aonde estou\nSou grato e honro a toda Guarnição\nExu, Urubu\nSão Miguel\nCom a Espada na Mão\n\nEu já vos disse não canso de repetir\nMuita humildade ao adentrar neste Salão\nCoração puro\nPara encontrar com o Mestre\nAbrir os portões do Céu\nCom a Santa Chave nas mãos\n\nChave Dourada foi meu Mestre quem me deu\nE o acesso ao Pai Maior me confiou\nA Vós eu juro\nTodo amor e Lealdade\nPara em seu Reino Dourado\nEu ser um Trabalhador",
+      "conteudoCifrado": "<cifra class=\"cifra\">           Am                             C</cifra><p>                G        Dm            E       </p><cifra class=\"cifra\">                      Dm</cifra><p>         G             C</p><cifra class=\"cifra\">         Am               Bm7(b5)</cifra><p>          E7                 Am  </p><cifra class=\"cifra\"> </cifra><p>           Am                       C</p><cifra class=\"cifra\">                   G     Dm          E       </cifra><p>               Dm</p><cifra class=\"cifra\">      G               C</cifra><p>         Am              Bm7(b5)</p><cifra class=\"cifra\">        E7                        Am  </cifra><p> </p><cifra class=\"cifra\">           Am                                    C</cifra><p>       G                   Dm            E       </p><cifra class=\"cifra\">         Dm</cifra><p>         G                  C</p><cifra class=\"cifra\">         Dm                  Bm7(b5)</cifra><p>          E7               Am  </p><cifra class=\"cifra\"> </cifra><p>            Am                                            C</p><cifra class=\"cifra\">             G              Dm                E       </cifra><p>               Dm</p><cifra class=\"cifra\">             G                    C</cifra><p>         Am             Bm7(b5)</p><cifra class=\"cifra\">      E7                 Am  </cifra><p> </p><cifra class=\"cifra\">              Am                                     C</cifra><p>                G                   Dm               E       </p><cifra class=\"cifra\">                  Dm        G                C</cifra><p>      Am</p><cifra class=\"cifra\">       Bm7(b5)</cifra><p>          E7             Am  </p><cifra class=\"cifra\"> </cifra><p>              Am                              C</p><cifra class=\"cifra\">                  G                Dm                G       </cifra><p>             Dm</p><cifra class=\"cifra\">            G                   G</cifra><p>         Am               Bm7(b5)</p><cifra class=\"cifra\">          E7                      Am  </cifra><p> </p><cifra class=\"cifra\">                Am                                          C</cifra><p>        G                    Dm            E       </p><cifra class=\"cifra\">              Dm</cifra><p>         G              C</p><cifra class=\"cifra\">            Am               Bm7(b5)</cifra><p>          E7               Am  </p>"
+    },
+    {
+      "id": "4007",
+      "numero": 31,
+      "titulo": "Capricórnio ",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Todas lembranças do passado\nDas memórias de um lugar atemporal\nVozes que sussurram aos ouvido\nVem nos recordar o que é real\nPara evoluir nesta Viagem\nTirar da bagagem todo mal\n\nQuantos calabouços nós passamos\nQue serviram para aprender\nQue dor com dor e tanto sofrimento \nNós não devemos permanecer\nDai-nos Força e Misericórdia \nPara aprendermos a viver\n\nNessa vida o Senhor Tempo é Rei\nO que foi não voltará a ser\nSeus mistérios nós poucos sabemos\nAinda que simples de perceber\nDiante toda essa impermanência \nPrecisamos é deixar morrer\n\nVamos deixar morrer essas doenças \nVamos deixar morrer a depressão \nEspantar todo o mal toda a tristeza\nEliminar de ver a ilusão \nE Renascer em nossa Santa Essência \nBrilhar na plena luz fa Redenção \n\nPeço a Deus saúde e alegria\nPaz e firmeza em nosso caminhar\nCom o coração de vida\nPulsando todo amor eu quero amar\nCom fé que quando chegar a partida\nEsse rastro irá perpetuar \n\n\n",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "4008",
+      "numero": 32,
+      "titulo": "Renascer",
+      "autor": "Heitor Siso ",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Recomeçar se levantar reaprender\nA caminhar sair do ninho a voar\nVoa de encontro ao vosso Divino Ser\nDivina Luz que está por ti a esperar\n\nPodes sorrir, a tempestade já passou\nPodes cantar, um novo dia já raiou\nPodes voar, e dizer sim para a vida\nPodes abrir o seu peito para o Amor\n\nO seu passado virou poeira no tempo\nE o presente é o presente que te dou\nNeste presente eu entrego uma semente\nPara zelar e cultivar este primor\n\nPodes sorrir, a tempestade já passou\nPodes cantar, um novo dia já raiou\nPodes voar, e dizer sim para a vida\nPodes abrir o seu peito para o Amor\n",
+      "conteudoCifrado": ""
+    }
+  ]
+}

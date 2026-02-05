@@ -1,0 +1,230 @@
+{
+  "hinario": {
+    "nome": "Harmonia Cósmica",
+    "slug": "harmonia-cosmica",
+    "autor": "Zé Ricardo",
+    "totalHinos": 20
+  },
+  "hinos": [
+    {
+      "id": "348",
+      "numero": 1,
+      "titulo": "Harmonia Cósmica",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Vamos fechar a corrente\nE vamos todos se elevar\nA Harmonia Cósmica\nAgora irá reinar\n\nCom Jesus e a Virgem Mãe\nO Mestre Juramidam\nCom o Padrinho Sebastião\nSeus filhos e seus irmãos\n\nSinta agora essa alegria\nOh, meu Deus, quanta beleza!\nSalve o Mestre Francisco\nCom seu povo de nobreza\n\nSalve os pontos de Luz\nQue se unem sobre a Terra\nPreparando os seus discípulos\nPra viver a Nova Era\n\nSalve o meu Pai Oxalá\nSalve Ogum da Beira-Mar\nSalve a linha de Umbanda\nDa Rainha Iemanjá\n\nViva a Mãe e Aurobindo\nE Masaharu Taniguchi\nViva Buda, Viva Krishna\nViva Gandhi e o Dalai Lama\n\nSalve unidiversidade\nSalve universalidade\nOnde Deus Se manifesta\nÉ Amor, Luz, Eternidade\n\nUm com todos os irmãos\nPara sempre, um com o Amor\nUm com Deus e o Universo\nUm rebanho, um só Pastor",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "349",
+      "numero": 2,
+      "titulo": "Liberdade",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Agora mais que nunca\nEu não dou valor ao mal\nPorque estou com Deus\nE como Deus não tem ninguém\n\nEu posso escolher\nDeus nos deu a liberdade\nEu não semeio vento\nPra não colher tempestade\n\nJá fomos perdoados\nPra que tanta confusão?\nVamos viver em harmonia\nE firmeza no coração\n\nDeixo esse mundo velho\nVou viver no meio das flores\nDou viva à floresta\nViva o amor e a nossa festa!",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "350",
+      "numero": 3,
+      "titulo": "A vossa glória completa ninguém viu",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Firmado no infinito\nVá além do horizonte\nSuba ao alto dos céus\nConte todas as estrelas\n\nDeus é ainda maior\nQue tudo o que se vê\nÉ com muita humildade\nQue se vai conhecendo\n\nSem alterar a palavra\nDa Doutrina Universal:\nAmar a Deus sobre tudo\nAo próximo, como a si mesmo\n\nAmor, amor, amor\nA toda essa grandeza\nAmor, amor, amor, amor\nA essa diversidade\n\nSeguindo nesta linha\nOs nós são tão pequenos\nE ainda se enrolam os tolos\nComo os velhos fariseus\n\nNão se prenda em coisa à toa\nNão limite o infinito\nNem queira parar o tempo\nVai caminhando com ele",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "351",
+      "numero": 4,
+      "titulo": "Hino das Crianças",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu sou é bem pequenininho\nMas eu fiz os meus estudos\nPor isso eu passei de série\n\nHoje eu sou bem mais educado\nTrato a todos os meus irmãos\nCom amor e com cuidado\n\nNessa escola de Jesus\nUso bem meu caderninho\nNão quero alterar um til\n\nMuito cuidado\nCom a nota da alteração\nAltera uns quinhentos til\nQuem agride o seu irmão\n\nNessa escola espiritual\nQuem não aprende a multiplicar\nComeça a diminuir\n\nE o que fazemos,\nSeja do bem ou do mal\nÉ medido lá no Alto\nE tudo nos retorna igual\n\nMas quem anda bem direitinho\nRecebe muitos carinhos\nDe Mamãe e de Papai\n\nVive rodeado de estrelas\nÉ querido e estimado\nNo meio dessa família\nÉ muito leve, pode voar bem alto\nTem o perfume das rosas,\nPaz , Amor e Harmonia",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "352",
+      "numero": 5,
+      "titulo": "Eterno momento",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Aqui, agora, eu sou feliz\nAqui, agora, eu tenho paz\nAqui, agora, em harmonia\nAqui, agora, eu vejo Deus\nEm tudo e em todo lugar\n\nSou todo agradecimento\nAqui ou em qualquer lugar\nAgora é o eterno momento\nJunto ao nosso Pai Criador\nPra sempre amor e luz eu sou",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "353",
+      "numero": 6,
+      "titulo": "Simplicidade",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Simplicidade, que é para chegar\nJunto à Mãe Verdadeira\nSimplicidade, caminho da pureza\nQue eleva à Luz\n\nVamos nós ao Vosso Reino\nDeixando as muletas e as confusões\nDessa vida, só levamos\nO brilho do amor em nossos corações",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "354",
+      "numero": 7,
+      "titulo": "Passarinho de Cristal",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Passarinho cantou\nO povo se alegrou\nQue esse passarinho\nVem trazendo amor\n\nVem passarinho\nVoando pelo salão\nPassarinho de cristal\nPousa no meu coração\n\nPassarinho cantou\nO povo se alegrou\nQue esse passarinho\nÉ de Nosso Senhor\n\nEspírito Santo\nQue faz tudo iluminar\nJá não tem Sol, não tem Lua\nO Seu brilho é Divinal\nMais lindo que um arco-íris\nTanta luz, tanta beleza\nQue ninguém viu nessa Terra\nSão as cores do astral\n\nÉ zum zum zum\nZum zum zum zum zum zum êêê\nÉ zum zum zum\nZum zum zum zum zum zum ááá",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "355",
+      "numero": 8,
+      "titulo": "A lição",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "O Passarinho que aqui pousou\nEle vem trazendo uma lição\nQue o conforto do mundo é morte\nAproxima-te dos teus irmãos\n\nTudo o mais que Ele tem pra dizer\nEstá escrito na caridade\nAonde estão aqueles que sofrem\nPassa o caminho da eternidade\n\nÉ aonde está a cura\nDe cada um, dentro do coração\nChegue bem perto do teu irmão\nAbra os ouvidos e o coração\n\nSe livrando do egoísmo\nRepartindo o amor e o pão\nRecebe as bênçãos do Pai Eterno\nE da Virgem da Conceição",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "356",
+      "numero": 9,
+      "titulo": "Filho de Deus",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Não vá cair\nCaiu, levantou\nQue eu sou filho de Deus\nO Rei da Criação\n\nPorque eu já tomei\nA minha decisão\nO meu caminho é para a Luz\nE dele não saio não\n\nFilho... Nunca dê valor ao mal\nQue por si mesmo se destrói\nE siga sempre o seu caminho\n\nVá... Afirme eternamente a paz\nPerdoe sempre os seus irmãos\nQue é pra também ser perdoado\n\nFirme... Pise bem firme no chão\nPonha amor no coração\nE fé na Luz que vem chegando",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "357",
+      "numero": 10,
+      "titulo": "Graças a Deus",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Sou forte, graças a Deus\nTenho brilho, eu tenho Luz\nPorque em primeiro lugar:\nA missão de Jesus\n\nPode me pedir\nQue eu terei pra dar\nSempre meu Pai me deu\nNunca há de me faltar\n\nConsagramos o aposento\nDesta casa, com verdade\nPorque aqui se obedece\nA Deus, que está presente\n\nOh meu Pai, Te agradeço\nPela Tua presença\nVivo e me movo por Ti\nEu vivo em Tua vida\n\nVida, verdade, saúde\nProsperidade e paz\nSabedoria, alegria\nAmor pro mundo inteiro",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "358",
+      "numero": 11,
+      "titulo": "Força do Sol",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Calando nas ofensas\nFecha-se pra todo mal\nRetornando com amor\nRecebe a força do Sol\n\nRecebendo e doando\nO Amor Universal\nCom meu Pai e minha Mãe\nSou um, sou um, eu sou",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "359",
+      "numero": 12,
+      "titulo": "Levanta-te e anda",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Levanta-te e anda\nA ordem vem de Jesus\nVamos ver se agora acerta\nO caminho dessa Luz\n\nSe livre dos maus costumes\nFaça esforço de chegar\nMelhor que te dar um peixe\nÉ te ensinar a pescar\n\nChegando nessa família\nAcabou-se o sofrimento\nEstá sob o lindo manto\nDa sempre Virgem Maria\n\nA união tem santas leis\nQue é preciso obedecer\nMas eu digo com certeza:\nNós aqui vamos vencer\n\nLevanta-te e anda\nA ordem vem de Jesus\nVamos ver se agora acerta\nO caminho dessa Luz",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "360",
+      "numero": 13,
+      "titulo": "Só com Deus posso viver",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Ao amanhecer do dia\nEu peço ao meu Criador\nPara com todos os seres\nEu ser sempre puro amor\n\nNo pino do meio dia\nEu retorno ao meu Senhor\nPeço que me reabasteça\nCom Seu infinito amor\n\nChegou seis horas da tarde\nHora da Ave Maria\nPeço e rogo a minha Mãe\nSeja sempre a minha Guia\n\nAgorinha eu já me deito\nMe lembrando de Papai\nQue eu só posso viver\nDebaixo do Seu Poder",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "361",
+      "numero": 14,
+      "titulo": "Primosia",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Eu tomo Daime\nÉ para estar com Deus\nEu tomo Daime\nPara me ligar ao Divino\n\nEm silêncio\nPorque Deus já sabe tudo\nBem quietinho\nPorque Deus já me conhece\nNão peço nada\nQue Deus sabe o que eu preciso\nNão peço nada\nQue Deus sabe o que é preciso\n\nEu tomo Daime\nÉ para estar com Deus\nEu tomo Daime\nPara me ligar ao Divino\n\nSó quero\nPara sempre estar com Deus\nBem juntinho de Papai e de Mamãe\nAgradecer\n\nTanto amor\nToda esta primosia\nQue recebo neste dia\nQuero sempre merecer",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "362",
+      "numero": 15,
+      "titulo": "Mestre Amor Juramidam",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Viva o Mestre, viva o Mestre!\nRei de toda humildade\nViva o Mestre, viva o Mestre!\nRei Carinho, Rei Bondade\n\nEste é o verdadeiro Mestre\nO Mestre que eu encontrei\n\nPara encontrar o Mestre\nNão tem tempo nem distância\nEle está a toda hora\nDentro da simplicidade\nDo mais puro e santo amor\n\nViva o Mestre, viva o Mestre!\nRei de toda humildade\nViva o Mestre, viva o Mestre!\nRei Carinho, Rei Bondade\n\nEste é o verdadeiro Mestre\nMestre Amor Juramidam\n\nMestre veio anunciar\nNovo tempo aqui está\nPra quem ama e sabe amar\nDeve agora bem seguir\nNa estrada do amor",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "363",
+      "numero": 16,
+      "titulo": "Benção da Casa",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Em nome do Pai, do Filho e do Espírito Santo\nEu vou limpando e defumando\nTodos os seres são bem-vindos pra ajudar\nVamos limpar e harmonizar\n\nQue o salão é da Rainha\nE deve ser preparado com carinho\nA harmonia começa em cada um\nCom paz e amor no coração\n\nLimpando tudo aquilo que não serve mais\nVou colocando cada coisa em seu lugar\nJunto ao Cruzeiro, oito rosas pra Iemanjá\nE viva a Rainha do Mar!\n\nSeu Sete Flechas e os caboclos curadores\nTrazem as essências da floresta\nDoces perfumes, fina alfazema\nPaz e alegria pra nossa festa\n\nRespiro luz, paz, amor, tranqüilidade\nA nossa casa só tem bondade\nPois já estamos na estrada do amor\nE falta pouco para chegar",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "364",
+      "numero": 17,
+      "titulo": "A cura na Terra",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "O Mestre já nos dizia\nNo mundo se cura tudo\nManda agora eu repetir\nPara todos entender\nNo mundo se cura tudo\nVamos todos nos curar\n\nPara poder se curar\nÉ preciso acreditar\nNo poder de Deus do Céu\nQue na Terra também está\n\nPerseverando a procura\nCom fé, certo irá encontrar\nO amor aqui na Terra\nO Poder aonde está\n\nNão viver na solidão\nSer um com os seus irmãos\nAprender a só usar\nAs coisas que são de Deus\n\nÉ abrir o coração\nPara poder aprender\nPois na Terra já se encontram\nOs Anjos ensinadores\nCada um na sua matéria\nEnsinando as coisas boas",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "365",
+      "numero": 18,
+      "titulo": "Amor, Paz e Harmonia",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Oh Pai,\nAfastai de mim o que não for amor\nE tudo aquilo que não for pureza\nE tudo mais que não seja verdade\n\nE habitai\nA minha mente, olhos, coração\nMinhas palavras e minhas ações\nEternamente nossa união\n\nVirgem Maria,\nPapai do Céu, esta é minha família\nPara sempre quero merecer\nEsta união, amor, paz, harmonia\n\nAmor\nPaz, harmonia\nLuz\nShanti",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "366",
+      "numero": 19,
+      "titulo": "Rumo à Luz",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Subir, subir, subir\nNós precisamos subir\nNessa escada do amor\nEm nosso interior\n\nSubir, subir, subir\nAté o Pai Criador\n\nSubir, subir, subir\nAssim como os girassóis\nProcurando pela Luz\nSe voltando para o Sol\n\nVai seguindo a luz Dourada\nCurando o seu coração\n\nSubir, subir, subir\nSe livrando da ilusão\nTendo a todos perdoado\nEsquecendo a opinião\n\nSe rendendo à verdade\nDo Senhor da Criação\n\nSubir, subir, subir\nOnde só chegam as almas\nEm silêncio e humildade\nAspirando a claridade\n\nClara Luz e Santa Paz\nDo coração de Jesus\nA pureza e a harmonia\nDo coração de Maria",
+      "conteudoCifrado": ""
+    },
+    {
+      "id": "367",
+      "numero": 20,
+      "titulo": "Sagrado Silêncio",
+      "autor": "Pad. Zé Ricardo",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Sagrado Silêncio\nSagrado Refúgio\nSagrada Fonte\nDe amor e luz\n\nSagrado vazio\nSagrado infinito\nOnde está tudo\nO que é mais sagrado\n\nSuprema realidade\nSagrado Pai, Sagrada Mãe\nSuprema realidade\nEterno Pai, Eterna Mãe\n\nSagrado silêncio",
+      "conteudoCifrado": ""
+    }
+  ]
+}

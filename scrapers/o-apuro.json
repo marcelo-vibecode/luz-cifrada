@@ -1,0 +1,296 @@
+{
+  "hinario": {
+    "nome": "O Apuro",
+    "slug": "o-apuro",
+    "autor": "Francisco Grangeiro Filho",
+    "totalHinos": 26
+  },
+  "hinos": [
+    {
+      "id": "3979",
+      "numero": 1,
+      "titulo": "Precisa se trabalhar",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Precisa se trabalhar\nPara todos aprender\nA virgem mãe me disse\nQue é preciso ter amor\n\nÉ preciso ter amor\nE gravar no coração\nCom fé no pai eterno\nE no meu Juramidã\n\nO meu Juramidã\nNos ensina é com amor\nPara nós ir um dia\nAonde está o salvador",
+      "conteudoCifrado": "<cifra class=\"cifra\">         D       A7     D</cifra><p>         A7               D</p><cifra class=\"cifra\">    G                       D</cifra><p>               Em    A7     D </p><cifra class=\"cifra\"> </cifra><p>         D     A7     D</p><cifra class=\"cifra\">        A7               D</cifra><p>        G               D</p><cifra class=\"cifra\">          Em    A7     D </cifra><p> </p><cifra class=\"cifra\">      D       A7   D</cifra><p>           A7                  D</p><cifra class=\"cifra\">    G                   D</cifra><p>              Em   A7     D </p>"
+    },
+    {
+      "id": "3980",
+      "numero": 2,
+      "titulo": "Jesus Cristo Redentor",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Jesus Cristo Redentor\nFilho da Virgem Maria\nÉ quem nos da todo conforto\nE nesta casa é quem nos guia\n\nMinha Mãe minha Rainha\nDona de todo poder\nÉ quem ensina o nosso Mestre\nPara ele nos defender\n\nE com os raios do sol\nEle é quem clareia o dia\nCom o poder do pai eterno\nE da sempre Virgem Maria",
+      "conteudoCifrado": "<cifra class=\"cifra\">           Dm     A7     Dm</cifra><p>          F       Gm      A7</p><cifra class=\"cifra\">                  Gm               F</cifra><p>              A7                       Dm</p><cifra class=\"cifra\"> </cifra><p>           Dm        A7   Dm</p><cifra class=\"cifra\">          F     Gm     A7</cifra><p>                Gm                  F</p><cifra class=\"cifra\">         A7                Dm</cifra><p> </p><cifra class=\"cifra\">          Dm   A7      Dm</cifra><p>             F        Gm     A7</p><cifra class=\"cifra\">               Gm               F</cifra><p>                A7                 Dm</p>"
+    },
+    {
+      "id": "3981",
+      "numero": 3,
+      "titulo": "O Nosso Mestre nos ensina",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Nosso Mestre nos ensina\nPara nós bem aprender\nNa terra e no astral\nÉ quem pode nos defender\n\nNosso Mestre nos ensina\nCom amor no coração\nÉ quem implora ao pai eterno\nPela nossa salvação\n\nNosso Mestre nos ensina\nCom prazer e alegria\nQue é para nós conhecer\nO poder da Virgem Maria\n\nA Rainha da Floresta\nFoi quem veio nos amostrar\nO poder que o Mestre tem\nAqui para nos ensinar\n\nEu imploro e peço e rogo\nA meu Mestre Ensinador\nQue me dê bons seguimentos\nNeste mundo pecador",
+      "conteudoCifrado": "<cifra class=\"cifra\">             D        A        D    </cifra><p>          G                  F#m</p><cifra class=\"cifra\">      G                 Bm</cifra><p>                 Em      A7       D</p><cifra class=\"cifra\"> </cifra><p>             D        A        D    </p><cifra class=\"cifra\">             G             F#m</cifra><p>                   G                 Bm</p><cifra class=\"cifra\">        Em     A7     D</cifra><p> </p><cifra class=\"cifra\">             D        A        D    </cifra><p>              G           F#m</p><cifra class=\"cifra\">              G                 Bm</cifra><p>             Em      A7        D</p><cifra class=\"cifra\"> </cifra><p>       D       A       D    </p><cifra class=\"cifra\">                G                  F#m</cifra><p>         G                       Bm</p><cifra class=\"cifra\">        Em          A7    D</cifra><p> </p><cifra class=\"cifra\">           D         A        D    </cifra><p>              G                 F#m</p><cifra class=\"cifra\">              G                   Bm</cifra><p>            Em      A7    D</p>"
+    },
+    {
+      "id": "3982",
+      "numero": 4,
+      "titulo": "Conforto",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Vós me dê o vosso conforto\nPara mim poder vencer\nQue o poder de Deus é grande\nÉ para todo mundo ver\n\nÉ para todo mundo vê\nAqueles que acreditar\nQue o mestre que nos ensina\nEle tem força divinal\n\nEle tem força divinal\nE tem poder superior\nQuem lhe deu foi nossa mãe\nE o nosso pai criador\n\nMeu mestre a vós eu lhe peço\nPelo poder desta sessão\nPara vós não me desprezar\nE não desprezar meus irmãos",
+      "conteudoCifrado": "<cifra class=\"cifra\">             D         A7        D</cifra><p>Bm    Em      A7         D</p><cifra class=\"cifra\">              Bm      D          F#m</cifra><p>   G     Em     A7       D</p><cifra class=\"cifra\"> </cifra><p>           D       A7       D</p><cifra class=\"cifra\">Bm    Em         A7    D</cifra><p>           Bm       D          F#m</p><cifra class=\"cifra\">  G  Em  A7     D</cifra><p> </p><cifra class=\"cifra\">             D       A7    D</cifra><p>   Bm     Em      A7   D</p><cifra class=\"cifra\">                Bm       D       F#m</cifra><p>   G     Em     A7       D</p><cifra class=\"cifra\"> </cifra><p>             D         A7        D</p><cifra class=\"cifra\">Bm    Em      A7         D</cifra><p>              Bm       D          F#m</p><cifra class=\"cifra\">   G     Em     A7       D</cifra>"
+    },
+    {
+      "id": "3983",
+      "numero": 5,
+      "titulo": "A Escola",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Jesus Cristo Redentor\nÉ quem nos dá estes ensinos\nMais a virgem mãe divina\nE o nosso Mestre Ensinador\n\nEu vou seguir neste caminho\nPorque desejo aprender\nA doutrina de Jesus Cristo\nPara vós me socorrer\n\nEstou aqui nesta escola\nDo meu Mestre Ensinador\nPara vós me ensinar\nQue é para eu ter outro valor\n\nEsta escola é de Deus\nÉ de Jesus Cristo Redentor\nÉ da sempre Virgem Maria\nE do meu Mestre Ensinador",
+      "conteudoCifrado": "<cifra class=\"cifra\">            D       A7      D</cifra><p>                   Bm   B7      Em</p><cifra class=\"cifra\">            G                    A</cifra><p>                 Em          A7   D</p><cifra class=\"cifra\"> </cifra><p>                 D       A7      D</p><cifra class=\"cifra\">               Bm   B7      Em</cifra><p>            G                    A</p><cifra class=\"cifra\">        Em        A7   D</cifra><p> </p><cifra class=\"cifra\">             D       A7      D</cifra><p>               Bm        B7    Em</p><cifra class=\"cifra\">        G                 A</cifra><p>                       Em      A7     D</p><cifra class=\"cifra\"> </cifra><p>        D       A7      D</p><cifra class=\"cifra\">                   Bm   B7      Em</cifra><p>               G                    A</p><cifra class=\"cifra\">                 Em          A7   D</cifra>"
+    },
+    {
+      "id": "3984",
+      "numero": 6,
+      "titulo": "Primeira Viagem",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Mazurca",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Eu fiz uma viagem\nQue meu general mandou\nPara eu ir a floresta\nDo nosso pai criador\n\nQuando eu cheguei na mata\nComecei a trabalhar\nChegou um trapaceiro\nQuerendo me carregar\n\nMe valei do Pai Eterno\nE de Jesus Cristo Redentor\nDa Rainha da Floresta\nSão eles meus protetores\n\nDou viva ao Pai eterno\nE ao nosso Juramidã\nE a Rainha da Floresta\nE ao general nosso irmão",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Bm         D</cifra><p>          F#                       Bm</p><cifra class=\"cifra\">   Em                Bm</cifra><p>       F#              Bm  (B7)   </p><cifra class=\"cifra\"> </cifra><p>            Bm                   D</p><cifra class=\"cifra\">      F#                 Bm</cifra><p>      Em                Bm</p><cifra class=\"cifra\">       F#              Bm  (B7)   </cifra><p> </p><cifra class=\"cifra\">     Bm                 D</cifra><p>                  F#                Bm</p><cifra class=\"cifra\">     Em                Bm</cifra><p>       F#                     Bm  (B7)   </p><cifra class=\"cifra\"> </cifra><p>       Bm               D</p><cifra class=\"cifra\">        F#                Bm</cifra><p>      Em                Bm</p><cifra class=\"cifra\">        F#                     Bm  (B7)   </cifra>"
+    },
+    {
+      "id": "3985",
+      "numero": 7,
+      "titulo": "Eu sigo com o meu Mestre",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Eu sigo com o meu mestre\nSem a nada eu temer\nQue ele traz de lá do astral\nE apresenta para nós ver\n\nEle entra no astral\nE reconhece o poder divino\nE apresenta em nossas vistas\nPara nós tomar um outro destino",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Bm   F#               Bm     </cifra><p>            B7             Em</p><cifra class=\"cifra\">               G                     Bm</cifra><p>           F#7                 Bm</p><cifra class=\"cifra\"> </cifra><p>  Bm    F#        Bm     </p><cifra class=\"cifra\">             B7                   Em</cifra><p>           G                        Bm</p><cifra class=\"cifra\">                   F#7                    Bm</cifra>"
+    },
+    {
+      "id": "3986",
+      "numero": 8,
+      "titulo": "Segunda Viagem",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Eu fiz uma viagem\nEncontrei a Virgem Maria\nEla estava ensinando\nE ninguém não estava ligando\n\nAí transformou-se uma luta\nJá vi grande rebeldia\nEu vi o mundo escurecendo\nE o povo esmorecendo\n\nContinuei a viagem\nDentro da escuridão\nQuando eu cheguei no claro\nVi o mundo incendiando\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Bm          D</cifra><p>               F#                Bm</p><cifra class=\"cifra\">         D            C#m7(b5)</cifra><p>                   F#               Bm</p><cifra class=\"cifra\"> </cifra><p>            Bm                    D</p><cifra class=\"cifra\">         F#                Bm</cifra><p>             D                 C#m7(b5)</p><cifra class=\"cifra\">      F#               Bm</cifra><p> </p><cifra class=\"cifra\">         Bm        D</cifra><p>            F#            Bm</p><cifra class=\"cifra\">             D                    C#m7(b5)</cifra><p>        F#                 Bm</p><cifra class=\"cifra\"> </cifra>"
+    },
+    {
+      "id": "3987",
+      "numero": 9,
+      "titulo": "Centenário",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Mandei ver um centenário\nNo cruzeiro universal\nPara todos nós cantar\nEm louvor do festival\n\nIsto é mudança de voz\nPara quem quiser cantar\nEsta divina doutrina\nPara todos nós chegar\n\nEu sigo nesta estrada\nÉ com amor no meu coração\nPara entrar no palácio\nDo nosso Juramidã",
+      "conteudoCifrado": "<cifra class=\"cifra\"> Bm            F#           Bm</cifra><p> Bm        B7          Em</p><cifra class=\"cifra\"> G                          Bm</cifra><p> F#                        Bm</p><cifra class=\"cifra\"> </cifra><p>Bm          F#           Bm</p><cifra class=\"cifra\">Bm             B7          Em</cifra><p>G                     Bm</p><cifra class=\"cifra\">F#                         Bm</cifra><p> </p><cifra class=\"cifra\">Bm       F#           Bm</cifra><p> Bm        B7                    Em</p><cifra class=\"cifra\"> G                        Bm</cifra><p> F#                     Bm</p>"
+    },
+    {
+      "id": "3988",
+      "numero": 10,
+      "titulo": "Eu peço ao Meu Pai",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu peço ao meu Pai\nQue queira me perdoar\nVós me dê vosso conforto\nPara eu poder alcançar\n\nEu peço ao meu Mestre\nEm nome de Jesus\nQue queira me perdoar\nE vós nos dê a nossa saúde\n\nEu peço ao meu Mestre\nE a Virgem da Conceição\nQue queira me abençoar\nE me tirar da ilusão\n\nA ilusão é tão terrível\nNinguém pode dominar\nPeço a vós que me ajude\nDela eu quero me livrar",
+      "conteudoCifrado": "<cifra class=\"cifra\">      D7                 G</cifra><p>              A                D</p><cifra class=\"cifra\">             Bm              Em    </cifra><p>              A7              D</p><cifra class=\"cifra\"> </cifra><p>      D7                 G</p><cifra class=\"cifra\">       A                D</cifra><p>             Bm              Em    </p><cifra class=\"cifra\">                A7                D</cifra><p> </p><cifra class=\"cifra\">      D7                 G</cifra><p>             A                  D</p><cifra class=\"cifra\">             Bm              Em    </cifra><p>            A7            D</p><cifra class=\"cifra\"> </cifra><p>        D7                G</p><cifra class=\"cifra\">         A                       D</cifra><p>             Bm              Em    </p><cifra class=\"cifra\">               A7                D</cifra>"
+    },
+    {
+      "id": "3989",
+      "numero": 11,
+      "titulo": "Preste Atenção",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Preste atenção\nPreste atenção\nAo dono desta casa\nQue é o Senhor Juramidã\n\nSenhor Juramidã\nDono deste poder\nVós faça de mim\nO que eu merecer",
+      "conteudoCifrado": "<cifra class=\"cifra\">  Dm    A7   Dm</cifra><p> Em7(b5)  A7 Dm</p><cifra class=\"cifra\">     Gm             Dm</cifra><p>              A            A7   Dm</p><cifra class=\"cifra\"> </cifra><p>     Dm     A7   Dm</p><cifra class=\"cifra\">   Em7(b5)  A7 Dm</cifra><p>Gm              Dm</p><cifra class=\"cifra\">           A   A7   Dm</cifra>"
+    },
+    {
+      "id": "3990",
+      "numero": 12,
+      "titulo": "Eu estava trabalhando",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Eu estava trabalhando\nQuando uma voz me falou\nEu preciso de você\nPara um trabalho superior\n\nAí eu me corrigi\nE para vós eu respondi\nCom a vossa proteção\nSempre assim eu sou feliz\n\nSegue em frente meu irmão\nSofremos com alegria\nPorque esta disciplina\nÉ do reino da soberania\n\nA Rainha e o nosso Mestre\nÉ que vem disciplinar\nO que não quiser sofrer\nÉ só a ele se humilhar\n\nSegui meus passos em frente\nE com esta voz encontrei\nAqui eu digo para todos\nQue meus trabalhos findei\n\nTreme a terra e geme o mar\nE eu não saio do meu lugar\nPorque o Mestre e a Rainha\nFoi quem veio me entregar",
+      "conteudoCifrado": "<cifra class=\"cifra\">        Am    E       Am</cifra><p>                 C                Bm7(b5)</p><cifra class=\"cifra\">          E             E7</cifra><p>            Bm7(b5)       E7 Am  </p><cifra class=\"cifra\"> </cifra><p>    Am      E      Am</p><cifra class=\"cifra\">           C                  Bm7(b5)</cifra><p>           E                 E7</p><cifra class=\"cifra\">             Bm7(b5)  E7     Am  </cifra><p> </p><cifra class=\"cifra\">                Am       E       Am</cifra><p>           C                Bm7(b5)</p><cifra class=\"cifra\">             E             E7</cifra><p>           Bm7(b5)  E7  Am  </p><cifra class=\"cifra\"> </cifra><p>       Am         E        Am</p><cifra class=\"cifra\">          C                Bm7(b5)</cifra><p>           E                   E7</p><cifra class=\"cifra\">        Bm7(b5) E7    Am  </cifra><p> </p><cifra class=\"cifra\">     Am          E               Am</cifra><p>              C                Bm7(b5)</p><cifra class=\"cifra\">              E             E7</cifra><p>            Bm7(b5)   E7      Am  </p><cifra class=\"cifra\"> </cifra><p>             Am        E           Am</p><cifra class=\"cifra\">               C                    Bm7(b5)</cifra><p>                 E                  E7</p><cifra class=\"cifra\">          Bm7(b5)    E7       Am  </cifra>"
+    },
+    {
+      "id": "3991",
+      "numero": 13,
+      "titulo": "Esta bebida que está na Terra",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Esta bebida que está na terra\nFoi Deus do céu foi quem mandou\nPara ela nos ensinar\nPor nosso Mestre ensinador\n\nVamos todos se firmar\nEm que o mestre nos deixou\nPara todos nós chegar\nCom alegria e com amor\n\nEsta bebida é o Daime\nQue o nosso mestre nos dá\nPara todos nós tomar\nPara chegar onde ele está\n\nNosso mestre nos recebe\nCom amor e alegria\nNo palácio imperial\nJunto com a Virgem Maria\n\nIsto eu digo é porque vi\nQue o meu mestre me mostrou\nQue ele veio nos ensinar\nÉ com firmeza e com amor\n\nNo palácio do império\nTem uma luz resplandecente\nÉ quem recebe os vossos filhos\nCom os três reis do oriente",
+      "conteudoCifrado": "<cifra class=\"cifra\">           G              </cifra><p>                    D                      </p><cifra class=\"cifra\">          A</cifra><p>                   D                   D7</p><cifra class=\"cifra\"> </cifra><p>           G              </p><cifra class=\"cifra\">                    D                      </cifra><p>          A</p><cifra class=\"cifra\">              D                   D7</cifra><p> </p><cifra class=\"cifra\">           G              </cifra><p>                D                      </p><cifra class=\"cifra\">         A</cifra><p>               D                   D7</p><cifra class=\"cifra\"> </cifra><p>           G              </p><cifra class=\"cifra\">             D                      </cifra><p>          A</p><cifra class=\"cifra\">                D                   D7</cifra><p> </p><cifra class=\"cifra\">            G              </cifra><p>                    D                      </p><cifra class=\"cifra\">             A</cifra><p>                D                   D7</p><cifra class=\"cifra\"> </cifra><p>         G              </p><cifra class=\"cifra\">                D                      </cifra><p>                 A</p><cifra class=\"cifra\">                    D              D7</cifra>"
+    },
+    {
+      "id": "3992",
+      "numero": 14,
+      "titulo": "O Jagube",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "O Jagube está aí\nÉ para todos ter amor\nPara poder conhecer\nO nosso pai criador\n\nA Folha chegou a tempo\nEla vem mostrar seu valor\nPara nos levar a presença\nDo nosso Mestre Ensinador\n\nO cipó a folha e água\nSe junta toda a harmonia\nPara nos levar a presença\nDa sempre Virgem Maria\n\nEstou aqui pra ti ajudar\nProcurar saber quem é\nAí é um filho de Deus\nDe Jesus Maria e José\n\nFique aqui vá trabalhar\nE não me negue aos seus irmãos\nQuem está dizendo sou eu\nÉ o velho Juramidã",
+      "conteudoCifrado": "<cifra class=\"cifra\">                      A7</cifra><p>                             Dm</p><cifra class=\"cifra\">                            A7</cifra><p>                         Dm</p><cifra class=\"cifra\"> </cifra><p>                           A7</p><cifra class=\"cifra\">                                    Dm</cifra><p>                               A7</p><cifra class=\"cifra\">                                      Dm</cifra><p> </p><cifra class=\"cifra\">                         A7</cifra><p>                                  Dm</p><cifra class=\"cifra\">                               A7</cifra><p>                                   Dm</p><cifra class=\"cifra\"> </cifra><p>                                A7</p><cifra class=\"cifra\">                                  Dm</cifra><p>                          A7</p><cifra class=\"cifra\">                              Dm</cifra><p> </p><cifra class=\"cifra\">                               A7</cifra><p>                                            Dm</p><cifra class=\"cifra\">                                     A7</cifra><p>                         Dm</p>"
+    },
+    {
+      "id": "3993",
+      "numero": 15,
+      "titulo": "Chamei, chamei",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Chamei, chamei, chamei\nChamei a força chegou\nO mal que tinha em mim\nO Daime veio e me curou\n\nVou seguindo e vou cantando\nE nunca deixo de cantar\nNa terra e no céu\nSempre estou em meu lugar\n\nSempre estou em meu lugar\nPronto para trabalhar\nO mestre e a rainha\nFoi quem veio me ensinar\n\nFoi quem veio me ensinar\nPara eu poder compreender\nQue o nosso presidente\nEle é quem tem o poder\n\nEle é quem tem o poder\nMas não querem acreditar\nAs ordens que ele der\nNinguém pode desmanchar",
+      "conteudoCifrado": "<cifra class=\"cifra\">       Am          E         Am</cifra><p>            E7                Am </p><cifra class=\"cifra\">     Am                     Bm7(b5)</cifra><p>          E7                     Am</p><cifra class=\"cifra\"> </cifra><p>          Am          E          Am</p><cifra class=\"cifra\">              E7                Am </cifra><p>Am                 Bm7(b5)</p><cifra class=\"cifra\">                 E7                    Am</cifra><p> </p><cifra class=\"cifra\">                Am          E        Am</cifra><p>            E7               Am </p><cifra class=\"cifra\">     Am              Bm7(b5)</cifra><p>               E7                 Am</p><cifra class=\"cifra\"> </cifra><p>               Am         E      Am</p><cifra class=\"cifra\">             E7                      Am </cifra><p>          Am             Bm7(b5)</p><cifra class=\"cifra\">          E7                    Am</cifra><p> </p><cifra class=\"cifra\">         Am           E       Am</cifra><p>               E7                   Am </p><cifra class=\"cifra\">     Am                    Bm7(b5)</cifra><p>               E7                    Am</p>"
+    },
+    {
+      "id": "3994",
+      "numero": 16,
+      "titulo": "Terceira Viagem",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Eu entrei numa viagem\nEm uma estrada sem fim\nEncontrei com meu Mestre e pedi\nPara ele ter pena de mim\n\nEle aí me respondeu\nMeu filho vamos trabalhar\nAqui só merece quem tem\nQuem não tem Deus é quem dá\n\nAí eu me conformei\nPedi pra ele me curar\nEle me olhou e disse\nSe firme no seu lugar",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Am     E         Am</cifra><p>     Am       E               Am</p><cifra class=\"cifra\">           Am                  E              C</cifra><p> Bm7(b5)      E           Am</p><cifra class=\"cifra\"> </cifra><p>     Am     E         Am</p><cifra class=\"cifra\">       Am         E               Am</cifra><p>  Am           E                C</p><cifra class=\"cifra\"> Bm7(b5)           E                  Am</cifra><p> </p><cifra class=\"cifra\">     Am     E         Am</cifra><p>    Am       E            Am</p><cifra class=\"cifra\"> Am     E            C</cifra><p>Bm7(b5)  E            Am</p>"
+    },
+    {
+      "id": "3995",
+      "numero": 17,
+      "titulo": "A Morada do Meu Pai",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "E",
+      "letraPura": "A morada do meu pai\nPara mim é um primor\nAqui não existe escravo\nE nem um do outro é senhor\n\nAs fortunas são iguais\nTodos tem uma só cor\nE para o dono daqui\nDinheiro não tem valor\n\nIsso eu digo para ti\nE tu cantar para os teus irmãos\nQue a morada do meu pai\nÉ para todos os seus irmãos",
+      "conteudoCifrado": "<cifra class=\"cifra\">         E      B           E         </cifra><p>         B                 G#m</p><cifra class=\"cifra\">         C#m             G#m</cifra><p>                F#m        B7       E</p><cifra class=\"cifra\"> </cifra><p>          E        B       E         </p><cifra class=\"cifra\">           B                G#m</cifra><p>         C#m          G#m</p><cifra class=\"cifra\">          F#m     B7       E</cifra><p> </p><cifra class=\"cifra\">             E      B     E         </cifra><p>             B                           G#m</p><cifra class=\"cifra\">              C#m              G#m</cifra><p>           F#m        B7         E</p>"
+    },
+    {
+      "id": "3996",
+      "numero": 18,
+      "titulo": "Pula pra ali pula pra cá",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "O mundo está se embalançando\nA coisa começa a esquentar\nA muito tempo eu avisei\nQue o mundo vai se embalançar\n\nSó há uma solução\nÉ todos de joelhos a rezar\nO Daime vem do reino de Deus\nE tudo tem que modificar\n\nMas é preciso se corrigir\nE veja aonde é que vai ficar\nPula pra li pula pra cá\nEu te coloco no teu lugar\n\nEstando no seu lugar\nPisa firme, vamos trabalhar\nAqueles que estiver comigo\nEu tenho força para lhe da\n\nMeu Mestre a vós eu lhe peço\nPor vosso divino poder\nPeço que vós me segure\nE não me deixe eu esmorecer",
+      "conteudoCifrado": "<cifra class=\"cifra\">                  Dm</cifra><p>            A7                      Dm</p><cifra class=\"cifra\">              A                 F#m</cifra><p>                      Em         A7      D</p><cifra class=\"cifra\"> </cifra><p>         Dm</p><cifra class=\"cifra\">             A7                 Dm</cifra><p>                A                       F#m</p><cifra class=\"cifra\">            Em             A7   D</cifra><p> </p><cifra class=\"cifra\">               Dm</cifra><p>            A7                     Dm</p><cifra class=\"cifra\">              A             F#m</cifra><p>            Em         A7      D</p><cifra class=\"cifra\"> </cifra><p>        Dm</p><cifra class=\"cifra\">            A7                      Dm</cifra><p>                    A              F#m</p><cifra class=\"cifra\">               Em       A7        D</cifra><p> </p><cifra class=\"cifra\">                  Dm</cifra><p>                A7           Dm</p><cifra class=\"cifra\">           A                 F#m</cifra><p>                Em             A7      D</p>"
+    },
+    {
+      "id": "3997",
+      "numero": 19,
+      "titulo": "Eu vim para esta Casa",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Eu vim para esta casa\nMeu mestre foi quem me mandou\nEmbora ninguém acredite\nMas a vossa embaixada eu dou\n\nÉ preciso trabalhar\nE deixar esta ilusão\nEm querer Deus só pra si\nE não olhar para os seus irmãos\n\nMeu mestre a vós eu lhe peço\nPara vós me ensinar\nNa casa da mãe divina\nCom vós eu quero lá chegar\n\nÉ preciso se firmar\nCom amor no coração\nNa casa da Mãe Divina\nTe darei o santo perdão\n\nEu recebi este hino\nMeu mestre foi quem me ensinou\nPara mim e os meus irmãos\nAqueles que tiverem amor",
+      "conteudoCifrado": "<cifra class=\"cifra\">    Dm      F           A</cifra><p>         Dm             A7                Dm</p><cifra class=\"cifra\">    Gm                         Dm</cifra><p>     Em7(b5)           A7          Dm  (D7)</p><cifra class=\"cifra\"> </cifra><p>   Dm    F            A</p><cifra class=\"cifra\">    Dm       A7      Dm</cifra><p>       Gm                       Dm</p><cifra class=\"cifra\">        Em7(b5)      A7             Dm  (D7)</cifra><p> </p><cifra class=\"cifra\">          Dm          F              A</cifra><p>   Dm       A7        Dm</p><cifra class=\"cifra\">     Gm                 Dm</cifra><p>       Em7(b5)     A7          Dm  (D7)</p><cifra class=\"cifra\"> </cifra><p>   Dm    F           A</p><cifra class=\"cifra\">       Dm     A7        Dm</cifra><p>     Gm                 Dm</p><cifra class=\"cifra\">   Em7(b5)  A7         Dm  (D7)</cifra><p> </p><cifra class=\"cifra\">     Dm   F         A</cifra><p>         Dm             A7               Dm</p><cifra class=\"cifra\">  Gm                             Dm</cifra><p>   Em7(b5)     A7            Dm  (D7)</p>"
+    },
+    {
+      "id": "4005",
+      "numero": 20,
+      "titulo": "O Apuro",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Eu entrei num apuro\nCom vontade de vencer\nTomei um pouco de Daime\nComecei a esmorecer\n\nMe vali do meu Mestre\nE da Virgem da Conceição\nO presidente chegou\nE alegrou meu coração\n\nEle disse vamos, vamos\nNós vamos seguir em frente\nQue o fluído do Daime\nÉ força do Onipotente\n\nÉ com calma e com amor\nQue nós havemos de vencer\nNosso mestre está no Daime\nPronto pra nos socorrer",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Dm      A7      Dm</cifra><p>              F      A         Dm</p><cifra class=\"cifra\">          Gm                 Dm</cifra><p>         A                  Dm (D7)</p><cifra class=\"cifra\"> </cifra><p>      Dm       A7     Dm</p><cifra class=\"cifra\">              F      A         Dm</cifra><p>       Gm               Dm</p><cifra class=\"cifra\">           A                 Dm (D7)</cifra><p> </p><cifra class=\"cifra\">     Dm      A7      Dm</cifra><p>             F         A         Dm</p><cifra class=\"cifra\">          Gm           Dm</cifra><p>    A                   Dm (D7)</p><cifra class=\"cifra\"> </cifra><p>          Dm         A7      Dm</p><cifra class=\"cifra\">                 F          A                Dm</cifra><p>            Gm                   Dm</p><cifra class=\"cifra\">             A                 Dm (D7)</cifra>"
+    },
+    {
+      "id": "3999",
+      "numero": 21,
+      "titulo": "Festa de Aniversário",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Eu procurei esta casa\nMeu mestre me abraçou\nMe deu o meu seguimento\nPara adiante eu ter valor\n\nTrabalhei, bem trabalhei\nMuito tenho que trabalhar\nPara sempre para sempre\nPara sempre se lembrar\n\nMe apresentei ao meu mestre\nUm presente ele me deu\nEste hino de aniversário\nPara eu amar ao senhor Deus\n\nQuando eu sair deste mundo\nPara junto de Mamãe eu vou\nPrestar conta dos ensinos\nQue meu mestre me ensinou\n\nMeus irmãos e minhas irmãs\nPeço que rogue a Deus por mim\nNeste mundo eu não sou nada\nNo outro eu quero ter um bom fim\n\nTerminei o meu hinário\nQue meu mestre me ordenou\nPise firme e siga em frente\nDentro desta casa estou",
+      "conteudoCifrado": "<cifra class=\"cifra\">     Dm     A7         Dm   D7     </cifra><p>         Gm                  Dm</p><cifra class=\"cifra\">      Gm                      Dm</cifra><p>    Em7(b5)    A7          Dm               </p><cifra class=\"cifra\"> </cifra><p>    Dm       A7           Dm    D7</p><cifra class=\"cifra\">     Gm                         Dm</cifra><p>   Gm                     Dm</p><cifra class=\"cifra\">  Em7(b5)  A7          Dm               </cifra><p> </p><cifra class=\"cifra\">         Dm    A7               Dm      D7</cifra><p>           Gm                 Dm</p><cifra class=\"cifra\">       Gm                 Dm</cifra><p>       Em7(b5)  A7            Dm               </p><cifra class=\"cifra\"> </cifra><p>            Dm   A7          Dm        D7</p><cifra class=\"cifra\">        Gm                          Dm</cifra><p>      Gm                    Dm</p><cifra class=\"cifra\">     Em7(b5)    A7             Dm               </cifra><p> </p><cifra class=\"cifra\">         Dm          A7          Dm     D7  </cifra><p>    Gm                                  Dm</p><cifra class=\"cifra\">     Gm                             Dm</cifra><p>    Em7(b5)        A7                    Dm               </p><cifra class=\"cifra\"> </cifra><p>     Dm    A7         Dm        D7</p><cifra class=\"cifra\">        Gm                          Dm</cifra><p>   Gm                          Dm</p><cifra class=\"cifra\">    Em7(b5)  A7          Dm               </cifra>"
+    },
+    {
+      "id": "4000",
+      "numero": 22,
+      "titulo": "Estou aqui com todo amor",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "G",
+      "letraPura": "Estou aqui com todo amor\nPerdoai-me senhor\nOs crimes que eu cometi\nAo meu Mestre Ensinador\n\nTodos os meus irmãos pediram\nMeu mestre ordenou\nPronto aqui estou de volta\nCantando com todo amor\n\nO Jagube perguntou\nA folha respondeu\nO trabalho foi pesado\nMas a batalha venceu\n\nÉ com Daime e com amor\nPara a batalha vencer\nProcura pra todo o lado\nE tem que terminar mais eu\n\nFiquei cheio de alegria\nQuando isto aconteceu\nSou teu Mestre Ensinador\nE quem te domina sou eu",
+      "conteudoCifrado": "<cifra class=\"cifra\">                                  G</cifra><p>                         Am</p><cifra class=\"cifra\">                                     D</cifra><p>                                   G</p><cifra class=\"cifra\"> </cifra><p>                                       G</p><cifra class=\"cifra\">                           Am</cifra><p>                                   D</p><cifra class=\"cifra\">                                   G</cifra><p> </p><cifra class=\"cifra\">                           G</cifra><p>                       Am</p><cifra class=\"cifra\">                           D</cifra><p>                              G</p><cifra class=\"cifra\"> </cifra><p>                                    G</p><cifra class=\"cifra\">                            Am</cifra><p>                               D</p><cifra class=\"cifra\">                                         G</cifra><p> </p><cifra class=\"cifra\">                               G</cifra><p>                             Am</p><cifra class=\"cifra\">                                     D</cifra><p>                                    G</p>"
+    },
+    {
+      "id": "4001",
+      "numero": 23,
+      "titulo": "Festinha",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bm",
+      "letraPura": "Cheguei num salão\nDo nosso pai criador\nEstava numa grande festa\nDando viva e louvor\n\nCasou Francisco\nCasou João casou Maria\nTodos dentro do reinado\nDa sempre Virgem Maria\n\nCom tudo isso\nA festa continuou\nTodos dentro do salão\nDo nosso pai criador\n\nDançava pai dançava mãe\nDançava filho\nTodos dentro do salão\nDa Sempre Virgem Maria\n\nCom tudo isso\nA festa continuou\nTodos dentro do salão\nDo nosso pai criador",
+      "conteudoCifrado": "<cifra class=\"cifra\">                        F#</cifra><p>                          Bm</p><cifra class=\"cifra\">                                 Em</cifra><p>           F#          Bm</p><cifra class=\"cifra\"> </cifra><p>                 F#</p><cifra class=\"cifra\">                              Bm</cifra><p>                              Em</p><cifra class=\"cifra\">             F#                Bm</cifra><p> </p><cifra class=\"cifra\">                F#</cifra><p>                       Bm</p><cifra class=\"cifra\">                             Em</cifra><p>           F#            Bm</p><cifra class=\"cifra\"> </cifra><p>               F#</p><cifra class=\"cifra\">                 Bm</cifra><p>                             Em</p><cifra class=\"cifra\">             F#                 Bm</cifra><p> </p><cifra class=\"cifra\">                F#</cifra><p>                       Bm</p><cifra class=\"cifra\">                             Em</cifra><p>            F#           Bm</p>"
+    },
+    {
+      "id": "4002",
+      "numero": 24,
+      "titulo": "Amigo",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "A coisa melhor do mundo\nÉ possuir um amigo\nO mestre está ensinando\nA todos os seus inimigos\n\nQuem for inimigo do Daime\nQue venha se apresentar\nA corrente está aberta\nPara aqueles que procurar\n\nEle fechando a corrente\nNinguém pode mais entrar\nEstou dizendo para todos\nQue quiserem acreditar",
+      "conteudoCifrado": "<cifra class=\"cifra\">     D        A              D   D7</cifra><p>    G                F#m</p><cifra class=\"cifra\">    G             A          D</cifra><p>    F#m       Em         D    (D7)</p><cifra class=\"cifra\"> </cifra><p>           D         A           D   D7</p><cifra class=\"cifra\">        G                     F#m</cifra><p>    G           A          D</p><cifra class=\"cifra\">          F#m      Em          D    (D7)</cifra><p> </p><cifra class=\"cifra\">  D        A              D   D7</cifra><p>        G                        F#m</p><cifra class=\"cifra\">    G            A           D</cifra><p>        F#m        Em      D    (D7)</p>"
+    },
+    {
+      "id": "4003",
+      "numero": 25,
+      "titulo": "Objetivo",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Mirando encontrei um amigo\nComigo veio conversar\nO enfeite da casa dos outros\nA tua não pode enfeitar\n\nO pouco com Deus é muito\nDeus é quem tem pra nos dar\nSempre trabalhando com Deus\nTudo pode se alcançar\n\nO Mestre está ensinando\nAqueles que procurar\nQuem não procurar não vê\nE nada pode alcançar\n\nAlcançando o seu objetivo\nCapriche e vá trabalhar\nO fim dos tempos está próximo\nE muitos vem se apresentar\n\nQuando esta estrela brilhar\nMuitos não vão aguentar\nDá vontade de correr\nE começar a chorar\n\nO chorar não adianta\nO remédio é se controlar\nTer calma fé e amor\nPara poder alcançar\n",
+      "conteudoCifrado": "<cifra class=\"cifra\">    Am               C            Bm7(b5)</cifra><p>      E                        Am</p><cifra class=\"cifra\">        Dm       F               Am          </cifra><p> Bm7(b5)   E             Am</p><cifra class=\"cifra\"> </cifra><p>    Am       C              Bm7(b5)</p><cifra class=\"cifra\">         E                             Am</cifra><p>        Dm           F               Am          </p><cifra class=\"cifra\">  Bm7(b5) E           Am</cifra><p> </p><cifra class=\"cifra\">     Am        C         Bm7(b5)</cifra><p>      E                    Am</p><cifra class=\"cifra\">           Dm       F             Am          </cifra><p> Bm7(b5)  E           Am</p><cifra class=\"cifra\"> </cifra><p>        Am               C     Bm7(b5)</p><cifra class=\"cifra\">      E                        Am</cifra><p>    Dm        F                  Am          </p><cifra class=\"cifra\"> Bm7(b5)            E          Am</cifra><p> </p><cifra class=\"cifra\">            Am        C        Bm7(b5)</cifra><p>        E                       Am</p><cifra class=\"cifra\">     Dm    F            Am          </cifra><p> Bm7(b5)  E        Am</p><cifra class=\"cifra\"> </cifra><p>    Am       C       Bm7(b5)</p><cifra class=\"cifra\">          E                     Am</cifra><p>      Dm      F        Am          </p><cifra class=\"cifra\">  Bm7(b5)  E        Am</cifra><p> </p>"
+    },
+    {
+      "id": "4004",
+      "numero": 26,
+      "titulo": "Santo Daime",
+      "autor": "Francisco Grangeiro Filho",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "O Santo Daime está aí\nÉ para todos nós tomar\nO Santo Daime é um primor\nPara quem sabe apreciar\n\nNão sabendo apreciar\nQuase não adianta tomar\nPassa por cima de tudo\nE nada pode alcançar\n\nAntiguidade não é riqueza\nAntiguidade não é saber\nDe que serve antiguidade\nE não saber compreender\n\nA firmeza é muito boa\nSem firmeza não se vai\nSe não tiver firmeza\nDaqui da terra não sai",
+      "conteudoCifrado": "<cifra class=\"cifra\">             Am         E  Am</cifra><p>            E                  Am      </p><cifra class=\"cifra\">               C                   Bm7(b5)</cifra><p>                  E7            Am </p><cifra class=\"cifra\"> </cifra><p>          Am         E  Am</p><cifra class=\"cifra\">                    E             Am      </cifra><p>           C               Bm7(b5)</p><cifra class=\"cifra\">       E7                 Am </cifra><p> </p><cifra class=\"cifra\">            Am         E      Am</cifra><p>             E                  Am      </p><cifra class=\"cifra\">             C                 Bm7(b5)</cifra><p>           E7                    Am </p><cifra class=\"cifra\"> </cifra><p>         Am        E     Am</p><cifra class=\"cifra\">               E               Am      </cifra><p>      C                 Bm7(b5)</p><cifra class=\"cifra\">          E7                Am </cifra>"
+    }
+  ]
+}

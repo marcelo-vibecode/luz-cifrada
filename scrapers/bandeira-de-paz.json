@@ -1,0 +1,175 @@
+{
+  "hinario": {
+    "nome": "Bandeira de Paz",
+    "slug": "bandeira-de-paz",
+    "autor": "Percília Matos da Silva",
+    "totalHinos": 15
+  },
+  "hinos": [
+    {
+      "id": "2361",
+      "numero": 1,
+      "titulo": " Nosso Mestre nos Ensina",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F",
+      "letraPura": "Nosso mestre nos ensina\nNós devemos aprender\nA doutrina do divino\nComo nós devemos ser\n\nNós devemos aprender\nCom fé e alegria\nPara sermos eternamente\nFilhos da virgem Maria",
+      "conteudoCifrado": "<cifra class=\"cifra\">             F         C       F</cifra><p>           Dm               Gm</p><cifra class=\"cifra\">         Bb            C</cifra><p>           C7                  F</p><cifra class=\"cifra\"> </cifra><p>            F        C         F</p><cifra class=\"cifra\">        Dm       Gm</cifra><p>         Bb                    C</p><cifra class=\"cifra\">          C7                  F</cifra>"
+    },
+    {
+      "id": "2362",
+      "numero": 2,
+      "titulo": " Nós Temos Nosso Mestre",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Nós temos nosso mestre\nEle é quem nos ensina\nPor que é que não se ama\nEsta verdadeira doutrina\n\nEle nos ensina é com amor\nÉ com prazer e alegria\nE quem manda ele ensinar\nÉ a sempre virgem Maria\n\nJesus Cristo redentor\nFoi quem lhe deu esta missão\nPara ele nos guiar\nNo caminho da salvação\n\nSe todos nós procurar\nTodos nós temos de encontrar\nQue todos estes ensinos\nÉ para o nosso bem estar.",
+      "conteudoCifrado": "<cifra class=\"cifra\">       Dm</cifra><p>      F                     Gm</p><cifra class=\"cifra\">            Bb</cifra><p>             A                 Dm</p><cifra class=\"cifra\"> </cifra><p>         Dm</p><cifra class=\"cifra\">                 F           Gm</cifra><p>                  Bb</p><cifra class=\"cifra\">             A                  Dm</cifra><p> </p><cifra class=\"cifra\">         Dm</cifra><p>                      F                  Gm</p><cifra class=\"cifra\">        Bb</cifra><p>           A                   Dm</p><cifra class=\"cifra\"> </cifra><p>       Dm</p><cifra class=\"cifra\">                  F                     Gm</cifra><p>           Bb</p><cifra class=\"cifra\">              A                 Dm</cifra>"
+    },
+    {
+      "id": "2363",
+      "numero": 3,
+      "titulo": " A minha Mãe foi Quem me Mandou",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F",
+      "letraPura": "A minha mãe foi quem me mandou\nEu ensinar os meus irmãos\nAqueles que obedecer\n\nTodos que seguirem\nNesta linha da verdade\nTem um prêmio a receber\n\nOs que forem obedientes\nNão devem se julgar\nPor ver os outros sofrer\n\nQue eu ensino é pra seguir\nÉ para todos meus irmãos\nSaber se defender\n\nOs que quiserem seguir na linha\nEscutem o que eu digo\nMas não me façam pesquim\n\nSempre eu digo aos meus irmãos\nE os que prestam atenção\nSempre todos verão fim\n\nA minha mãe foi quem me mandou\nEu ensinar os meus irmãos\nPara todos ter lealdade\n\nTodos querem estar comigo\nE dizer que nós todos\nSomos filhos da verdade.",
+      "conteudoCifrado": "<cifra class=\"cifra\">                 F            C                  F</cifra><p>            Am                   Gm</p><cifra class=\"cifra\">         C7                   F</cifra><p> </p><cifra class=\"cifra\"> F                    Gm</cifra><p>           C               Am</p><cifra class=\"cifra\">                C                   F</cifra><p> </p><cifra class=\"cifra\">             F        C       F</cifra><p>        Am             Gm</p><cifra class=\"cifra\">            C7                  F</cifra><p> </p><cifra class=\"cifra\">                 F                  Gm</cifra><p>            C                    Am</p><cifra class=\"cifra\">      C                 F</cifra><p> </p><cifra class=\"cifra\">                  F         C            F</cifra><p>    Am                    Gm                </p><cifra class=\"cifra\">               C7                     F</cifra><p> </p><cifra class=\"cifra\">                    F                       Gm</cifra><p>                  C              Am</p><cifra class=\"cifra\">              C                  F</cifra><p> </p><cifra class=\"cifra\">                 F            C                  F</cifra><p>           Am                    Gm</p><cifra class=\"cifra\">             C7              F</cifra><p> </p><cifra class=\"cifra\">              F                    Gm</cifra><p>        C               Am</p><cifra class=\"cifra\">            C                  F</cifra>"
+    },
+    {
+      "id": "2364",
+      "numero": 4,
+      "titulo": " A Virgem Senhora Mãe",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F",
+      "letraPura": "A Virgem Senhora Mãe\nÉ quem me dá estes ensinos\nPara eu guiar os meus irmãos\nNo caminho que eu destino\n\nOh! meu Supremo Pai\nFoi quem me mandou aqui\nPara eu dar a santa luz\nPara quem quiser seguir\n\nTodos que aqui chegaram\nNenhum não tinha luz\nE eu ensinei para todos\nA doutrina de Jesus\n\nEu ensinei a todos\nPara todos bem seguir\nTrabalhar com perfeição\nE tratar de se unir",
+      "conteudoCifrado": "<cifra class=\"cifra\">         Gm</cifra><p>                   F</p><cifra class=\"cifra\">                Bb                    F</cifra><p> Dm    Gm           C7       F </p><cifra class=\"cifra\"> </cifra><p>   Gm</p><cifra class=\"cifra\">                 F</cifra><p>             Bb               F</p><cifra class=\"cifra\">Dm    Gm         C7       F </cifra><p> </p><cifra class=\"cifra\">          Gm</cifra><p>        F</p><cifra class=\"cifra\">           Bb             F</cifra><p>Dm    Gm   C7      F </p><cifra class=\"cifra\"> </cifra><p>     Gm</p><cifra class=\"cifra\">         F</cifra><p>         Bb                    F</p><cifra class=\"cifra\">Dm  Gm     C7    F </cifra>"
+    },
+    {
+      "id": "2365",
+      "numero": 5,
+      "titulo": " O Nosso Mestre nos Ensina",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "O nosso Mestre, ele nos ensina\nÉ para todos nós seguir e aprender\nEle tem força\nPara nos defender\n\nO vosso brilho é do amor\nQuem nos deu esta luz\nFoi Jesus Cristo redentor\nEste tesouro é do nosso pai criador\n\nÉ do astral da onde vem\nTodos ensinos da Virgem Mãe senhora\nE nós seguindo com firmeza\nNós teremos a vitória.",
+      "conteudoCifrado": "<cifra class=\"cifra\">                A    E                   A</cifra><p>            Bm                E                A</p><cifra class=\"cifra\">             Bm</cifra><p>    E                   A</p><cifra class=\"cifra\"> </cifra><p>               A  E              A</p><cifra class=\"cifra\">                               Bm</cifra><p>                 E                 A</p><cifra class=\"cifra\">           Bm                  E               A</cifra><p> </p><cifra class=\"cifra\">           A   E              A</cifra><p>              Bm         E                        A</p><cifra class=\"cifra\">               Bm</cifra><p>           E               A</p>"
+    },
+    {
+      "id": "2366",
+      "numero": 6,
+      "titulo": " Meu Divino Pai Eterno",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Dm",
+      "letraPura": "Meu divino pai eterno\nVós é o criador\nVós nos dê vosso conforto\nPara nós todos ter amor\n\nA Rainha da Floresta\nVós sois mãe amorosa\nVós nos dê a santa luz\nE vós cobrir-nos de rosas\n\nJesus Cristo redentor\nO vosso filho onipotente\nQue sofreu nesta matéria\nE não perdeu a sua crença\n\nNa missão de Jesus Cristo\nEu vim para ensinar\nPara todos meus irmãos\nTrabalhar para se limpar\n\nNa altura que nós estamos\nNinguém deve duvidar\nCom firmeza e com amor\nTodos tem que acreditar\n\nPara seguir a verdade\nTodos têm que se humilhar\nPara seguir neste caminho\nE nós nesta casa chegar.",
+      "conteudoCifrado": "<cifra class=\"cifra\">         Dm            F</cifra><p>      Dm   A7  Dm</p><cifra class=\"cifra\">              C                  F </cifra><p>           Em7(b5)  A7    Dm</p><cifra class=\"cifra\"> </cifra><p>      Dm            F</p><cifra class=\"cifra\">       Dm         A7  Dm</cifra><p>              C               F </p><cifra class=\"cifra\">            Em7(b5)  A7      Dm</cifra><p> </p><cifra class=\"cifra\">         Dm                F</cifra><p>             Dm     A7   Dm</p><cifra class=\"cifra\">             C                  F </cifra><p>          Em7(b5)  A7   Dm</p><cifra class=\"cifra\"> </cifra><p>         Dm                   F</p><cifra class=\"cifra\">    Dm         A7     Dm</cifra><p>             C                  F </p><cifra class=\"cifra\">      Em7(b5)     A7    Dm</cifra><p> </p><cifra class=\"cifra\">         Dm                  F</cifra><p>               Dm   A7  Dm</p><cifra class=\"cifra\">              C                   F </cifra><p>        Em7(b5)   A7      Dm</p><cifra class=\"cifra\"> </cifra><p>        Dm              F</p><cifra class=\"cifra\">          Dm             A7     Dm</cifra><p>              C                  F </p><cifra class=\"cifra\">       Em7(b5)  A7       Dm</cifra>"
+    },
+    {
+      "id": "2367",
+      "numero": 7,
+      "titulo": " Aos Meus Irmãos Eu Digo",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Aos meus irmãos eu digo\nPara ter amor e alegria\nE limpar os corações\nPara nós unir um dia\n\nVamos todos meus irmãos\nSeguir com alegria\nVamos amar ao nosso pai\nE a sempre virgem Maria\n\nEsta verdade que eu trago\nÉ das alturas aonde me dão\nVamos todos trabalhar\nPara alcançar o nosso perdão\n\nVamos todos seguir\nE limpar os nossos corações\nPara nós irmos ao paraíso\nReceber a salvação\n\nA minha mãe é quem me manda\nEu dar a voz da união\nAqueles que não obedecer\nNão segue nesta missão\n\nAqueles que me ouvir\nE tratar de me acompanhar\nReceberá a eterna glória\nQuando um dia lá chegar",
+      "conteudoCifrado": "<cifra class=\"cifra\">         A          E          A</cifra><p>                F#m          E</p><cifra class=\"cifra\">         D              Bm</cifra><p>         E                  A</p><cifra class=\"cifra\"> </cifra><p>            A         E           A</p><cifra class=\"cifra\">      F#m             E</cifra><p>               D                  Bm</p><cifra class=\"cifra\">              E                    A</cifra><p> </p><cifra class=\"cifra\">         A      E              A</cifra><p>            F#m                   E</p><cifra class=\"cifra\">            D              Bm</cifra><p>                  E                      A</p><cifra class=\"cifra\"> </cifra><p>       A       E         A</p><cifra class=\"cifra\">                   F#m              E</cifra><p>               D                 Bm</p><cifra class=\"cifra\">         E                A</cifra><p> </p><cifra class=\"cifra\">                A        E              A</cifra><p>             F#m          E</p><cifra class=\"cifra\">                D                  Bm</cifra><p>             E                  A</p><cifra class=\"cifra\"> </cifra><p>         A         E       A</p><cifra class=\"cifra\">            F#m                    E</cifra><p>            D               Bm</p><cifra class=\"cifra\">                    E              A</cifra>"
+    },
+    {
+      "id": "2368",
+      "numero": 8,
+      "titulo": " A todos eu avisei",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "A todos eu avisei\nMas ninguém quis acreditar\nQuando chegar a disciplina\nNinguém tem que reclamar\n\nFoi minha mãe que me mandou\nPara mim vir ensinar\nTrazer a santa luz\nPara todos enxergar\n\nMas ninguém não quer prezar\nOs ensinos que eu dei\nQuando estiverem chorando\nNão digam que eu enganei.",
+      "conteudoCifrado": "<cifra class=\"cifra\">   A            E    A</cifra><p>                      F#m</p><cifra class=\"cifra\">                                    </cifra><p>                 E                     A</p><cifra class=\"cifra\"> </cifra><p>                  A            E          A</p><cifra class=\"cifra\">        F#m</cifra><p>                        </p><cifra class=\"cifra\">         E                A</cifra><p> </p><cifra class=\"cifra\">               A             E          A</cifra><p>        F#m</p><cifra class=\"cifra\">                                   </cifra><p>            E                    A</p>"
+    },
+    {
+      "id": "2369",
+      "numero": 9,
+      "titulo": " A Virgem me mandou eu ensinar",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "A virgem me mandou eu ensinar\nTrazer todos estes primores\nEnsino aos meus irmãos\nPara todos seguir com amor\n\nEu estou amostrando a verdade\nÉ para todos enxergar o poder\nTrabalhar no pensamento\nPara poder compreender\n\nQue é preciso trabalhar com firmeza\nPara seguir a verdade\nSeguir os trilhos direito\nDeixar os caminhos errados\n\nEsta verdade é divina\nE eu não trago ninguém enganado\nE dentro da pureza divina\nNão pode haver falsidade",
+      "conteudoCifrado": "<cifra class=\"cifra\">     D                       A               D</cifra><p>     D7                           G</p><cifra class=\"cifra\">     Gm                     F#m</cifra><p>        Em            A7            D    </p><cifra class=\"cifra\"> </cifra><p>          D            A                D</p><cifra class=\"cifra\">            D7                            G</cifra><p>     Gm                    F#m</p><cifra class=\"cifra\"> Em        A7                  D</cifra><p> </p><cifra class=\"cifra\">                D               A                D</cifra><p> D7                        G</p><cifra class=\"cifra\">      Gm                  F#m</cifra><p>     Em           A7            D    </p><cifra class=\"cifra\"> </cifra><p> D          A             D</p><cifra class=\"cifra\">                D7                           G</cifra><p>    Gm                       F#m</p><cifra class=\"cifra\">        Em       A7          D</cifra>"
+    },
+    {
+      "id": "2370",
+      "numero": 10,
+      "titulo": " Meu Mestre a Vós eu peço",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "C",
+      "letraPura": "Meu mestre a vós eu peço\nQue vós me abra o caminho\nE não me falte com a vossa santa luz\nVós me defenda de toda esta ilusão\nPara eu seguir no caminho da salvação\n\nTodos me diz que querem\nBem seguir nesta missão\nMas ninguém nunca que ligou as instruções\nHá tantos anos que eu ensino esta doutrina\nMas ninguém quer acreditar na mãe divina\n\nTodo mundo acha difícil\nSeguir nesta ciência\nPorque precisa existir a consciência\nE ninguém quer olhar para os seus irmãos\nTodos querem só para si e os outros não.",
+      "conteudoCifrado": "<cifra class=\"cifra\">           C</cifra><p>              C7                  F</p><cifra class=\"cifra\">                 G                                   C</cifra><p>                 C                   A7        Dm  </p><cifra class=\"cifra\">                   G                                   C</cifra><p> </p><cifra class=\"cifra\">     C</cifra><p>              C7                  F</p><cifra class=\"cifra\">                       G                                      C</cifra><p>                 C                    A7                 Dm  </p><cifra class=\"cifra\">                        G                                   C</cifra><p> </p><cifra class=\"cifra\">          C</cifra><p>      C7              F</p><cifra class=\"cifra\">                  G                            C</cifra><p>                  C               A7                    Dm  </p><cifra class=\"cifra\">            G                                            C</cifra>"
+    },
+    {
+      "id": "2371",
+      "numero": 11,
+      "titulo": " Eu ensino para todos seguir",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Valsa",
+      "posicao": "DE PÉ",
+      "tomOriginal": "A",
+      "letraPura": "Eu ensino para todos seguir\nMas não querem acreditar\nQue eu vim para este mundo\nPara remir e salvar\n\nA minha mãe me mandou\nEu vir para esta missão\nMe deu conforto e poder\nPara eu ensinar os meus irmãos\n\nAs estrelas que meu pai me dá\nSão forças divina e poder\nAqueles que me ouvirem\nSempre feliz hão de ser\n\nEu sigo com toda firmeza\nCom firmeza me acompanha\nQue no castelo divino\nEu hei de entrar com meu rebanho",
+      "conteudoCifrado": "<cifra class=\"cifra\">          A             E              A</cifra><p>                          F#m    Bm</p><cifra class=\"cifra\">             D       Bm         A</cifra><p>     E       E7         A</p><cifra class=\"cifra\"> </cifra><p>     A         E                  A</p><cifra class=\"cifra\">                  F#m     Bm</cifra><p>       D        Bm            A</p><cifra class=\"cifra\">             E      E7                     A</cifra><p> </p><cifra class=\"cifra\">          A               E                A</cifra><p>                     F#m         Bm</p><cifra class=\"cifra\">       D       Bm           A</cifra><p>         E     E7              A</p><cifra class=\"cifra\"> </cifra><p>     A             E            A</p><cifra class=\"cifra\">                    F#m        Bm</cifra><p>        D       Bm      A</p><cifra class=\"cifra\">            E             E7               A</cifra>"
+    },
+    {
+      "id": "2372",
+      "numero": 12,
+      "titulo": " Siris Midã",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Bb",
+      "letraPura": "Siris Midã\nÉ meu nome aqui\nEu vou dizer o meu nome\nÉ Taio Siris Midã\n\nFoi meu mestre quem me deu\nEste prêmio de valor\nPara mim estimar\nE gravar este amor\n\nConfio em Deus\nQue em mim está firmado\nSerá a minha guia\nAté na eternidade",
+      "conteudoCifrado": "<cifra class=\"cifra\"> Gm       </cifra><p>            Bb       Gm</p><cifra class=\"cifra\">                F</cifra><p>            Gm      Bb</p><cifra class=\"cifra\"> </cifra><p>               Gm       </p><cifra class=\"cifra\">          Bb             Gm</cifra><p>           F</p><cifra class=\"cifra\">       Gm            Bb</cifra><p> </p><cifra class=\"cifra\">    Gm       </cifra><p>               Bb              Gm</p><cifra class=\"cifra\">     F</cifra><p>       Gm         Bb</p>"
+    },
+    {
+      "id": "2373",
+      "numero": 13,
+      "titulo": " É preciso todos nós Trabalhar",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "F",
+      "letraPura": "É preciso todos nós trabalhar\nE é preciso todos nós se firmar\nLevantar a Bandeira de Paz\nPara nós irmos ao reino celestial\n\nO escudo nós temos na mão\nA firmeza é no coração\nPara nós sermos feliz eternamente\nÉ preciso se tratar da união\n\nDa união é que nasce a força\nE da força o vigor do amor\nVamos dar gosto a quem nos ensina\nNa missão do divino salvador.",
+      "conteudoCifrado": "<cifra class=\"cifra\">          F                             C</cifra><p>         Am             C             F</p><cifra class=\"cifra\">         F                          Bb</cifra><p>              C                              F</p><cifra class=\"cifra\"> </cifra><p>         F                             C</p><cifra class=\"cifra\">       Am       C           F</cifra><p>                F                            Bb</p><cifra class=\"cifra\">        C                              F</cifra><p> </p><cifra class=\"cifra\">           F                         C</cifra><p>        Am           C            F</p><cifra class=\"cifra\">                   F                             Bb</cifra><p>            C                           F</p>"
+    },
+    {
+      "id": "2374",
+      "numero": 14,
+      "titulo": " Meu Divino Pai Eterno",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "Am",
+      "letraPura": "Meu divino pai eterno\nSoberano, onipotente\nVós me dê vosso conforto\nPara eu firmar esta crença\n\nPeço que vós me ajude\nE me dê firmeza e amor\nPara eu seguir neste caminho\nDe Jesus Cristo redentor\n\nE escutar a quem me ensina\nPara seguir nesta doutrina\nPara eu ser eternamente\nUma filha da mãe divina\n\nEu convido os meus irmãos\nPara seguir com lealdade\nPara nós todos se firmar\nAqui dentro da verdade.\n\nVamos todos se firmar\nE trabalhar com perfeição\nPara nós todos festejar\nA senhora da Conceição",
+      "conteudoCifrado": "<cifra class=\"cifra\">          Am     E     Am</cifra><p>       Am       A7   Dm</p><cifra class=\"cifra\">            Dm                Am</cifra><p>        Bm7(b5)  E7      Am</p><cifra class=\"cifra\"> </cifra><p>         Am         E     Am</p><cifra class=\"cifra\">              Am   A7      Dm</cifra><p>                 Dm                Am</p><cifra class=\"cifra\">          Bm7(b5)  E7      Am</cifra><p> </p><cifra class=\"cifra\">       Am       E             Am</cifra><p>            Am      A7       Dm</p><cifra class=\"cifra\">             Dm             Am</cifra><p>        Bm7(b5) E7      Am</p><cifra class=\"cifra\"> </cifra><p>          Am          E         Am</p><cifra class=\"cifra\">            Am         A7   Dm</cifra><p>              Dm               Am</p><cifra class=\"cifra\">     Bm7(b5)  E7      Am</cifra><p> </p><cifra class=\"cifra\">           Am     E       Am</cifra><p>           Am           A7    Dm</p><cifra class=\"cifra\">              Dm             Am</cifra><p>     Bm7(b5)   E7      Am</p>"
+    },
+    {
+      "id": "2375",
+      "numero": 15,
+      "titulo": " Eu Digo Aos Meus Irmãos",
+      "autor": "Percília Matos da Silva",
+      "ritmo": "Marcha",
+      "posicao": "DE PÉ",
+      "tomOriginal": "D",
+      "letraPura": "Eu digo aos meus irmãos\nOs que quiserem me ouvir\nPara seguir neste caminho\nÉ preciso se unir\n\nNinguém queira ser grande\nTodos se façam pequenos\nCom a disciplina que vem\nO mundo está escurecendo\n\nMeu pai e minha mãe\nA vós eu peço o meu perdão\nVós clareia a minha luz\nPara eu seguir nesta missão\n\nSeguir nesta missão\nJunto com os meus irmãos\nE perante a meu pai\nChegar com o meu batalhão\n\nDentro deste batalhão\nSó fica quem tiver amor\nE respeitar esta verdade\nDe Jesus Cristo redentor.",
+      "conteudoCifrado": "<cifra class=\"cifra\">                                 D</cifra><p>               A                    D</p><cifra class=\"cifra\">              D7                 G</cifra><p>     (F#m) [A]   D</p><cifra class=\"cifra\"> </cifra><p>                                   D</p><cifra class=\"cifra\">           A                   D</cifra><p>                D7               G</p><cifra class=\"cifra\">              (F#m) [A]      D</cifra><p> </p><cifra class=\"cifra\">                              D</cifra><p>                A                      D</p><cifra class=\"cifra\">            D7                 G</cifra><p>                (F#m) [A]         D</p><cifra class=\"cifra\"> </cifra><p>                            D</p><cifra class=\"cifra\">            A                       D</cifra><p>       D7                 G</p><cifra class=\"cifra\">            (F#m) [A]            D</cifra><p> </p><cifra class=\"cifra\">                               D</cifra><p>                A                 D</p><cifra class=\"cifra\">             D7               G</cifra><p>               (F#m) [A]      D</p>"
+    }
+  ]
+}

@@ -15,6 +15,7 @@ export default function HomePage() {
     null
   );
   const [isSearching, setIsSearching] = useState(false);
+  const [currentFilters, setCurrentFilters] = useState<SearchFilters>({});
 
   // Load hinários and authors on mount
   useEffect(() => {
@@ -31,6 +32,9 @@ export default function HomePage() {
 
   // Handle search
   const handleSearch = async (query: string, filters: SearchFilters) => {
+    // Update current filters for hinarios list filtering
+    setCurrentFilters(filters);
+
     if (!query || query.trim().length === 0) {
       setSearchResults(null);
       return;
@@ -62,6 +66,18 @@ export default function HomePage() {
       setIsSearching(false);
     }
   };
+
+  // Filter hinarios based on current filters
+  const filteredHinarios = hinarios.filter((hinario) => {
+    if (currentFilters.hinarioId && hinario.id !== currentFilters.hinarioId) {
+      return false;
+    }
+    if (currentFilters.autor && hinario.autor !== currentFilters.autor) {
+      return false;
+    }
+    // Note: ritmo filter only applies to hinos, not hinarios
+    return true;
+  });
 
   return (
     <div className="min-h-screen">
@@ -116,12 +132,12 @@ export default function HomePage() {
             Hinários Disponíveis
           </h2>
           <p className="text-center text-dark-muted mb-8">
-            {hinarios.length} hinários •{" "}
-            {hinarios.reduce((sum, h) => sum + (h.total_hinos || 0), 0)} hinos
+            {filteredHinarios.length} hinários •{" "}
+            {filteredHinarios.reduce((sum, h) => sum + (h.total_hinos || 0), 0)} hinos
             disponíveis
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            {hinarios.map((hinario) => (
+            {filteredHinarios.map((hinario) => (
               <Link
                 key={hinario.id}
                 href={`/hinario/${hinario.slug}`}

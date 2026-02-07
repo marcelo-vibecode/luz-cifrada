@@ -11,6 +11,7 @@ interface ChordViewerProps {
   numero: number;
   ritmo: string;
   posicao?: string;
+  letraPura?: string;
 }
 
 interface ParsedLine {
@@ -28,51 +29,72 @@ export function ChordViewer({
   numero,
   ritmo,
   posicao,
+  letraPura,
 }: ChordViewerProps) {
   const [currentKey, setCurrentKey] = useState(tomOriginal);
   const [semitoneOffset, setSemitoneOffset] = useState(0);
   const [hoveredChord, setHoveredChord] = useState<string | null>(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
 
-  // Parse HTML content into structured lines
+  // Parse HTML content into structured lines, merging with letraPura
   const parsedLines = useMemo((): ParsedLine[] => {
     const lines: ParsedLine[] = [];
 
-    // Match cifra tags and p tags in order
+    // Both <cifra> and <p> tags contain chord lines in the scraped data.
+    // The actual lyrics come from letraPura.
     const regex = /<cifra[^>]*>([\s\S]*?)<\/cifra>|<p>([\s\S]*?)<\/p>/gi;
     let match;
 
+    // Collect all chord entries in order
+    const chordEntries: { content: string; isBreak: boolean }[] = [];
     while ((match = regex.exec(conteudo)) !== null) {
-      if (match[1] !== undefined) {
-        // Cifra content - convert &nbsp; to regular spaces for perfect monospace alignment
-        let chordContent = match[1]
-          .replace(/&nbsp;/g, " ") // Convert to regular spaces - monospace will handle alignment
-          .replace(/<br\s*\/?>/gi, "")
-          .trim();
+      const raw = (match[1] !== undefined ? match[1] : match[2]) || "";
+      const cleaned = raw
+        .replace(/&nbsp;/g, " ")
+        .replace(/<br\s*\/?>/gi, "")
+        .trim();
+      chordEntries.push({ content: cleaned, isBreak: cleaned === "" });
+    }
 
-        // Apply transposition if needed
+    // Split letraPura into lyric lines (non-empty) and track stanza breaks
+    const lyricLines: string[] = [];
+    if (letraPura) {
+      for (const line of letraPura.split("\n")) {
+        lyricLines.push(line.trimEnd());
+      }
+    }
+
+    // Remove trailing empty lines from lyricLines
+    while (lyricLines.length > 0 && lyricLines[lyricLines.length - 1] === "") {
+      lyricLines.pop();
+    }
+
+    // Build output by matching non-break chord lines with lyric lines
+    let lyricIndex = 0;
+    for (const entry of chordEntries) {
+      if (entry.isBreak) {
+        lines.push({ type: "break", content: "" });
+        // Skip empty lines in letraPura to stay in sync
+        while (lyricIndex < lyricLines.length && lyricLines[lyricIndex] === "") {
+          lyricIndex++;
+        }
+      } else {
+        let chordContent = entry.content;
         if (semitoneOffset !== 0) {
           chordContent = transposeLine(chordContent, semitoneOffset);
         }
-
         lines.push({ type: "chord", content: chordContent });
-      } else if (match[2] !== undefined) {
-        // Paragraph content - preserve spaces
-        const lyricContent = match[2]
-          .replace(/&nbsp;/g, " ") // Convert to regular spaces
-          .replace(/<br\s*\/?>/gi, "")
-          .trim();
 
-        if (lyricContent === "" || lyricContent === "<br>") {
-          lines.push({ type: "break", content: "" });
-        } else {
-          lines.push({ type: "lyric", content: lyricContent });
+        // Add the corresponding lyric line
+        if (lyricIndex < lyricLines.length && lyricLines[lyricIndex] !== "") {
+          lines.push({ type: "lyric", content: lyricLines[lyricIndex] });
+          lyricIndex++;
         }
       }
     }
 
     return lines;
-  }, [conteudo, semitoneOffset]);
+  }, [conteudo, semitoneOffset, letraPura]);
 
   // Handle transposition
   const handleTranspose = (direction: 1 | -1) => {

@@ -223,6 +223,7 @@ export default async function HinarioPage({ params }: HinarioPageProps) {
                   numero={hino.numero}
                   ritmo={hino.ritmo}
                   posicao={hino.posicao}
+                  letraPura={hino.letra_pura}
                 />
               </article>
             );

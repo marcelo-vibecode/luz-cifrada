@@ -52,7 +52,8 @@ CREATE TABLE IF NOT EXISTS cifras (
   tom_original VARCHAR(10) NOT NULL,
   conteudo_cifrado TEXT NOT NULL,
   is_approved BOOLEAN DEFAULT false,
-  created_at TIMESTAMPTZ DEFAULT NOW()
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  UNIQUE(hino_id, tom_original)
 );
 
 -- Index for hino lookups
@@ -97,7 +98,7 @@ CREATE POLICY "Cifras are viewable by everyone"
 
 CREATE POLICY "Users can insert their own cifras"
   ON cifras FOR INSERT
-  WITH CHECK (auth.uid() = user_id);
+  WITH CHECK (auth.uid() = user_id OR user_id IS NULL);
 
 CREATE POLICY "Users can update their own cifras"
   ON cifras FOR UPDATE
